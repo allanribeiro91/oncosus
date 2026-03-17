@@ -1,0 +1,1265 @@
+SECRETARIA DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E COMPLEXO DA SAÚDE 
+Aprova as Diretrizes Diagnósticas e Terapêuticas do Mieloma 
+O SECRETÁRIO DE ATENÇÃO ESPECIALIZADA À SAÚDE e o SECRETÁRIO DE CIÊNCIA, TECNOLOGIA, 
+INOVAÇÃO E COMPLEXO DA SAÚDE, no uso das atribuições, 
+Considerando a necessidade de se atualizarem os parâmetros sobre o Mieloma Múltiplo no Brasil e de diretrizes nacionais para diagnóstico, tratamento e acompanhamento dos indivíduos com esta doença; 
+Considerando que os protocolos clínicos e diretrizes terapêuticas são resultado de consenso técnico-científico e são formulados dentro de rigorosos parâmetros de qualidade e precisão de indicação; 
+Considerando o Registro de Deliberação nº 759/2022 e o Relatório de Recomendação nº762 – Agosto de 2022 da 
+Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC), a atualização da busca e avaliação da literatura; e 
+Considerando a avaliação técnica do Departamento de Gestão de Incorporação de Tecnologias em Saúde 
+(DGITS/SECTICS/MS), do Departamento de Atenção Especializada e Temática (DAET/SAES/MS) e do Instituto Nacional de 
+Art. 1º Ficam aprovadas as Diretrizes Diagnósticas e Terapêuticas do Mieloma Múltiplo. 
+Parágrafo único. As Diretrizes objeto deste artigo, que contêm o conceito geral do Mieloma Múltiplo, critérios de diagnóstico, tratamento e mecanismos de regulação, controle e avaliação, disponíveis no sítio https://www.gov.br/saude/ptbr/assuntos/protocolos-clinicos-e-diretrizes-terapeuticas-pcdt, são de caráter nacional e devem ser utilizadas pelas Secretarias de 
+Saúde dos Estados, do Distrito Federal e dos Municípios na regulação do acesso assistencial, autorização, registro e ressarcimento dos procedimentos correspondentes. 
+Art. 2º É obrigatória a cientificação do paciente, ou de seu responsável legal, dos potenciais riscos e efeitos colaterais 
+(efeitos ou eventos adversos) relacionados ao uso de procedimento ou medicamento preconizados para o tratamento do Mieloma 
+Art. 3º Os gestores estaduais, distrital e municipais do SUS, conforme a sua competência e pactuações, deverão estruturar a rede assistencial, definir os serviços referenciais e estabelecer os fluxos para o atendimento dos indivíduos com essa doença de 07 de agosto de 2015, seção 1, página 38. 
+HELVÉCIO MIRANDA MAGALHÃES JÚNIOR 
+CARLOS AUGUSTO GRABOIS GADELHA 
+DIRETRIZES DIAGNÓSTICAS E TERAPÊUTICAS 
+O mieloma múltiplo (MM) é uma neoplasia maligna de plasmócitos provenientes da medula óssea que, de acordo com a 
+Agência Internacional para Pesquisa em Câncer da Organização Mundial de Saúde (OMS), em 2020, foi responsável por 176.404 novos casos e 117.077 óbitos. A incidência mundial, neste mesmo ano, foi de 1,8 casos/100 mil habitantes com taxa de mortalidade mundial de 1,1 óbitos/100 mil habitantes. Na América do Sul, a incidência foi de 2,0 casos/100 mil habitantes e a taxa de mortalidade foi de 1,5 óbitos a cada 100 mil habitantes1. No Brasil, dados do Painel Oncologia Brasil2 mostram que, entre 2013 e 2019, foram diagnosticados cerca de 2.600 casos de MM, anualmente, estimando-se 1,24 casos/100 mil habitantes2. 
+Os principais fatores de risco para MM são idade, sexo masculino, etnia e histórico familiar. Em relação à idade, apenas 
+15% dos diagnósticos são realizados em pessoas com menos de 55 anos, enquanto mais de 60% dos diagnósticos acontecem em adultos com mais de 65 anos. A incidência de MM é 1,5 vezes maior em homens do que em mulheres; 2 vezes maior em pessoas afro-americanas do que em caucasianas, enquanto asiáticos e nascidos nas ilhas do Pacífico Sul apresentam riscos menores. 
+Também existe forte associação de risco entre parentes de primeiro grau, especialmente em homens e afro-americanos3,4. No 
+Brasil, dados do Observatório de Oncologia apontam uma mediana de idade destes pacientes de 63 anos, com variação de 18 a 
+Algumas condições clínicas também estão associadas ao maior risco de desenvolver MM, tais como a gamopatia monoclonal de significado indeterminado (GMSI), o plasmocitoma solitário e o MM latente. Indivíduos com GMSI, com mais de 1,5 g/dL de proteína M e razão alterada de dosagem de cadeias kappa/lambda leves livres séricas, apresentam risco aumentado entre 20% e 30% de desenvolverem MM ativo em 20 anos6,7. O plasmocitoma solitário, em especial o plasmocitoma ósseo, apresenta risco maior que o plasmocitoma extramedular na evolução para o MM (35% e 7%, respectivamente, em dois anos)7. 
+Já o MM latente apresenta um risco de progressão entre 70% e 80% em dois anos, com taxas decrescentes em função do tempo7. 
+O MM é classicamente descrito como síndrome “CRAB”, acrônimo, do inglês, que resume as principais manifestações clínicas da doença: hipercalcemia (Calcium elevation), insuficiência renal (Renal failure), anemia (Anemia) e doença óssea 
+(Bone disease). A doença é caracterizada pela proliferação descontrolada de plasmócitos, que pode causar sinais e sintomas localizados, de acordo com o sítio de proliferação (principalmente ossos), e sistêmicos, que ocorrem pelo excesso dessas células na corrente sanguínea. Cerca de 73% dos pacientes apresentam anemia ao diagnóstico, que está associada à fadiga em 32% dos casos. Outras manifestações observadas são dores ósseas (58%), perda de peso (28%), parestesia (5%) e febre (0,7%)8. 
+Por apresentar grande carga de sintomas, o MM pode comprometer a qualidade de vida e a capacidade funcional dos pacientes, desde os estágios iniciais da doença, até os mais avançados. Os pacientes relatam alterações em todos os domínios relacionados à qualidade de vida, como aspectos emocionais, capacidade física (mobilidade, lazer, passatempo e atividade sexual), aspectos cognitivos e sociais (rede de apoio familiar; institucional e financeiro)9,10. As principais queixas físicas incluem formigamento nas mãos e nos pés, dores osteomusculares e tontura10, além de ansiedade, depressão e fadiga que requerem atenção dos profissionais de saúde11. 
+A atenção à saúde do paciente com MM no Sistema Único de Saúde (SUS) envolve diferentes níveis de complexidade, desde a identificação precoce de sinais e sintomas que levam à suspeita clínica, preferencialmente na Atenção Primária, até a confirmação diagnóstica em um centro de referência em oncologia, acompanhada do planejamento do tratamento12. De acordo com a Política Nacional para a Prevenção e Controle do Câncer na Rede de Atenção à Saúde das Pessoas com Doenças Crônicas no âmbito do SUS13, a atenção ao paciente oncológico, incluindo os pacientes com MM, deve ser realizada de forma multiprofissional e envolve diferentes especialidades como ortopedia, fisiatria, nefrologia, enfermagem, odontologia, psicologia, fisioterapia, cuidados paliativos, radiologia, além de serviços de procedimentos diagnósticos especializados. 
+A apresentação clínica inicial do paciente com MM pode variar, cabendo aos profissionais da Atenção Primária o encaminhamento à Unidade de Assistência de Alta Complexidade em Oncologia (UNACON) ou ao Centro de Assistência de 
+Alta Complexidade em Oncologia (CACON) a partir das características epidemiológicas, da avaliação clínica e dos exames complementares13. Em alguns casos, pacientes com sintomas agudos ou subagudos podem procurar a Rede de Urgência e 
+Emergência, principalmente por fraturas, dores osteomusculares, infecções, fraqueza e perda de peso14. Diante da suspeita clínica, estes pacientes devem ter seu referenciamento assegurado e, se necessário, serem transferidos ao hospital geral de 
+O fluxo de atendimento e encaminhamento do paciente com suspeita de MM pode variar nas diversas regiões do país, de acordo com suas especificidades regionais e dimensionamento das ofertas de serviços em saúde, a fim de otimizar tanto a celeridade do encaminhamento quanto a utilização dos recursos disponíveis15. O painel mínimo sugerido, visando sensibilidade e celeridade do processo de referenciamento, inclui hemograma e eletroforese de proteínas, a fim de documentar os sinais de anemia e pico monoclonal16. 
+A identificação de fatores de risco e da doença em seu estágio inicial e o encaminhamento ágil e adequado para o atendimento especializado dão à Atenção Primária um caráter essencial para um melhor resultado terapêutico e prognóstico dos casos. Estas Diretrizes visam a estabelecer os critérios diagnósticos e terapêuticos do Mieloma Múltiplo, com o objetivo de orientar o que é válido e não válido técnico-cientificamente, com base em evidências que garantam a segurança, a efetividade e a reprodutibilidade, para orientar condutas e protocolos assistenciais. A metodologia de busca e avaliação das evidências estão detalhadas no Apêndice 1. 
+CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À 
+A avaliação do paciente com suspeita de MM inclui a história clínica completa com investigação dos sintomas iniciais, os quais dependem das lesões de órgãos-alvo. Dor óssea (doença óssea), anemia, infecções (disfunção leucocitária) e alteração da função renal são sinais e sintomas comuns. Ainda, sintomas constitucionais e neurológicos também devem ser investigados12. 
+A doença óssea pode se apresentar como dores osteomusculares, fraturas de fragilidade e sintomas neurológicos por lesões vertebrais. A alteração da função renal, causada pelo excesso de proteína-M e pela hipercalcemia, pode ocasionar oligúria e outros sintomas inespecíficos como náusea, fraqueza e sonolência. A disfunção de linfócitos B pode cursar com quadros infecciosos recorrentes. Já a síndrome de hiperviscosidade pode provocar sintomas relacionados à diminuição do fluxo sanguíneo para o sistema nervoso central e eventos tromboembólicos com consequentes tontura, confusão mental, ou sintomas específicos relacionados a um possível acidente vascular cerebral19. 
+A história clínica deve incluir antecedentes como infecção, doença crônica, exposição a substâncias carcinogênicas 
+(solventes, herbicidas, inseticidas) e radiação, bem como imunossupressão e histórico familiar de MM12. 
+Os achados de exame físico no MM são inespecíficos e se relacionam também à lesão de órgão alvo. Sinais como palidez cutânea e taquicardia podem ser provenientes da anemia. A doença óssea pode cursar com alterações musculoesqueléticas, dificuldades na marcha, alteração da mobilidade e sinais de fratura. A avaliação neurológica permite identificar lesão vertebral acometendo o sistema nervoso periférico motor, sensorial ou central. Outros achados incluem hepatomegalia, esplenomegalia e linfonodomegalia8. Escores como International Myeloma Working Group (IMWG) e o modelo Fried para avaliação de fragilidade20, podem ser utilizados para mensurar a fragilidade clínica. 
+Diagnóstico laboratorial, citogenético e radiológico 
+A investigação inicial de pacientes com suspeita de MM inclui exames de sangue, urina, aspirado de medula óssea e de imagem, com objetivo de identificar lesões de órgão-alvo (hipercalcemia, anemia, insuficiência renal e lesões ósseas), presença de proteína monoclonal tumoral (sérica e urinária) e infiltração plasmocitária na medula-óssea12,21. A triagem inicial dos pacientes deve considerar o hemograma completo (contagem celular e esfregaço), níveis séricos de ureia e creatinina, cálcio, eletroforese e imunofixação de proteínas séricas e urinárias, dosagem sérica de imunoglobulinas (IgA, IgM, IgG e IgE), dosagem de cadeias leves (kappa e lambda) livres, albumina e desidrogenase láctica (DHL)12,21. 
+Se a suspeita diagnóstica de MM for apoiada pela investigação inicial, devem ser realizados exames complementares, que incluem: beta-2 microglobulina, proteína C reativa (PCR), velocidade de hemossedimentação (VHS), eletroforese de proteínas e imunofixação na urina de 24 horas (se não realizada na investigação inicial), proteinúria de 24h, mielograma, biópsia de medula 
+óssea e imunofenotipagem (citogenética convencional ou, preferencialmente, teste citogenético por Hibridização in Situ por 
+Fluorescência - FISH) no aspirado da medula óssea. 
+A avaliação citogenética é obrigatória para o diagnóstico. A técnica FISH está disponível para identificação das alterações moleculares e avaliação do prognóstico dos pacientes com MM recém-diagnosticado. O painel mínimo de investigação permite avaliar a presença de alterações moleculares de importância prognóstica como t(4;14), del17p13, t(14;16) e, quando disponível, deve-se realizar o painel ampliado para identificação das alterações de amplificação do 1q, t(11;14). 
+Na confirmação do diagnóstico do MM, exames adicionais devem ser realizados para auxiliar o planejamento terapêutico. 
+Estes exames incluem tempo de protrombina (TP) e tempo de tromboplastina parcial ativada (TTPa), fibrinogênio, d-dímero, bilirrubina total (BT) e frações, fosfatase alcalina, aminotransferases/transaminases, gama-glutamil transferase, ácido úrico e glicemia12. Se o nível de proteína-M estiver elevado (maior que 5 g/dL) ou o paciente apresentar sintomas sugestivos de hiperviscosidade, recomenda-se a dosagem da viscosidade sérica. Quando a dosagem da viscosidade sérica não estiver disponível, deve-se realizar o exame do fundo do olho simples ou retinografia fluorescente, por ser um método diagnóstico sensível para hiperviscosidade com repercussão clínica quando hemorragias retinianas, papiledema, distensão e dilatação de vasos (forma de salsicha) são detectados22. A avaliação laboratorial renal e hepática são necessárias para ajuste das doses de medicamentos e controle dos eventos adversos do tratamento12. 
+Ao diagnóstico, a avaliação esquelética é obrigatória para o estadiamento do MM e deve ser repetida quando houver suspeita de progressão da doença. Os exames recomendados incluem ressonância nuclear magnética (RNM) e tomografia computadorizada (TC) de baixa dose de corpo inteiro23. A TC deve incluir avaliação do tórax, coluna, pelve e outras áreas esqueléticas relacionadas àquelas em que o paciente apresenta sintomas e a RNM de corpo inteiro é obrigatória no caso da TC de corpo inteiro negativa21. 
+Na suspeita de recidiva, recomenda-se repetir os exames laboratoriais iniciais incluindo hemograma completo (contagem celular e esfregaço), níveis séricos de ureia e creatinina, cálcio, eletroforese e imunofixação de proteínas séricas e urinárias, dosagem sérica de imunoglobulinas (IgA, IgM, IgG e IgE), dosagem de cadeias kappa/lambda leves livres séricas monoclonais, albumina e desidrogenase láctica (DHL)21. O mielograma é opcional, entretanto, recomenda-se a avaliação citogenética por FISH para investigação das alterações moleculares. A TC de corpo inteiro é recomendada para avaliação dos pacientes com suspeita de 
+A atualização dos critérios diagnósticos publicados em 2014 pela IMWG (International Myeloma Working Group) incluiu, além das lesões de órgão alvo classicamente utilizadas (CRAB), três biomarcadores de malignidade (aspirado de medula 
+óssea, cadeias leves livres e lesões focais à ressonância magnética) que são avaliados a partir da biópsia de medula óssea, dosagem de cadeias kappa/lambda leves livres séricas e lesões focais. O acréscimo destes três eventos definidores de doença aumenta a sensibilidade do diagnóstico e possibilita a identificação precoce e o início oportuno do tratamento, antes que lesões de órgão alvo potencialmente graves se estabeleçam24. De acordo com a nova classificação, o diagnóstico do MM será confirmado com a presença de lesão de órgão alvo conforme critérios CRAB ou pela presença de, pelo menos, um evento definidor de doença24 (Quadro 1). 
+Quadro 1 - Critérios diagnósticos para mieloma múltiplo. 
+Nível de cálcio sérico 0,25 mmol/L (1 mg/dL) ou mais acima do limite superior de normalidade ou maior que 2,75 mmol/L (11 mg/dL). 
+Clearance de creatinina menor que 40 mL/min ou creatinina sérica maior que 177 
+Nível de hemoglobina 2 g/dL ou mais abaixo do limite da normalidade ou hemoglobina 
+Uma ou mais lesões osteolíticas à radiografia óssea, TC ou PET/CT*. 
+Presença de 60% ou mais de células clonais na avaliação medular. 
+Razão entre níveis séricos de cadeias leves envolvidas e não envolvidas maior ou igual a 100, desde que o nível sérico de cadeias leves envolvidas seja de, pelo menos, 100 
+Lesões focais à ressonância 
+Mais de uma lesão focal à RNM de, pelo menos, 5 mm de tamanho. 
+Nota: *Na presença de menos de 10% de células plasmáticas clonais em medula óssea, são necessárias duas lesões para o diagnóstico diferencial com plasmocitoma solitário com acometimento medular mínimo. 
+Legenda: CRAB - hipercalcemia, insuficiência renal, anemia e doença óssea. 
+Estratificação de risco e estadiamento 
+O estadiamento e a estratificação do risco prognóstico dos pacientes com MM podem ser realizados por meio da versão revisada do Sistema de Estadiamento Internacional Revisado (R-ISS). Os pacientes são classificados, de acordo com alterações específicas encontradas no teste de hibridização in situ por fluorescência (FISH), como alto risco, risco padrão e baixo risco25. 
+A R-ISS destaca três alterações genéticas das células neoplásicas - t(4;14), t(14;16) e deleção 17p13 - que cursam com pior sobrevida global em cinco anos e pior sobrevida livre de progressão26,27. As menores taxas de sobrevida associadas ao alto risco citogenético tem gerado esforços para identificação de tratamentos e associações de medicamentos que possam melhorar o prognóstico destes pacientes27,28. 
+Pacientes classificados como alto risco têm sobrevida global de 24,5 meses versus 50,5 meses para pacientes com risco padrão. As informações citogenéticas podem ainda ser utilizadas na tomada de decisão sobre início do tratamento, momento do transplante e esquema terapêutico a ser utilizado8,25 (Quadro 2). 
+Quadro 2 - Estratificação de risco prognóstico, conforme o Estadiamento Internacional Revisado para pacientes com mieloma múltiplo e relação com sobrevida global em cinco anos e sobrevida livre de progressão. 
+Sobrevida global estimada 
+β2 -microglobulina <3,5mg/L 
+Ausência de marcadores citogenéticos 
+Sem critérios de estágio I ou III 
+β2 -microglobulina ≥5,5mg/L 
+Presença de t(4;14), t(14;16) ou del17p13 
+LDH acima do limite superior 
+Legenda: LDH – Lactato desidrogenase. Fonte: Adaptado de Palumbo et al. 2015. 
+Por ser uma doença proliferativa de plasmócitos, o diagnóstico diferencial do MM deve avaliar outras doenças proliferativas que envolvam essas células, tais como: GMSI não-IgM, GMSI IgM, GMSI de cadeias leves, MM latente, plasmocitoma solitário, plasmocitoma solitário com acometimento medular mínimo, leucemia de células plasmáticas, macroglobulinemia de Waldenström, amiloidose de cadeia leve (primária) e síndrome POEMS (polineuropatia, organomegalia, endocrinopatia, proteína M, alterações dermatológicas). O Quadro 3 descreve os principais critérios para o diagnóstico diferencial de outras doenças29. 
+Quadro 3 - Critérios diagnósticos para doenças de células plasmáticas. 
+Todos os critérios abaixo devem ser atendidos: 
+(1) Proteína monoclonal sérica (não-IgM) menor que 3 g/dL. 
+(2) Plasmócitos clonais na medula óssea menores que 10%. 
+(3) Ausência de evidência de outra doença proliferativa de células B. 
+(4) Ausência de lesão de órgão ou tecido alvo relacionado ao mieloma ou critérios CRAB que possam ser atribuídos à outra doença proliferativa de células plasmáticas. 
+Todos os critérios abaixo devem ser atendidos: 
+(1) Proteína monoclonal sérica (IgM) menor que 3 g/dL. 
+(2) Infiltração linfoplasmocitária de medula óssea menor que 10%. 
+(3) Ausência de evidência de outra doença proliferativa de células B. 
+(4) Ausência de sintomas constitucionais, linfadenopatia, hepatoesplenomegalia, anemia ou hiperviscosidade que possam ser atribuídas a outra doença proliferativa de células plasmáticas. 
+Todos os critérios abaixo devem ser atendidos: 
+(1) Razão anormal de cadeias leves (menor que 0,25 ou maior que 1,65). 
+(2) Níveis aumentados da cadeia leve envolvida (cadeia leve livre kappa aumentada em pacientes com razão maior que 1,65 e cadeia leve livre lambda aumentada em pacientes com razão menor 
+(3) Ausência de expressão de imunoglobulinas de cadeia pesada à imunofixação. 
+(4) Ausência de lesão de órgão ou tecido alvo relacionado ao mieloma ou critérios CRAB que possam ser atribuídos a uma doença proliferativa de células plasmáticas. 
+(5) Proteína monoclonal urinária abaixo de 500 mg/24 horas. 
+Todos os critérios abaixo devem ser atendidos: 
+(1) Proteína monoclonal sérica igual ou maior que 3 g/dL ou proteína monoclonal urinária igual ou maior que 500 mg/24 horas, ou 10 a 60% de plasmócitos monoclonais na medula óssea. 
+(2) Ausência de eventos definidores de mieloma ou amiloidose. 
+Todos os critérios abaixo devem ser atendidos: 
+(1) Lesão óssea ou de tecido mole única documentada em biópsia sem evidência de células 
+(2) Medula óssea normal sem evidências de plasmócitos clonais. 
+(3) Avaliação esquelética normal à radiografia convencional e ausência de lesão espinhal e pélvica 
+à RNM ou TC, exceto pela lesão única primária. 
+(4) Ausência de lesão de órgão ou tecido alvo relacionado ao mieloma ou critérios CRAB que possam ser atribuídos à outra doença proliferativa de células linfoplasmocíticas. 
+Todos os critérios abaixo devem ser atendidos: 
+(1) Lesão óssea ou de tecido mole única documentada em biópsia sem evidência de plasmócitos 
+(2) Plasmócitos clonais na medula óssea menor que 10%. 
+(3) Avaliação esquelética normal à radiografia convencional e ausência de lesão espinhal e pélvica 
+à RNM ou TC, exceto pela lesão única primária. 
+(4) Ausência de lesão de órgão ou tecido alvo relacionado ao mieloma ou critérios CRAB que possam ser atribuídos à outra doença proliferativa de células linfoplasmocíticas. 
+(1) Plasmócitos clonais circulantes em sangue periférico maiores que 2.000/µL (2 x 10⁹/L) ou 20% 
+(2) Presença de proteína monoclonal, infiltração de medula óssea ou lesão de órgão ou tecido alvo relacionado ao mieloma ou critérios CRAB complementam o diagnóstico, mas não são necessários. 
+Ambos os critérios abaixo devem ser atendidos: 
+(1) Gamopatia monoclonal IgM. 
+(2) Infiltração linfoplasmocitária na medula maior ou igual a 10%. 
+Outros possíveis achados: 
+(1) Infiltrado linfoplasmocitário com expressão imunofenotípica típica. 
+(2) Anemia, hepatoesplenomegalia e sintomas sistêmicos tipicamente presente. 
+Todos os critérios abaixo devem ser atendidos: 
+(1) Presença de síndromes sistêmicas relacionadas à proteína amiloide (e.g., acometimento dos sistemas nervoso periférico, renal, hepático, cardíaco ou gastrointestinal) que podem ser atribuídos a uma doença proliferativa de células plasmáticas monoclonais. 
+(2) Marcação positiva de amiloide por vermelho Congo em qualquer tecido (e.g., aspirado adiposo, medula óssea ou biópsia de órgãos) ou a presença de fibrilas amiloides à microscopia eletrônica. 
+(3) Evidência de que a proteína amiloide está relacionada a cadeias leves, determinada pela avaliação direta da proteína amiloide com análise proteômica por espectrometria ou microscopia 
+(4) Evidência de doença proliferativa de células plasmáticas monoclonal (e.g., presença de proteína monoclonal sérica ou urinária, razão anormal de cadeias leves séricas ou células plasmáticas 
+Ambos os critérios abaixo devem ser atendidos: 
+(2) Doença proliferativa de plasmócitos monoclonais. 
+Ao menos um dos seguintes critérios maiores deve ser atendido: 
+(1) Lesões osteoescleróticas ou mistas (esclerótica e lítica) com tamanho maior ou igual a 0,8 cm 
+(2) Doença de Castleman (hiperplasia linfonodal gigante, hiperplasia linfonodal angiofolicular). 
+(3) Níveis de fator de crescimento endotelial vascular elevados em, ao menos, três a quatro vezes o limite superior de normalidade. 
+Ao menos um dos seguintes critérios menores deve ser atendido: 
+(1) Organomegalia (esplenomegalia, hepatomegalia ou linfadenopatia). 
+(2) Sobrecarga de volume extravascular (edema periférico, ascite ou derrame pleural). 
+(3) Endocrinopatia (exceto diabetes melito ou hipotireoidismo). 
+(4) Alterações dermatológicas (hiperpigmentação, hipertricose, acrocianose, pletora, hemangioma, 
+(6) Trombocitose ou policitemia. 
+Legenda: CRAB: acrônimo para hipercalcemia, insuficiência renal, anemia e doença óssea. Fonte: Traduzido e adaptado de Michels, 2017. 
+Devem ser incluídos nestas DDT todos os pacientes com diagnóstico de MM com idade igual ou superior a 19 anos. 
+A indicação de transplante de células-tronco hematopoéticas (TCTH) deve observar o vigente Regulamento Técnico do 
+Sistema Nacional de Transplantes e as idades mínima e máxima atribuídas aos respectivos procedimentos na Tabela de 
+Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS, devendo todos os potenciais receptores estar inscritos no Sistema Nacional de Transplantes (SNT)30. 
+Não estão contemplados nestas DDT os pacientes com diagnóstico de plasmocitoma solitário, mieloma osteoesclerótico ou leucemia de células plasmáticas. 
+Serão excluídos pacientes que apresentarem toxicidade (intolerância, hipersensibilidade ou outro evento adverso) ou contraindicações absolutas ao uso do respectivo medicamento preconizado ou procedimento preconizados nestas Diretrizes. 
+Tratamento não medicamentoso 
+6.1.1. Transplante de células-tronco hematopoéticas (TCTH) 
+O TCTH autólogo é o padrão ouro no tratamento do paciente com MM e a avaliação da sua indicação deve ser considerada precocemente no planejamento terapêutico12,31. A elegibilidade ao procedimento é regulada pela Política Nacional de 
+Transplantes e inclui pacientes com idade inferior a 75 anos, níveis de bilirrubina direta até 2,0 mg/dL e creatinina sérica até 2,5 mg/dL, exceto se o paciente estiver em terapia renal substitutiva crônica e estável; capacidade funcional 0, 1 ou 2 pela escala 
+Zubrod, exceto se comprometida principalmente por dor óssea, e, função cardíaca preservada, conforme classe funcional I ou II da New York Heart Association12,30. O TCTH alogênico não é recomendado, mas pode ser considerado para pacientes de alto 
+Um segundo TCTH autólogo não é rotineiramente recomendado, mas pode ser considerado para pacientes que não alcançaram, no mínimo, resposta parcial muito boa após o primeiro transplante; para pacientes com alto risco citogenético ou para pacientes que recaíram 18 meses após o primeiro TCTH12,21. 
+6.2.1. Pacientes elegíveis ao TCTH 
+O objetivo terapêutico para os pacientes com MM elegíveis ao TCTH é a indução de máxima resposta, sem toxicidade limitante31. As etapas consistem em terapia de indução, coleta de células-tronco hematopoiéticas, condicionamento com quimioterapia em alta dose, TCTH autólogo e terapia de manutenção12,21,32. 
+6.2.1.1. Terapia de indução 
+O melhor tratamento disponível deverá ser utilizado para indução, priorizando-se o uso de terapia tripla que inclua, pelo menos, inibidor de proteassoma e corticoide21. Outros medicamentos disponíveis para a terapia de indução são agentes alquilantes 
+(ciclofosfamida e cisplatina), antraciclinas (doxorrubicina e doxorrubicina lipossomal), inibidores da topoisomerase (etoposido) 
+43/2020, o bortezomibe foi incorporado no âmbito do SUS para uso em combinação com outros medicamentos no tratamento de pacientes com MM, recém-diagnosticado, elegíveis ao transplante de células-tronco hematopoiéticas30. O número de ciclos de indução para os pacientes elegíveis ao TCTH não está definido, mas deve ser de, pelo menos, 3 ou 4 ciclos12,32. 
+6.2.1.2. Condicionamento pré-TCTH 
+O esquema de condicionamento pré-TCTH recomendado é melfalana 200 mg/m2 em dose única, a ser administrada no dia -1 ou -2, conforme protocolo institucional. A infusão das células tronco é realizada posteriormente no dia 012,21,32–35. 
+A terapia de consolidação é definida como esquema terapêutico fixo, administrado após o transplante, com finalidade de aumentar a resposta terapêutica12. No entanto, a consolidação não deve ser considerada rotineiramente. A indicação desta etapa do tratamento deve ser individualizada21,32. 
+Os pacientes submetidos ao TCTH podem receber a terapia de manutenção, que consiste na administração prolongada de medicamentos com baixa toxicidade na tentativa de prevenir a progressão da doença36. O objetivo da manutenção é aumentar o tempo de remissão da doença com boa qualidade de vida. Os imunomoduladores são indicados para terapia de manutenção. A talidomida é o imunomodulador disponível no âmbito do SUS, mas os eventos adversos associados a este medicamento podem limitar a duração do tratamento e não há estudos que demonstrem aumento da sobrevida global12. 
+A utilização de lenalidomida para terapia de manutenção em pacientes submetidos ao TCTH autólogo foi avaliada para esta Diretriz. Na síntese de evidências para atualização deste documento, a estimativa de efeito da comparação indireta entre lenalidomida e talidomida não mostrou diferença entre as duas tecnologias para o desfecho sobrevida global [Hazard ratio (HR) de 0,58; Intervalo de Confiança de 95% (IC95%) de 0,30 a 1,11]. Em relação à sobrevida livre de progressão, o resultado da meta-análise foi favorável à lenalidomida, indicando que esta é 36% superior à talidomida (HR de 0,64; IC95% de 0,48 a 0,86). 
+Quanto aos eventos adversos, não houve diferença na ocorrência de eventos adversos graus 3 e 4 entre a lenalidomida e a talidomida [Risco Relativo (RR) de 0,75; IC95% de 0,20 a 2,86]. Quanto aos eventos adversos neurológicos, incluindo a neuropatia periférica, a estimativa de efeito indireta também se apresentou inconclusiva quanto à superioridade da lenalidomida 
+(RR de 0,33; IC95% de 0,73 a 3,11). O medicamento foi avaliado pela Conitec, entretanto, após recomendação desfavorável à 
+6.2.2. Pacientes inelegíveis ao TCTH 
+Pacientes inelegíveis ao TCTH podem iniciar terapia de indução completa com imunomoduladores e inibidores de proteassoma31. O bortezomibe pode ser utilizado, uma vez que foi incorporado no âmbito do SUS para uso em combinação com outros medicamentos no tratamento de pacientes com MM, recém-diagnosticado, inelegíveis ao transplante de células-tronco pode ser modificada, a fim de minimizar eventos associados à toxicidade, uma vez que o medicamento deve ser mantido até a progressão da doença12,39. A combinação de bortezomibe, lenalidomida e dexametasona apresenta bons resultados em relação à sobrevida global e livre de progressão. 
+A utilização de lenalidomida para pacientes inelegíveis ao TCTH foi avaliada pela Conitec. Na síntese de evidências elaborada para esta atualização, em relação aos eventos adversos, a comparação entre os esquemas RDc (lenalidomida e dexametasona) e TDc (talidomida e dexametasona), em relação à sobrevida global, foi avaliada por três revisões sistemáticas, que mostraram uma superioridade para o esquema de RDc quando comparado ao TDc (HR de 0,32; IC95% de 0,20 a 0,52), (HR de 0,44; IC95% de 0,20 a 0,97) e (HR de 0,36; IC95% de 0,23 a 0,55). A comparação da sobrevida global entre os esquemas 
+MPR-R (melfalana, prednisona e lenalidomida com manutenção de lenalidomida) e MPT-T (melfalana, prednisona e talidomida com manutenção de talidomida) também foi avaliada pelas mesmas revisões sistemáticas e em nenhuma delas houve diferença entre os dois esquemas (HR de 1,08; IC95% de 0,90 a 1,30), (HR 0,89; IC95% de 0,66 a 1,21) e (HR de 0,91; IC95% de 0,75 a 
+1,10])40. Considerando os eventos adversos avaliados, pacientes tratados com MPR-R apresentaram menor risco de EA graves do que aqueles tratados com MPT-T (RR de 0,79; IC95% de 0,67 a 0,93). Pacientes tratados com RDc apresentaram menor risco de EA neurológicos graus 3 e 4 do que aqueles tratados com TDc (RR 0,02; IC95% de 0,004 a 0,12). Ademais, pacientes tratados com MPR-R apresentaram menor risco de polineuropatia graus 3 e 4 do que aqueles tratados com MPT-T (RR de 0,13; IC95% de 0,05 a 0,32). Não houve diferença entre os esquemas RDc versus TDc e MPR-R versus MPT-T (RR de 0,29; IC95% de 0,05 a 1,65) e (RR 0,79; IC95% de 0,50 a 1,24), respectivamente) em relação à taxa de suspensão do tratamento 40. O medicamento foi avaliado pela Conitec, entretanto, após recomendação desfavorável à incorporação, o medicamento não foi incorporado ao 
+6.2.3. Pacientes refratários ou em recidiva 
+Apesar dos avanços terapêuticos nos últimos anos, o MM permanece uma doença incurável e quase todos os casos se tornam refratários aos tratamentos padrão41. O objetivo terapêutico para os pacientes com MM recidivado ou refratário é controlar a progressão da doença, com eventos adversos aceitáveis, e manter a qualidade de vida do paciente pelo maior tempo possível42. 
+A recidiva pode ser classificada como clínica ou como bioquímica isolada. Pacientes com recidiva clínica são sintomáticos e apresentam piora da lesão de órgão alvo, como evolução das lesões ósseas ou surgimento de novas lesões, plasmocitomas, anemia, insuficiência renal ou hipercalcemia43. Nestes casos, recomenda-se que a terapia de resgate seja iniciada 
+Já a recidiva bioquímica isolada se apresenta com aumento assintomático dos níveis séricos do componente monoclonal44,45. A observação cuidadosa é apropriada para pacientes com recidiva lentamente progressiva, requerendo monitoramento dos sintomas e da função dos órgãos e avaliação frequente dos níveis de paraproteína do mieloma. Entretanto, o tratamento pode ser considerado naqueles pacientes com alto risco citogenético, doença extramedular, recidiva após transplante ou terapia inicial ou evidência de rápido aumento nos seguintes marcadores de MM12,32: a) Duplicação da componente M em duas medidas consecutivas, separadas por até dois meses; b) aumento nos níveis absolutos da proteína M sérica maior ou igual a 1 g/dL; c) aumento da proteína M urinária maior ou igual a 500 mg/24h; ou d) aumento dos níveis da cadeia leve livre envolvida maior ou igual a 20 mg/dL e uma razão de dosagem de cadeias kappa/lambda leves livres séricas anormal em duas medidas consecutivas separadas por até dois meses. 
+O tratamento deve ser individualizado e a escolha deve considerar fatores relacionados ao paciente, como idade, comorbidades (neuropatia, insuficiência renal), performance status e preferências do paciente; relacionados à doença, como a sua natureza (comportamento indolente ou agressivo), duração da resposta aos tratamentos prévios, risco citogenético e características da recidiva; e relacionados ao tratamento, como os medicamentos já utilizados anteriormente e a resposta do paciente a eles, bem como as reações adversas apresentadas, número de tratamentos, via de administração e a disponibilidade do 
+Os diferentes tipos de tratamentos do MM recidivado ou refratário incluem novo TCTH autólogo, repetição do uso de medicamentos anti-mieloma já utilizados anteriormente ou uso de outros medicamentos não utilizados na primeira linha12,21,46. 
+Até o momento, não há um consenso sobre qual é a melhor sequência e combinação de medicamentos a ser utilizada por estes pacientes46. No entanto, na primeira recidiva, esquemas com três medicamentos, envolvendo aqueles não utilizados na terapia prévia, são recomendados12,32,47. Os esquemas podem incluir inibidores de proteassoma (bortezomibe), agentes alquilantes 
+(ciclofosfamida e cisplatina), corticosteroides (dexametasona), antraciclinas (doxorrubicina e doxorrubicina lipossomal), para uso em combinação com outros medicamentos no tratamento de pacientes com MM recidivados ou refratários, conforme a 
+A utilização de daratumumabe para pacientes com mieloma múltiplo recidivado ou refratário já foi avaliada pela Conitec. 
+Na síntese de evidências, foi incluído apenas um ensaio clínico que identificou superioridade de daratumumabe + bortezomibe 
++ dexametasona comparado a bortezomibe + dexametasona para sobrevida livre de progressão (16,7 vs. 7,1 meses; HR de 0,31; 
+IC 95% de 0,31 a 0,39) (qualidade da evidência moderada), taxa de resposta geral (83,9% vs. 60,7%; p < 0,001), taxa de resposta completa (28,2% vs. 8,9%; p < 0,0001) e taxa de resposta parcial muito boa (60,9% vs. 29,2%; p < 0,0001). A mediana da sobrevida global não foi alcançada e por isso não foi reportada. A qualidade de vida relacionada à saúde foi mantida para os pacientes de ambos os grupos (p > 0,05) (qualidade da evidência alta) entre o início e o final do estudo. Considerando os desfechos de segurança reportados, daratumumabe não parece aumentar o risco de suspensão (7,4% para esquema com daratumumabe vs. 9,3% para esquema sem daratumumabe) (qualidade da evidência alta) ou a incidência de eventos adversos 
+(98,8% vs. 95,4%)49. O medicamento foi avaliado pela Conitec para esta indicação. No entanto, após recomendação desfavorável 
+O fluxo de diagnóstico e tratamento do Mieloma Múltiplo está descrito na Figura 1. 
+Figura 1 - Fluxo de diagnóstico e tratamento do Mieloma Múltiplo. 
+1. Fadiga, perda de peso, infecções recorrentes, dispneia, náusea, vômito, sangramento, compressão medular. 
+2. Dor óssea, lesão osteolítica, fratura patológica. 
+3. Alterações laboratoriais, hipercalcemia, falência renal, proteína.s totais elevadas, proteinemia monoclonal. 
+4. Hemograma, ureia, creatinina, eletrólitos, proteínas totais, albumina, cálcio, urina, eletroforese sérica e urinária com imunofixação, dosagem de imunoglobulinas, dosagem de cadeias kappa/lambda leves livres séricas, lactato desidrogenase. 
+5. Beta-2 microglobulina, proteína-C reativa, velocidade de hemossedimentação, proteinúria de 24 horas. 
+6. Mielograma e imunofenotipagem por FISH. 
+7. Tempo de atividade de protrombina, tempo de tromboplastina parcial ativada, fibrinogênio, d-dímero, bilirrubina total e frações, fosfatase alcalina, transaminases, gama-glutamil transferase, ácido úrico, glicemia, viscosidade sérica (se proteína-M > 5 g/dL). 
+8. Ressonância magnética nuclear, tomografia computadorizada incluindo coluna, tórax e pelve. 
+9. Idade igual ou inferior a 75 anos, bilirrubina total até 2 mg/dL, creatinina sérica até 2,5 mg/dL, capacidade funcional 0, 1 ou 2 (Escala Zubrod), função cardíaca preservada (NYHA classe funcional I ou II). 
+6.2.4. Medicamentos e esquemas de administração 
+Diversos medicamentos são utilizados para o tratamento do MM e as opções terapêuticas foram ampliadas nos últimos anos. O Quadro 4 resume os principais medicamentos e doses recomendadas para composição dos esquemas terapêuticos12. As doses, frequências de utilização e dias de administração dos medicamentos deverão ser avaliadas conforme o protocolo 
+Quadro 4 - Medicamentos utilizados no tratamento de pacientes com mieloma múltiplo, tratados pelo Sistema Único de Saúde*. 
+Inibidores de proteassoma 
+Doxorrubicina lipossomalg 
+Inibidores da topoisomerase 
+Nota: *As doses e frequências de utilização dos medicamentos listados deverão ser avaliadas conforme o protocolo institucional. Os ajustes das doses conforme idade, exames laboratoriais ou toxicidade não estão descritos neste Quadro. **Atenção aos dias de administração dos medicamentos propostos nos protocolos de tratamento específicos. 
+Fontes: a. Brasil 201512, Rosiñol et al. 201250; b. VELCADE, 201751; c. Reeder et al. 201452; d. Park et al. 201453; e. San Miguel et al. 200854; f. Anderson et al. 
+199555; g. Orlowski et al. 200756. 
+6.2.5. Prevenção e tratamento das lesões ósseas 
+A doença óssea é uma das principais manifestações clínicas do MM, ocorre em consequência da destruição óssea e pode se manifestar como lesões osteolíticas ou osteopenia, causando dor intensa, fraturas, compressão da medula espinhal e hipercalcemia44,57. A destruição óssea ocorre pelo aumento da atividade osteoclástica (reabsorção óssea) por meio de fatores ativadores dos osteoclastos que são produzidos pelas células tumorais e não tumorais na medula óssea44. 
+A prevenção de fratura patológica é importante no paciente com MM, por meio da terapia profilática com a administração de inibidores da osteólise (bisfosfonatos). O uso de bisfosfonatos é recomendado em todos os pacientes, independente do diagnóstico de doença óssea, embora os benefícios de seu uso em pacientes sem doença óssea diagnosticada pelo PET-CT ou 
+RM de corpo inteiro, sejam questionáveis21. 
+O ácido zoledrônico é o bisfosfonato mais indicado para pacientes recém diagnosticados com MM sem acometimento 
+ósseo58 e a dose de 4 mg deve ser administrada por via intravenosa, uma vez ao mês12,59. Uma vez que ele tenha sido utilizado por, pelo menos, 12 meses e que a resposta clínica obtida tenha sido parcial, muito boa ou completa, pode-se considerar reduzir a frequência do tratamento (a cada três meses, a cada seis meses ou anualmente) ou suspende-lo58. O tempo máximo de uso do medicamento é de 24 meses. No entanto, apenas pacientes que não alcançaram resposta parcial após tratamento inicial do MM podem utilizar por tempo superior. Na recidiva, o ácido zoledrônico pode ser reiniciado21. Quando o ácido zoledrônico não estiver disponível ou quando for contraindicado, o pamidronato, outro bisfosfonato, pode ser utilizado58. A dose recomendada do pamidronato é de 90 mg, uma vez por mês, por via intravenosa, diluída em 500 mL de solução de infusão livre de cálcio e administrada em quatro horas12,60. 
+Todos os pacientes com MM acometidos por doença óssea no momento do diagnóstico devem ser tratados com bisfosfonatos (ácido zoledrônico ou pamidronato), de acordo com o esquema de administração preconizado nesta Diretriz21,58. 
+A suplementação oral com vitamina D (400 UI/dia, via oral) e cálcio (500 mg/dia, via oral) é mandatória para evitar hipocalcemia induzida por bisfosfonatos. Em pacientes que apresentem hipercalcemia, a suplementação deve ser iniciada, após a normalização de cálcio sérico12,21,58,59. Pacientes com insuficiência renal e que tenham recebido suplementação de cálcio devem 
+Os bisfosfonatos são potencialmente nefrotóxicos21,57. Deve-se monitorar, mensalmente, o clearance de creatinina e os níveis de eletrólitos séricos nos pacientes que usam pamidronato ou outro bisfosfonato. A dosagem da albumina urinária deve ser feita, também mensalmente, quando o pamidronato estiver sendo utilizado58. Ajustes de dose, a depender do clearance de creatinina, podem ser necessários e devem ser feitos de acordo com a bula do medicamento registrada na ANVISA. Pacientes com clearance de creatinina inferior a 30 mL/min não devem utilizar bisfosfonatos21,57. 
+Os pacientes devem ser aconselhados quanto ao reconhecimento e relato de eventos adversos aos medicamentos58. Nesse sentido, a equipe multiprofissional, destacando os farmacêuticos e enfermeiros, desempenha papel importante. 
+A avaliação por ortopedista deve ser solicitada em caso de fratura iminente ou atual de ossos longos, de compressão óssea da medula espinhal ou de instabilidade da coluna vertebral12, situações em que procedimentos cirúrgicos ortopédicos podes ser recomendados21. A indicação do procedimento cirúrgico deve ocorrer em decisão conjunta com o hematologista, ortopedista ou neurocirurgião, para determinar quando o tratamento do MM pode ser reiniciado com segurança12. A cifoplastia com balão pode ser considerada para fraturas de compressão vertebral sintomáticas21,58. Ademais, baixas doses de radiação (até 30 Gy) podem ser usadas para paliação da dor não controlada, fratura patológica iminente ou compressão de coluna espinhal iminente por 
+6.2.6. Prevenção e tratamento da insuficiência renal 
+A insuficiência renal é uma complicação comum e grave do MM, considerada emergência médica e fator de mau prognóstico. Estima-se que ela afete de 20% a 30% dos pacientes no momento do diagnóstico, podendo atingir até 50% dos pacientes durante o curso da doença e levar até 12% dos pacientes a necessitar de terapia renal substitutiva21,61,62. 
+As causas da insuficiência renal no paciente com MM incluem dano tubular causado pela excreção de imunoglobulinas de cadeias leves e, consequentemente, nefropatia obstrutiva (também conhecida como “rim do mieloma”). Esta insuficiência também pode estar associada a outras causas, como hipercalcemia, sepse, desidratação, uso de medicamentos nefrotóxicos e contraste endovenoso63,64. Por isso, devem ser adotadas medidas para prevenção da insuficiência renal: monitoramento da ingesta hídrica e promoção do uso racional de medicamentos potencialmente nefrotóxicos (aminoglicosídeos, anti-inflamatórios não esteroidais, inibidores da enzima conversora de angiotensina, anfotericina B, diuréticos de alça, bisfosfonatos e contraste iodado venoso). Também deve ser realizado um acompanhamento rigoroso da função renal (creatinina sérica, ureia, sódio, potássio, cálcio, taxa de filtração glomerular, exame de urina de 24 horas) e das concentrações de cadeia leve12,61,63–65. 
+Além das medidas preventivas, o paciente deve ser acompanhado por nefrologista, caso a função renal não seja restabelecida até 48 horas após as intervenções iniciais. Deve haver uma comunicação clara entre o médico assistente e nefrologista para otimizar o resultado terapêutico12. A biópsia renal é desejável para ajudar na decisão terapêutica, mas não é essencial12,61. A plasmaférese ou hemofiltração tem sido sugerida para remoção física das cadeias leves, entretanto, seu papel permanece controverso12,61,66,67. 
+A hidratação adequada é essencial e deve ser assegurada em todos os pacientes com MM e insuficiência renal65. A administração de soluções salinas hipotônicas pode ser mais vantajosa do que as soluções fisiológicas, já que a formação de cilindros na alça de Henle é favorecida quando a concentração de cloreto de sódio está acima de 80 mmol/L12. 
+O tratamento do paciente com MM e insuficiência renal deve ser iniciado o mais precocemente possível, preferencialmente com esquemas de tratamento que incluem bortezomibe, associado a altas doses de dexametasona durante o primeiro mês. Não há informações sobre esquemas específicos para pacientes em terapia renal substitutiva. A talidomida é efetiva em pacientes com MM com insuficiência renal e pode ser administrada sem alteração de dose. Para os pacientes que recebem altas doses de quimioterapia como condicionamento para o TCTH, a dose de melfalana deve ser restrita a 100 a 140 mg/m2 21. 
+6.2.7. Profilaxia e controle das infecções 
+As infecções relacionadas à imunossupressão (da doença e seu tratamento) são uma importante causa de morbimortalidade em pacientes com MM, de modo que todas as medidas para evitá-las devem ser instituídas68. 
+Os pacientes com MM que apresentam alto risco de desenvolver infecções graves podem receber profilaxia antimicrobiana segundo protocolos institucionais. Contudo, sua indicação deve ser individualizada de acordo com o histórico de infecções, idade, atividade da doença, tipo e duração dos tratamentos prévios, nível de imunossupressão e comorbidades. 
+Portanto, a profilaxia antimicrobiana não deve ser recomendada como rotina e deve ter indicação individualizada12,69. 
+Os pacientes tratados com inibidores de proteassoma (bortezomibe), altas doses de corticoide ou altas doses de melfalana seguida de TCTH autólogo deverão receber profilaxia com aciclovir, a fim de reduzir o risco de reativação do vírus varicela 
+Quando o paciente com mieloma apresentar hipogamaglobulinemia e sofrer infecções graves ou recorrentes, pode-se considerar a reposição de imunoglobulinas. No entanto, a profilaxia de infecções não é recomendada rotineiramente12. 
+Os pacientes devem ser vacinados o mais cedo possível68. Recomenda-se que os pacientes que iniciarão o tratamento do 
+MM devam ser vacinados, pelo menos, 14 dias antes do início do tratamento, antes da mobilização e coleta de células-tronco; quando o paciente atingir a melhor resposta à terapia; três a seis meses após a conclusão da quimioterapia ou TCTH autólogo, e; seis a 12 meses após o TCTH alogênico12,68. A vacinação entre os ciclos de quimioterapia não é recomendada, devido à provável redução da sua eficácia12. 
+As vacinas recomendadas para pacientes com neoplasias submetidos à quimioterapia, radioterapia ou corticoterapia e pessoas que convivem com esses pacientes estão descritas no Quadro 570. Preferencialmente, o paciente com MM deverá receber vacinas inativadas, enquanto as vacinas vivas podem ser consideradas para pacientes com GMSI ou MM assintomático (latente), bem como nos demais pacientes que se encontrarem em remissão da doença, três a seis meses após o término da 
+Para os pacientes submetidos ao TCTH, o esquema vacinal deverá ser planejado, de acordo com o Manual dos Centros de Referência para Imunobiológicos Especiais (CRIE)70. 
+Quadro 5 - Vacinas recomendadas para pacientes com MM, cuidadores e familiares, conforme as recomendações do Manual dos Centros de Referência para 
+Imunobiológicos Especiais, para pacientes submetidos à quimioterapia, radioterapia ou corticoterapiaa. 
+Bacilo de Calmette-Guérin (BCG) 
+Vacina adsorvida difteria, tétano e pertussis (DPT)/ Vacina adsorvida difteria e tétano adulto (dT)/ Vacina adsorvida difteria, tétano e pertussis (acelular adulto) (dTpa) 
+Vacina poliomielite 1, 3 atenuada oral (VOP) 
+Vacina poliomielite 1, 2, 3 inativada, injetável (VIP) 
+Vacina Febre Amarela (FA) 
+Vacina influenza inativada (INF) 
+Vacina meningocócica C conjugada (Meningo C) (2 doses) 
+Vacina pneumocócica 13-valente (conjugada) (PCV13) ou 
+Vacina pneumocócica 23-valente (de polissacarídeos) 
+Notas: a. Seguir sempre que possível, os intervalos do calendário vacinal de rotina do Programa Nacional de Imunizações. b. De acordo com as normas de vacinação de rotina do Programa Nacional de Imunizações. c. Se não houver doenças que contraindicam o uso de vacinas vivas. d. Além das vacinas aqui recomendadas, aqueles que convivem com estes pacientes deverão receber as vacinas do calendário normal de vacinação do Programa Nacional de Imunizações, conforme idade. A vacinação contra rotavírus e tuberculose, devido à faixa etária restrita, dificilmente serão aplicáveis a estes indivíduos, mas não estão contraindicadas para os conviventes domiciliares de pacientes imunossuprimidos. 
+Fonte: Adaptado de BRASIL, 2019. 
+Avaliação da resposta terapêutica 
+A monitorização do tratamento inclui a dosagem de proteína-M, avaliação esquelética e biópsia de medula óssea para avaliação da resposta completa. Os critérios de resposta, de acordo com as diretrizes anteriores e as recomendações do 
+IMWG12,45, estão descritos no Quadro 6. 
+Quadro 6 - Critérios de resposta ao tratamento. 
+- Imunofixação sérica e urinária negativas. 
+- Desaparecimento de plasmocitoma de tecidos moles. 
+- Até 5% de plasmócitos na Medula Óssea (MO). 
+Resposta completa estrita 
+- Critérios de resposta completa atendidos. 
+- Relação de cadeias kappa/lambda leves livres séricas normal. 
+- Ausência de plasmócitos clonais na MO por imuno-histoquímica. 
+Resposta parcial muito boa 
+- Componente-M sérico e urinário detectável por imunofixação, mas não por eletroforese de 
+- Redução igual ou maior que 90% da proteína-M sérica. 
+- Redução da proteína-M urinária para menos de 100 mg/24h. 
+- Redução igual ou maior que 50% na proteína-M sérica. 
+- Redução igual ou maior que 90% na proteína-M urinária ou para menos de 200 mg/24h 
+OU redução igual ou maior que 50% da diferença entre cadeias leves livres envolvidas e não envolvidas, quando não for possível obter o critério de redução de proteína-M 
+OU redução igual ou maior que 50% dos plasmócitos da MO (se basal for igual ou maior que 30%) e redução igual ou maior que 50% no tamanho de plasmocitomas de tecidos moles identificados previamente. 
+- Redução de 25% a 49% na proteína-M sérica. 
+- Redução de 50 a 89% na proteína-M urinária. 
+- Redução de 50% do tamanho de plasmocitoma de tecidos moles, se identificados 
+Qualquer um dos critérios abaixo: 
+A) Aumento de 25% do menor valor de resposta confirmado em, pelo menos, um dos 
+● Proteína- M Sérica (Aumento absoluto de proteína-M sérica igual ou maior que 0,5 g/dL); 
+● proteína-M sérica (Aumento igual ou maior que 1g/dL, se o menor componente M era igual 
+● proteína-M urinária (Aumento absoluto de proteína-M urinária igual ou maior que 200 
+● em pacientes sem níveis mensuráveis de proteína-M sérica ou urinária, a diferença entre cadeias leves livres envolvidas e não envolvidas deve ter aumento absoluto igual ou maior 
+● em pacientes sem níveis mensuráveis de proteína-M sérica ou urinária e sem níveis mensuráveis da relação de cadeias kappa/lambda leves livres séricas, deve haver aumento absoluto de plasmócitos na medula óssea igual ou maior que 10%, independente do nível 
+B) Aparecimento de nova lesão ou aumento de igual ou maior que 50% na lesão de 
+C) Aumento igual ou maior que 50% nos plasmócitos circulantes (mínimo de 200 
+- Reaparecimento de proteína-M sérica ou urinária por eletroforese ou imunofixação 
+- Aparecimento de plasmócitos na MO igual ou maior que 5% OU qualquer outro sinal de progressão (novo plasmocitoma, lesão óssea lítica ou hipercalcemia). 
+- Desenvolvimento de novos plasmocitomas ou lesões ósseas. 
+- Aumento do tamanho dos plasmocitomas existentes ou das lesões ósseas (igual ou maior 
+- Hipercalcemia (igual ou maior que 11 mg/dL). 
+- Diminuição da hemoglobina igual ou maior que 2 g/dL, não relacionada à terapia ou outras condições não relacionadas ao mieloma. 
+- Aumento de 2 mg/dL na creatinina sérica inicial que seja atribuído ao mieloma. 
+- Hiperviscosidade relacionada à paraproteína sérica. 
+Nota: Todas as categorias de resposta ou recaída devem ter duas avaliações consecutivas feitas a qualquer momento antes da sua classificação final (resposta, progressão de doença, recaída) ou início de nova terapia. Avaliações de medula óssea não precisam ser confirmadas. 
+Durante a quimioterapia, a cada ciclo, o paciente deve ser avaliado com relação aos sintomas e sinais clínicos de toxicidade e deve ser submetido a exames laboratoriais, conforme protocolo de tratamento selecionado. Os critérios mínimos de monitoramento e interrupção da terapia devem seguir os protocolos institucionais estabelecidos. 
+Avaliação da resposta terapêutica e seguimento 
+O acompanhamento da resposta ao tratamento deve ser feito pela dosagem da proteína-M, com frequência mensal no primeiro ano e bimensal a partir do segundo ano. Orienta-se a realização da eletroforese de proteínas séricas e urinárias, dosagem de cadeias leves (kappa e lambda) livres, ureia, creatinina e dosagem sérica de imunoglobulinas (IgA, IgM, IgG e IgE)12,21. 
+A avaliação da medula óssea é obrigatória apenas para identificar se houve resposta completa ao tratamento. A investigação de alterações moleculares, por meio do FISH ou citogenética convencional, bem como a RNM ou TC de corpo inteiro não são necessárias para avaliação da resposta terapêutica, podendo ser realizadas na presença de queixas clínicas12,21. 
+Além da avaliação odontológica e clínica, contemplando fragilidade clínica, controle adequado de doenças crônicas e comorbidades, o paciente deve ter acompanhamento psicológico, familiar e social, disponibilizados no âmbito da Atenção 
+Primária. Após o diagnóstico e durante o tratamento, o cuidado do paciente com MM na Atenção Primária deve continuar, de forma paralela, coordenada e síncrona ao acompanhamento especializado. Neste sentido, cabe aos profissionais envolvidos, em todos os níveis da atenção, salientar a importância da continuidade do acompanhamento na Atenção Primária. Além do tratamento de sintomas, doenças crônicas e comorbidades, a equipe de saúde da Atenção Primária tem papel fundamental na detecção precoce de complicações da doença e do tratamento, principalmente infecções e eventos adversos do tratamento71. A utilização do sistema de referência e contrarreferência e os contatos formais entre as equipes responsáveis pela Atenção Primária e especializada devem ser encorajados13. 
+A administração de bisfosfonatos ao paciente com MM pode causar eventos adversos secundários, em especial a osteonecrose da mandíbula57. Antes de iniciar a terapia com bisfosfonatos, orienta-se que os pacientes sejam encaminhados para avaliação odontológica, tanto para detecção de possível doença periodontal e infecções ativas, como para receberem orientação 
+Sugere-se avaliação odontológica anual, se houver sinais e sintomas de acometimento dental e antes do início do tratamento com bisfosfonato a fim de reduzir a incidência de osteonecrose de mandíbula58,72. Como a extração dentária é um fator de risco para osteonecrose da mandíbula, não se recomenda a sua realização ou a de outros procedimentos invasivos (como implante dentário ou procedimento cirúrigco na mandíbula) durante o tratamento com bisfosfonatos. Se estes procedimentos forem necessários, recomenda-se suspender o uso de bisfosfonatos 90 dias antes da sua realização. O tratamento com bisfosfonato só deverá ser reiniciado após o procedimento dentário58,73. Se o paciente desenvolver osteonecrose da mandíbula, o uso de bisfosfonatos deve ser interrompido e, após a recuperação da osteonecrose, pode-se retornar ao uso do medicamento21. 
+REGULAÇÃO, CONTROLE E AVALIAÇÃO PELO GESTOR 
+Devem ser observados os critérios de inclusão e exclusão de pacientes destas Diretrizes, a duração e a monitorização do tratamento, bem como a verificação periódica das doses prescritas e dispensadas e a adequação de uso de medicamentos. 
+Casos de mieloma múltiplo devem ser atendidos em hospitais habilitados em oncologia e com porte tecnológico suficiente para diagnosticar, estadiar, tratar e acompanhar os pacientes. Além da familiaridade que tais hospitais guardam com o estadiamento, tratamento e controle de eventos adversos, eles têm toda a estrutura ambulatorial, de internação, de terapia intensiva, de hemoterapia, de suporte multiprofissional e de laboratórios necessária para o adequado atendimento e obtenção dos resultados terapêuticos esperados. 
+A regulação do acesso é um componente essencial da gestão para a organização da rede assistencial e a garantia do atendimento aos pacientes e muito facilita as ações de controle e avaliação. Entre tais ações incluem-se a manutenção atualizada do Cadastro Nacional dos Estabelecimentos de Saúde (CNES), a autorização prévia dos procedimentos, o monitoramento da produção dos procedimentos (por exemplo, frequência apresentada versus autorizada, valores apresentados versus autorizados versus ressarcidos) e a verificação dos percentuais da frequência dos procedimentos quimioterápicos em suas diferentes linhas 
+(cuja ordem descendente – primeira maior do que segunda e segunda maior do que terceira – sinaliza a efetividade terapêutica). 
+Ações de auditoria devem verificar in loco, por exemplo, a existência e a observância da conduta ou do protocolo adotados no hospital, a regulação do acesso assistencial, a qualidade da autorização, a conformidade da prescrição e da dispensação e administração dos medicamentos (tipos e doses), a compatibilidade do procedimento codificado com o diagnóstico e a capacidade funcional (escala de Zubrod), a compatibilidade da cobrança com os serviços executados, a abrangência e a integralidade assistenciais e o grau de satisfação dos doentes. diretamente aos hospitais ou aos usuários do SUS. A exceção é feita ao mesilato de imatinibe para a quimioterapia do tumor do estroma gastrointestinal (GIST), da leucemia mieloide crônica e da leucemia linfoblástica aguda cromossoma Philadelphia positivo; do nilotinibe e do dasatinibe para a quimioterapia da leucemia mieloide crônica; do rituximabe para a poliquimioterapia do linfoma folifcular e do linfoma difuso de grandes células B; e dos trastuzumabe e pertuzumabe para a quimioterapia do por meio das secretarias estaduais de saúde. Os procedimentos quimioterápicos da Tabela de Procedimentos, Medicamentos, 
+Órteses, Próteses e Materiais Especiais do SUS (“Tabela do SUS”) não fazem referência a qualquer medicamento e são aplicáveis 
+às situações clínicas específicas para as quais as terapias antineoplásicas medicamentosas são indicadas. Ou seja, os hospitais credenciados pelo SUS e habilitados em oncologia são os responsáveis pelo fornecimento de medicamentos oncológicos que eles, livremente, padronizam, adquirem e fornecem, cabendo-lhes codificar e registrar conforme o respectivo procedimento. 
+Assim, a partir do momento em que um hospital é habilitado para prestar assistência oncológica pelo SUS, a responsabilidade pelo fornecimento de medicamento antineoplásico é do hospital, seja ele público ou privado, com ou sem fins lucrativos. 
+Os procedimentos diagnósticos (Grupo 02 e seus vários subgrupos – clínicos, cirúrgicos, laboratoriais e por imagem), radioterápicos e quimioterápicos (Grupo 03, Subgrupo 04), cirúrgicos (Grupo 04 e os vários subgrupos cirúrgicos por especialidades e complexidade) e de transplantes (Grupo 05 e seus seis subgrupos) da Tabela de Procedimentos, Medicamentos e Órteses, Próteses e Materiais Especiais do SUS podem ser acessados, por código ou nome do procedimento e por código da 
+(http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp), com versão mensalmente atualizada e disponibilizada. 
+A indicação de TCTH deve observar o vigente Regulamento Técnico do Sistema Nacional de Transplantes e as idades mínima e máxima atribuídas aos respectivos procedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e 
+Materiais Especiais do SUS, devendo todos os potenciais receptores estar inscritos no Sistema Nacional de Transplantes (SNT). 
+Para a autorização do TCTH alogênico não aparentado de medula óssea, de sangue periférico ou de sangue de cordão umbilical, do tipo mieloablativo, todos os potenciais receptores devem estar inscritos no Registro Nacional de Receptores de operacionais do Sistema Nacional de Transplantes. 
+Os receptores submetidos a TCTH originários dos próprios hospitais transplantadores neles devem continuar sendo assistidos e acompanhados; e os demais receptores transplantados deverão, efetivada a alta do hospital transplantador, ser devidamente reencaminhados aos seus hospitais de origem, para a continuidade da assistência e acompanhamento. A comunicação entre os hospitais deve ser mantida de modo que o hospital solicitante conte, sempre que necessário, com a orientação do hospital transplantador e este, com as informações atualizadas sobre a evolução dos transplantados. 
+TERMO DE ESCLARECIMENTO E RESPONSABILIDADE – TER 
+É obrigatória a informação ao paciente ou ao seu responsável legal sobre os potenciais riscos, benefícios e eventos adversos relacionados ao uso quando preconizado nestas Diretrizes do medicamento talidomida, consoante normas sanitárias 
+10. REFERÊNCIAS BIBLIOGRÁFICAS 
+1. Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, et al. Global Cancer Statistics 2020: 
+GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin [Internet]. 
+2021 May 4;71(3):209–49. Available from: https://onlinelibrary.wiley.com/doi/10.3322/caac.21660 from: http://tabnet.datasus.gov.br/cgi/dhdat.exe?PAINEL_ONCO/PAINEL_ONCOLOGIABR.def 
+3. Kazandjian D. Multiple myeloma epidemiology and survival: A unique malignancy. Semin Oncol [Internet]. 2016 
+Dec;43(6):676–81. Available from: https://linkinghub.elsevier.com/retrieve/pii/S0093775416300951 
+4. Padala SA, Barsouk A, Barsouk A, Rawla P, Vakiti A, Kolhe R, et al. Epidemiology, Staging, and Management of 
+Multiple Myeloma. Med Sci [Internet]. 2021 Jan 20;9(1):3. Available from: https://www.mdpi.com/2076-3271/9/1/3 
+5. Melo N. Observatório de Oncologia. Epidemiologia do Mieloma Múltiplo e distúrbios relacionados no Brasil 
+[Internet]. [cited 2022 Mar 14]. Available from: https://observatoriodeoncologia.com.br/epidemiologia-do-mielomamultiplo-e-disturbios-relacionados-no-brasil/ 
+6. Kyle RA, Rajkumar S V. Criteria for diagnosis, staging, risk stratification and response assessment of multiple myeloma. Leukemia [Internet]. 2009 Jan 30;23(1):3–9. Available from: http://www.nature.com/articles/leu2008291 
+7. Hillengass J, Usmani S, Rajkumar SV, Durie BGM, Mateos M-V, Lonial S, et al. International myeloma working group consensus recommendations on imaging in monoclonal plasma cell disorders. Lancet Oncol [Internet]. 2019 
+Jun;20(6):e302–12. Available from: https://linkinghub.elsevier.com/retrieve/pii/S1470204519303092 
+8. Kyle RA, Gertz MA, Witzig TE, Lust JA, Lacy MQ, Dispenzieri A, et al. Review of 1027 Patients With Newly https://linkinghub.elsevier.com/retrieve/pii/S0025619611618272 
+9. Molassiotis A, Wilson B, Blair S, Howe T, Cavet J. Unmet supportive care needs, psychological well-being and quality of life in patients living with multiple myeloma and their partners. Psychooncology [Internet]. 2011 Jan;20(1):88–97. 
+Available from: https://onlinelibrary.wiley.com/doi/10.1002/pon.1710 
+Mols F, Oerlemans S, Vos AH, Koster A, Verelst S, Sonneveld P, et al. Health-related quality of life and diseasespecific complaints among multiple myeloma patients up to 10 yr after diagnosis: results from a population-based study using https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0609.2012.01831.x 
+Ramsenthaler C, Osborne TR, Gao W, Siegert RJ, Edmonds PM, Schey SA, et al. The impact of disease-related symptoms and palliative care concerns on health-related quality of life in multiple myeloma: a multi-centre study. BMC 
+Cancer [Internet]. 2016 Dec 7;16(1):427. Available from: http://bmccancer.biomedcentral.com/articles/10.1186/s12885-016https://bvsms.saude.gov.br/bvs/saudelegis/sas/2011/prt0708_25_10_2011.html 
+IX - Política Nacional para Prevenção e Controle do Câncer (PNPCC) [Internet]. 2017. Available from: 
+Moreau P, San Miguel J, Sonneveld P, Mateos MV, Zamagni E, Avet-Loiseau H, et al. Multiple myeloma: ESMO 
+Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol [Internet]. 2017 Jul;28:iv52–61. Available from: https://linkinghub.elsevier.com/retrieve/pii/S0923753419421455 
+[Internet]. 2014. Available from: https://bvsms.saude.gov.br/bvs/saudelegis/sas/2014/prt0140_27_02_2014.html 
+Prefeitura de São Paulo. Secretaria Municipal de Saúde. Protocolo Clínico de Regulação de Acesso para https://docs.bvsalud.org/biblioref/2019/02/970214/protocolo-v-2-atendimento-paciente-oncologico.pdf 
+144 p. Available from: http://conitec.gov.br/images/Relatorios/2021/Diretrizes-Metodologicas-Elaboracao-de-DiretrizesGRADE Guidance Group. Grading of Recommendations Assessment, Development, and Evaluation. [Internet]. 
+[cited 2022 Mar 15]. Available from: https://www.gradeworkinggroup.org/ 
+Snowden JA, Greenfield DM, Bird JM, Boland E, Bowcock S, Fisher A, et al. Guidelines for screening and management of late and long-term consequences of myeloma and its treatment. Br J Haematol [Internet]. 2017 
+Mar;176(6):888–907. Available from: https://onlinelibrary.wiley.com/doi/10.1111/bjh.14514 
+Murillo A, Cronin AM, Laubach JP, Hshieh TT, Tanasijevic AM, Richardson PG, et al. Performance of the 
+International Myeloma Working Group myeloma frailty score among patients 75 and older. J Geriatr Oncol [Internet]. 2019 
+May;10(3):486–9. Available from: https://linkinghub.elsevier.com/retrieve/pii/S1879406818303436 
+Dimopoulos MA, Moreau P, Terpos E, Mateos MV, Zweegman S, Cook G, et al. Multiple myeloma: EHA-ESMO 
+Clinical Practice Guidelines for diagnosis, treatment and follow-up†. Ann Oncol [Internet]. 2021 Mar;32(3):309–22. 
+Available from: https://linkinghub.elsevier.com/retrieve/pii/S0923753420431692 
+Fung S, Selva D, Leibovitch I, Hsuan J, Crompton J. Ophthalmic Manifestations of Multiple Myeloma. 
+Ophthalmologica [Internet]. 2005;219(1):43–8. Available from: https://www.karger.com/Article/FullText/81782 
+Messiou C, Kaiser M. Whole-Body Imaging in Multiple Myeloma. Magn Reson Imaging Clin N Am [Internet]. 
+2018 Nov;26(4):509–25. Available from: https://linkinghub.elsevier.com/retrieve/pii/S1064968918300461 
+Rajkumar SV. Updated Diagnostic Criteria and Staging System for Multiple Myeloma. Am Soc Clin Oncol Educ 
+B [Internet]. 2016 May;(36):e418–23. Available from: https://ascopubs.org/doi/10.1200/EDBK_159009 
+Palumbo A, Avet-Loiseau H, Oliva S, Lokhorst HM, Goldschmidt H, Rosinol L, et al. Revised International 
+Staging System for Multiple Myeloma: A Report From International Myeloma Working Group. J Clin Oncol [Internet]. 2015 
+Sep 10;33(26):2863–9. Available from: https://ascopubs.org/doi/10.1200/JCO.2015.61.2267 
+Avet-Loiseau H, Hulin C, Campion L, Rodon P, Marit G, Attal M, et al. Chromosomal Abnormalities Are Major 
+Prognostic Factors in Elderly Patients With Multiple Myeloma: The Intergroupe Francophone du Myélome Experience. J 
+Clin Oncol [Internet]. 2013 Aug 1;31(22):2806–9. Available from: http://ascopubs.org/doi/10.1200/JCO.2012.46.2598 
+Sonneveld P, Avet-Loiseau H, Lonial S, Usmani S, Siegel D, Anderson KC, et al. Treatment of multiple myeloma with high-risk cytogenetics: a consensus of the International Myeloma Working Group. Blood [Internet]. 2016 Jun 
+16;127(24):2955–62. Available from: https://ashpublications.org/blood/article/127/24/2955/35445/Treatment-of-multipleAbdallah N, Rajkumar SV, Greipp P, Kapoor P, Gertz MA, Dispenzieri A, et al. Cytogenetic abnormalities in multiple myeloma: association with disease characteristics and treatment response. Blood Cancer J [Internet]. 2020 Aug 
+11;10(8):82. Available from: https://www.nature.com/articles/s41408-020-00348-5 
+Michels TC, Petersen KE. Multiple Myeloma: Diagnosis and Treatment. Am Fam Physician [Internet]. 2017 Mar 
+15;95(6):373–83. Available from: http://www.ncbi.nlm.nih.gov/pubmed/28318212 
+âmbito do SUS, o bortezomibe para o tratamento de pacientes adultos com mieloma múltiplo, não previamente tratados, elegíveis ao transplante autólogo de células-tronco hema hematopoiéticas [Internet]. 2020. Available from: 
+Medical Scientific Advisory Group (MSAG). Clinical practice guideline - multiple myeloma. [Internet]. 2019. 
+Available from: https://myeloma.org.au/wp-content/uploads/2019/10/myeloma_clinical_practice_guideline_oct19.pdf 
+Mikhael J, Ismaila N, Cheung MC, Costello C, Dhodapkar M V., Kumar S, et al. Treatment of Multiple Myeloma: 
+ASCO and CCO Joint Clinical Practice Guideline. J Clin Oncol [Internet]. 2019 May 10;37(14):1228–63. Available from: https://ascopubs.org/doi/10.1200/JCO.18.02096 
+Palumbo A, Bringhen S, Bruno B, Falcone AP, Liberati AM, Grasso M, et al. Melphalan 200 mg/m2 versus melphalan 100 mg/m2 in newly diagnosed myeloma patients: a prospective, multicenter phase 3 study. Blood [Internet]. 
+2010 Mar 11;115(10):1873–9. Available from: https://ashpublications.org/blood/article/115/10/1873/26830/Melphalan-200mgm2-versus-melphalan-100-mgm2-in 
+Kardduss-Urueta A, Gale RP, Gutierrez-Aguirre CH, Herrera-Rojas MA, Murrieta-Álvarez I, Perez-Fontalvo R, et al. Freezing the graft is not necessary for autotransplants for plasma cell myeloma and lymphomas. Bone Marrow 
+Transplant [Internet]. 2018 Apr 12;53(4):457–60. Available from: http://www.nature.com/articles/s41409-017-0047-7 
+Sarmiento M, Ramírez P, Parody R, Salas M, Beffermann N, Jara V, et al. Advantages of non-cryopreserved autologous hematopoietic stem cell transplantation against a cryopreserved strategy. Bone Marrow Transplant [Internet]. 
+2018 Aug 13;53(8):960–6. Available from: http://www.nature.com/articles/s41409-018-0117-5 
+Rajkumar VS. Multiple myeloma: Use of autologous hematopoietic cell transplantation. [Internet]. 2021 [cited 
+2021 Feb 6]. Available from: https://www.uptodate.com/contents/multiple-myeloma-use-of-autologous-hematopoietic-celltransplantation?search=mieloma manutenção&source=search_result&selectedTitle=2~150&usage_type=default&display_rank=2#H13. incorporar, no âmbito do SUS, a lenalidomida para terapia de manutenção em pacientes adultos com mieloma múltiplo 
+âmbito do Sistema Único de Saúde - SUS, o bortezomibe para o tratamento de pacientes adultos com mieloma múltiplo, não https://consultas.anvisa.gov.br/#/bulario/q/?numeroRegistro=112090031 incorporar, no âmbito do SUS, a lenalidomida para pacientes adultos com mieloma múltiplo inelegíveis ao transplante de 
+Jeryczynski G, Bolomsky A, Agis H, Krauth M-T. Stratification for RRMM and Risk-Adapted Therapy: 
+Sequencing of Therapies in RRMM. Cancers (Basel) [Internet]. 2021 Nov 23;13(23):5886. Available from: https://www.mdpi.com/2072-6694/13/23/5886 
+Bazarbachi AH, Al Hamed R, Malard F, Harousseau J-L, Mohty M. Relapsed refractory multiple myeloma: a http://www.nature.com/articles/s41375-019-0561-2 
+Durie BGM, Harousseau J-L, Miguel JS, Bladé J, Barlogie B, Anderson K, et al. International uniform response http://www.nature.com/articles/2404284 
+Hungria VTM. Tratamento do Mieloma Múltiplo recidivado. Rev Bras Hematol Hemoter [Internet]. 2007 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S151684842007000100011&lng=pt&nrm=iso&tlng=pt 
+Kumar S, Paiva B, Anderson KC, Durie B, Landgren O, Moreau P, et al. International Myeloma Working Group consensus criteria for response and minimal residual disease assessment in multiple myeloma. Lancet Oncol [Internet]. 2016 
+Aug;17(8):e328–46. Available from: https://linkinghub.elsevier.com/retrieve/pii/S1470204516302066 
+Durer C, Durer S, Lee S, Chakraborty R, Malik MN, Rafae A, et al. Treatment of relapsed multiple myeloma: https://linkinghub.elsevier.com/retrieve/pii/S0268960X19300402 
+Rajkumar SV. Multiple myeloma: 2020 update on diagnosis, risk‐stratification and management. Am J Hematol 
+[Internet]. 2020 May 13;95(5):548–67. Available from: https://onlinelibrary.wiley.com/doi/10.1002/ajh.25791 
+âmbito do Sistema Único de Saúde - SUS, o bortezomibe para o tratamento de pacientes adultos com mieloma múltiplo incorporar, no âmbito do SUS, o daratumumabe em monoterapia ou associado à terapia antineoplásica para o controle do 
+Rosiñol L, Oriol A, Teruel AI, Hernández D, López-Jiménez J, de la Rubia J, et al. Superiority of bortezomib, thalidomide, and dexamethasone (VTD) as induction pretransplantation therapy in multiple myeloma: a randomized phase 3 https://ashpublications.org/blood/article/120/8/1589/30806/Superiority-of-bortezomib-thalidomide-and 
+Janssen-Cilag. VELCADE: pó liofilizado. São José dos Campos; 2017. 
+Reeder CB, Reece DE, Kukreti V, Mikhael JR, Chen C, Trudel S, et al. Long-term survival with cyclophosphamide, bortezomib and dexamethasone induction therapy in patients with newly diagnosed multiple myeloma. 
+Br J Haematol [Internet]. 2014 Nov;167(4):563–5. Available from: https://onlinelibrary.wiley.com/doi/10.1111/bjh.13004 
+Park S, Lee SJ, Jung CW, Jang JH, Kim SJ, Kim WS, et al. DCEP for relapsed or refractory multiple myeloma after therapy with novel agents. Ann Hematol [Internet]. 2014 Jan 16;93(1):99–105. Available from: http://link.springer.com/10.1007/s00277-013-1952-5 
+San Miguel JF, Schlag R, Khuageva NK, Dimopoulos MA, Shpilberg O, Kropff M, et al. Bortezomib plus 
+Melphalan and Prednisone for Initial Treatment of Multiple Myeloma. N Engl J Med [Internet]. 2008 Aug 28;359(9):906–
+17. Available from: http://www.nejm.org/doi/abs/10.1056/NEJMoa0801479 
+Anderson H, Scarffe J, Ranson M, Young R, Wieringa G, Morgenstern G, et al. VAD chemotherapy as remission http://www.nature.com/articles/bjc199565 
+Orlowski RZ, Nagler A, Sonneveld P, Bladé J, Hajek R, Spencer A, et al. Randomized Phase III Study of Pegylated 
+Liposomal Doxorubicin Plus Bortezomib Compared With Bortezomib Alone in Relapsed or Refractory Multiple Myeloma: 
+Combination Therapy Improves Time to Progression. J Clin Oncol [Internet]. 2007 Sep 1;25(25):3892–901. Available from: http://ascopubs.org/doi/10.1200/JCO.2006.10.5460 
+Panaroni C, Yee AJ, Raje NS. Myeloma and Bone Disease. Curr Osteoporos Rep [Internet]. 2017 Oct 
+31;15(5):483–98. Available from: http://link.springer.com/10.1007/s11914-017-0397-5 
+Terpos E, Zamagni E, Lentzsch S, Drake MT, García-Sanz R, Abildgaard N, et al. Treatment of multiple myelomarelated bone disease: recommendations from the Bone Working Group of the International Myeloma Working Group. Lancet https://linkinghub.elsevier.com/retrieve/pii/S1470204520305593 
+Eurofarma. Ácido Zoledrônico: solução injetável. [Internet]. São Paulo; 2021. Available from: https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=ácido zoledrônico 
+Eurofarma. Pamidronato dissódico: pó liofilizado para solução injetável. [Internet]. 2021. Available from: https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=pamidron 
+Terpos E, Kleber M, Engelhardt M, Zweegman S, Gay F, Kastritis E, et al. European Myeloma Network 
+Guidelines for the Management of Multiple Myeloma-related Complications. Haematologica [Internet]. 2015 Oct 
+1;100(10):1254–66. Available from: http://www.haematologica.org/cgi/doi/10.3324/haematol.2014.117176 
+Courant M, Orazio S, Monnereau A, Preterre J, Combe C, Rigothier C. Incidence, prognostic impact and clinical outcomes of renal impairment in patients with multiple myeloma: a population-based registry. Nephrol Dial Transplant 
+[Internet]. 2021 Feb 20;36(3):482–90. Available from: https://academic.oup.com/ndt/article/36/3/482/5643867 
+Maiolino A, Magalhães RJP. Mieloma Múltiplo e insuficiência renal. Rev Bras Hematol Hemoter [Internet]. 2007 http://www.scielo.br/scielo.php?script=sci_arttext&pid=S151684842007000100016&lng=pt&nrm=iso&tlng=pt 
+Heher EC, Rennke HG, Laubach JP, Richardson PG. Kidney Disease and Multiple Myeloma. Clin J Am Soc https://cjasn.asnjournals.org/lookup/doi/10.2215/CJN.12231212 
+Dimopoulos MA, Kastritis E, Rosinol L, Bladé J, Ludwig H. Pathogenesis and treatment of renal failure in multiple myeloma. Leukemia [Internet]. 2008 Aug 5;22(8):1485–93. Available from: http://www.nature.com/articles/leu2008131 
+Gupta D, Bachegowda L, Phadke G, Boren S, Johnson D, Misra M. Role of plasmapheresis in the management of myeloma kidney: A systematic review. Hemodial Int [Internet]. 2010 Oct;14(4):355–63. Available from: https://onlinelibrary.wiley.com/doi/10.1111/j.1542-4758.2010.00481.x 
+Premuzic V, Batinic J, Roncevic P, Basic-Jukic N, Nemet D, Jelakovic B. Role of Plasmapheresis in the 
+Management of Acute Kidney Injury in Patients With Multiple Myeloma: Should We Abandon It? Ther Apher Dial [Internet]. 
+2018 Feb;22(1):79–86. Available from: https://onlinelibrary.wiley.com/doi/10.1111/1744-9987.12606 
+Ludwig H, Boccadoro M, Moreau P, San-Miguel J, Cavo M, Pawlyn C, et al. Recommendations for vaccination in multiple myeloma: a consensus of the European Myeloma Network. Leukemia [Internet]. 2021 Jan 19;35(1):31–44. 
+Available from: https://www.nature.com/articles/s41375-020-01016-0 
+Ludwig H, Miguel JS, Dimopoulos MA, Palumbo A, Garcia Sanz R, Powles R, et al. International Myeloma 
+Working Group recommendations for global myeloma care. Leukemia [Internet]. 2014 May 9;28(5):981–92. Available from: http://www.nature.com/articles/leu2013293 
+Transmissíveis. Manual dos Centros de Referência para Imunobiológicos Especiais. [Internet]. 2019. Available from: https://bvsms.saude.gov.br/bvs/publicacoes/manual_centros_imunobiologicos_especiais_5ed.pdf 
+Beltrao T., Ramalho MNA, Barros MBSC, Silva FM., Oliveira SHS. Acompanhamento de pessoas com câncer http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0864-03192019000400006 
+Bacci C, Cerrato A, Dotto V, Zambello R, Barilà G, Liço A, et al. The Importance of Alliance between 
+Hematologists and Dentists: A Retrospective Study on the Development of Bisphosphonates Osteonecrosis of the Jaws 
+(Bronj) in Multiple Myeloma Patients. Dent J [Internet]. 2021 Jan 20;9(2):11. Available from: https://www.mdpi.com/2304Terpos E, Morgan G, Dimopoulos MA, Drake MT, Lentzsch S, Raje N, et al. International Myeloma Working 
+Group Recommendations for the Treatment of Multiple Myeloma–Related Bone Disease. J Clin Oncol [Internet]. 2013 Jun 
+20;31(18):2347–57. Available from: http://ascopubs.org/doi/10.1200/JCO.2012.47.7901 
+Dispõe sobre o controle da substância Talidomida e do medicamento que a contenha. [Internet] 2011. Disponível em: https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2011/rdc0011_22_03_2011.html. 
+METODOLOGIA DE DESENVOLVIMENTO DA DIRETRIZ E DETALHAMENTO DAS RECOMENDAÇÕES 
+Escopo e finalidade das Diretrizes 
+O presente apêndice consiste no documento de trabalho do grupo elaborador da atualização das Diretrizes Diagnósticas e 
+Terapêuticas (DDT) do Mieloma Múltiplo (MM) contendo a descrição da metodologia de busca de evidências científicas, as recomendações e seus julgamentos (fundamentos para a tomada de decisão), tendo como objetivo embasar o texto das DDT, aumentar a sua transparência e prover considerações adicionais para profissionais da saúde, gestores e demais potenciais interessados. O processo de atualização deste documento baseou-se na versão das DDT do Mieloma Múltiplo publicada por meio 
+O público-alvo destas DDT é composto por profissionais da saúde envolvidos no atendimento de pacientes com MM. Os pacientes adultos com idade maior ou igual a 19 anos e diagnóstico de MM são a população-alvo destas recomendações. 
+A atualização desse documento foi iniciada em 17 de março de 2021, com a realização da reunião de escopo, no qual as perguntas de pesquisa que direcionaram a atualização destas Diretrizes foram elaboradas. As reuniões de recomendação, com a presença dos especialistas, foram realizadas nos dias 7, 15 e 20 de dezembro de 2021. 
+Equipe de elaboração e partes interessadas 
+O grupo desenvolvedor destas Diretrizes foi composto por um painel de especialistas sob coordenação do Departamento de Gestão e Incorporação de Tecnologias em Saúde da Secretaria de Ciência, Tecnologia, Inovação e Complexo da Saúde do 
+Declaração e Manejo de Conflitos de Interesse 
+Todos os participantes do processo de elaboração do PCDT preencheram o formulário de Declaração de Conflitos de 
+Quadro A - Questionário de conflitos de interesse Diretrizes clínico-assistenciais. 
+1. Você já aceitou de uma instituição que pode se beneficiar ou se prejudicar financeiramente algum dos benefícios abaixo? a) Reembolso por comparecimento a eventos na área de interesse da diretriz b) Honorários por apresentação, consultoria, palestra ou atividades de ensino c) Financiamento para redação de artigos ou editorias d) Suporte para realização ou desenvolvimento de pesquisa na área e) Recursos ou apoio financeiro para membro da equipe f) Algum outro benefício financeiro 
+2. Você possui apólices ou ações de alguma empresa que possa de alguma forma ser beneficiada ou prejudicada com as recomendações da diretriz? 
+3. Você possui algum direito de propriedade intelectual (patentes, registros de marca, royalties) de alguma tecnologia ligada ao tema da diretriz? 
+4. Você já atuou como perito judicial na área tema da diretriz? 
+5. Você participa, direta ou indiretamente, de algum grupo citado abaixo cujos interesses possam ser afetados pela sua atividade na elaboração ou revisão da diretriz? a) Instituição privada com ou sem fins lucrativos b) Organização governamental ou não-governamental c) Produtor, distribuidor ou detentor de registro e) Comitê, sociedade ou grupo de trabalho f) Outro grupo de interesse 
+6. Você poderia ter algum tipo de benefício clínico? 
+7. Você possui uma ligação ou rivalidade acadêmica com alguém cujos interesses possam ser afetados? 
+8. Você possui profunda convicção pessoal ou religiosa que pode comprometer o que você irá escrever e que deveria ser do conhecimento público? 
+9. Existe algum aspecto do seu histórico profissional, que não esteja relacionado acima, que possa afetar sua objetividade ou imparcialidade? 
+10. Sua família ou pessoas que mantenha relações próximas possui alguns dos conflitos listados acima? 
+Avaliação da Subcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas 
+A proposta de atualização das DDT de MM foi apresentada na 98ª Reunião da Subcomissão Técnica de Avaliação de 
+Protocolos Clínicos e Diretrizes Terapêuticas, realizada em 19 de abril de 2022. A reunião teve a presença de representantes da 
+Saúde (SAES) e Secretaria de Vigilância em Saúde (SVS). As DDT foram aprovadas para avaliação da Conitec e a proposta foi apresentada aos membros do Plenário da Conitec em sua 108ª Reunião Ordinária, os quais recomendaram favoravelmente ao 
+Busca da evidência e recomendações 
+O processo de desenvolvimento dessas DDT seguiu recomendações da Diretriz Metodológica de Elaboração de Diretrizes 
+Development and Evaluation), que classifica a qualidade da informação ou o grau de certeza dos resultados disponíveis na literatura em quatro categorias (muito baixo, baixo, moderado e alto)2. 
+Foram elencadas e priorizadas sete dúvidas clínicas pelo painel de especialistas e, para cada dúvida, foi elaborada uma pergunta de pesquisa, conforme acrônimo PICO. Para cada uma das perguntas de pesquisa, foi realizada a busca estruturada nas bases de dados Medical Literature Analysis and Retrieval System Online (MEDLINE) via Pubmed e via OVID, Excerpta medica database (EMBASE), Cochrane Library e Literatura latino-americana em ciências da saúde (LILACS) via Biblioteca Virtual de 
+Saúde. Também foram realizadas buscas em repositórios de diretrizes clínicas para identificar possíveis atualizações em relação 
+às boas práticas no cuidado aos pacientes com MM. 
+A seleção dos artigos foi realizada por dois pesquisadores conforme critérios de elegibilidade pré-estabelecidos para cada pergunta. De forma geral, foram selecionadas revisões sistemáticas com meta-análise (RSMA), que posteriormente foram atualizadas pelo grupo elaborador. Na ausência de RS de qualidade, foram selecionados ensaios clínicos randomizados (ECR). 
+As RSs foram avaliadas com a utilização da ferramenta AMSTAR 2.0 (A MeaSurement Tool to Assess Systematic 
+Reviews)3 e os ECRs foram avaliados por meio da ferramenta RoB 2 (A revised tool for assessing risk of bias in randomised trials)4. A avaliação de estudos de acurácia diagnóstica foi realizada com uso da ferramenta QUADAS-2 (Quality Assessment of 
+Diagnostic Accuracy Studies (QUADAS-2)5. A extração dos dados foi realizada por dois pesquisadores por meio de ficha de extração padronizada e desenvolvida pelo grupo elaborador. Os resultados foram apresentados por meio de estimativas de risk difference (RD), risco relativo (RR), Odds Ratio (OR) e hazard ratio (HR), com seus respectivos intervalos de confiança (IC) de 
+95%. O modelo de efeitos aleatórios foi utilizado nas meta-análises. 
+Após a avaliação dos resultados, foi utilizado o sistema GRADE2 para avaliação da certeza da evidência. A interpretação dos níveis de evidência de acordo com o GRADE é apresentada no Quadro B6. 
+Quadro B - Níveis de evidências de acordo com o sistema GRADE. 
+Há forte confiança de que o verdadeiro efeito esteja próximo daquele estimado 
+É improvável que trabalhos adicionais irão modificar a confiança na estimativa do efeito. 
+Há confiança moderada no efeito estimado. 
+Trabalhos futuros poderão modificar a confiança na estimativa de efeito, podendo, inclusive, modificar a 
+A confiança no efeito é limitada. 
+Trabalhos futuros provavelmente terão um impacto importante em nossa confiança na estimativa de efeito. 
+A confiança na estimativa de efeito é muito 
+Há um importante grau de incerteza nos achados. 
+Qualquer estimativa de efeito é incerta. 
+Fonte: Diretrizes metodológicas: Sistema GRADE – Manual de graduação da qualidade da evidência e força de recomendação para tomada de decisão em saúde 
+Desenvolvimento da recomendação 
+Para cada recomendação, foram discutidas a direção do curso da ação (realizar ou não realizar a ação proposta) e a força da recomendação, definida como forte ou condicional, de acordo com o sistema GRADE (Quadro C)6. 
+Quadro C - Implicações da força da recomendação para profissionais, pacientes e gestores em saúde. 
+A recomendação deve ser adotada como política de saúde na maioria das situações 
+É necessário debate substancial e envolvimento das 
+A maioria dos indivíduos desejaria que a intervenção fosse indicada e apenas um 
+Grande parte dos indivíduos desejaria que a intervenção fosse indicada; contudo considerável número não aceitaria essa recomendação. 
+A maioria dos pacientes deve receber a 
+O profissional deve reconhecer que diferentes escolhas serão apropriadas para cada paciente para definir uma decisão consistente com os seus valores e 
+Fonte: Diretrizes metodológicas: Sistema GRADE – Manual de graduação da qualidade da evidência e força de recomendação para tomada de decisão em saúde 
+Para a elaboração das recomendações, foram considerados os riscos e os benefícios das condutas propostas, incluindo nível de evidências, custos, uso de recursos, aceitabilidade pelos profissionais e demais barreiras para implementação. De acordo com o sistema GRADE, a recomendação pode ser a favor ou contra a intervenção proposta, bem como pode ser forte (quando o painel de especialistas está bastante confiante que os benefícios superam os riscos) ou condicional/fraca (quando a recomendação ainda gera dúvidas quanto ao benefício e risco). Colocações adicionais sobre as recomendações, como potenciais exceções às condutas propostas ou outros esclarecimentos, foram documentadas ao longo do texto. Dessa forma, a direção e a força da recomendação, assim como sua redação, foram definidas durante a reunião e obtidas por meio de consenso. 
+Na sequência, são apresentadas para cada uma das questões clínicas, os métodos e resultados das buscas, as recomendações do painel, recomendações de outras diretrizes, um resumo das evidências e as tabelas de perfil de evidências de acordo com a metodologia GRADE. 
+Para cada uma das questões clínicas foram apresentadas as perguntas de pesquisa, recomendações do painel dos especialistas, métodos, resultados das buscas, resumo das evidências, tabelas do perfil de evidências de acordo com a metodologia GRADE e tabela para tomada de decisão. 
+QUESTÃO 1: Deve-se utilizar a citogenética por Hibridização In Situ por Fluorescência (FISH) versus citogenética convencional para detectar as alterações t(4:14), del(17p13) e t(14:16) em pacientes com mieloma múltiplo? 
+Recomendação 1: Sugerimos a utilização da hibridização in situ por fluorescência (FISH) para identificação das alterações moleculares para avaliação do prognóstico dos pacientes com mieloma múltiplo recém-diagnosticado e nos pacientes com recidiva, condicionada a decisão de ampliação do uso da tecnologia (qualidade da evidência muito baixa, recomendação 
+A estrutura PICO para esta pergunta foi: 
+População: Pacientes adultos, com diagnóstico de MM. 
+Intervenção: Citogenética por Hibridização In Situ por Fluorescência (FISH) (molecular) para detecção de alterações citogenéticas de alto risco (t4:14, t14:16 e del17p3). 
+Comparador: Citogenética convencional. 
+Desfechos: Sensibilidade, Especificidade, Razão de verossimilhança, Verdadeiro negativo (VN), Verdadeiro positivo 
+(VP), Falso negativo (FN), Falso positivo (FP). 
+Métodos e resultados da busca: 
+Para tomada de decisão, foram consideradas as evidências incluídas nas DDT de MM1 e foi estruturada e realizada uma busca sistematizada da literatura por RS atualizadas, de adequada qualidade metodológica. As buscas foram realizadas nas bases de dados Embase®, Medline (via Pubmed), Cochrane Library e LILACS. Para a elaboração das estratégias de busca, foram utilizados termos provenientes dos tesauros Mesh (Medline), Emtree® (Embase®) e DeCS (LILACS), além de termos livres provenientes de estudos indexados sobre o tema. As buscas foram realizadas em 25 de junho de 2021 e não houve restrição em relação ao período de indexação. As bases de dados utilizadas, as estratégias de busca detalhadas e o número de documentos recuperados estão presentes no Quadro D. 
+Quadro D - Bases de dados, estratégias de busca e resultados recuperados. 
+(((Multiple Myeloma[MeSH Terms]) OR (Multiple Myelomas OR Myelomas, Multiple OR 
+Myeloma, Multiple OR Myeloma, Plasma-Cell OR Myeloma, Plasma Cell OR Myelomas, 
+Plasma-Cell OR Plasma-Cell Myeloma OR Plasma-Cell Myelomas OR Myelomatosis OR 
+Myelomatoses OR Plasma Cell Myeloma OR Cell Myeloma, Plasma OR Cell Myelomas, 
+Plasma OR Myelomas, Plasma Cell OR Plasma Cell Myelomas OR Kahler Disease OR 
+Disease, Kahler OR Myeloma-Multiple OR Myeloma Multiple OR Myeloma-Multiples)) 
+AND ((In Situ Hybridization, Fluorescence[MeSH Terms]) OR (Hybridization in Situ, 
+Fluorescent OR FISH Technique OR FISH Techniques OR Technique, FISH OR 
+Techniques, FISH OR Fluorescent in Situ Hybridization OR FISH Technic OR FISH 
+Technics OR Technic, FISH OR Technics, FISH OR Hybridization in Situ, Fluorescence 
+OR In Situ Hybridization, Fluorescent))) AND (((sensitiv*[Title/Abstract] OR sensitivity and specificity[MeSH Terms] OR diagnose[Title/Abstract] OR diagnosed[Title/Abstract] 
+OR diagnoses[Title/Abstract] OR diagnosing[Title/Abstract] OR diagnosis[Title/Abstract] diagnostic[Title/Abstract] differential[MeSH:noexp] OR diagnosis[Subheading:noexp]))) 
+#1 'multiple myeloma'/exp OR 'multiple myeloma' (94,560) 
+#2 'fluorescence in situ hybridization' (78,811) 
+#3 'systematic review' (381,788) 
+#4 'meta analysis' (321,879) 
+#8 'diagnostic procedure' (106,348) 
+#9 'diagnostic method' (13,687) 
+#10 'diagnostic techniques' (12,181) 
+#11 'diagnostic techniques and procedures' (611) 
+#12 'diagnosis' (5,951,800) 
+#13 'diagnostic tool' (42,960) 
+#14 #8 OR #9 OR #10 OR #11 OR #12 OR #13 (5,997,208) 
+("Multiple Myeloma" OR "Myeloma, Plasma-Cell") AND ("In Situ Hybridization, 
+Fluorescence") in All Text 
+("Multiple Myeloma" OR "Mieloma Múltiple" OR "Mieloma múltiplo") AND ("In Situ 
+Hybridization, Fluorescence" OR "Hibridização in Situ Fluorescente") 
+Após a etapa da busca nas bases de dados, a exclusão das duplicatas e seleção dos estudos foram realizadas por meio do software Rayyan®. As etapas de seleção por títulos e resumos, bem como, após leitura na íntegra, foram realizadas de forma independente por dois pesquisadores. As discordâncias foram avaliadas por um terceiro pesquisador e resolvidas por consenso. 
+Foram considerados como critérios de elegibilidade: 
+(a) População: Adultos, com diagnóstico de MM e idade igual ou superior a 19 anos. Não houve restrição quanto ao estadiamento da doença ou momento de realização do teste (diagnóstico ou seguimento). 
+(b) Intervenção: Avaliação de amostras de medula óssea ou sangue periférico de pacientes com MM, por meio do teste 
+FISH, e que utilizaram sondas para identificação de alterações cromossômicas t(4;14), del(17p13) e t(14;16). 
+(c) Comparador: Citogenética convencional. 
+(d) Desfechos: Avaliações de sensibilidade, especificidade e razão de verossimilhança, verdadeiro negativo (VN), verdadeiro positivo (VP), falso negativo (FN) e falso positivo (FP). 
+(e) Tipos de estudos: RSs de estudos de acurácia, ECRs e não randomizados, bem como estudos observacionais. 
+(f) Idioma e data de publicação: Sem restrição 
+A busca nas bases de dados resultou na identificação de 1.707 relatos, dos quais 433 foram excluídos por serem duplicatas. 
+Foram triados 1.274 títulos e resumos, dos quais 35 foram selecionados para leitura do texto completo. Destes, 12 relatos, publicados como resumos em eventos científicos, foram excluídos por não apresentarem artigos completos, mesmo após o contato com os autores correspondentes. Para avaliação da elegibilidade, 23 relatos foram avaliados na íntegra. Ao final, 13 relatos de 11 estudos atenderam aos critérios de elegibilidade7–17 (Figura A). 
+Figura A - Fluxograma de seleção de artigos. 
+Análise e apresentação dos resultados: 
+Não foi possível calcular a sensibilidade e a especificidade dos testes pela ausência de padrão-ouro com o qual os dois exames - citogenética convencional e FISH - pudessem ser comparados. Pela ausência de especificidade, também não foi possível calcular a razão de verossimilhança e os valores preditivos. Os testes diagnósticos foram comparados de forma descritiva e por 
+Não foi possível mensurar os desfechos elencados na pergunta de pesquisa porque o comparador disponível no Brasil, citogenética convencional, possui sensibilidade e especificidade inferiores ao teste índice (FISH)18. Como desfechos substitutos, foram calculadas as medidas de efeito, com diferenças de risco (RD) com IC de 95%, que foram combinados por meio da metaanálise e foram apresentados por meio dos gráficos de floresta. A diferença de risco descreve a diferença de risco real dos eventos observados em cada um dos grupos. 
+Os estudos incluídos analisaram amostras de 781 pacientes com MM. Destes, 653 foram avaliadas pelo método FISH e 
+719 pela citogenética convencional. A t(4;14) foi detectada em 11,3% (58/518) das amostras por FISH e 0,17% (1/607) por citogenética convencional. Os resultados da meta-análise mostraram que o FISH aumentou em 12% a detecção da t(4;14) quando comparado a citogenética convencional (RD: 0,12 [IC 95%: 0,06-0,19]; p < 0,0001; I2: 52%) (Figura B). 
+Figura B - Gráfico de floresta para as diferenças de risco para detecção da translocação (4;14) pelo teste FISH quando comparado à citogenética 
+Legenda: FISH: Hibridização In Situ por Fluorescência. 
+Em relação à del(17p13), esta foi detectada em 12,2% (80/653) das amostras por FISH e 1,6% (10/607) por citogenética convencional. O FISH aumentou em 12% a detecção da del(17p13) em comparação à citogenética convencional (RD: 0,12 [IC 
+95%: 0,04-0,20]; p < 0,0001; I2: 77%) (Figura C). 
+Figura C - Gráfico de floresta para as diferenças de risco para detecção da deleção 17p13 pelo teste FISH quando comparado à citogenética 
+ citogenética convencional. 
+Legenda: FISH: Hibridização In Situ por Fluorescência. 
+A t(14;16) foi detectada em 0,42% (2/478) das amostras por FISH e 0,17% (1/607) por citogenética convencional. Não houve diferença entre o FISH e a citogenética convencional para detecção da t(14;16) (RD: 0,00 [IC 95%: -0,01-0,02]; p = 0,41; 
+Figura D - Gráfico de floresta para as diferenças de risco para detecção da translocação (14;16) pelo teste FISH quando comparado à citogenética convencional.
+Legenda: FISH: Hibridização In Situ por Fluorescência. 
+As Figuras E e F apresentam, respectivamente, o risco de viés avaliado pela ferramenta QUADAS-21 e as questões de aplicabilidade para cada um dos 11 estudos incluídos7,8,17,9–16.A maioria dos estudos apresentou risco de viés incerto, exceto para o domínio Fluxo e Temporalidade, em que apenas dois estudos não apresentaram baixo risco de viés. 
+Figura E - Percentuais de risco de viés e aplicabilidade dos estudos incluídos, de acordo com os domínios do QUADAS-2. 
+Figura F - Resumo do risco de viés e aplicabilidade dos testes nos estudos incluídos, de acordo com o domínio do QUADAS-2. 
+Justificativa para a recomendação: 
+O painel de especialistas considerou que o FISH deve ser priorizado para avaliação prognóstica do paciente com MM em relação à citogenética convencional, a qual apresenta limitações técnicas para identificação das alterações moleculares em amostras de medula óssea de pacientes com mieloma múltiplo. 
+Considerações gerais e para implementação: 
+O teste FISH já está disponível no âmbito do Sistema Único de Saúde (SUS) para o diagnóstico de outras doenças. No 
+Brasil, os laboratórios de referência para doenças raras possuem a infraestrutura necessária para a realização dos exames e seria necessária a ampliação do uso do exame por meio do SUS. Do ponto de vista da implementação, a capacitação de recursos humanos é um fator de extrema importância, uma vez que a maioria destes laboratórios, atualmente, não possui pessoal capacitado especificamente para analisar amostras de pacientes com mieloma múltiplo. O FISH deve ser realizado como parte dos exames diagnósticos necessários para o estadiamento citogenético e a tomada de decisão quanto à estratégia terapêutica a 
+1 A denominação em português de cada domínio, apresentada em itálico, teve como fonte a tradução não validada das "Diretrizes Metodológicas: Elaboração de ser empregada diante da classificação de risco dos pacientes com mieloma múltiplo. Sugere-se que seja realizado o painel mínimo para detecção das alterações moleculares t(4;14), del17p13, t(14;16), com possibilidade de realizar o painel ampliado para identificação das alterações amplificação do 1q, t(11;14). 
+O perfil de evidências, de acordo com o sistema GRADE, sobre o uso do FISH para detecção de alterações moleculares de alto risco em pacientes com mieloma múltiplo foi avaliado por dois pesquisadores e as discordâncias foram consensuadas com a participação de um terceiro pesquisador. Os resultados para os desfechos detecção da t(4;14), del 17p13, e t(14;16) estão apresentados na Tabela A.
+Tabela A - Avaliação da certeza de evidência do uso do FISH para detecção de alterações citogenéticas de alto risco, comparado a citogenética convencional. 
+Taxas de eventos do estudo 
+Detecção translocação (4;14) 
+Detecção da translocação (14;16) 
+Legenda: IC: Intervalo de confiança a. Risco de viés, avaliado pela ferramenta QUADAS-2, apresentou risco muito grave. b. A qualidade da evidência não foi rebaixada por inconsistência, pois todas as medidas favorecem o teste-índice. c. Os intervalos de confiança não se sobrepõem e o I2 = 77%. 
+Referências: Aras et al. 20127, Ashok et al. 20178, Aydin et al. 202010, Chang et al. 200411, Gole et al. 201412, Hamdaoui et al. 202013, He et al. 201314, Ikbal et al. 202015, Kishimoto et al. 201616, Legües et al. 201917, Yu et al. 202019, 
+Tabela para tomada de decisão (Evidence to Decision table- EtD): 
+O Quadro E apresenta o processo de tomada de decisão sobre o uso do FISH para a detecção de alterações citogenéticas de alto risco, baseando-se nas contribuições do painel de especialistas e na síntese de evidências realizada pelo grupo elaborador. 
+Quadro E - Processo de tomada de decisão referente ao uso de FISH para detecção das alterações citogenéticas de alto risco (t4:14, t14:16 e del17p3). 
+Julgamento dos painelistas 
+Todos os membros do painel julgaram que os efeitos desejáveis são substanciais, e que o FISH é o método de escolha para identificação de alterações citogenéticas em pacientes com 
+Todos os membros do painel julgaram que o risco para realização do exame é trivial. 
+Os membros julgam que o balanço é favorável à intervenção. 
+Tecnologia disponível no SUS para pacientes com doenças raras, mas que pode ser ampliada para pacientes com mieloma 
+O painel sugere a realização de um painel mínimo de investigação das alterações citogenéticas, que incluem a pesquisa da t(4;14), del17p13, t(14;16), com possibilidade de realizar o painel ampliado para identificação da amplificação do 1q, t(11;14). 
+QUESTÃO 2: Deve-se utilizar bortezomibe associado aos esquemas terapêuticos usuais em vez dos esquemas terapêuticos usuais na terapia de indução de pacientes com mieloma múltiplo elegíveis ao TCTH? 
+Recomendação 2: Recomendamos o uso de combinações baseadas em bortezomibe para pacientes com mieloma múltiplo, recém-diagnosticado, elegíveis ao transplante de células-tronco hematopoiéticas (qualidade da evidência alta, 
+A estrutura PICO para esta pergunta foi: 
+População: Pacientes adultos, com MM, elegíveis ao TCTH 
+Intervenção: Bortezomibe + esquema terapêutico usual 
+Comparador: Esquema terapêutico usual 
+Desfechos: Sobrevida global (SG), sobrevida livre de progressão (SLP), eventos adversos (EA) 
+Métodos e resultados da busca 
+A seleção das evidências foi realizada em duas etapas: 
+Etapa 1: foram selecionadas revisões sistemáticas com meta-análise (RSMA) que avaliam o efeito do bortezomibe em pacientes com MM elegíveis ao TCTH. 
+Etapa 2: foi realizada a seleção dos ECRs, publicados a partir da RS selecionada para atualização. 
+Na Etapa 1, as buscas foram realizadas nas bases de dados Embase®, Medline (via Pubmed), Cochrane Library e LILACS. 
+Para a elaboração das estratégias de busca, foram utilizados termos provenientes dos tesauros Mesh (Medline), Emtree® 
+(Embase®) e DeCS (LILACS), além de termos livres provenientes de estudos indexados sobre o tema. As buscas foram realizadas em 26 de maio de 2021 e não houve restrição em relação ao período de indexação (Quadro F). 
+Quadro F - Estratégias de busca, de acordo com a base de dados, para identificação de revisões sistemáticas sobre o uso bortezomibe em pacientes com mieloma múltiplo elegíveis ao TCTH. 
+((("Multiple Myeloma"[Mesh Terms] OR "Multiple Myelomas" OR "Myelomas, Multiple" 
+OR "Myeloma, Multiple" OR "Myeloma, Plasma-Cell" OR "Myeloma, Plasma Cell" OR 
+"Myelomas, Plasma-Cell" OR "Plasma-Cell Myeloma" OR "Plasma-Cell Myelomas" OR 
+"Myelomatosis" OR "Myelomatoses" OR "Plasma Cell Myeloma" OR "Cell Myeloma, 
+Plasma" OR "Cell Myelomas, Plasma" OR "Myelomas, Plasma Cell" OR "Plasma Cell 
+Myelomas" OR "Kahler Disease" OR "Disease, Kahler" OR "Myeloma-Multiple" OR 
+"Myeloma Multiple" OR "Myeloma-Multiples")) AND ("Bortezomib"[Mesh] OR "LDP341" OR "LDP 341" OR "LDP341" OR "PS 341" OR "341, PS" OR "PS-341" OR "PS341" 
+OR "Velcade") AND ((((systematic review[tiab] OR systematic literature review[tiab] OR systematic scoping review[tiab] OR systematic narrative review[tiab] OR systematic qualitative review[tiab] OR systematic evidence review[tiab] OR systematic quantitative review[tiab] OR systematic meta-review[tiab] OR systematic critical review[tiab] OR systematic mixed studies review[tiab] OR systematic mapping review[tiab] OR systematic search and review[tiab] OR systematic integrative review[tiab] OR meta-analysis[tiab] OR 
+Network Meta-Analysis[tiab] OR Network Meta-Analyses [tiab]) NOT comment[pt] NOT 
+(protocol[ti] OR protocols[ti])) NOT MEDLINE [subset]) OR systematic review[pt] OR 
+#1. 'multiple myeloma' (94,023) 
+#2. 'bortezomib' (33,825) 
+#4. 'systematic review' (374,884) 
+#5. 'meta analysis' (317,590) 
+("Multiple Myeloma" OR "Myeloma, Plasma-Cell") AND ("Bortezomib" OR "Velcade") 
+("Multiple Myeloma" OR "Mieloma Múltiple" OR "Mieloma Múltiplo") AND 
+("Bortezomib" OR "Bortezomibe" OR "Velcade") 
+Após a busca nas bases de dados, a exclusão das duplicatas e seleção dos estudos foram realizadas por meio do software 
+Rayyan®. A seleção por títulos e resumos, bem como após leitura na íntegra foram realizadas de forma independente por dois pesquisadores. As discordâncias foram avaliadas por um terceiro pesquisador e resolvidas por consenso. 
+Revisões sistemáticas selecionadas 
+Para os pacientes elegíveis ao TCTH, após a busca na literatura por estudos que atendessem aos critérios de elegibilidade, cinco RSMAs de ECRs foram selecionadas20–24 (Figura G). Os motivos de exclusão das demais RSs são apresentados no 
+Figura G - Fluxograma de seleção das revisões sistemáticas incluídas 
+Quadro G - Estudos excluídos e motivos de exclusão na busca e seleção de revisões sistemáticas. 
+Thalidomide versus bortezomib based regimens as first-line therapy for patients with multiple myeloma: a systematic review 
+Dictamen Preliminar de Evaluación de Tecnología Sanitaria 
+(Bortezomib plus lenalidomide/thalidomide)- vs (bortezomib or lenalidomide/thalidomide)-containing regimens as induction therapy in newly diagnosed multiple myeloma: a meta-analysis of randomized controlled trials 
+Efficacy and Safety of Novel Agent-Based Therapies for Multiple Myeloma: A 
+Bortezomib and lenalidomide as front-line therapy for multiple myeloma 
+Bortezomib in multiple myeloma: systematic review and clinical 
+Characteristics and risk factors of bortezomib induced peripheral neuropathy: A systematic review of phase III trials 
+First-Line Therapy for Patients With Multiple Myeloma: Direct and Indirect 
+Comparison of Treatment Regimens on the Existing Market 
+Continuous treatment with new agents for newly diagnosed multiple myeloma 
+Avaliação da qualidade metodológica e caracterização das RS 
+A avaliação da qualidade metodológica das RS foi realizada utilizando a ferramenta AMSTAR 2.0 (A MeaSurement Tool to Assess Systematic Reviews)3. A revisão de Scott et al. (2016) 20 não apresentou nenhuma falha crítica (Quadro H) e, por este motivo, foi selecionada para atualização. 
+Quadro H - Caracterização e avaliação da qualidade metodológica das revisões sistemáticas com meta-análise de ensaios clínicos randomizados, selecionadas na Etapa 
+(elegíveis ou inelegíveis 
+Legenda: EA (evento adverso), MM (mieloma múltiplo), SG (sobrevida global), SLP (sobrevida livre de progressão), SLE (Sobrevida Livre de Eventos), 
+TCTH (transplante de células tronco hematopoiéticas), TRC (taxa de resposta completa), TRG (taxa de resposta global), TRP (taxa de resposta parcial), 
+TRPMB (taxa de resposta parcial muito boa), TTP (tempo até progressão). 
+Na Etapa 2, foi realizada atualização da estratégia de busca do estudo de Scott et al. (2016) 20 nas bases de dados Medline 
+(via Ovid), Embase e Cochrane no dia 26 de outubro de 2021 (Quadro I). Com a utilização do filtro de data, as potenciais publicações posteriores a 27 de janeiro de 2016 foram recuperadas. 
+Quadro I - Estratégias de busca, de acordo com a base de dados, para identificação de ensaios clínicos randomizados do uso de bortezomibe para pacientes com mieloma múltiplo elegíveis ao TCTH. 
+#1 exp MULTIPLE MYELOMA/(43741) 
+#2 myelom$.kf,ot,tw.(61910) 
+#3 exp PLASMACYTOMA/(8715) 
+#4 plasm?cytom$.kf,ot,tw.(7501) 
+#5 plasmozytom$.kf,ot,tw.(389) 
+#6 plasm$ cell myelom$.kf,ot,tw.(747) 
+#7 myelomatosis.kf,ot,tw.(754) 
+#8 Leukemia, Plasma Cell/(1030) 
+#9 (plasma$ adj3 neoplas$).kf,ot,tw.(1801) 
+#10 kahler.kf,ot,tw.(250) 
+#11 #1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10(76892) 
+#12 (proteasom$ adj2 inhibitor$).kf,ot,tw.(9724) 
+#13 bortezomib$.kf,ot,nm,tw.(8659) 
+#14 proscript$.kf,ot,nm,tw.(255) 
+#15 (PS-341 or PS341).kf,ot,nm,tw.(410) 
+#16 (LDP-341 or LDP341 or MLN-341 or MLN341 or MG-341 or 
+#17 velcad$.kf,ot,tw.(502) 
+#18 #12 or #13 or #14 or #15 or #16 or #17(15733) 
+#20 randomized controlled trial.pt.(546325) 
+#21 controlled clinical trial.pt.(94441) 
+#24 clinical trials as topic.sh.(197755) 
+#27 #20 or #21 or #22 or #23 or #24 or #25 or #26(1099368) 
+#31 limit 30 to yr="2016 -Current"(268) 
+#27. #11 AND #18 AND #25 AND [2016-2021]/py (1,227) 
+#26. #11 AND #18 AND #25 (2,436) 
+#25. #19 or #20 or #21 or #22 or #23 or #24 (42,391) 
+#24. 'ldp 341'/exp OR 'ldp341'/exp OR 'mln 341'/exp OR 
+ 'mln341'/exp OR 'mg 341'/exp OR 'mg341'/exp (34,278) 
+#23. 'ps 341'/exp OR 'ps341'/exp (34,278) 
+#21. 'velcade'/exp (34,278) 
+#20. 'bortezomib'/exp (34,278) 
+#19. 'proteasome'/exp AND inhibitor (10,425) 
+# 18. #12 or #13 or #14 or #15 or #16 or #17 (154,240) 
+#17. plasma* NEAR/3 neoplas* (3,744) 
+#16. 'plasma'/exp AND 'cell'/exp AND 'leukemia'/exp (1,335) 
+#15. plasm* AND 'cell'/exp AND myelom* (19,264) 
+#14. 'plasmacytoma'/exp (13,733) 
+#12. multiple AND 'myeloma'/exp (91,406) 
+#11 #1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10 (1,985,288) 
+#10. randomized AND controlled AND trial (972,796) 
+#6. single AND 'blind'/exp AND 'procedure'/exp (2,544) 
+#5. double AND 'blind'/exp AND 'procedure'/exp (807) 
+#4. 'placebo'/exp (380,062) 
+#3. crossover AND 'procedure'/exp (112,636) 
+#2. factorial AND design (21,836) 
+#1. 'randomization'/exp (92,330) 
+#1 [Multiple Myeloma] exp (1687) 
+#3 [Plasmacytoma] expl (87) 
+#6 plam* cell myelom* (1) 
+#8 [Leukemia, Plasma Cell] expl (3) 
+#9 plasma* near/3 neoplas* (711) 
+#11 #1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10 (7223) 
+#12 proteasom* near/2 inhibitor* (610) 
+#15 PS-341* or PS341*) (38) 
+#16 LDP-341* or LDP341* or MLN-341* or MLN341* or MG-341* or MG341* (3) 
+#18 #12 or #13 or #14 or #15 or #16 or #17 (2496) 
+#20 #19 with Publication Year from 2016 to 2021, with Cochrane Library publication date Between Jan 2016 and Oct 2021, in Trials (1097) 
+Após a busca nas bases de dados, a exclusão das duplicatas e seleção dos estudos foram realizadas por meio do software 
+Rayyan®. A seleção por títulos e resumos, bem como após leitura na íntegra foram realizadas de forma independente por dois pesquisadores. As discordâncias foram avaliadas por um terceiro pesquisador e resolvidas por consenso. 
+Foram considerados como critérios de elegibilidade: 
+(a) Tipos de participantes: Pacientes adultos com MM elegíveis ao TCTH. 
+(b) Tipo de intervenção: Bortezomibe associado aos esquemas terapêuticos usuais, previstos em bula. 
+(c) Tipo de comparador: Esquemas terapêuticos usuais. 
+(d) Desfechos: SG, SLP, EA. 
+(e) Tipos de estudos: ECRs. 
+(f) Idioma e data de publicação: Sem restrição. 
+Para os pacientes com MM elegíveis ao TCTH, não houve inclusão de novos ECRs além dos três ECRs já incluídos por 
+Scott et al. (2016)20, que atenderam aos critérios de elegibilidade desta RS. Foram incluídos apenas relatos com dados de seguimento de um ECR já contemplado na RS original (Figura H). Os motivos de exclusão dos demais ECRs estão descritos 
+Figura H - Fluxograma de seleção de ensaios clínicos randomizados para atualização da revisão sistemática publicada por Scott et al. 2016. 
+Quadro J - Motivos de exclusão dos demais ensaios clínicos (n = 5). 
+Bortezomib before and after high-dose therapy in myeloma: long-term results from the phase III HOVON-65/GMMG-HD4 trial 
+Bortezomib and thalidomide maintenance after stem cell transplantation for multiple myeloma: a PETHEMA/GEM trial 
+Bortezomib and high-dose melphalan Vs. High-dose melphalan as conditioning regimen before autologous stem cell transplantation in de novo multiple myeloma patients: A phase 3 study of the intergroupe francophone du myelome (IFM 2014-02) 
+Bortezomib-Based Induction and Maintenance Overcomes the Negative Prognostic 
+Impact of Renal Impairment and del17p in Transplant-Eligible Myeloma Patients: 
+Long Term Results from the Phase III HOVON-65/GMMG-HD4 Study after Median 
+Bortezomib-based induction improves progression-free survival of myeloma patients harboring 17p deletion and/or t(4;14) and overcomes their adverse prognosis 
+Análise e apresentação dos resultados 
+A avaliação do risco de viés apresentada por Scott et al. (2016)20 foi realizada por meio da ferramenta RoB 1.025. O julgamento do risco de viés foi avaliado pelos pesquisadores e adotado nesta revisão. O agrupamento dos dados foi realizado utilizando o modelo de efeitos aleatórios e as medidas sumárias foram apresentadas utilizando Peto Odds Ratio (Peto OR), Odds 
+Ratio (OR) e HR, com os respectivos IC de 95%. Os resultados foram apresentados por meio de gráficos de floresta. 
+Três ECRs incluídos na RS de Scott et al. (2016)20 incluem esquemas terapêuticos contemplados em bula (Tabela B). 
+Nos resultados, foram incluídos apenas a análise dos estudos GEM05MENOS6526, GIMEMA-MMY-300627–34 e IFM 2005-0135.
+Tabela B - Caracterização dos ensaios clínicos randomizados (n = 3). 
+Esquema = VTD: V 1,3 mg/m2 nos dias 1, 4, 8, e 11 + T até dose diária de 
+200 mg, com dose escalonada de 50 mg dia 1 a 14, seguido de T 100 mg dias 15 a 28 + D 40 mg VO dias 1-4, dias 9-12 em 6 ciclos de 4 semanas. 
+Duração da indução de 24 semanas. 
+Idade em anos, mediana = 56 
+Alterações genéticas de alto risco, N 
+Esquema = TD (T até dose diária de 200 mg, com dose escalonada de 
+50 mg dias 1 a 14, seguido de T 
+100 mg dias 15 a 28 + D 40 mg VO dias 1-4, dias 9-12 em 6 ciclos de 4 semanas). Duração da indução de 
+Idade em anos, mediana = 56 
+Alterações genéticas de alto risco, 
+Indução: 3 ciclos de 21 dias de VTD 
+(V 1,3 mg/m² EV dias 1, 4, 8, e 11 +T 
+100 mg/dia nas primeiras duas semanas, seguida de 200 mg/dia posteriormente + D 320 mg por ciclo) 
+Consolidação: 2 ciclos de 35 dias de 
+VTD (V 1,3 mg/m² EV dias 1, 8, 15, e 
+22 +T 100 mg/ dia + D 320 mg por 
+Indução: 3 ciclos de 21 dias de TD 
+(T 100 mg/dia nas primeiras duas semanas, seguida de 200 mg/dia posteriormente + D320 mg por 
+Consolidação: 2 ciclos de 35 dias de TD (T 100 mg/ dia + D 320 mg 
+Idade em anos, mediana (intervalo)= 
+Alterações genéticas de alto risco, N t(4;14) ou del(17p): 53/218 (24) 
+(intervalo)= 57 (51 a 62) 
+Alterações genéticas de alto risco, 
+N (%) = del(13q): 103/223 (46) t(4;14) ou del(17p): 57/2226 (26) 
+VD: 4 ciclos de 3 semanas (V 1,3 mg/m2 EV dias 1,4,8 e 11 + D 40 mg 
+D1-4(todos os ciclos) e dias 9-12 
+Homens, N (%) = 139 (57,9) 
+Idade em anos, mediana (intervalo) = 
+Alterações genéticas de alto risco, N 
+VAD: 4 ciclos de 4 semanas doxorubicina 9 mg/m2/d em infusão contínua D1-4 +D 40 mg VO dias 
+1-4 (todos os ciclos) e dias 9-12 e 
+Homens, N (%) = 127 (52,5) 
+Indeterminado: 9/242 (3,7) t(4;14) ou del(17p): 40 (16,7) 
+Alterações genéticas de alto risco, t(4;14) ou del(17p): 29 (12) 
+Legenda: D (dexametasona), EA (evento adverso), ECR (ensaio clínico randomizado), ISS (Sistema Internacional de Estadiamento), EV (intravenoso), MM (mieloma múltiplo), N (número de participantes), NR (não relatado), 
+SG (sobrevida global), SLP (sobrevida livre de progressão), T (talidomida), TCTH (transplante de células-tronco hematopoiéticas), TRC (taxa de resposta completa), V (bortezomibe), VO (via oral). *Dentre os desfechos de interesse 
+Para o desfecho SG, não foi possível demonstrar benefício dos esquemas terapêuticos com bortezomibe (Peto OR = 0,76, 
+IC de 95% 0,46 a 1,26), pois a mediana de sobrevida não foi alcançada em dois estudos - GEM05MENOS6526 e IFM 2005-0135 
+(Figura I). O estudo GIMEMA-MMY-3006 possui análise da SG após 124 meses de acompanhamento, com benefício do bortezomibe em comparação aos esquemas terapêuticos sem bortezomibe (com bortezomibe= 60% vs sem bortezomibe: 46%; 
+HR = 0,68, IC de 95% 0,51 a 0,90)27–34. 
+Figura I - Gráfico de floresta para as razões de chance de Peto para SG para pacientes em uso de esquemas baseados em bortezomibe quando comparado a 
+Para SLP, houve benefício dos esquemas terapêuticos com bortezomibe em relação aos esquemas sem o medicamento 
+(Peto OR = 0,71, IC de 95% 0,59 a 0,86, I2 = 17%) (Figura J). 
+Figura J - Gráfico de floresta para sobrevida livre de progressão para pacientes em uso de esquemas baseados em bortezomibe quando comparado a esquemas 
+Não houve diferença entre os esquemas com e sem bortezomibe na incidência de EA graus 3 e 4 (OR = 1,92, IC 95%=1,00 a 3,71, I2 = 87%) (Figura K). Quanto à neuropatia periférica, houve maior chance de ocorrência deste evento em pacientes que receberam esquemas terapêuticos associados a bortezomibe (OR = 2,68, IC 95%=1,61 a 4,48, I2 = 35%) (Figura L). Já em relação à suspensão por EA, não houve diferença entre os esquemas com e sem bortezomibe (OR=1,54; IC 95% = 1,02 a 2,33; 
+Figura K - Gráfico de floresta para a ocorrência de eventos adversos graus 3 e 4 em pacientes em uso de esquemas baseados em bortezomibe quando comparado a esquemas sem bortezomibe. 
+Figura L - Gráfico de floresta para a ocorrência de neuropatia periférica em pacientes em uso de esquemas baseados em bortezomibe quando comparado a esquemas sem bortezomibe. 
+Figura M - Gráfico de floresta para a suspensão por eventos adversos em pacientes em uso de esquemas baseados em bortezomibe quando comparado a esquemas 
+A avaliação do risco de viés está descrita na Figura N. Os três estudos foram avaliados com alto risco de viés quanto à falta de cegamento dos participantes e profissionais envolvidos. O estudo GEM05MENOS6526 foi avaliado com algumas preocupações quanto ao relato seletivo de desfechos, devido ao relato de apenas alguns EA. 
+Figura N- Risco de viés dos ensaios clínicos randomizados selecionados avaliado pela ferramenta RoB. 
+Legenda: 1: Geração de sequência aleatória, 2: Sigilo de alocação, 3: Cegamento dos participantes e profissionais, 4: Cegamento dos avaliadores dos desfechos, 5: Desfechos incompletos, 6: Relato seletivo dos desfechos, 7: Outros vieses. 
+Fonte: Traduzido de Scott et al. (2016). 
+Justificativa para a recomendação: 
+O painel de especialistas considerou que os efeitos desejáveis são grandes e que os efeitos indesejáveis podem estar superestimados, pois os estudos clínicos contemplados não refletem a posologia e a via de administração utilizadas na prática clínica atual (administração semanal por via subcutânea). 
+Considerações gerais e para implementação: 
+O bortezomibe para o tratamento de pacientes adultos com MM, elegíveis ao TCTH, não tratados previamente, no âmbito 
+A Tabela C apresenta os resultados das meta-análises e da avaliação da certeza da evidência (GRADE) para os desfechos 
+SG, SLP, EA graus 3 e 4, suspensão por EA e neuropatia periférica. 
+Tabela C - Avaliação da certeza da evidência do uso de esquemas terapêuticos com bortezomibe para pacientes com mieloma múltiplo elegíveis ao TCTH. 
+Sobrevida Global (Seguimento: mediana de 124 meses) 
+Sobrevida Livre de Progressão (Seguimento: mediana 36 meses) 
+Eventos adversos graus 3 e 4 (Seguimento: mediana de 32, 2 a 36 meses) 
+Suspensão por Evento Adverso (Seguimento: mediana de 32, 2 a 36 meses) 
+Neuropatia periférica (Seguimento: mediana de 32, 2 a 36 meses) 
+Legenda: ECR: ensaios clínicos randomizados; OR: odds ratio; HR: hazard ratio. a. A falta de cegamento dos avaliadores pode comprometer a avaliação deste desfecho. Apenas 1 ECR descreve a reavaliação externa e centralizada da classificação dos eventos adversos (GIMEMA-MMY-3006). b. No estudo GEM05MENOS65 há suspeita de relato seletivo dos eventos adversos relatados. c. Os intervalos de confiança não se sobrepõem e o I2=87%. d. O intervalo de confiança passa pelo efeito nulo. 
+Referências: Brioli et al. 201631, Cavo et al. 201027, Cavo et al. 2012a28, Cavo et al. 2012b29, Cavo et al. 201330, Harousseau et al. 201035, Rosiñol et al. 201226, Tacchetti et al. 201832, Tacchetti et al. 201933, Tacchetti et al. 202034.
+Tabela para tomada de decisão (Evidence to Decision table- EtD): 
+O Quadro K apresenta o processo de tomada de decisão sobre o uso de bortezomibe para a terapia de indução de pacientes com MM elegíveis ao TCTH, baseando-se nas contribuições do painel de especialistas, na síntese de evidências realizada pelo grupo elaborador, informações das DDT do MM1 e bula do bortezomibe36, aprovado para uso no Brasil. 
+Quadro K - Processo de tomada de decisão referente ao uso de esquemas terapêuticos com bortezomibe para tratamento de indução de pacientes com mieloma múltiplo elegíveis ao TCTH. 
+Julgamento dos painelistas 
+A maioria dos painelistas julgou que os efeitos desejáveis são substanciais, com aumento da SLP. 
+O painel considerou que os eventos adversos podem estar superestimados, pois os ECRs contemplados não refletem a posologia e via de administração de bortezomibe utilizadas na prática clínica atual (administração semanal, por via 
+Os membros julgam que o balanço é favorável à intervenção. 
+Julgamento baseado na avaliação da certeza da evidência dos desfechos críticos de SG e SLP. 
+Foi considerado que o medicamento já foi incorporado no 
+Não foram reportadas outras considerações. 
+QUESTÃO 3: Deve-se utilizar bortezomibe associado aos esquemas terapêuticos usuais em vez dos esquemas terapêuticos usuais isolados na terapia de indução de pacientes com mieloma múltiplo inelegíveis ao TCTH? 
+Recomendação 3: Recomendamos o uso de combinações baseadas em bortezomibe para pacientes com mieloma múltiplo, recém-diagnosticado, inelegíveis ao transplante de células-tronco hematopoiéticas (qualidade de evidência moderada, 
+A estrutura PICO para esta pergunta foi: 
+População: Pacientes adultos, com MM, inelegíveis ao TCTH. 
+Intervenção: Bortezomibe + esquema terapêutico usual. 
+Comparador: Esquemas terapêuticos usuais previstos em bula e disponíveis no SUS. 
+Desfechos: SG, qualidade de vida ou outros desfechos relatados pelos pacientes (patient related outcomes - PRO), SLP, taxa de resposta completa (TRC), EA. 
+Métodos e resultados da busca 
+A seleção das evidências foi realizada em duas etapas: 
+Etapa 1: foram selecionadas RSMA que avaliam o efeito do uso de bortezomibe isolado ou associado aos esquemas terapêuticos usuais versus esquemas terapêuticos usuais nos pacientes com MM inelegíveis ao TCTH. 
+Etapa 2: foi realizada a seleção dos ECR, publicados a partir da RS selecionada para atualização. 
+Na Etapa 1, foram utilizadas as mesmas estratégias de busca realizadas para a questão 2, e foram apresentadas no Quadro 
+E. Após a busca nas bases de dados, a exclusão das duplicatas e seleção dos estudos foram realizadas por meio do software 
+Rayyan®. A seleção por títulos e resumos, bem como após leitura na íntegra foram realizadas de forma independente por dois pesquisadores. As discordâncias foram avaliadas por um terceiro pesquisador e resolvidas por consenso. 
+Revisões sistemáticas selecionadas 
+Para os pacientes inelegíveis ao TCTH, após a busca na literatura por estudos que atendessem aos critérios de elegibilidade, quatro RSMA de ECR foram selecionadas20,37–39 (Figura O). Os motivos de exclusão das demais RSs são apresentados no Quadro L, organizados por motivo de exclusão. 
+Figura O - Fluxograma de seleção dos estudos (revisões sistemáticas com meta-análise de ensaios clínicos randomizados). 
+Quadro L - Motivos de exclusão das demais revisões sistemáticas (n = 15). 
+Treatment Options for Newly Diagnosed Frail and Transplant-Ineligible 
+Patients with Multiple Myeloma: A Systematic Review 
+Treatment Strategies for Elderly Patients with Newly Diagnosed Multiple 
+Myeloma: A Meta-Analysis and Indirect Treatment Comparison. 
+Comparative Effectiveness of Treatment Strategies for Multiple Myeloma in 
+Elderly Patients:: A Network Meta-Analysis. 
+Complete Response and Survival Outcomes with Bortezomib-MelphalanPrednisone: An Indirect Comparison Thalidomide-Based Regimen for the Front 
+Line Treatment of Multiple Myeloma. 
+First-line therapy for non-transplant eligible patients with multiple myeloma: direct and adjusted indirect comparison of treatment regimens on the existing 
+The effects of different schedules of bortezomib, melphalan, and prednisone for patients with newly diagnosed multiple myeloma who are transplant ineligible: a matching-adjusted indirect comparison. 
+Maintenance Therapy in Newly Diagnosed and Transplant Ineligible Multiple 
+Myeloma Patients: A Meta-Analysis. 
+Three Drug Regimens for Newly Diagnosed Multiple Myeloma TransplantIneligible Elderly Patients - a Systematic Review. 
+Bortezomib-Containing Regimens for Multiple Myeloma Maintenance Therapy: 
+Advancements in Treatment for Newly Diagnosed Frail and Elderly Myeloma 
+Patients: A Systematic Review. 
+Efficacy Of Bortezomib-Based Regimens With Or Without An 
+Immunomodulatory Agent In Older Adults With Multiple Myeloma: A 
+Systematic Review and Meta-Analysis. 
+Maintenance therapy in transplant ineligible adults with newly-diagnosed multiple myeloma: A systematic review and meta-analysis. 
+First line therapy for patients with newly diagnosed multiple myeloma ineligible for autologous stem cell transplantation: a systematic review and meta-analysis 
+Tratamiento de primera línea para pacientes con mieloma múltiple no elegibles para trasplante autólogo de células progenitoras : revisión sistemática y metaanálisis (estudio del Hemo-ONCOLGroup). 
+Bayesian Network Meta-Analysis (NMA): Safety of Bortezomib, Thalidomide or 
+Lenalidomide Containing Regimens for Transplant Ineligible Multiple Myeloma 
+Avaliação da qualidade metodológica e caracterização das revisões sistemáticas 
+A avaliação da qualidade metodológica das RS foi realizada utilizando a ferramenta AMSTAR 2.03. As revisões de Scott et al. 201620 e Piechotta et al. 201938 não apresentaram nenhuma falha crítica, enquanto as revisões de Blommenstein et al. 201937 e Sekine et al. 201939 apresentaram 4 e 2 falhas críticas, respectivamente (Quadro M). Assim, optou-se pela atualização do estudo de Scott et al. 201620, que apresenta os resultados por meio de meta-análise direta. 
+Quadro M - Avaliação da qualidade metodológica e caracterização das revisões sistemáticas com meta-análise de ensaios clínicos randomizados (n = 4). 
+Legenda: EA (evento adverso), MM (mieloma múltiplo), SG (sobrevida global), SLP (sobrevida livre de progressão), SLE (Sobrevida Livre de Eventos), 
+TCTH (transplante de células-tronco hematopoiéticas), TRC (taxa de resposta completa), TRG (taxa de resposta global), TRP (taxa de resposta parcial), TTP 
+Na Etapa 2, foi realizada atualização da estratégia de busca do estudo de Scott et al. 201620 nas bases de dados Medline 
+(via Ovid), Embase e Cochrane no dia 26 de outubro de 2021, conforme descrito anteriormente, para a questão 2 (QuadroL). 
+Com a utilização do filtro de data, as potenciais publicações posteriores a 27 de janeiro de 2016 foram recuperadas. 
+Após a busca nas bases de dados, a exclusão das duplicatas e seleção dos estudos foram realizadas por meio do software 
+Rayyan®. A seleção por títulos e resumos, bem como após leitura na íntegra, foi realizada de forma independente por dois pesquisadores. As discordâncias foram avaliadas por um terceiro pesquisador e resolvidas por consenso. 
+Foram considerados como critérios de elegibilidade: 
+(a) Tipos de participantes: Pacientes adultos com MM inelegíveis ao TCTH. 
+(b) Tipo de intervenção: Bortezomibe associado aos esquemas terapêuticos usuais, previstos em bula, disponíveis no SUS. 
+(c) Tipo de comparador: Esquemas terapêuticos usuais disponíveis no SUS. 
+(d) Desfechos: SG, SLP, TRC, EA grave, neuropatia periférica grau 3 e 4, suspensão devido à EA e qualidade de vida. 
+(e) Tipos de estudos: ECR. 
+(f) Idioma e data de publicação: Sem restrição. 
+Para os pacientes com MM inelegíveis ao TCTH, não houve inclusão de novos ECRs além daqueles incluídos pela RS publicada por Scott et al. 201620. Entre os ECR utilizados no estudo de Scott et al. 2016, somente o ECR VISTA (bortezomibe, melfalana e prednisona vs. melfalana e prednisona, 9 ciclos a cada 6 semanas)40 inclui o esquema terapêutico com bortezomibe previsto em bula (Figura P). 
+Figura P - Fluxograma de seleção dos estudos (ensaios clínicos randomizados). 
+Análise e apresentação dos resultados 
+A avaliação do risco de viés do estudo VISTA40 foi realizada previamente por Scott et al. 201620, utilizando a ferramenta 
+RoB 1.025. Os julgamentos do risco de viés foram avaliados e adotados nestas Diretrizes. Os resultados foram apresentados por desfecho, com estimativas do Peto OR e OR, com respectivos IC de 95%. 
+O ECR VISTA40, incluído na RS de Scott et al. (2016)20, incluiu esquema terapêutico previsto em bula e foi avaliado para tomada de decisão. As características deste estudo foram apresentadas na Tabela D. O estudo apresentou alto risco de viés para o domínio “cegamento do paciente e dos profissionais”, pois se trata de um ECR aberto; baixo risco de viés para os domínios 
+“geração da sequência de randomização”, “cegamento de avaliadores de desfecho” (SG e outros desfechos), “desfechos incompletos” e “relato de desfecho seletivo” e; risco de viés não claro para os domínios “ocultação da alocação” e “outras fontes 
+Justificativa para a recomendação: 
+O painel de especialistas considerou que os efeitos desejáveis são grandes e que os efeitos indesejáveis podem estar superestimados, pois os estudos clínicos contemplados não refletem a posologia e a via de administração utilizadas na prática clínica atual (administração semanal por via subcutânea). 
+Considerações gerais e para implementação: 
+O bortezomibe foi incorporado no âmbito do Sistema Único de Saúde para o tratamento de pacientes adultos com MM, 
+A Tabela E apresenta os resultados da avaliação da certeza da evidência (GRADE) para os desfechos SG, SLP, resposta completa, neuropatia periférica graus 3 e 4, EA graus 3 e 4 e suspensão por EA. 
+Tabela D - Caracterização do ensaio clínico randomizado (n = 1). 
+VMP (M 9 mg/m2/d e P 60 mg/m2 d1-4 + V 
+1,3 mg/m2/d d1, d4, d8, d11, d22, d25, d29, d32 nos ciclos 1 ao 4 e d1, d8, d22, d29 nos ciclos 5 a 9 - 9 ciclos de 6 semanas) 
+Idade em anos, mediana (intervalo)= 71 (57 
+Alterações genéticas de alto risco, N (%) = 
+Legenda: ECR (ensaio clínico randomizado), MM (mieloma múltiplo), V (bortezomibe), M (melfalana), P (prednisona), TCTH (transplante de células-tronco hematopoiéticas), NR (não reportado), ISS (Sistema Internacional de Estadiamento), N (número de participantes), SG (sobrevida global), SLP (SLP), RC (resposta completa), EA (eventos adversos), TTP (tempo até progressão), IC (Intervalo de Confiança), OR (Odds Ratio).
+Tabela E - Avaliação da certeza da evidência do uso de esquemas terapêuticos com bortezomibe para pacientes com mieloma múltiplo inelegíveis ao TCTH. 
+Sobrevida Global (Seguimento: mediana de 16,3 meses) 
+Sobrevida Livre de Progressão (Seguimento: mediana de 16,3 meses) 
+Resposta completa (Seguimento: mediana de 16,3 meses) 
+Neuropatia periférica graus 3 e 4 (Seguimento: mediana 16,3 meses) 
+Eventos adversos graus 3 e 4 (Seguimento: mediana 16,3 meses) 
+Suspensão por eventos adversos (Seguimento: mediana 16,3 meses) a. Não é possível afirmar que houve sigilo na alocação dos participantes. b. Não houve cegamento, ensaio clínico randomizado aberto. c. Intervalo de confiança amplo. d. Intervalo de confiança amplo, rebaixado dois graus de evidência. e. Intervalo de confiança passa pelo efeito nulo. 
+Referências: San Miguel et al. 200840
+Tabela para tomada de decisão (Evidence to Decision table- EtD): 
+O Quadro N apresenta o processo de tomada de decisão sobre o uso bortezomibe para o tratamento de pacientes com 
+MM inelegíveis ao TCTH, baseando-se nas contribuições do painel de especialistas, na síntese de evidências realizada pelo grupo elaborador, informações das DDT do MM1 e bula do bortezomibe36, aprovado para uso no Brasil. 
+Quadro N - Processo de tomada de decisão referente ao uso de esquemas terapêuticos com bortezomibe para tratamento de indução de pacientes com mieloma múltiplo inelegíveis ao TCTH. 
+A maioria dos painelistas julgou que os efeitos desejáveis são substanciais, com aumento da SLP e SG. 
+O painel considerou que os efeitos indesejáveis podem estar superestimados, pois os ECRs contemplados não refletem a posologia e via de administração de bortezomibe utilizadas na prática clínica atual 
+(administração semanal, por via subcutânea). 
+Os membros julgam que que o balanço é favorável à intervenção. 
+Julgamento baseado na avaliação da certeza da evidência dos desfechos 
+Foi considerado que o medicamento já foi incorporado no SUS. 
+Não foram reportadas outras considerações. 
+QUESTÃO 4: Deve-se utilizar bortezomibe isolado ou associado aos esquemas usuais versus esquemas terapêuticos usuais isolados como terapia de segunda linha em pacientes com mieloma múltiplo recidivado ou refratário? 
+Recomendação 4: Recomendamos a utilização de bortezomibe para pacientes com mieloma múltiplo recidivados ou refratários (qualidade de evidência alta, recomendação forte). 
+A estrutura PICO para esta pergunta foi: 
+População: Pacientes adultos, com MM, recidivado ou refratário. 
+Intervenção: Bortezomibe isolado ou associado aos esquemas terapêuticos usuais previstos em bula e disponíveis no 
+Comparador: Esquemas terapêuticos usuais previstos em bula e disponíveis no SUS. 
+Desfechos: SG, SLP, TRC, EA graus 3 e 4, neuropatia periférica graus 3 e 4, suspensão devido a EA, qualidade de vida ou outros desfechos relatados pelos pacientes (patient related outcomes - PRO). 
+Métodos e resultados da busca: 
+A seleção das evidências foi realizada em duas etapas: 
+Etapa 1: foram selecionadas RSMA de ECR que avaliaram o efeito de bortezomibe isolado ou associado aos esquemas terapêuticos usuais versus esquemas terapêuticos usuais isolados nos pacientes com MM recidivado ou refratário. 
+Etapa 2: foi realizada a seleção dos ECR, publicados a partir da RS selecionada para atualização. 
+Na Etapa 1, foram utilizadas as mesmas estratégias de busca realizadas para a questão 2, conforme Quadro F. Após a busca nas bases de dados, a exclusão das duplicatas e a seleção dos estudos foram realizadas por meio do software Rayyan®. A seleção por títulos e resumos, e após leitura na íntegra, foi realizada de forma independente por dois pesquisadores. As discordâncias foram avaliadas por um terceiro pesquisador e resolvidas por consenso. 
+Revisões sistemáticas selecionadas 
+Para os pacientes inelegíveis com doença refratária ou recidiva, após a busca na literatura por estudos que atendessem aos critérios de elegibilidade, quatro RSMA de ECR foram selecionadas20,41–43 (Figura Q). Os motivos de exclusão das demais RS estão presentes no Quadro O, organizados por motivo de exclusão. 
+Figura Q - Fluxograma de seleção dos estudos (revisões sistemáticas com meta-análise de ensaios clínicos randomizados). 
+Quadro O - Estudos excluídos e motivos de exclusão na busca e seleção de revisões sistemáticas (n = 9). 
+Bortezomib in multiple myeloma: systematic review and clinical considerations. 
+Meta-analysis of the efficacy and safety of bortezomib re-treatment in patients 
+Patient-reported outcomes in relapsed/refractory multiple myeloma: a 
+Infection risk with immunomodulatory and proteasome inhibitor-based therapies across treatment phases for multiple myeloma: A systematic review 
+Triplet versus doublet combination regimens for the treatment of relapsed or refractory multiple myeloma: A meta-analysis of phase III randomized 
+Systematic Literature Review and Network Meta-Analysis of Treatment 
+Outcomes in Relapsed and/or Refractory Multiple Myeloma. 
+Comparative Efficacy of Treatments for Previously Treated Multiple Myeloma: 
+A Systematic Literature Review and Network Meta-analysis. 
+Bortezomib for the treatment of multiple myeloma: a systematic review and 
+Estimating the Relative Effectiveness of Treatments in Relapsed/Refractory 
+Multiple Myeloma through a Systematic Review and Network Meta-Analysis. 
+Avaliação da qualidade metodológica e caracterização das revisões sistemáticas 
+A avaliação da qualidade metodológica das RS foi realizada utilizando a ferramenta AMSTAR 2.03. A revisão de Scott et al. (2016)20 não apresentou nenhuma falha crítica, enquanto as demais revisões apresentaram entre três e dez falhas críticas41–
+43 (Quadro P). Portanto, a RS de Scott et al. (2016)20 foi selecionada para atualização. O Quadro P apresenta as características 
+Quadro P- Avaliação da qualidade metodológica e caracterização das revisões sistemáticas com meta-análise de ensaios clínicos randomizados (n = 4). 
+Legenda: EA (evento adverso), ECR (ensaio clínico randomizado), MA (meta-análise), MM (mieloma múltiplo), QV (qualidade de vida), RS (revisão sistemática), SG (sobrevida global), SLP (sobrevida livre de progressão), TCTH (transplante de células tronco hematopoiéticas), TRC (taxa de resposta completa), TRG (taxa de resposta global), TRP (taxa de resposta parcial), TRPMB (taxa de resposta parcial muito boa), TTP (tempo até progressão). 
+Na Etapa 2, foi atualizada a estratégia de busca do estudo de Scott et al. (2016)20 nas bases de dados Medline (via Ovid), 
+Embase e Cochrane no dia 26 de outubro de 2021, conforme descrito anteriormente, para a questão 2 (Quadro E). Com a utilização do filtro de data, as potenciais publicações posteriores a 27 de janeiro de 2016 foram recuperadas. 
+Após a busca nas bases de dados, a exclusão das duplicatas e seleção dos estudos foram realizadas por meio do software 
+Rayyan®. A seleção por títulos e resumos, bem como após leitura na íntegra, foi realizada de forma independente por dois pesquisadores. As discordâncias foram avaliadas por um terceiro pesquisador e resolvidas por consenso. 
+Foram considerados como critérios de elegibilidade: 
+(a) Tipos de participantes: Pacientes adultos, com MM, recidivado ou refratário. 
+(b) Tipo de intervenção: Bortezomibe em monoterapia, conforme previsto em bula. 
+(c) Tipo de comparador: Esquemas terapêuticos usuais disponíveis no SUS. 
+(d) Desfechos: SG, SLP, TRC, EA graus 3 e 4, neuropatia periférica graus 3 e 4, suspensão devido a EA e qualidade de 
+(e) Tipos de estudo: ECRs. 
+(f) Idioma e data de publicação: Sem restrição. 
+Como a bula do bortezomibe para pacientes em recidiva ou doença refratária prevê seu uso em monoterapia, apenas o estudo APEX44 atende aos critérios de elegibilidade e foi incluído pela revisão publicada por Scott et al. (2016)20. 
+A atualização da RS não identificou nenhum ECR adicional (Figura R). O único estudo avaliado na íntegra foi excluído, pois o braço intervenção consistiu de bortezomibe associado à dexametasona45 (Tabela F). 
+Figura R - Fluxograma de seleção dos estudos (ensaios clínicos randomizados). 
+Tabela F - Caracterização do ensaio clínico randomizado (n = 1). ciclos 1 a 8 (ciclo a cada 
+28 dias) e nos dias 1, 8, dos ciclos 1 ao 4 (ciclo a dos ciclos 5 ao 9 (ciclo a 
+OR: 14,53 (IC de 95% 3,42 
+OR: 2,02 (IC de 95% 1,45 a 
+OR: 14,07 (IC de 95% 3,31 
+OR: 1,42 (IC de 95% 1,02 a 
+Diferença significativa nos 
+NTX (p < 0.05), melhor QV nos pacientes tratados com 
+Legenda: D (dexametasona), DEA (suspensão devido a eventos adversos), EA (evento adverso), ECR (ensaio clínico randomizado), ISS (Sistema Internacional de Estadiamento), IV (intravenoso), MM (mieloma múltiplo), N (número de participantes), NP (neuropatia periférica), NR (não relatado), QV (qualidade de vida), SG (sobrevida global), SLP (sobrevida livre de progressão), TRC (taxa de resposta completa), V (bortezomibe), VO (via oral). 
+Análise e apresentação dos resultados 
+A avaliação do risco de viés do estudo APEX44 foi realizada previamente por Scott et al. (2016)20 utilizando a ferramenta 
+RoB 1.025. Os julgamentos do risco de viés foram avaliados e adotados nestas Diretrizes. Os resultados foram apresentados por desfecho, com estimativas do Peto OR e OR, com respectivos IC de 95%. 
+O ECR APEX44, incluído na RS de Scott et al. (2016)20, incluiu esquema terapêutico previsto em bula e foi avaliado para tomada de decisão. Os resultados deste estudo foram apresentados de acordo com os desfechos avaliados (Tabela 5). O risco de viés do estudo APEX foi alto para o domínio “cegamento do paciente e dos profissionais” pois se trata de um ECR aberto; baixo, para os domínios “geração da sequência de randomização”, “cegamento de avaliadores de desfecho” (SG e outros desfechos), 
+“desfechos incompletos” e “relato de desfecho seletivo”; e foi não claro para os domínios “ocultação da alocação” e “outras 
+Para o desfecho SG em 12 meses, o estudo APEX mostrou uma superioridade para o bortezomibe em relação à dexametasona (Peto OR 0,49, IC de 95% 0,35 a 0,69). 
+Para SLP em 12 meses, o estudo APEX mostrou uma superioridade para o bortezomibe em relação à dexametasona (Peto 
+OR 0,44, IC de 95% 0,29 a 0,66). 
+Para o desfecho resposta completa, o estudo APEX mostrou uma superioridade para o bortezomibe em relação à dexametasona (OR = 14,53, IC de 95% 3,42 a 61,65). 
+Para o desfecho EA graus 3 e 4, o estudo APEX mostrou que pacientes em uso de bortezomibe têm uma maior chance de desenvolver EA graus 3 e 4 do que aqueles tratados com dexametasona (OR = 2,02, IC de 95% 1,45 a 2,82). 
+Para neuropatia periférica graus 3 e 4, os pacientes em uso de bortezomibe têm uma maior chance de apresentar neuropatia periférica graus 3 e 4 em relação àqueles tratados com dexametasona (OR = 14,07, IC de 95% = 3,31 a 59,76). 
+Para o desfecho suspensão devido a EA, o estudo APEX mostrou que pacientes em uso de bortezomibe têm uma maior chance de suspensão de tratamento do que aqueles tratados com dexametasona (OR 1,42, IC de 95% 1,02 a 1,96). 
+O estudo APEX apresentou resultados de qualidade de vida relacionada à saúde que foi mensurada usando os instrumentos 
+European Organisation for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire – Core (QLQ-C30) e 
+Functional Assessment of Cancer Therapy/Gynecologic Oncology Group–Neurotoxicity (FACT/GOG-NTX). Os questionários foram aplicados antes do início do tratamento e a cada seis semanas até completar 42 semanas. Os pacientes que receberam bortezomibe apresentaram pontuações médias de saúde global do EORTC QLQ-C30 significativamente superior do que aqueles que receberam dexametasona, além de melhores pontuações nos domínios de saúde física, de função, cognição, funcionamento emocional, menor dispneia e sintomas relacionados ao sono. Além disso, também apresentaram melhores pontuações no questionário FACT/GOG-NTX. Estes resultados mostram que o bortezomibe está associado com uma qualidade de vida melhor comparado à dexametasona, corroborando os melhores resultados clínicos vistos com o uso de bortezomibe46. 
+Justificativa para a recomendação: 
+O painel de especialistas considerou que os efeitos desejáveis são grandes e que os eventos adversos podem estar superestimados, pois o estudo clínico contemplado não reflete a posologia e a via de administração utilizadas na prática clínica atual (administração semanal por via subcutânea). 
+Considerações gerais e para implementação: 
+O bortezomibe para o tratamento de pacientes adultos com MM, com doença refratária ou em recidiva, previamente 
+A Tabela G apresenta a avaliação da certeza da evidência (GRADE) para os desfechos SG, SLP, TRC, EA graus 3 e 4, neuropatia periférica graus 3 e 4, suspensão do tratamento devido a EA e qualidade de vida relacionada à saúde. 
+Tabela G - Certeza da evidência (GRADE) para os desfechos sobrevida global, sobrevida livre de progressão, taxa de resposta completa, eventos adversos graus 3 e 4, neuropatia periférica graus 3 e 4, suspensão do tratamento devido a eventos adversos e qualidade de vida relacionada à saúde (estudo APEX, bortezomibe versus dexametasona). 
+Sobrevida Global (seguimento: 12 meses) 
+Sobrevida Livre de Progressão (seguimento: 12 meses) 
+Taxa de Resposta Completa (seguimento: mediana 22 meses) 
+Eventos Adversos Graus 3 e 4 (seguimento: mediana 8,3 meses) 
+Ensaio clínico graveb,c não grave 
+Neuropatia Periférica Graus 3 e 4 (seguimento: mediana 8,3 meses) 
+Suspensão do tratamento devido a Eventos Adversos (seguimento: mediana 8,3 meses) 
+Qualidade de Vida relacionada à Saúde (seguimento: 42 semanas) 
+A qualidade de vida relacionada à saúde foi mensurada usando os instrumentos European 
+Organisation for Research and Treatment of 
+Questionnaire – Core (QLQ-C30) e Functional 
+Assessment of Cancer Therapy/Gynecologic 
+Oncology Group–Neurotoxicity (FACT/GOGNTX). Os questionários foram aplicados antes do início do tratamento e a cada seis semanas até completar 42 semanas. Os pacientes que pontuações médias de saúde global do EORTC 
+QLQ-C30 significativamente superior do que aqueles que receberam dexametasona, além de melhores pontuações nos domínios de saúde física, de função, cognição, funcionamento relacionados ao sono. Ademais, também resultados mostram que o bortezomibe está associado com uma qualidade de vida melhor comparado à dexametasona, corroborando os melhores resultados clínicos vistos com o uso 
+Legenda: EORTC (European Organisation for Research and Treatment of Cancer); FACT/GOG-NTX (Functional Assessment of Cancer Therapy/Gynecologic Oncology Group–Neurotoxicity), QLQ-C30 (Quality of Life Questionnaire 
+– Core); OR (odds ratio). 
+Explicações: a. Intervalo de confiança amplo, rebaixado dois graus de evidência; b. Não é possível afirmar que houve sigilo na alocação dos participantes; c. Não houve cegamento, ensaio clínico randomizado aberto 
+Referências: Richardson et al. 200544, Lee et al. 200846
+Tabela para tomada de decisão (Evidence to Decision table- EtD): 
+O Quadro Q apresenta o processo de tomada de decisão sobre o uso de bortezomibe em monoterapia para o tratamento 
+MM recidivado ou refratário baseando-se nas contribuições do painel de especialistas, na síntese de evidências realizada pelo grupo elaborador e nas informações das diretrizes e dos documentos (bula, por exemplo) sobre essa tecnologia. 
+Quadro Q - Processo de tomada de decisão referente ao uso de bortezomibe para o tratamento do mieloma múltiplo recidivado ou refratário. 
+Julgamento dos painelistas 
+A maioria dos painelistas julgou que os efeitos desejáveis são substanciais, com aumento da SLP, SG e da TRC. 
+Os efeitos indesejáveis podem estar superestimados, pois os estudos clínicos contemplados não refletem a posologia e a via de administração utilizadas na prática clínica atual - administração semanal, por via subcutânea. 
+O painel entende que o balanço é favorável à intervenção. 
+Atualmente, o bortezomibe é utilizado em combinação com outros medicamentos. A avaliação considerou o estudo pivotal, com a utilização do bortezomibe por via intravenosa. 
+Preferencialmente, devem ser utilizados esquemas terapêuticos baseados em bortezomibe em combinação com outros medicamentos. 
+QUESTÃO 5: Devemos utilizar lenalidomida versus talidomida para pacientes com mieloma múltiplo, durante a 
+Recomendação 5: Por não ter sido incorporada no âmbito do SUS para o tratamento de MM, estas Diretrizes não preconizam o uso desta tecnologia. Entretanto, por se tratar de uma dúvida clínica, foi realizada a síntese e a avaliação crítica 
+A estrutura PICO para esta pergunta foi: 
+População: Pacientes adultos com MM, submetidos ao TCTH, em terapia de manutenção. 
+Intervenção: Lenalidomida. 
+Desfechos: SG, SLP, EA, EA graus 3 e 4 (alterações hematológicas, cardiovasculares, gastrointestinais, musculoesqueléticas, neurológicas, do sistema reprodutivo, pele e subcutâneo, infecções), EA neurológicos, suspensão devido a 
+Métodos e resultados da busca: 
+Para responder essa pergunta, foram utilizadas as referências de cinco ECRs e síntese de evidências apresentadas no 
+Relatório de Recomendação nº 700/202248, relativo à proposta de incorporação da lenalidomida para terapia de manutenção em pacientes com MM submetidos ao TCTH. 
+A seleção das evidências foi realizada em duas etapas: 
+Etapa 1: foram selecionadas RSMA de ECR que avaliaram o efeito da lenalidomida comparada à talidomida em pacientes com MM, elegíveis ao TCTH, em terapia de manutenção. 
+Etapa 2: foi realizada a seleção dos ECR, publicados a partir da RS publicada por Gay et al. 201849, selecionada para 
+Nas duas etapas, após a busca nas bases de dados, a exclusão das duplicatas e seleção dos estudos foram realizadas por meio do software Rayyan®. A seleção por títulos e resumos, bem como após leitura na íntegra, foi realizada de forma independente por dois pesquisadores. As discordâncias foram avaliadas por um terceiro pesquisador e resolvidas por consenso. 
+Na etapa 1, a avaliação da qualidade metodológica das RS foi realizada utilizando a ferramenta AMSTAR 2.03. As duas 
+RS selecionadas49,50, foram avaliadas quanto à qualidade metodológica com a ferramenta AMSTAR 2.03 e os ECR incluídos foram mapeados. Apesar das duas RS possuírem falhas metodológicas em domínios críticos, a RS publicada por Gay et al. 201849 foi selecionada para atualização devido à amplitude e a reprodutibilidade da busca realizada. 
+Na etapa 2, a busca realizada não identificou ECR adicionais, mantendo os cinco ECR incluídos na RS publicada por 
+Gay et al. 201849, denominados MYELOMA IX51,52, CALGB 10010453–55, IFM 2005-0255,56, RV-MM-PI-20955,57 e MYELOMA 
+XI58. Foram identificadas duas novas publicações dos estudos incluídos na RS, republicação dos dados do estudo CALGB 
+10010459 e do MYELOMA XI60, totalizando cinco ECR (MYELOMA IX, CALGB 100104, IFM 2005-02, RV-MM-PI-209, 
+MYELOMA XI) e 10 publicações51–60. Os ECR foram avaliados quanto ao risco de viés, com a ferramenta RoB 2.04. Todos os 
+ECR foram classificados como baixo risco de viés para os desfechos SG, SLP, EA graus 3 e 4 e EA neurológicos. A comparação entre lenalidomida e talidomida foi realizada considerando apenas evidência indireta, sendo placebo/observação o comparador comum. A descrição detalhada dos métodos e resultados da busca está disponível no Relatório de Recomendação nº 700, de 
+Para a SG, a estimativa de efeito da comparação indireta entre lenalidomida e talidomida (HR: 0,58; IC de 95%: 0,30 a 
+1,11) não mostrou diferença entre as duas tecnologias para o desfecho SG (Figura S). Segundo o ranqueamento realizado para este desfecho (Quadro R), a lenalidomida foi considerada o tratamento com maior benefício para SG, seguida da talidomida. 
+Figura S - Gráfico de floresta referente ao desfecho da sobrevida global. 
+Nota: Utilizada a medida da meta-análise em pares nas comparações com placebo e da análise em rede na comparação de lenalidomida e talidomida. 
+Quadro R - Ranqueamento dos tratamentos quanto ao desfecho sobrevida global, de acordo com as estimativas obtidas na meta-análise em rede. 
+Em relação à SLP, o resultado da meta-análise foi favorável à lenalidomida, indicando que esta é 36% superior à talidomida (HR: 0,64; IC de 95%: 0,48 a 0,86), com qualidade da evidência moderada (Figura T). Em relação à SLP, o ranqueamento (Quadro S) também mostrou superioridade da lenalidomida em relação à talidomida. 
+Figura T - Gráfico de floresta referentes ao desfecho da sobrevida livre de progressão. 
+Nota: Utilizada a medida da meta-análise em pares nas comparações com placebo e da análise em rede na comparação de lenalidomida e talidomida. 
+Quadro S - Ranqueamento dos tratamentos quanto ao desfecho sobrevida livre de progressão, de acordo com as estimativas obtidas na meta-análise em rede. 
+A Figura U mostra que não houve diferença na ocorrência de EA graus 3 e 4 entre a lenalidomida e a talidomida (RR: 
+0,75; IC de 95%: 0,20 a 2,86). Quanto à avaliação do ranqueamento da rede, houve superioridade de lenalidomida, seguida de 
+Figura U - Gráfico de floresta referentes ao desfecho de eventos adversos graus 3 e 4. 
+Nota: Utilizada a medida da meta-análise em pares nas comparações com placebo e da análise em rede na comparação de lenalidomida e talidomida. 
+Quadro T - Ranqueamento dos tratamentos quanto ao desfecho eventos adversos graus 3 e 4, de acordo com as estimativas obtidas na meta-análise em rede. 
+Quanto aos EA neurológicos, incluindo a neuropatia periférica, a estimativa de efeito indireta também se apresentou inconclusiva quanto à superioridade da lenalidomida (RR: 0,33; IC de 95%: 0,73 a 3,11) (Figura V). 
+Por fim, em relação aos EA neurológicos, o ranqueamento (Quadro U) evidenciou superioridade da lenalidomida em 
+Figura V - Gráfico de floresta referentes ao desfecho de eventos adversos neurológicos. 
+Nota: Utilizada a medida da meta-análise em pares nas comparações com placebo e da análise em rede na comparação de lenalidomida e talidomida. 
+Quadro U - Ranqueamento dos tratamentos quanto ao desfecho de eventos neurológicos, de acordo com as estimativas obtidas na meta-análise em rede. 
+Não foi possível realizar meta-análise em rede que comparasse a lenalidomida e a talidomida quanto à suspensão por EA. 
+O único estudo encontrado contendo a talidomida em um dos braços, MYELOMA IX51,52, utilizou desenho fatorial dividido em duas fases. Na primeira fase, os pacientes foram randomizados entre terapia de indução intensiva (com TCTH) e terapia de indução não-intensiva (sem TCTH). Na segunda fase, ambos os grupos foram randomizados para receber manutenção ou não com talidomida. Assim, a taxa de suspensão apresentada pelo estudo (52,2%) não diz respeito somente aos pacientes em terapia de manutenção pós TCTH51,52. 
+Em consenso do International Myeloma Working Group (IMWG) sobre terapia de manutenção no MM61, foi apresentada uma tabela descritiva com seis ECRs que avaliaram a taxa de suspensão devido a EA, em que a talidomida pós-TCTH configurava em um dos braços da comparação. Na referida revisão, a taxa de suspensão da talidomida variou entre 30% e 80%, incluindo a taxa apresentada pelo estudo MYELOMA IX51,52. Este mesmo consenso apresentou também uma tabela descritiva com três ECR que utilizaram a lenalidomida em um dos braços e a taxa de suspensão por EA no grupo de pacientes que receberam lenalidomida variou entre 12% e 21%61. 
+A recomendação da Conitec foi desfavorável à incorporação da lenalidomida para terapia de manutenção em pacientes com MM submetidos ao TCTH48. 
+A avaliação da qualidade da evidência foi realizada a partir dos dados obtidos na meta-análise em rede deste parecer para os desfechos SG, SLP, EA graus 3 e 4 e EA neurológicos. A Tabela H contém as estimativas e avaliação da qualidade das evidências diretas, indiretas e da rede, e as justificativas para cada avaliação. A certeza da evidência foi considerada moderada para o desfecho SLP e, para os desfechos SG, EA graus 3 e 4 e EA neurológicos foi julgada baixa. 
+Tabela H - Avaliação da qualidade da evidência da comparação entre lenalidomida e talidomida para os desfechos sobrevida global, sobrevida livre de progressão, eventos adversos graus 3 e 4, eventos adversos neurológicos. 
+Estimativa da meta-análise em rede 
+Sobrevida livre de progressão 
+Eventos adversos graus 3 e 4 
+Estimativa da meta-análise em rede 
+Eventos adversos neurológicos 
+Legenda: IC - intervalo de confiança; NA - não avaliado; HR - hazard ratio; RR: risco relativo. 
+Notas: a. A certeza da evidência foi rebaixada em um nível, pois o intervalo de confiança da medida passa pelo efeito nulo. b. A certeza da evidência foi rebaixada um ponto devido às diferenças das populações do estudo quanto ao estadiamento da doença e protocolos de tratamento administrados antes da etapa de manutenção. c. A certeza da evidência foi rebaixada dois níveis, pois o intervalo de confiança da medida passa pelo efeito nulo e é amplo. 
+Referências: Attal et al. 201256, Jackson et al. 201758, Jackson et al. 202160, Morgan et al. 201251, Morgan et al. 201352, Holstein et al 201753, McCarthy et al. 201254, McCarthy et al. 201755, McCarthy et al. 201859, Palumbo et al. 201457
+QUESTÃO 6: Devemos utilizar esquemas com dois ou três medicamentos que incluam a lenalidomida versus esquemas terapêuticos com dois ou três medicamentos contendo talidomida para o tratamento de pacientes com mieloma múltiplo inelegíveis ao TCTH? 
+Recomendação 6: Por não ter sido incorporada no âmbito do SUS para o tratamento de MM, estas Diretrizes não preconizam o uso desta tecnologia. Entretanto, por se tratar de uma dúvida clínica, foi realizada a síntese e a avaliação crítica 
+A estrutura PICO para esta pergunta foi: 
+População: Pacientes adultos, com MM e inelegíveis ao TCTH. 
+Intervenção: Esquemas com dois ou três medicamentos que incluem lenalidomida. 
+Comparador: Esquemas com dois ou três medicamentos que incluem talidomida. 
+Eficácia: SG, SLP, qualidade de vida ou outros desfechos relatados pelos pacientes (patient related outcomes - PRO). 
+Segurança: EA: EA graves, polineuropatia, eventos neurológicos, eventos hematológicos, neutropenia, anemia, trombocitopenia, tromboembolismo, eventos cardiovasculares, eventos gastrointestinais e infecções (graus 3 e 4) e suspensão do tratamento por evento adverso. 
+Métodos e resultados da busca: 
+Para responder essa pergunta, foram utilizadas as referências de cinco RS e síntese de evidências apresentadas no 
+Relatório de Recomendação nº 701/202262, relativo à proposta de incorporação da lenalidomida para tratamento de pacientes com MM inelegíveis ao TCTH. 
+Foi realizada busca estruturada nas bases MEDLINE (via Pubmed), EMBASE, Cochrane Library, Epistemonikos e 
+LILACS em 10 de agosto de 2021. A seleção dos estudos e a extração dos dados foram realizadas por dois pesquisadores independentes. As discordâncias foram avaliadas por um terceiro pesquisador e resolvidas por meio do consenso. A estratégia de busca localizou 758 publicações e, ao final, foram selecionadas sete RS37–39,63–66 que satisfizeram a pergunta de pesquisa, por meio de meta-análise em rede (indireta). A avaliação da qualidade metodológica dos estudos foi realizada com a ferramenta 
+AMSTAR-23. Os resultados foram sintetizados numa Overview das RS selecionadas. A descrição detalhada dos métodos e resultados da busca estão no Relatório de Recomendação nº 701/202262. 
+Os resultados foram divididos em duas comparações principais: esquemas de dois medicamentos, RDc (lenalidomida e dexametasona até progressão da doença) versus TDc (talidomida e dexametasona até progressão da doença), e esquemas de três medicamentos, MPR-R (melfalana, prednisona e lenalidomida, seguido de manutenção com lenalidomida) versus MPT-T 
+(melfalana, prednisona e talidomida, seguido de manutenção com talidomida). A síntese dos resultados foi baseada em cinco 
+RSs37–39,64,65, as quais incluíram os esquemas descritos acima. A avaliação da qualidade metodológica das RS apontou entre duas e cinco falhas metodológicas nas RS. A revisão publicada por Piechotta et al. 201938 foi a única que não apresentou falhas 
+RDc versus TDc (Tabela I) 
+Para SG, três RS38,39,64 mostraram superioridade para o esquema RDc quando comparado ao TDc. 
+Para SLP, houve divergência entre os resultados, uma RS38 não apresentou diferença entre os esquemas, enquanto outras duas RS39,64 mostraram superioridade ao esquema RDc quando comparado ao TDc. 
+Na análise da suspensão por EA (DEA), uma RS38 mostrou que não houve diferença entre os dois esquemas; outra RS39 mostrou que pacientes tratados com RDc apresentam menor risco para EA neurológicos. 
+ MPR-R versus MPT-T (Tabela I) 
+Os esquemas MPR-R e MPT-T foram comparados em relação à SG e SLP por três38,39,64 e cinco RS37–39,64,65, respectivamente. Em nenhuma delas houve diferença entre os dois esquemas. Duas RS38,39 apresentaram resultados de EA cujos achados apontaram que pacientes tratados com MPR-R apresentam menor risco para EA graves, como polineuropatia. 
+Tabela I - Sobrevida global, sobrevida livre de progressão, eventos adversos neurológicos e suspensão por eventos adversos na comparação RDc versus TDc em pacientes inelegíveis ao transplante de células-tronco hematopoiéticas. 
+Tabela I - Sobrevida global, sobrevida livre de progressão, eventos adversos graves, eventos adversos neurológicos e suspensão por eventos adversos na comparação MPR-R versus MPT-T em pacientes inelegíveis ao transplante de células-tronco hematopoiéticas. 
+Para avaliação da qualidade da evidência, foram utilizados os resultados publicados por Piechotta et al. 201938, cujo estudo apresenta melhor qualidade metodológica, conforme descrito acima. 
+A Tabela J apresenta os resultados da certeza da evidência (GRADE) da comparação entre RDc versus TDc para os desfechos SG, SLP, suspensão por EA. Para SG, a certeza da evidência foi considerada baixa e, para os desfechos, SLP e suspensão por EA, a qualidade da evidência foi julgada como muito baixa. 
+A Tabela K apresenta os resultados da avaliação da certeza da evidência (GRADE) da comparação entre MPR-R versus 
+MPT-T para os desfechos SG, SLP, EA graves e suspensão por EA. Na SG, SLP e suspensão por EA, a certeza da evidência foi considerada baixa e, para o desfecho EA graves, a certeza da evidência foi considerada moderada.
+Tabela J - Avaliação da qualidade da evidência da comparação entre lenalidomida e dexametasona (RDc) versus talidomida e dexametasona (TDc) quanto aos desfechos sobrevida global, sobrevida livre de progressão, suspensão por 
+Estimativa da meta-análise em 
+Sobrevida livre de progressão 
+Suspensão por evento adverso 
+*A comparação de interesse está sinalizada em negrito. As demais comparações contribuem para a medida da comparação de interesse. 
+Legenda: IC - intervalo de confiança; NA - não avaliado; HR - hazard ratio; RR: risco relativo; RDc: lenalidomida e dexametasona até progressão da doença; TDc: talidomida e dexametasona até progressão da doença; MPR-R: melfalana, prednisona e lenalidomida com manutenção de lenalidomida; MPT-T: melfalana, prednisona e talidomida com manutenção de talidomida; MP: melfalana e prednisona até progressão. a. A certeza da evidência foi rebaixada em um nível, pois o intervalo de confiança da medida passa pelo efeito nulo. b. A certeza da evidência foi rebaixada um nível, devido ao risco de viés do ensaio clínico HOVON87MM67. c. A certeza da evidência foi rebaixada um nível, devido ao risco de viés do ensaio clínico HOVON 4968. d. A certeza da evidência foi rebaixada um nível, devido às diferenças das populações do estudo quanto ao estadiamento da doença. e. A certeza da evidência foi rebaixada dois níveis por imprecisão, pois o intervalo de confiança da medida passa pelo efeito nulo e é amplo. f. A certeza da evidência foi rebaixada um nível, devido ao risco de viés de detecção do ensaio clínico EMN0169. g. Rebaixado um nível devido ao risco de viés de detecção do estudo ECOG E1A0670 e por viés de seleção e detecção no estudo HOVON87MM67.
+Tabela K - Avaliação da qualidade da evidência da comparação entre melfalana, prednisona e lenalidomida com manutenção de lenalidomida (MPR-R) versus melfalana, prednisona e talidomida com manutenção de talidomida (MPTT) quanto aos desfechos sobrevida global, sobrevida livre de progressão, eventos adversos graves, suspensão por eventos adversos*. 
+Estimativa da meta-análise em 
+Sobrevida livre de progressão 
+Suspensão por evento adverso 
+*A comparação de interesse está sinalizada em negrito. As demais comparações contribuem para a medida da comparação de interesse. 
+Legenda: IC - intervalo de confiança; NA - não avaliado; HR - hazard ratio; RR: risco relativo; MPR-R: melfalana, prednisona e lenalidomida com manutenção de lenalidomida; MPT-T: melfalana, prednisona e talidomida com manutenção de talidomida; MP: melfalana e prednisona. a. A certeza da evidência foi rebaixada em um nível, pois o intervalo de confiança da medida passa pelo efeito nulo. b. A certeza da evidência foi rebaixada um nível, devido ao risco de viés do ensaio clínico HOVON87MM67. c. A certeza da evidência foi rebaixada um nível, devido às diferenças das populações do estudo quanto ao estadiamento da doença. d. A certeza da evidência foi rebaixada um nível pelo risco de viés de detecção, devido a falta de cegamento do estudo ECOG E1A0670. e. A certeza da evidência foi rebaixada um nível pelo risco de viés de detecção, devido à falta de cegamento do estudo GIMEMA71. f. Rebaixado um nível devido ao risco de viés de detecção do estudo ECOG E1A06 (16) e por viés de seleção e detecção no estudo HOVON87MM67
+QUESTÃO 7: Deve-se utilizar anticorpos monoclonais (daratumumabe) em monoterapia ou associado a outros medicamentos no paciente com mieloma múltiplo, em recidiva ou doença refratária? 
+Recomendação 7: Por não ter sido incorporada no âmbito do SUS para o tratamento de MM, estas Diretrizes não preconizam o uso desta tecnologia. Entretanto, por se tratar de uma dúvida clínica, foi realizada a síntese e a avaliação crítica 
+A estrutura PICO para esta pergunta foi: 
+População: Pacientes adultos, com RS, em recidiva ou doença refratária 
+Intervenção: Anticorpos monoclonais (daratumumabe) em monoterapia ou associado a outros medicamentos 
+Comparador: Esquemas terapêuticos sem anticorpos monoclonais 
+Desfechos: SG, SLP, qualidade de vida (QV), TRC, taxa de resposta parcial muito boa (RPMB) e EA. 
+Métodos e resultados da busca: 
+Para responder essa pergunta, foi utilizada a referência de um ECR e a síntese de evidências foi apresentada no Relatório de Recomendação nº 702/202272, relativo à proposta de incorporação do daratumumabe em monoterapia ou associado à terapia antineoplásica para o controle do mieloma múltiplo recidivado ou refratário. 
+Foi realizada busca estruturada nas bases MEDLINE (via Pubmed), EMBASE, Cochrane Library e manual em julho de 
+2021. A seleção dos estudos e a extração dos dados foram realizadas por dois pesquisadores independentes. As discordâncias foram avaliadas por um terceiro pesquisador e resolvidas por meio do consenso. A estratégia de busca localizou 961 publicações e, ao final, foram selecionadas dez RS42,43,73–80 e um ECR - CASTOR81–85 que satisfizeram a pergunta de pesquisa. A avaliação da qualidade metodológica das RS foi realizada com a ferramenta AMSTAR-23 e do ECR foi realizada por meio da ferramenta 
+RoB 24. Os resultados foram apresentados e sintetizados, baseados apenas no estudo CASTOR, por ser o único a incluir o esquema previsto em bula86. A descrição detalhada dos métodos e resultados da busca estão no Relatório de Recomendação nº 
+Os resultados do estudo CASTOR81–85 foi considerado para síntese de evidências e comparou o esquema daratumumabe, bortezomibe e dexametasona (DVD) versus bortezomibe e dexametasona (VD). A avaliação geral do risco de viés foi de 
+‘algumas preocupações’ quanto ao risco de viés para os desfechos de eficácia (SLP, QV, RC e RPMB) e de ‘alto risco’ para o desfecho EA. O tempo de seguimento das publicações consideradas variou de 12 a 48 meses. 
+A SG não pode ser avaliada pois a mediana não foi alcançada. 
+Para SLP (16,7 vs. 7,1 meses; HR 0,31, IC de 95% 0,24 a 0,39), RC (28,2% vs. 8,9%; p < 0,0001) e RPMB (60,9% vs. 
+29,2%; p < 0,0001), houve benefício para os pacientes que receberam daratumumabe. 
+Em relação à QV, não houve diferença entre os escores de avaliados pelas ferramentas EORTC QLQ-C30 (p=0,9163) e 
+EQ-5D-5L (p=0,8072) no início e no final do estudo. 
+Considerando os desfechos de segurança, daratumumabe não parece aumentar o risco de suspensão por EA (7,4% para esquema com daratumumabe vs. 9,3% para esquema sem daratumumabe) ou a incidência de EA (98,8% vs. 95,4%). 
+Para avaliação da qualidade da evidência, foram utilizados os resultados do estudo CASTOR. Os resultados da certeza da evidência (GRADE) da comparação entre DVD versus VD para o desfecho QV e suspensão por EA foi considerada alta. Para os desfechos SLP, a evidência foi considerada moderada (Tabela L).
+Tabela L - Avaliação da qualidade da evidência para daratumumabe, bortezomibe e dexametasona comparado a bortezomibe e dexametasona para controle do mieloma múltiplo recidivado ou refratário. 
+Efeitos absolutos potenciais 
+Sobrevida global - não mensurados 
+Qualidade de vida relacionada à saúde (seguimento: mediana 19,4 meses) 
+As ferramentas EORTC QLQ-C30 e EQ-5D-5L mostraram que a QVRS foi mantida durante o tratamento para os pacientes de ambos os grupos que permaneceram no estudo. Não foram observadas diferenças significativas nas alterações médias dos mínimos quadrados da linha de base entre 
+DARA+BORT+DEXA e BORT+DEXA em nenhum momento para as pontuações do estado de saúde global do EORTC QLQ-C30 ou a pontuação do utilitário EQ-5D-5L. Uma diferença significativa foi observada apenas na semana 21 em favor de DARA+BORT+DEXA para a pontuação da escala visual analógica (p = 0,0185). Nenhuma diferença significativa no estado de saúde global do EORTC QLQ-C30 foi observada para o tempo médio de melhora (5,0 versus 5,1 meses; HR, 
+0,99; IC de 95%, 0,76-1,29; p = 0,9163). Da mesma forma, nenhuma diferença significativa no tempo médio de melhora foi observada para o 
+Efeitos absolutos potenciais 
+EQ-5D-5L Utility Score (7,7 versus 3,5 meses; HR, 0,82; IC de 95%, 0,621,08; p = 0,1469) ou o escore da escala visual analógica (5,0 versus 5,0 meses; HR, 1,03; IC 95%, 0,79-1,35; p = 0,8072). 
+Suspensão por evento adverso (seguimento: mediana 7,4 meses) 
+Evento adverso grave - não mensurados 
+Sobrevida livre de progressão 
+Legenda: BORT (Bortezomibe), DARA (Daratumumabe), DEXA (Dexametasona), ECR (ensaio clínico randomizado), HR (Hazard ratio) a - Evidência indireta, uma vez que sobrevida livre de progressão não é desfecho validado para predição de sobrevida global no contexto do mieloma múltiplo. 
+Referências: Palumbo et al. 201681, Spencer et al. 201882, Mateos et al. 202083, Mateos et al. 2020a84 e Weisel et al. 202085. https://bvsms.saude.gov.br/bvs/saudelegis/sas/2011/prt0708_25_10_2011.html 
+2. GRADE Guidance Group. Grading of Recommendations Assessment, Development, and Evaluation. [Internet]. [cited 
+2022 Mar 15]. Available from: https://www.gradeworkinggroup.org/ 
+3. Shea BJ, Reeves BC, Wells G, Thuku M, Hamel C, Moran J, et al. AMSTAR 2: a critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both. BMJ [Internet]. 2017 Sep 
+21;j4008. Available from: https://www.bmj.com/lookup/doi/10.1136/bmj.j4008 
+4. Higgins J, Savović J, Page M, Elbers R, Sterne J. Assessing risk of bias in a randomized trial. In: Cochrane Handbook for Systematic Reviews of Interventions version 62 [Internet]. 2021. Available from: www.training.cochrane.org/handbook. 
+5. Whiting PF. QUADAS-2: A Revised Tool for the Quality Assessment of Diagnostic Accuracy Studies. Ann Intern 
+Med [Internet]. 2011 Oct 18;155(8):529. Available from: http://annals.org/article.aspx?doi=10.7326/0003-4819-155-8https://bvsms.saude.gov.br/bvs/publicacoes/diretrizes_metodologicas_sistema_grade.pdf 
+7. Durak Aras B, Akay OM, Sungar G, Bademci G, Aslan V, Caferler J, et al. Conventional and molecular cytogenetic analyses in Turkish patients with multiple myeloma. Turkish J Hematol [Internet]. 2011 Aug 1; Available from: http://www.journalagent.com/z4/download_fulltext.asp?pdir=tjh&plng=eng&un=TJH-24993 
+8. Ashok V, Ranganathan R, Chander S, Damodar S, Bhat S, S NK, et al. Comparison of Diagnostic Yield of a FISH 
+Panel Against Conventional Cytogenetic Studies for Hematological Malignancies: A South Indian Referral Laboratory Analysis http://www.ncbi.nlm.nih.gov/pubmed/29286619 
+9. Yuregir OO, Sahin FI, Yilmaz Z, Kizilkilic E, Karakus S, Ozdogu H. Fluorescent in situ hybridization studies in https://www.tandfonline.com/doi/full/10.1179/102453309X385250 
+Aydin C, Ulas T, Hangul C, Yucel OK, Iltar U, Salim O, et al. Conventional Cytogenetics and Interphase 
+Fluorescence In Situ Hybridization Results in Multiple Myeloma: A Turkey Laboratory Analysis of 381 Cases. Indian J Hematol 
+Blood Transfus [Internet]. 2020 Apr 25;36(2):284–91. Available from: http://link.springer.com/10.1007/s12288-019-01215-5 
+Chang H, Li D, Zhuang L, Nie E, Bouman D, Stewart AK, et al. Detection of Chromosome 13q Deletions and IgH Translocations in Patients with Multiple Myeloma by FISH: Comparison with Karyotype Analysis. Leuk Lymphoma 
+[Internet]. 2004 May 3;45(5):965–9. Available from: http://www.tandfonline.com/doi/full/10.1080/10428190310001638832 
+Gole L, Lin A, Chua C, Chng WJ. Modified cIg-FISH protocol for multiple myeloma in routine cytogenetic https://linkinghub.elsevier.com/retrieve/pii/S2210776213001683 
+Hamdaoui H, Benlarroubia O, Ait Boujmia OK, Mossafa H, Ouldim K, Belkhayat A, et al. Cytogenetic and 
+FISH analysis of 93 multiple myeloma Moroccan patients. Mol Genet Genomic Med [Internet]. 2020 Sep 23;8(9). Available from: https://onlinelibrary.wiley.com/doi/10.1002/mgg3.1363 
+He J, Yang L, Meng X, Wei G, Wu W, Han X, et al. A Retrospective Analysis of Cytogenetic and Clinical 
+Characteristics in Patients With Multiple Myeloma. Am J Med Sci [Internet]. 2013 Feb;345(2):88–93. Available from: https://linkinghub.elsevier.com/retrieve/pii/S0002962915307321 
+Ikbal Atli E, Gurkan H, Onur Kirkizlar H, Atli E, Demir S, Yalcintepe S, et al. Pros and cons for fluorescent in situ hybridization, karyotyping and next generation sequencing for diagnosis and follow-up of multiple myeloma. Balk J Med 
+Genet [Internet]. 2021 Mar 23;23(2):59–64. Available from: https://www.sciendo.com/article/10.2478/bjmg-2020-0020 
+Kishimoto RK, de Freitas SLVV, Ratis CA, Borri D, Sitnik R, Velloso EDRP. Validation of interphase fluorescence in situ hybridization (iFISH) for multiple myeloma using CD138 positive cells. Rev Bras Hematol Hemoter 
+[Internet]. 2016 Apr;38(2):113–20. Available from: https://linkinghub.elsevier.com/retrieve/pii/S1516848416000086 
+Legües ME, Morales P, Valenzuela M, Encina A, Martí MJ, Bascuñán C, et al. Características citogenéticas y detección de anormalidades de alto riesgo en mieloma múltiple. Rev Med Chil [Internet]. 2019;147(1):61–4. Available from: http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0034-98872019000100061&lng=en&nrm=iso&tlng=en 
+Boneva T, Brazma D, Gancheva K, Howard-Reeves J, Raynov J, Grace C, et al. Can genome array screening replace FISH as a front-line test in multiple myeloma? Genes, Chromosom Cancer [Internet]. 2014 Aug;53(8):676–92. Available from: https://onlinelibrary.wiley.com/doi/10.1002/gcc.22178 
+Yu Y, Brown Wade N, Hwang AE, Nooka AK, Fiala MA, Mohrbacher A, et al. Variability in Cytogenetic 
+Testing for Multiple Myeloma: A Comprehensive Analysis From Across the United States. JCO Oncol Pract [Internet]. 
+2020;16(10):e1169–80. Available from: http://www.ncbi.nlm.nih.gov/pubmed/32469686 
+Scott K, Hayden PJ, Will A, Wheatley K, Coyne I. Bortezomib for the treatment of multiple myeloma. 
+Cochrane Database Syst Rev [Internet]. 2016 Apr 20; Available from: https://doi.wiley.com/10.1002/14651858.CD010816.pub2 
+Nooka AK, Kaufman JL, Behera M, Langston A, Waller EK, Flowers CR, et al. Bortezomib-containing induction regimens in transplant-eligible myeloma patients. Cancer [Internet]. 2013 Dec 1;119(23):4119–28. Available from: https://onlinelibrary.wiley.com/doi/10.1002/cncr.28325 
+Sekine L, Ziegelmann PK, Manica D, Fonte Pithan C, Sosnoski M, Morais VD, et al. Frontline treatment for transplant‐eligible multiple myeloma: A 6474 patients network meta‐analysis. Hematol Oncol [Internet]. 2019 Feb 20;37(1):62–
+74. Available from: https://onlinelibrary.wiley.com/doi/10.1002/hon.2552 
+Zeng Z, Lin J, Chen J. Bortezomib for patients with previously untreated multiple myeloma: a systematic review and meta-analysis of randomized controlled trials. Ann Hematol [Internet]. 2013 Jul 2;92(7):935–43. Available from: http://link.springer.com/10.1007/s00277-013-1711-7 
+Zeng Z-H, Chen J-F, Li Y-X, Zhang R, Xiao L-F, Meng X-Y. Induction regimens for transplant-eligible patients with newly diagnosed multiple myeloma: a network meta-analysis of randomized controlled trials. Cancer Manag Res 
+[Internet]. 2017 Jul;Volume 9:287–98. Available from: https://www.dovepress.com/induction-regimens-for-transplant-eligiblepatients-with-newly-diagnos-peer-reviewed-article-CMAR 
+Higgins J, Altman DG, Sterne J. Assessing risk of bias in included studies. In: Cochrane Handbook for 
+Systematic Reviews of Interventions. 5.1.0. 2011. 
+Rosiñol L, Oriol A, Teruel AI, Hernández D, López-Jiménez J, de la Rubia J, et al. Superiority of bortezomib, thalidomide, and dexamethasone (VTD) as induction pretransplantation therapy in multiple myeloma: a randomized phase 3 https://ashpublications.org/blood/article/120/8/1589/30806/Superiority-of-bortezomib-thalidomide-and 
+Cavo M, Tacchetti P, Patriarca F, Petrucci MT, Pantani L, Galli M, et al. Bortezomib with thalidomide plus dexamethasone compared with thalidomide plus dexamethasone as induction therapy before, and consolidation therapy after, double autologous stem-cell transplantation in newly diagnosed multiple myeloma: a randomised phase 3. Lancet [Internet]. 
+2010 Dec;376(9758):2075–85. Available from: https://linkinghub.elsevier.com/retrieve/pii/S0140673610614249 
+Cavo M, Galli M, Pantani L, Di Raimondo F, Crippa C, Offidani M, et al. Bortezomib-ThalidomideDexamethasone Incorporated Into Autotransplantation Is Associated with More Favorable Outcomes After Relapse in 
+Comparison with Thalidomide-Dexamethasone Plus Autotransplantation in Multiple Myeloma. Blood [Internet]. 2012 Nov https://ashpublications.org/blood/article/120/21/4210/86776/BortezomibThalidomideDexamethasone-Incorporated 
+Cavo M, Pantani L, Petrucci MT, Patriarca F, Zamagni E, Donnarumma D, et al. Bortezomib-thalidomidedexamethasone is superior to thalidomide-dexamethasone as consolidation therapy after autologous hematopoietic stem cell transplantation in patients with newly diagnosed multiple myeloma. Blood [Internet]. 2012 Jul 5;120(1):9–19. Available from: https://ashpublications.org/blood/article/120/1/9/30142/Bortezomibthalidomidedexamethasone-is-superior-to 
+Cavo M, Galli M, Pezzi A, Di Raimondo F, Crippa C, Offidani M, et al. Persistent Improvement In Clinical 
+Outcomes With Bortezomib-Thalidomide-Dexamethasone Vs Thalidomide-Dexamethasone Incorporated Into Double 
+Autologous Transplantation For Multiple Myeloma: An Updated Analysis Of Phase 3 Gimema-MMY-3006 Study. Blood https://ashpublications.org/blood/article/122/21/2090/11751/Persistent-Improvement-In-Clinical-Outcomes-With 
+Brioli A, Pezzi A, Mügge L, Derudas D, Petti MC, Zannetti B., et al. Jahrestagung der -Deutschen, 
+Österreichischen und -Schweizerischen -Gesellschaften für Hämatologie und -Medizinische Onkologie, Leipzig, 14.–18. https://www.karger.com/Article/FullText/449050 
+Tacchetti P, Patriarca F, Petrucci MT, Galli M, Pantani L, Dozza L, et al. A triplet bortezomib-and immunomodulator-based therapy before and after double ASCT improves overall survival of newly diagnosed mm patients: final analysis of phase 3 gimema-MMY-3006 study [Internet]. Vol. 2, HemaSphere. 23rd Congress of the European Hematology 
+Association Stockholm, Sweden; 2018. p. 1–1113. Available from: https://journals.lww.com/02014419-201806001-00001 
+Tacchetti P, Zamagni E, Patriarca F, Petrucci MT, Dozza L, Galli M, et al. Bortezomib-thalidomidedexamethasone and double autologous stem cell transplantation for newly diagnosed multiple mieloma: Final results of the phase 
+3 GIMEMA-MMY-3006 trial. Haematologica. 47th Congress of the Italian Society of Hematology; 2019. 
+Tacchetti P, Pantani L, Patriarca F, Petrucci MT, Zamagni E, Dozza L, et al. Bortezomib, thalidomide, and dexamethasone followed by double autologous haematopoietic stem-cell transplantation for newly diagnosed multiple myeloma 
+(GIMEMA-MMY-3006): long-term follow-up analysis of a randomised phase 3, open-label study. Lancet Haematol [Internet]. 
+2020 Dec;7(12):e861–73. Available from: https://linkinghub.elsevier.com/retrieve/pii/S2352302620303239 
+Harousseau J-L, Attal M, Avet-Loiseau H, Marit G, Caillot D, Mohty M, et al. Bortezomib Plus 
+Dexamethasone Is Superior to Vincristine Plus Doxorubicin Plus Dexamethasone As Induction Treatment Prior to Autologous 
+Stem-Cell Transplantation in Newly Diagnosed Multiple Myeloma: Results of the IFM 2005-01 Phase III Trial. J Clin Oncol 
+[Internet]. 2010 Oct 20;28(30):4621–9. Available from: http://ascopubs.org/doi/10.1200/JCO.2009.27.9158 
+Janssen-Cilag. VELCADE: pó liofilizado. São José dos Campos; 2017. 
+Blommestein HM, van Beurden-Tan CHY, Franken MG, Uyl-de Groot CA, Sonneveld P, Zweegman S. 
+Efficacy of first-line treatments for multiple myeloma patients not eligible for stem cell transplantation: a network meta-analysis. http://www.haematologica.org/lookup/doi/10.3324/haematol.2018.206912 
+Piechotta V, Jakob T, Langer P, Monsef I, Scheid C, Estcourt LJ, et al. Multiple drug combinations of bortezomib, lenalidomide, and thalidomide for first-line treatment in adults with transplant-ineligible multiple myeloma: a https://doi.wiley.com/10.1002/14651858.CD013487 
+Sekine L, Ziegelmann PK, Manica D, Pithan C da F, Sosnoski M, Morais VD, et al. Upfront treatment for newly diagnosed transplant-ineligible multiple myeloma patients: A systematic review and network meta-analysis of 14,533 patients over 29 randomized clinical trials. Crit Rev Oncol Hematol [Internet]. 2019 Nov;143:102–16. Available from: https://linkinghub.elsevier.com/retrieve/pii/S1040842818304955 
+San Miguel JF, Schlag R, Khuageva NK, Dimopoulos MA, Shpilberg O, Kropff M, et al. Bortezomib plus 
+Melphalan and Prednisone for Initial Treatment of Multiple Myeloma. N Engl J Med [Internet]. 2008 Aug 28;359(9):906–17. 
+Available from: http://www.nejm.org/doi/abs/10.1056/NEJMoa0801479 
+Botta C, Ciliberto D, Rossi M, Staropoli N, Cucè M, Galeano T, et al. Network meta-analysis of randomized trials in multiple myeloma: efficacy and safety in relapsed/refractory patients. Blood Adv [Internet]. 2017 Feb 28;1(7):455–66. 
+Available from: https://ashpublications.org/bloodadvances/article/1/7/455/16025/Network-metaanalysis-of-randomized-trialsLuo X-W, Du X-Q, Li J-L, Liu X-P, Meng X-Y. Treatment options for refractory/relapsed multiple myeloma: an updated evidence synthesis by network meta-analysis. Cancer Manag Res [Internet]. 2018 Aug;Volume 10:2817–23. 
+Available from: https://www.dovepress.com/treatment-options-for-refractoryrelapsed-multiple-myeloma-an-updated-e-peerSchmitz S, Maguire Á, Morris J, Ruggeri K, Haller E, Kuhn I, et al. The use of single armed observational data to closing the gap in otherwise disconnected evidence networks: a network meta-analysis in multiple myeloma. BMC Med https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-018-0509-7 
+Richardson PG, Sonneveld P, Schuster MW, Irwin D, Stadtmauer EA, Facon T, et al. Bortezomib or HighDose Dexamethasone for Relapsed Multiple Myeloma. N Engl J Med [Internet]. 2005 Jun 16;352(24):2487–98. Available from: http://www.nejm.org/doi/abs/10.1056/NEJMoa043445 
+Iida S, Wakabayashi M, Tsukasaki K, Miyamoto K, Maruyama D, Yamamoto K, et al. Bortezomib plus dexamethasone vs thalidomide plus dexamethasone for relapsed or refractory multiple myeloma. Cancer Sci [Internet]. 2018 
+May 17;109(5):1552–61. Available from: https://onlinelibrary.wiley.com/doi/10.1111/cas.13550 
+Lee SJ, Richardson PG, Sonneveld P, Schuster MW, Irwin D, San Miguel J-F, et al. Bortezomib is associated with better health-related quality of life than high-dose dexamethasone in patients with relapsed multiple myeloma: results from the APEX study. Br J Haematol [Internet]. 2008 Sep; Available from: https://onlinelibrary.wiley.com/doi/10.1111/j.1365no âmbito do Sistema Único de Saúde - SUS, o bortezomibe para o tratamento de pacientes adultos com mieloma múltiplo em pacientes com mieloma múltiplo submetidos ao transplante de células-tronco hematopoiéticas. [Internet]. 2022. Available from: http://conitec.gov.br/images/Relatorios/2022/20220314_Relatorio_700_lenalidomida_elegiveis_mieloma_multiplo_.pdf. 
+Gay F, Jackson G, Rosiñol L, Holstein SA, Moreau P, Spada S, et al. Maintenance Treatment and Survival http://oncology.jamanetwork.com/article.aspx?doi=10.1001/jamaoncol.2018.2961 
+Li J-L, Fan G-Y, Liu Y-J, Zeng Z-H, Huang J-J, Yang Z-M, et al. Long-Term Efficacy of Maintenance 
+Therapy for Multiple Myeloma: A Quantitative Synthesis of 22 Randomized Controlled Trials. Front Pharmacol [Internet]. 2018 
+Apr 30;9. Available from: http://journal.frontiersin.org/article/10.3389/fphar.2018.00430/full 
+Morgan GJ, Gregory WM, Davies FE, Bell SE, Szubert AJ, Brown JM, et al. The role of maintenance thalidomide therapy in multiple myeloma: MRC Myeloma IX results and meta-analysis. Blood [Internet]. 2012 Jan 5;119(1):7–
+15. Available from: https://ashpublications.org/blood/article/119/1/7/125748/The-role-of-maintenance-thalidomide-therapy-in 
+Morgan GJ, Davies FE, Gregory WM, Bell SE, Szubert AJ, Cook G, et al. Long-term Follow-up of MRC 
+Myeloma IX Trial: Survival Outcomes with Bisphosphonate and Thalidomide Treatment. Clin Cancer Res [Internet]. 2013 Nov 
+Holstein SA, Jung S-H, Richardson PG, Hofmeister CC, Hurd DD, Hassoun H, et al. Updated analysis of 
+CALGB (Alliance) 100104 assessing lenalidomide versus placebo maintenance after single autologous stem-cell transplantation for multiple myeloma: a randomised, double-blind, phase 3 trial. Lancet Haematol [Internet]. 2017 Sep;4(9):e431–42. Available from: https://linkinghub.elsevier.com/retrieve/pii/S2352302617301400 
+McCarthy PL, Owzar K, Hofmeister CC, Hurd DD, Hassoun H, Richardson PG, et al. Lenalidomide after 
+Stem-Cell Transplantation for Multiple Myeloma. N Engl J Med [Internet]. 2012 May 10;366(19):1770–81. Available from: http://www.nejm.org/doi/abs/10.1056/NEJMoa1114083 
+McCarthy PL, Holstein SA, Petrucci MT, Richardson PG, Hulin C, Tosi P, et al. Lenalidomide Maintenance 
+After Autologous Stem-Cell Transplantation in Newly Diagnosed Multiple Myeloma: A Meta-Analysis. J Clin Oncol [Internet]. 
+2017 Oct 10;35(29):3279–89. Available from: https://ascopubs.org/doi/10.1200/JCO.2017.72.6679 
+Attal M, Lauwers-Cances V, Marit G, Caillot D, Moreau P, Facon T, et al. Lenalidomide Maintenance after 
+Stem-Cell Transplantation for Multiple Myeloma. N Engl J Med [Internet]. 2012 May 10;366(19):1782–91. Available from: http://www.nejm.org/doi/abs/10.1056/NEJMoa1114138 
+Palumbo A, Cavallo F, Gay F, Di Raimondo F, Ben Yehuda D, Petrucci MT, et al. Autologous 
+Transplantation and Maintenance Therapy in Multiple Myeloma. N Engl J Med [Internet]. 2014 Sep 4;371(10):895–905. 
+Available from: http://www.nejm.org/doi/10.1056/NEJMoa1402888 
+Jackson G, Davies F., Pawlyn C, Cairns D, Striha A, Hockaday A, et al. Lenalidomide Maintenance 
+Significantly Improves Outcomes Compared to Observation Irrespective of Cytogenetic Risk: Results of the Myeloma XI Trial. 
+Blood [Internet]. 2017;130(Supplement 1):436. Available from: https://ashpublications.org/blood/article/130/Supplement 
+1/436/72685/Lenalidomide-Maintenance-Significantly-Improves 
+McCarthy PL, Richardson P, Suman V, Cooper M, Saunders O, Dhanasiri S, et al. Survival Analysis from the CALGB Study of Lenalidomide Maintenance Therapy in Newly Diagnosed Multiple Myeloma Post-Autologous Stem Cell 
+Transplantation Adjusted for Crossover (Alliance 100104). Blood [Internet]. 2018 Nov 29;132(Supplement 1):4737–4737. 
+Available from: https://ashpublications.org/blood/article/132/Supplement 1/4737/262206/Survival-Analysis-from-the-CALGBLudwig H, Boccadoro M, Moreau P, San-Miguel J, Cavo M, Pawlyn C, et al. Recommendations for vaccination in multiple myeloma: a consensus of the European Myeloma Network. Leukemia [Internet]. 2021 Jan 19;35(1):31–
+44. Available from: https://www.nature.com/articles/s41375-020-01016-0 
+Ludwig H, Durie BGM, McCarthy P, Palumbo A, San Miguel J, Barlogie B, et al. IMWG consensus on maintenance therapy in multiple myeloma. Blood [Internet]. 2012 Mar 29;119(13):3003–15. Available from: https://ashpublications.org/blood/article/119/13/3003/29610/IMWG-consensus-on-maintenance-therapy-in-multiple http://conitec.gov.br/images/Relatorios/2022/20210314_Relatorio_701_lenalidomida_inelegiveis_mieloma_multiplo.pdf. 
+Weisel K, Doyen C, Dimopoulos M, Yee A, Lahuerta JJ, Martin A, et al. A systematic literature review and network meta-analysis of treatments for patients with untreated multiple myeloma not eligible for stem cell transplantation. Leuk https://www.tandfonline.com/doi/full/10.1080/10428194.2016.1177772 
+Liu X, Chen J, He Y, Meng X, Li K, He C, et al. Comparing efficacy and survivals of initial treatments for elderly patients with newly diagnosed multiple myeloma: a network meta-analysis of randomized controlled trials. Onco Targets 
+Ther [Internet]. 2016 Dec;Volume 10:121–8. Available from: https://www.dovepress.com/comparing-efficacy-and-survivals-ofinitial-treatments-for-elderly-pat-peer-reviewed-article-OTT 
+Gil‐Sierra MD, Gimeno‐Ballester V, Fenix‐Caballero S, Alegre‐Del Rey EJ. Network meta‐analysis of first‐ line treatments in transplant‐ineligible multiple myeloma patients. Eur J Haematol [Internet]. 2020 Jul 15;105(1):56–65. 
+Available from: https://onlinelibrary.wiley.com/doi/10.1111/ejh.13407 
+Ramasamy K, Dhanasiri S, Thom H, Buchanan V, Robinson S, D’Souza VK, et al. Relative efficacy of treatment options in transplant-ineligible newly diagnosed multiple myeloma: results from a systematic literature review and https://www.tandfonline.com/doi/full/10.1080/10428194.2019.1683736 
+Zweegman S, van der Holt B, Mellqvist U-H, Salomo M, Bos GMJ, Levin M-D, et al. Melphalan, prednisone, and lenalidomide versus melphalan, prednisone, and thalidomide in untreated multiple myeloma. Blood [Internet]. 2016 Mar 
+3;127(9):1109–16. Available from: https://ashpublications.org/blood/article/127/9/1109/126469/Melphalan-prednisone-andWijermans P, Schaafsma M, Termorshuizen F, Ammerlaan R, Wittebol S, Sinnige H, et al. Phase III Study of the Value of Thalidomide Added to Melphalan Plus Prednisone in Elderly Patients With Newly Diagnosed Multiple Myeloma: http://ascopubs.org/doi/10.1200/JCO.2009.26.1610 
+Magarotto V, Bringhen S, Offidani M, Benevolo G, Patriarca F, Mina R, et al. Triplet vs doublet lenalidomide-containing regimens for the treatment of elderly patients with newly diagnosed multiple myeloma. Blood [Internet]. 
+2016 Mar 3;127(9):1102–8. Available from: https://ashpublications.org/blood/article/127/9/1102/126446/Triplet-vs-doubletlenalidomidecontaining-regimens 
+Stewart AK, Jacobus S, Fonseca R, Weiss M, Callander NS, Chanan-Khan AA, et al. Melphalan, prednisone, and thalidomide vs melphalan, prednisone, and lenalidomide (ECOG E1A06) in untreated multiple myeloma. Blood [Internet]. 
+2015 Sep 10;126(11):1294–301. Available from: https://ashpublications.org/blood/article/126/11/1294/34394/Melphalanprednisone-and-thalidomide-vs-melphalan 
+Palumbo A, Bringhen S, Liberati AM, Caravita T, Falcone A, Callea V, et al. Oral melphalan, prednisone, and thalidomide in elderly patients with multiple myeloma: updated results of a randomized controlled trial. Blood [Internet]. 
+2008 Oct 15;112(8):3107–14. Available from: https://ashpublications.org/blood/article/112/8/3107/114920/Oral-melphalanprednisone-and-thalidomide-in associado à terapia antineoplásica para o controle do mieloma múltiplo recidivado ou refratário. [Internet]. 2022. Available from: http://conitec.gov.br/images/Relatorios/2022/20220314_Relatorio_702_daratumumabe_mieloma_multiplo.pdf. 
+Arcuri LJ, Americo AD. Treatment of relapsed/refractory multiple myeloma in the bortezomib and lenalidomide era: a systematic review and network meta-analysis. Ann Hematol [Internet]. 2021 Mar 11;100(3):725–34. 
+Available from: http://link.springer.com/10.1007/s00277-021-04404-3 
+Botta C, Martino EA, Conticello C, Mendicino F, Vigna E, Romano A, et al. Treatment of Lenalidomide 
+Exposed or Refractory Multiple Myeloma: Network Meta-Analysis of Lenalidomide-Sparing Regimens. Front Oncol [Internet]. 
+2021 Apr 14;11. Available from: https://www.frontiersin.org/articles/10.3389/fonc.2021.643490/full 
+Dhakal B, Narra RK, Giri S, Szabo A, Smunt TL, Ghose S, et al. Association of adverse events and associated cost with efficacy for approved relapsed and/or refractory multiple myeloma regimens: A Bayesian network meta‐analysis of https://onlinelibrary.wiley.com/doi/10.1002/cncr.32831 
+Weisel K, Sonneveld P, Spencer A, Beksac M, Rizzo M, Xu Y, et al. A comparison of the efficacy of immunomodulatory-free regimens in relapsed or refractory multiple myeloma: a network meta-analysis. Leuk Lymphoma 
+[Internet]. 2019 Jan 2;60(1):151–62. Available from: https://www.tandfonline.com/doi/full/10.1080/10428194.2018.1466392 
+Zheng Y, Shen H, Xu L, Feng J, Tang H, Zhang N, et al. Monoclonal Antibodies versus Histone Deacetylase 
+Inhibitors in Combination with Bortezomib or Lenalidomide plus Dexamethasone for the Treatment of Relapsed or Refractory 
+Multiple Myeloma: An Indirect-Comparison Meta-Analysis of Randomized Controlled Trial. J Immunol Res [Internet]. 2018 
+Jun 27;2018:1–20. Available from: https://www.hindawi.com/journals/jir/2018/7646913/ 
+Maiese EM, Ainsworth C, Le Moine J-G, Ahdesmäki O, Bell J, Hawe E. Comparative Efficacy of Treatments for Previously Treated Multiple Myeloma: A Systematic Literature Review and Network Meta-analysis. Clin Ther [Internet]. 
+2018 Mar;40(3):480-494.e23. Available from: https://linkinghub.elsevier.com/retrieve/pii/S014929181830047X 
+Zhang T, Wang S, Lin T, Xie J, Zhao L, Liang Z, et al. Systematic review and meta-analysis of the efficacy and safety of novel monoclonal antibodies for treatment of relapsed/refractory multiple myeloma. Oncotarget [Internet]. 2017 
+May 16;8(20):34001–17. Available from: https://www.oncotarget.com/lookup/doi/10.18632/oncotarget.16987 van Beurden-Tan CHY, Franken MG, Blommestein HM, Uyl-de Groot CA, Sonneveld P. Systematic 
+Literature Review and Network Meta-Analysis of Treatment Outcomes in Relapsed and/or Refractory Multiple Myeloma. J Clin 
+Oncol [Internet]. 2017 Apr 20;35(12):1312–9. Available from: https://ascopubs.org/doi/10.1200/JCO.2016.71.1663 
+Palumbo A, Chanan-Khan A, Weisel K, Nooka AK, Masszi T, Beksac M, et al. Daratumumab, Bortezomib, and Dexamethasone for Multiple Myeloma. N Engl J Med [Internet]. 2016 Aug 25;375(8):754–66. Available from: http://www.nejm.org/doi/10.1056/NEJMoa1606038 
+Spencer A, Lentzsch S, Weisel K, Avet-Loiseau H, Mark TM, Spicka I, et al. Daratumumab plus bortezomib and dexamethasone versus bortezomib and dexamethasone in relapsed or refractory multiple myeloma: updated analysis of http://www.haematologica.org/lookup/doi/10.3324/haematol.2018.194118 
+Mateos M-V, Spencer A, Nooka AK, Pour L, Weisel K, Cavo M, et al. Daratumumab-based regimens are highly effective and well tolerated in relapsed or refractory multiple myeloma regardless of patient age: subgroup analysis of the phase 3 CASTOR and POLLUX studies. Haematologica [Internet]. 2020 Feb;105(2):468–77. Available from: http://www.haematologica.org/lookup/doi/10.3324/haematol.2019.217448 
+Mateos M-V, Sonneveld P, Hungria V, Nooka AK, Estell JA, Barreto W, et al. Daratumumab, Bortezomib, and Dexamethasone Versus Bortezomib and Dexamethasone in Patients With Previously Treated Multiple Myeloma: Threeyear Follow-up of CASTOR. Clin Lymphoma Myeloma Leuk [Internet]. 2020 Aug;20(8):509–18. Available from: https://linkinghub.elsevier.com/retrieve/pii/S2152265019320105 
+Weisel K, Spencer A, Lentzsch S, Avet-Loiseau H, Mark TM, Spicka I, et al. Daratumumab, bortezomib, and dexamethasone in relapsed or refractory multiple myeloma: subgroup analysis of CASTOR based on cytogenetic risk. J https://jhoonline.biomedcentral.com/articles/10.1186/s13045-020-00948-5 
+Janssen-Cilag. Dalinvi: Solução para diluição para infusão. São José dos Campos; 2020.

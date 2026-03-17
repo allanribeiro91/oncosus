@@ -1,0 +1,789 @@
+SECRETARIA DE CIÊNCIA, TECNOLOGIA, INOVAÇÃO E INSUMOS ESTRATÉGICOS EM SAÚDE 
+Aprova as Diretrizes Diagnósticas e Terapêuticas do Carcinoma de Células Renais. 
+A SECRETÁRIA DE ATENÇÃO ESPECIALIZADA À SAÚDE - SUBSTITUTA e a SECRETÁRIA DE CIÊNCIA, 
+TECNOLOGIA, INOVAÇÃO E INSUMOS ESTRATÉGICOS EM SAÚDE - SUBSTITUTA , no uso de suas atribuições, 
+Considerando a necessidade de se atualizarem os parâmetros sobre o Carcinoma de Células Renais e de diretrizes nacionais para diagnóstico, tratamento e acompanhamento dos indivíduos com esta doença; 
+Considerando que os protocolos clínicos e diretrizes terapêuticas são resultado de consenso técnico-científico e são formulados dentro de rigorosos parâmetros de qualidade e precisão de indicação; 
+Considerando o Registro de Deliberação nº 752/2022 e o Relatório de Recomendação nº 755 – Julho de 2022 da 
+Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC), a atualização da busca e avaliação da literatura; e 
+Considerando a avaliação técnica do Departamento de Gestão e Incorporação de Tecnologias em Saúde 
+(DGITS/SCTIE/MS), do Departamento de Atenção Especializada e Temática (DAET/SAES/MS) e do Instituto Nacional de 
+ Art. 1º Ficam aprovadas as Diretrizes Diagnósticas e Terapêuticas - do Carcinoma de Células Renais. 
+ Parágrafo único. As Diretrizes objeto deste artigo, que contêm o conceito geral do Carcinoma de Células Renais, critérios de diagnóstico, tratamento e mecanismos de regulação, controle e avaliação, disponíveis no sítio https://www.gov.br/saude/pt-br/assuntos/pcdt, é de caráter nacional e deve ser utilizado pelas Secretarias de Saúde dos 
+Estados, do Distrito Federal e dos Municípios na regulação do acesso assistencial, autorização, registro e ressarcimento dos procedimentos correspondentes. 
+Art. 2º É obrigatória a cientificação do paciente, ou de seu responsável legal, dos potenciais riscos e efeitos colaterais 
+(efeitos ou eventos adversos) relacionados ao uso de procedimento ou medicamento preconizados para o tratamento do carcinoma de células renais. 
+Art. 3º Os gestores estaduais, distrital e municipais do SUS, conforme a suas competências e pactuações, deverão estruturar a rede assistencial, definir os serviços referenciais e estabelecer os fluxos para o atendimento dos indivíduos com nº 244, de 17 de dezembro de 2014, seção 1, página 78. 
+MARIA INEZ PORDEUS GADELHA 
+ANA PAULA TELES FERREIRA BARRETO 
+DIRETRIZES DIAGNÓSTICAS E TERAPÊUTICAS 
+CARCINOMA DE CÉLULAS RENAIS 
+O Carcinoma de Células Renais (CCR), também chamado de câncer de células renais ou de adenocarcinoma de células renais, é o tipo mais comum de câncer de rim1. O CCR é responsável, respectivamente, por 5% e 3% de todas as doenças malignas em homens e mulheres, sendo assim, o sétimo câncer mais comum entre homens e o décimo câncer mais comum entre mulheres2. Dos tipos de CCR, 70% a 80% são tumores de células claras (CRCC), 10% a 15% são carcinomas papilares (ou papilíferos), 3% a 5% são CCR do subtipo cromófobo e 1% é carcinoma de origem dos ductos coletores 
+(tumor de Bellini). Os demais tipos celulares são considerados muitos raros, com prevalência abaixo de 1%3,4. 
+Em 2018, estimou-se que o câncer renal tenha sido responsável por 2,2% dos novos casos de neoplasias malignas no adulto no mundo5. No Brasil, nesse mesmo ano, a incidência estimada foi de 10.688 novos casos com taxa geral padronizada por idade de 4,3 casos por 100.000 habitantes e uma taxa bruta geral de 5,1%. Já a taxa bruta de mortalidade foi de 1,9%, caracterizando um dos cânceres urológicos com maior letalidade6. Devido ao alto grau de incerteza que acompanha a projeção de pequenos números, não se recomenda estimar o número de casos de câncer de baixa incidência, estimou, em todo Brasil, 6.270 casos de câncer de rim, sendo 3.760 entre homens e 2.510 entre mulheres7. 
+O CCR é muito raro em indivíduos com menos de 40 anos e tem seu pico de incidência entre os 60 e 70 anos8. A razão de casos entre homens e mulheres é 1,5:1. Homens são mais acometidos devido a fatores de risco bem estabelecidos, como tabagismo, hipertensão arterial sistêmica, obesidade e síndromes genéticas (como a síndrome de von HippelLindau)8. Por outro lado, o controle do peso, a atividade física, o consumo regular de frutas e verduras (em particular, as crucíferas) e evitar ou suspender o tabagismo são fatores potencialmente protetores8,9. 
+Os sintomas do CCR incluem dor lombar, hematúria, massa abdominal palpável, síndromes paraneoplásicas e manifestações de doença metastática, como dor óssea, tosse persistente ou linfadenomegalia periférica. O exame físico tem um papel limitado no diagnóstico do CCR. As lesões renais expansivas, sejam sólidas ou císticas, permanecem, na sua maioria, assintomáticas e impalpáveis até os estágios mais avançados da doença10. O rastreamento populacional de câncer renal em população assintomática não tem bases técnico-científicas10–13. Entretanto, o rastreamento com ecografias periódicas pode ser considerado para pacientes com alto risco de desenvolvimento do câncer de células renais, como aqueles com síndrome de von Hippel-Lindau14. 
+O indicador mais significativo de prognóstico para o carcinoma de células renais é o estadiamento patológico15. 
+Pacientes com câncer em estágio I ou II no momento do diagnóstico têm taxa de sobrevida em cinco anos de 80% a 90%. 
+Os indicadores de mau prognóstico incluem: escores de baixo estado funcional usando a escala de desempenho de 
+Karnofsky16,17 ou a escala de performance status do Eastern Cooperative Oncology Group (ECOG)18, altos níveis séricos de desidrogenase láctica (DHL) – também conhecida como lactatodesidrogenase (LDH), hemoglobinemia baixa, altos níveis séricos de cálcio corrigido e diabete melito15,19. 
+A identificação de fatores de risco e da doença em seu estágio inicial e o encaminhamento ágil e adequado para o atendimento especializado dão à Atenção Primária um caráter essencial para um melhor resultado terapêutico e prognóstico 
+Estas Diretrizes visam a estabelecer os critérios diagnósticos e terapêuticos do carcinoma de células renais, com o objetivo de orientar o que é válido e não válido técnico-cientificamente, com base em evidências que garantam a segurança, a efetividade e a reprodutibilidade, para orientar condutas e protocolos assistenciais. A metodologia de busca e avaliação das evidências estão detalhadas no Apêndice 1. 
+RELACIONADOS À SAÚDE (CID-10) 
+- C64 Neoplasia maligna do rim, exceto pelve renal. 
+As lesões renais expansivas na sua maioria, sejam sólidas ou císticas, permanecem assintomáticas e impalpáveis até os estágios mais avançados da doença, tornando o papel do exame físico limitado20. Hoje em dia, a maioria dos casos é diagnosticada incidentalmente, pelo uso frequente de exames de imagens indicados para uma variedade de sintomas ou doenças não relacionadas ao câncer21. Os tumores renais diagnosticados de forma fortuita perfazem em torno de 75% dos casos e se associam a melhor prognóstico. A tríade clássica de dor em flanco, hematúria e massa abdominal palpável é rara 
+(6% a 10% dos casos) e está correlacionada a tipo histopatológico neoplásico agressivo e a doença avançada22. 
+Alguns pacientes com CCR apresentam manifestações de doença metastática20. Os pulmões são o sítio mais comum de metástases em pacientes com CCR, as quais ocorrem em estágios mais tardios e indicam pior prognóstico23,24. Cerca de 
+35% a 40% dos pacientes com CCR metastático apresentam metástases ósseas. A metástase óssea (lesões osteoblásticas e mistas) pode causar dor, fratura patológica, compressão da medula espinhal, hipercalcemia e outros eventos relacionados ao esqueleto, que podem afetar significativamente a qualidade de vida dos pacientes25. Metástases hepáticas também são comuns em casos de CCR e têm piores resultados de sobrevida em comparação com pacientes com metástases em outros 
+Síndromes paraneoplásicas ocorrem em 30% dos pacientes com CCR sintomático27. Muitas vezes, as síndromes paraneoplásicas podem ser o primeiro sintoma que o paciente apresenta e atuam como indicador da presença de uma malignidade oculta. Alguns sinais e sintomas de síndromes paraneoplásicas relativamente comuns são: anemia (observada em 52% dos pacientes elegíveis para nefrectomia)20; hipercalcemia (afetando entre 13% e 20% dos pacientes)28; disfunção hepática, também chamada de síndrome de Sauffer quando não há metástase hepáticas (em uma série com 365 pacientes, 
+21% estavam com a fosfatase alcalina estava elevada29); febre (que ocorre em até 20% dos pacientes)30 e é usualmente intermitente e associada a sudorese noturna; anorexia; perda ponderal; e fadiga. Outros sinais e sintomas de síndromes paraneoplásicas são caquexia, eritrocitose, amiloidose secundária, trombocitose e poliartralgia reumática. 
+Os nódulos ou massas renais são um grupo de tumores biologicamente heterogêneos que podem ser benignos, malignos (indolentes ou agressivos) ou indeterminados. São identificados incidentalmente em 10% a 27% dos exames de imagem abdominal (ecografia, tomografia computadorizada [TC] ou ressonância magnética [RM]). A maioria das massas renais pode ser determinada como benigna ou maligna por meio dos exames de imagem supracitados, mas as lesões indeterminadas necessitarão de avaliação complementar31. Lesões incidentais com tamanho menor que 1 cm são dificilmente caracterizadas com exames complementares ou biópsia. Além disso, são benignas na maioria dos casos e, mesmo quando malignas, costumam ter comportamento indolente32. 
+A ecografia abdominal é usualmente o primeiro exame a identificar as massas renais e consegue diferenciar massas sólidas e císticas. Massas renais sólidas podem ser essencialmente divididas entre lesões suspeitas de carcinoma de células renais e de angiomiolipoma (tumor benigno)33. Para as lesões sólidas, mesmo quando a suspeita é de angiomiolipoma 
+(lesão caracteristicamente hiperecogênica), indica-se a realização de, pelo menos, uma TC ou RM de abdome, com contraste, para se estabelecer o diagnóstico com maior confiabilidade, já que até um terço dos carcinomas de células renais 
+As massas renais císticas identificadas à ecografia são essencialmente divididas em cistos simples e complexos, os quais podem estar em situação cortical, medular ou parapélvica. Os cistos renais simples (de formato arredondado, paredes lisas e anecoicos) assintomáticos identificados à ecografia não precisam de qualquer avaliação complementar, independentemente do seu tamanho, nem de seguimento35. Entretanto, pacientes com cistos renais complexos (de contornos irregulares, paredes espessas, septos ou calcificações) ou múltiplos cistos agrupados (que dificultam a caracterização dos cistos) têm indicação de TC ou RM de abdome, com contraste, para classificar os cistos conforme a classificação 
+Tabela 1 - Classificação de Bosniak para cistos renais. 
+Cisto simples: conteúdo líquido homogêneo, paredes finas, contornos regulares, sem calcificações, septos, espessamento parietal ou realce pós-contraste. 
+Sem necessidade de investigação adicional nem de acompanhamento. 
+Cisto minimamente complicado: presença de septos finos (até dois, espessura abaixo de dois milímetros), mínima calcificação parietal, conteúdo denso, menor que três centímetros, sem 
+Sem necessidade de investigação adicional nem de acompanhamento. 
+Cisto minimamente complicado: podem apresentar múltiplos septos finos ou levemente espessados, paredes minimamente espessadas e contorno regular. Não há realce mensurável pós-contraste, mas podem apresentar realce percebido (subjetivo) das paredes ou septos do cisto. Podem apresentar calcificações espessas ou nodulares e contornos irregulares. 
+Também estão incluídos nessa categoria os cistos hiperdensos completamente intrarrenais, maiores do que três centímetros, com paredes regulares. 
+Requer acompanhamento: risco de câncer menor que 5%, pelo que há necessidade de reavaliação por TC ou RM em seis e doze meses e, depois, anualmente durante cinco anos. 
+Cisto moderadamente complicado: espessamento parietal, presença de septos irregulares e espessos com realce pós-contraste, com ou sem calcificações. Pode se apresentar como 
+Risco de câncer de 40% a 60%, motivo pelo qual se indica intervenção cirúrgica na maioria 
+Neoplasia cística: espessamento parietal ou septal grosseiro, nodular ou irregular, com componente sólido junto à parede do cisto ou septos, com realce pós-contraste. 
+Risco de câncer de 95% a 100%, sendo indicada intervenção cirúrgica. 
+Fonte: Defortescu et al 201739. 
+Para massas renais sólidas, o critério mais importante para caracterizar lesões malignas é a presença de realce póscontraste40. Exames de imagem com cortes transversais pré e pós-contraste, como TC ou RM, são os melhores exames para avaliar malignidade das lesões renais sólidas. No entanto, mesmo massas renais sólidas e com realce pós-contraste, cujo exame de imagem pode ser sugestivo de câncer de células renais, podem ser benignas, como o são os oncocitoma e angiomiolipoma pobre em gordura. Dentre as massas renais sólidas ressecadas cirurgicamente, 8% a 27% podem ser benignas. Já o percentual de lesões benignas diminui conforme o tamanho das lesões aumenta: 46% em massas com menos de um centímetro, 30% em massas com menos de dois centímetros e 25% em massas com menos de três centímetros41–43. 
+A TC abdominal fornece informações sobre a função e morfologia do rim contralateral, a extensão do tumor primário, o envolvimento venoso, a possibilidade de metástases linfonodais locorregionais e a condição das glândulas adrenais e outros órgãos sólidos abdominais. A angiotomografia, quando disponível, é útil em casos selecionados quando é necessário o detalhamento da vascularização renal, como no caso de tumores hilares44. A RM pode fornecer informações adicionais sobre a massa renal, extensão local e presença de trombo na veia cava. A RM também é indicada para pacientes com alergia ao contraste iodado ou para gestantes45–47. Além disso, a RM parece ter maior acurácia para o diagnóstico de lesões císticas complexas categorizadas como Bosniak IIF a III39. 
+A ultrassonografia com contraste é uma alternativa para auxiliar na caracterização das lesões renais quando a TC não for conclusiva48. A arteriografia renal e a venocavografia inferior têm papel limitado para a avaliação de casos muito selecionados49. A cintilografia renal deve ser considerada em caso de pacientes com perda de função renal, para auxiliar na definição do tratamento50. Não está recomendada a realização de tomografia por emissão de pósitrons (PET-CT) no diagnóstico e estadiamento do câncer renal48. 
+A radiografia simples de tórax possui boa acurácia para a avaliação de metástase pulmonar. Tomografia de tórax deve ser realizada seletivamente para pacientes com sintomas respiratórios, achados suspeitos na radiografia simples ou doença locorregional extensa51–54. Indica-se TC ou RM encefálicas apenas na presença de sintomas neurológicos, como cefaleia persistente41. Por sua vez, a cintilografia óssea está indicada em pacientes com dor óssea ou níveis séricos de fosfatase alcalina elevados. Entretanto, a elevação dos níveis de fosfatase alcalina isoladamente tem baixo valor 
+O CRCC é o tipo histopatológico mais comum, sendo responsável por, aproximadamente, 90% dos tumores renais. 
+Existem outros tipos histológicos, sendo divididos de acordo com a classificação da OMS de 201656 (Tabela 2). 
+Tabela 2 - Classificação histopatológica e características do CCR. 
+CCRcc - Células claras (75% a 85%) 
+Apresentam pior prognóstico do que os tipos papilar e 
+CCRp - Papilar (10% a 15%) 
+Dividem-se microscopicamente em papilar tipo 1 (melhor prognóstico) e papilar tipo 2. São multifocais e bilaterais em 
+CCRr - Cromófobo (5% a 10%) 
+Tem prognóstico melhor do que o carcinoma de células claras. 
+CCDC - Ductos coletores (ductos de Bellini; 
+De comportamento muito agressivo. 
+Carcinoma de células renais de translocação associada ao fator de transcrição da microftalmia (MIT)*. 
+Deve ser suspeitado em caso de crianças e adultos jovens. 
+Outros subtipos mais raros 
+Neoplasia cística multilocular com baixo potencial de 
+CCR associado à Leiomiomatose Hereditária 
+CCR mucinoso e espinocelular. 
+CCR deficiente de succinato desidrogenase(SDH). 
+CCR associado à doença renal cística adquirida. 
+Fonte: OMS56. * Fusão gênica de dois membros dos fatores de transcrição, originando as translocações Xp11 e t(6;11).Estes tipos histológicos apresentam características morfológicas, genéticas e moleculares distintas, resultando em doenças de prognóstico variável4. A presença de áreas de diferenciação sarcomatoide confere um pior prognóstico em qualquer dos tipos histopatológicos. 
+3.2.2. Biópsia de massas renais 
+Apesar de atualmente ser considerada segura e efetiva, a biópsia de tumores renais tem indicações restritas e deve ser indicada apenas quando o resultado puder alterar a conduta terapêutica do caso. Os principais riscos associados à biópsia são a formação de hematoma e sangramento. A taxa de complicação geral é de 5%. O risco de implante tumoral no trajeto da agulha é considerado desprezível (0,01%)57. 
+A indicação mais precisa de biópsia de massa renal localizada é quando houver suspeita de linfoma, abscesso ou metástase. Em casos de neoplasia metastática sem indicação de nefrectomia citorredutora, a biópsia deve ser realizada para confirmação histopatológica e para a definição do tratamento sistêmico. Também deve ser considerada em pacientes com doença localizada e candidatos à vigilância ativa, ou que serão submetidos aos tratamentos por ablação térmica (por radiofrequência ou crioterapia). Em todas as situações, a equipe responsável e o paciente devem estar cientes dos riscos envolvidos (risco pequeno de sangramento e possibilidade de dificultar um possível tratamento cirúrgico posterior). Em pacientes com bom performance status, com expectativa de vida longa e para os quais os riscos cirúrgicos são mínimos, a nefrectomia parcial ou radical, sem confirmação histopatológica, continua a ser o tratamento padrão. 
+A biópsia pode ser realizada sob orientação de ultrassonografia ou de TC, ambas com desempenho semelhante. 
+Deve-se utilizar técnica coaxial, com uma cânula que evite o contato da amostra do tecido obtido com as estruturas anatômicas ao longo do trajeto. A biópsia por agulha grossa – BAG (core biopsy; CB) tem taxas de diagnóstico superiores em comparação com a punção aspirativa por agulha fina – PAAF, devendo-se retirar, no mínimo, dois fragmentos com uma agulha de calibre mínimo 16-gauge58. As duas técnicas podem ser usadas de forma complementar, elevando ainda mais as 
+Avaliação da extensão da doença (estadiamento) 
+O estadiamento do carcinoma de células renais deve observar os critérios da 8ª edição do manual da União 
+Internacional para Controle do Câncer (UICC)59 , conforme simplificado no Quadro 1. 
+Quadro 1 - Definições de T, N e M de acordo com a União Internacional para Controle do Câncer (UICC)59. 
+TX: tumor primário não pode ser avaliado. 
+T0: sem evidência do tumor primário. 
+T1: tumor menor ou igual a sete centímetros no maior diâmetro, restrito ao rim. 
+T1a: tumor menor ou igual a quatro centímetros no maior diâmetro, restrito ao rim. 
+T1b: tumor maior que quatro centímetros, mas menor ou igual a sete centímetros no maior diâmetro, restrito ao rim. 
+T2: tumor maior que sete centímetros no maior diâmetro, restrito ao rim. 
+T2a: tumor maior que sete centímetros, mas menor ou igual dez centímetros no maior diâmetro, restrito ao rim. 
+T2b: tumor maior que dez centímetros no maior diâmetro, restrito ao rim. 
+T3: tumor com extensão para as veias principais ou tecidos periféricos, mas não envolve a glândula adrenal ipsilateral e não ultrapassa a fáscia de Gerota. 
+T3a: tumor com extensão à veia renal ou seus segmentos, ou invade a gordura do seio renal ou perirenal sem ultrapassar a fáscia de Gerota. 
+T3b: tumor com extensão à veia cava infradiafragmática. 
+T3c: tumor com extensão à veia cava supradiafragmática ou invade a parede do vaso. 
+T4: tumor ultrapassa a fáscia de Gerota (incluindo extensão por contiguidade à glândula suprarrenal ipsilateral). 
+NX: linfonodos regionais não avaliados. 
+N0: ausência de acometimento linfonodal regional. 
+N1: metástase em linfonodos regionais. 
+Metástase a distância (M) 
+MX: metástase(s) não avaliadas. 
+M0: ausência de metástase(s). 
+M1: metástase(s) presentes. 
+Estádio II - T2, N0 e M0. 
+Estádio III - N1, T1 ou T2 e M0; ou T3, N0 ou N1 e M0. 
+Ressalta-se que a classificação baseia-se no momento de avaliação e tratamento da doença. A classificação TNM 
+ Clínica (cTNM): o estadiamento baseia-se na anamnese, no exame físico e nos exames de imagem realizados antes de iniciar o tratamento. Os exames de imagem, entretanto, não são obrigatórios para determinar o estágio clínico da doença, que deve ser determinado a partir das informações disponíveis. 
+ Patológica (pTNM): o estadiamento baseia-se em informações adicionais obtidas a partir de achados operatórios e análise patológica de amostras; é aplicável quando o procedimento cirúrgico ocorre antes do início da radioterapia adjuvante ou terapia sistêmica. 
+Em alguns casos, descritores adicionais podem ser utilizados: 
+ m: o sufixo (m) é usado para indicar a presença de múltiplos tumores primários em um único local; 
+ y: o prefixo y é usado quando a classificação é realizada durante ou após terapia multimodal (ycTNM ou ypTNM). 
+Esta classificação corresponde à extensão do tumor no momento em que a avaliação está sendo feita (em vigência da terapia multimodal); 
+ r: o prefixo r identifica tumores recorrentes classificados após um intervalo livre de doença; 
+ a: o prefixo a é utilizado para identificar que a classificação foi feita pela primeira vez na autópsia. 
+Outros fatores além dos presentes na classificação TNM são importantes para definição do prognóstico60: 
+● Tipo histopatológico: o CCRcc detém pior prognóstico entre os tipos histológicos mais comuns tipos patológicos enquanto os tumores de ducto de Bellini e medular são os mais agressivos; 
+● grau nucleolar OMS/ISUP61; 
+● presença de componentes sarcomatoide e rabdoide; 
+● presença de necrose tumoral; e 
+● invasão angiolinfática microscópica. 
+Nota: O sistema OMS/ISUP de classificação da Organização Mundial da Saúde e Sociedade Internacional de 
+Patologia Urológica (ISUP — International Society of Urological Pathology) para o carcinoma de células renais é validado como um parâmetro de prognóstico para o carcinoma de células renais papilar e de células claras, mas pode ser utilizado, para fins descritivos, para outros tipos de carcinoma de células renais, exceto o carcinoma de células renais cromófobo. O grau deve ser atribuído com base no campo de alta potência único que mostra o maior grau de pleomorfismo nuclear. 
+A avaliação clínica pela anamnese, exame físico, exames de imagem e complementares auxiliam o planejamento terapêutico. Estes exames são requisitos para o estadiamento e pontuação de escores prognósticos (principalmente em casos metastáticos) e permitem a detecção e avaliação das condições clínicas e comorbidades do paciente. Os exames complementares incluem62,63: 
+● velocidade de hemossedimentação; 
+● dosagem sérica de ureia, creatinina, proteína C reativa (PCR), cálcio, albumina, desidrogenase láctica (DHL) e 
+● provas de função hepática. 
+Alguns fatores influenciam o prognóstico dos doentes com câncer renal e devem ser registrados por ocasião do diagnóstico. Dentre os fatores clínicos, estão a capacidade funcional – performance status/PS, níveis sanguíneos de hemoglobina e níveis séricos de cálcio e desidrogenase láctica. Os fatores anatômicos são a classificação TNM e o estadiamento. Já os fatores histopatológicos incluem a classificação histopatológica nuclear de Fuhrman (baseada em parâmetros como tamanho nuclear e o formato e as proeminências dos nucléolos)64, tipo histopatológico, presença de componente sarcomatoide, invasão microvascular, invasão capsular, necrose tumoral e invasão do sistema coletor15,62,63. 
+Em pacientes com doença localizada, o estadiamento patológico (TNM) é o fator isolado mais importante para o prognóstico. A invasão direta da parede da veia renal é um fator prognóstico mais importante do que a extensão cranial do trombo15,62,63. A maior redução de sobrevida se observa em pacientes com tumores T4, N1 ou M1. Vários nomogramas já foram validados para estratificar sobrevida em pacientes com tumores localizados ou metastáticos. Para estratificação de risco de pacientes com doença localizada ou metastática, pode-se utilizar o sistema de estadiamento integrado da 
+Universidade da Califórnia de Los Angeles (UCLA), por ser a mais utilizada para a inclusão de pacientes em estudos clínicos (Tabela 3)15,62,63. 
+Tabela 3 - Grupos de risco pelo sistema de estadiamento integrado da Universidade da Califórnia. 
+Doença localizada (N0, M0) ao diagnóstico 
+Doença avançada (N1-2, M1) ao diagnóstico 
+N1M0, qualquer grau e qualquer PS. 
+T1, grau 1-2 e PS igual ou maior 
+T1, grau 3-4 e qualquer PS. T2, qualquer grau e qualquer PS. 
+T3, grau 1 e qualquer PS. T3, grau 
+N2M0, grau 1-2 e PS igual ou maior que 1. 
+N2M0, grau 3 e qualquer PS. 
+M1, grau 1-2 e PS igual ou maior que 1. 
+M1, grau 3 e qualquer PS. 
+T3, grau 2-4 e PS igual ou maior que 1. T4, qualquer grau e qualquer PS. 
+N2M0, grau 4 e PS igual ou maior que 1. 
+M1, grau 4 e PS igual ou maior que 1. 
+Legenda: PS = performance status; Grau de Fuhrman64 ou ISUP/OMS61. 
+Para avaliação de pacientes com CCR metastático, já foram validados sistemas de classificação como o da 
+Cleveland Clinic, do Memorial Sloan Kettering Cancer Center (MSKCC) e o International Metastatic Renal Cell 
+Carcinoma Database Consortium (IMDC). Os fatores mais importantes nestes casos são: intervalo livre de metástase desde o diagnóstico, performance status, número e locais de metástases, anemia, hipercalcemia, níveis elevados de fosfatase alcalina ou de desidrogenase lática, trombocitose e histologia sarcomatoide62,63. Metástases ósseas, cerebrais ou hepáticas e vários locais metastáticos implicam em maior comprometimento prognóstico. O escore da IMDC (Quadro 2) demonstrou melhor capacidade de definição de prognóstico e tem sido o mais utilizado em estudos clínicos65. Esta classificação é um dos principais critérios utilizados para a indicação de nefrectomia citorredutora. 
+Quadro 2 - Fatores prognósticos do International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) 
+Escore de Karnofsky de performance status menor que 80 
+Tempo do diagnóstico até início da terapia alvo menor que 1 ano 
+Hemoglobina abaixo do limite inferior da normalidade 
+Cálcio sérico acima do limite superior da normalidade 
+Contagem de neutrófilos acima do limite superior da normalidade 
+Plaquetas acima do limite superior da normalidade 
+Risco baixo: nenhum dos fatores de risco 
+Risco intermediário: 1 ou 2 dos fatores de risco 
+Risco alto: maior ou igual a 3 fatores de risco ou mais 
+Adaptado de Heng et al 201366. 
+Ressalta-se que não se conhece o desempenho prognóstico destas escalas estabelecidas para casos tratados com medicamentos recentemente desenvolvidos, como os chamados imunoterápicos, vez que elas foram desenvolvidas e validadas em bases de dados que não incluíam doentes tratados com medicamentos dessa classe terapêutica 62,63. 
+Serão incluídos nestas DDT os pacientes com idade de 19 ou mais anos e que tenham diagnóstico de Carcinoma de 
+Serão excluídos pacientes que apresentarem toxicidade (intolerância, hipersensibilidade ou outro evento adverso) ou contraindicação absoluta ao uso do respectivo procedimento ou medicamento ou recomendados nestas DDT. 
+O tratamento das neoplasias renais malignas localizadas é preferencialmente o cirúrgico. A escolha pela nefrectomia parcial ou radical varia de acordo com o tamanho da lesão, localização, grau de acometimento do órgão, via de acesso e experiência do cirurgião. O procedimento cirúrgico pode ser realizado por via aberta, laparoscópica ou assistido por robótica (de iguais resultados terapêuticos), de acordo com a disponibilidade nos serviços de saúde. Alternativamente, para pacientes com lesões pequenas ou que não são candidatos ao tratamento cirúrgico devido à idade avançada ou comorbidades presentes, a vigilância ativa ou as terapias ablativas, como a crioterapia e a ablação por radiofrequência, são opções terapêuticas67–70. 
+Os tratamentos ablativos podem ser considerados nos casos de paciente que apresente tumores corticais de pequena dimensão, inferiores ou iguais a 3 cm e idade inferior a 70 anos, alto risco cirúrgico, apenas um rim, função renal comprometida, CCR hereditário ou múltiplos tumores bilaterais. Para confirmar o potencial de malignidade do tumor e o seu subtipo, é recomendada biópsia renal71–73. 
+Na radioablação, é produzido um calor local em torno de 80°C, suficiente para induzir a necrose das células neoplásicas. Na crioablação, é gerada uma bola de gelo a baixíssimas temperaturas (em torno de -140°C) que, por meio de ciclos sucessivos de congelamento e descongelamento, promove a destruição das células tumorais74,75. Esses procedimentos podem ser realizados durante um ato operatório, acrescentando recursos adicionais ao procedimento cirúrgico. 
+Minimamente invasiva, a ablação percutânea é um procedimento seguro, com baixas taxas de complicações (2% a 
+3%)74,75. Na maioria dos casos, não requer internações prolongadas nem anestesia profunda, e é bem tolerada pelos pacientes, que podem retornar às suas atividades rotineiras em pouco tempo - em alguns casos, até no dia seguinte. Cerca de 40% dos pacientes apresentam reações passageiras, como febre baixa, dor e desconforto locais, fadiga e prostração, que costumam durar de dois a três dias após o procedimento e são facilmente controladas com medicamentos74–76. 
+6.1.1. Tratamento cirúrgico 
+Apesar da escassez de ensaios clínicos e da heterogeneidade dos estudos retrospectivos, a nefrectomia parcial coloca-se como tratamento preferencial no tratamento da doença localizada. Ressalvadas as limitações da evidência disponível, há aparente benefício desta técnica em termos de sobrevida global (SG), sobrevida específica (sem morte pelo 
+CCR) e preservação da função renal67–70. Esta vantagem independe do tamanho da lesão e mesmo em tumores maiores que sete centímetros, restritos ao rim, a nefrectomia parcial pode ser proposta, desde que tecnicamente possível e que haja uma adequada seleção do caso, visto que em casos de tumor pT2 há maior chance de complicações peri-operatórias60,77. Em caso de pacientes com rim único, múltiplos tumores ou função renal limítrofe, a nefrectomia parcial deve ser preferida. 
+A nefrectomia radical deve ser reservada para os casos em que a localização tumoral e as condições locais impeçam a realização de procedimento cirúrgico poupador de néfrons com segurança, bem como quando há acometimento da veia cava ou da adrenal ou possibilidade de linfonodomegalia retroperitoneal. 
+Da mesma maneira que a comparação entre as nefrectomias parcial e radical, a qualidade da evidência relativa ao tipo de técnica empregada é limitada. Não há diferença em desfechos oncológicos na abordagem por via aberta, laparoscópica ou robótica, sendo que as abordagens minimamente invasivas, laparoscópica e robótica, são cada vez mais difundidas e popularizadas e apresentam melhores desfechos peri-operatórios78,79. Mais recentemente, Choi et al. publicaram meta-análise de estudos observacionais, em que a nefrectomia parcial robótica apresentou melhores desfechos perioperatórios em relação à nefrectomia parcial laparoscópica80. 
+Como já mencionado, terapias ablativas podem ser oferecidas para pacientes idosos ou com comorbidade relevante, como alternativa ao tratamento cirúrgico em caso de lesões tumorais menores que três centímetros. O tratamento pode ser realizado por crioterapia ou ablação por radiofrequência, por via percutânea ou laparoscópica. Estas técnicas apresentam maior taxa de recidiva e podem resultar em múltiplas intervenções para atingir resultados equivalentes aos da nefrectomia parcial em tumores T1; portanto, a sua indicação deve ser judiciosa e o paciente deve ser bem-informado dos riscos e benefícios do procedimento proposto81–83. 
+O benefício prognóstico e terapêutico da linfadenectomia em caso de neoplasia renal ainda é incerto84. A linfadenectomia deve ser realizada em caso de maior risco de acometimento extra-renal ou quando são identificados linfonodos peri-hilares ou retroperitoneais aumentados, em exames de imagem pré-operatórios ou durante a intervenção cirúrgica. Inexiste benefício estabelecido em se proceder à linfadenectomia peri-hilar, quando os linfonodos desta região são de aspecto normal84–86. 
+Sempre que possível, a adrenalectomia ipsilateral deve ser evitada quando da realização de nefrectomia radical, exceto em casos de tumor de grande volume localizado no polo superior ou quando há acometimento da adrenal na avaliação de imagem pré-operatória87. 
+Em caso de doença localizada, por vigilância ativa entende-se postergar o tratamento definitivo do tumor, optandose pela monitorização da lesão renal por meio de exames de imagem seriados. Esta estratégia é apropriada para casos de tumor T1a, em especial lesões menores de dois centímetros ou em pacientes idosos, com múltiplas comorbidades e baixa expectativa de vida, em que o risco de progressão da doença é pequeno e não justifica o benefício da intervenção. Os protocolos são variados e sugerem seguimento periódico (semestral) com exame de imagem (TC ou RM) com intervenção caso se observe o crescimento da lesão tumoral, seja pela velocidade de crescimento linear ou pelo aumento do diâmetro total72,73,75. No Quadro 3 estão descritos os fatores que devem ser considerados na observação com vigilância ativa em caso de câncer renal localizado. 
+Quadro 3 - Fatores que devem ser considerados na observação com vigilância ativa em caso de câncer renal localizado. 
+Expectativa de vida menor que 5 anos 
+Crescimento tumoral menor que 5mm ao ano. 
+Tumor não infiltrativo, localizado. 
+Risco perioperatório alto 
+Paciente não aceita os riscos inerentes ao procediemento 
+Fonte: Galvão et al, 201871. 
+6.2.1. Tratamento cirúrgico - Nefrectomia citorredutora 
+A nefrectomia citorredutora é uma importante opção de tratamento para casos de CCR, embora estudos recentes tenham sugerido que a seleção de pacientes é crítica, pois aqueles com doença de baixo risco são menos propensos a se beneficiar do tratamento cirúrgico88–90. Vários pequenos estudos contemporâneos têm examinado os desfechos oncológicos da nefrectomia citorredutora em casos de CCR metastático, mas com resultados conflitantes88–90. 
+6.2.2. Radioterapia externa 
+A radioterapia externa pode ser empregada para controle de sintomas locais, como dor e sangramento tumoral, e na paliação de metástases óssea ou cerebral63,91. 
+Em caso de doença avançada, a vigilância ativa implica o monitoramento do crescimento tumoral por meio de exames de imagem. Os critérios de progressão utilizados para uma intervenção cirúrgica são: duplicação do volume tumoral em menos de 12 meses; crescimento maior que 0,5 cm/ano; aparecimento de manifestações clínicas relacionadas ao tumor; diâmetro tumoral que alcança valores iguais ou maiores que 4 cm72,73,75. O seguimento desses tumores deve ser individualizado, sendo usual o controle por TC ou RM a cada 4 a 6 meses nos primeiros 3 anos e, a seguir, anualmente. 
+Pacientes julgados aptos para a vigilância ativa devem ser informados que, apesar de baixo, existe um risco real de progressão tumoral e perda da oportunidade terapêutica cirúrgica, bem como da ineficácia dos tratamentos sistêmicos. 
+Admite-se que 20% a 25% das pequenas massas renais apresentam características agressivas, com uma taxa de 15% a 25% de grau de Furhman III e IV, taxa de progressão para estádio pT3 em 10% a 40% e taxa de metástase próxima a 10%72,73,75. 
+Como na maioria das vezes a doença metastática é considerada incurável, benefícios potenciais da quimioterapia sistêmica com diversos medicamentos devem ser pesados em relação à toxicidade de citocinas e citotóxicos43,92 e aos custos. Uma parcela de pacientes pode apresentar doença metastática de baixo volume e de crescimento lento, sendo potencialmente candidatos à vigilância ativa até a efetiva progressão da doença antes de se iniciar qualquer tratamento. No entanto, os pacientes que têm doença mais agressiva necessitam de tratamento sistêmico com início imediato. Não há indicação clínica de tratamento sistêmico com finalidade adjuvante, quando houver a remoção completa das lesões clínicas 
+(ressecção cirúrgica R0)93. 
+O uso de interferona (IFN) e interleucina 2 (IL-2) constituiu o tratamento padrão, de primeira linha de pacientes com câncer renal metastático até o desenvolvimento dos ditos alvoterápicos94. A IFN e a IL-2 são citocinas inespecíficas, com uma ação presumida de estimulação de resposta imunitária antitumoral. Seus benefícios foram demonstrados em vários estudos clínicos, sendo modestos em relação à taxa de resposta (5% a 20%), sobrevida livre de progressão (SLP) e SG 
+(mediana de aproximadamente 12 meses)95–99. Como a eficácia é modesta e a toxicidade alta, a busca por novos tratamentos ou combinações foi necessária. 
+O sunitinibe, pazopanibe e sorafenibe foram os primeiros agentes antiangiogênicos aprovados no Brasil para o tratamento de pacientes com CCR metastático, os quais podem receber tratamento sistêmico de primeira linha com diferentes opções terapêuticas43,100, sendo os medicamentos sunitinibe e pazopanibe os atualmente mais utilizados91,101. A recomendação da incorporação do cloridrato de pazopanibe e do malato de sunitinibe para carcinoma renal de células claras metastático ocorreu à 72ª Reunião Ordinária do Plenário da Conitec, conforme modelo da Assistência Oncológica adotado 
+O perfil de toxicidade e segurança da quimioterapia com citocinas e citotóxicos, em uso isolado ou em associações, 
+é bastante conhecido pelo longo tempo em uso na medicina102. Durante o uso da interferona, quase todos os pacientes experimentam, pelo menos, um evento adverso, na maioria das vezes de intensidade leve a moderada e que diminui de intensidade com o uso contínuo, mas a suspensão do tratamento devido aos efeitos colaterais pode ser necessária em até 
+24% dos casos102,103. Sintomas gripais são os efeitos colaterais mais comuns (febre, calafrios, fadiga, dor de cabeça, artralgia e mialgia), e outros sintomas podem incluir fadiga persistente durante todo o tratamento, tontura, depressão, hipotensão arterial e alterações oculares (retinopatia, hemorragia da retina, obstrução arterial ou obstrução venosa retiniana)104,105. O uso de interleucina-2 está associado à ocorrência de síndrome do extravasamento capilar, que tipicamente começa logo após o início do tratamento, e é caracterizada por perda de tônus vascular e extravasamento de proteínas do plasma e fluido para dentro do espaço extravascular, resultando em hipotensão e má perfusão dos órgãos internos, condições que podem resultar em eventos adversos potencialmente fatais: arritmias cardíacas (supraventriculares e ventriculares), angina, infarto do miocárdio, insuficiência respiratória que exige ventilação mecânica, hemorragia ou infarto gastrointestinal, insuficiência renal, anasarca e alterações do estado mental106,107. 
+Os medicamentos antiangiogênicos estão relacionados a risco aumentado de eventos adversos gastrintestinais 
+(mucosite, diarreia, vômito)108,109, cardiovasculares (hipertensão arterial, trombose arterial, isquemia cardíaca, insuficiência cardíaca) e insuficiência renal110, citopênicos (anemia, neutropenia e trombocitopenia)111,112, sangramento113, síndrome pémão114, hepáticos115 e morte116. Por sua vez, os inibidores da via de sinalização da proteína mammalian target of rapamycin 
+(mTOR) associam-se a maior risco de infecções, toxicidade pulmonar e morte117–119. 
+Embora inexista evidência conclusiva de que o tratamento resulte na diminuição de sintomas, pacientes com carcinoma de células claras metastático refratário ao tratamento inicial, que mantenham boa capacidade funcional (escore de Karnofsky acima de 80%) e funções renal e hepática normais podem ser candidatos à quimioterapia com medicamento da mesma classe, em se tratando de antiangiogênicos, ou de outra classe terapêutica, até nova progressão da doença120. 
+O medicamento pembrolizumabe associado a axitinibe e ipilimumabe associado a nivolumabe e cabozantinibe em monoterapia têm sido utilizados como tratamentos de primeira linha de carcinoma de células renais121. Conforme o 
+Relatório de Recomendação nº 660, de agosto de 2021, referente à avaliação dessas tecnologias, os resultados mostraram que, em pacientes de baixo risco, as associações não apresentaram benefício adicional quando comparados com sunitinibe para nenhum dos desfechos avaliados (SG, SLP e taxa de resposta objetiva)122. Já para os pacientes classificados com risco intermediário ou alto, as associações são superiores ao sunitinibe em todos os desfechos. Dados de análises indiretas mostram que o pembrolizumabe/axitinibe tem maior probabilidade/SUCRA (surface under the cumulative ranking curve) de ser a melhor opção de tratamento para o desfecho de SG e SLP. Entretanto, esses dados devem ser interpretados com cautela, pois as meta-análises em rede apontam estudos com qualidade da evidência muito baixa e moderada, com importantes incertezas, especialmente por incluírem uma população heterogênea, diferentes números de participantes e esquemas de tratamentos entre as tecnologias avaliada. Além disso, a análise econômica realizada pela Conitec demonstrou razão de custo-efetividade incremental (RCEI) e impacto orçamentário elevados123. Desta forma, estes medicamentos tiveram decisão desfavorável a incorporação no SUS. 
+Já para tratamento de segunda linha, atualmente, diferentes medicamentos são indicados na literatura para pacientes com CCRm, incluindo o cabozantinibe e o nivolumabe. O Relatório de Recomendação nº 661 da Conitec123 mostrou que o cabozantinibe proporciona a melhor efetividade, considerando-se os desfechos de anos de vida e anos de vida ajustados por qualidade (QALY), quando comparado ao everolimo, resultando 2,29 anos de vida e 1,48 QALY ganhos. Em relação ao nivolumabe, os resultados mostraram que há uma melhor efetividade, considerando-se os desfechos de anos de vida e 
+QALYs, quando comparado ao everolimo, resultando 2,20 anos de vida e 1,39 QALY ganhos. Quanto à ocorrência de eventos adversos, eventos adversos graves e suspensão do tratamento devido a eventos adversos, não foram verificadas diferenças significativas entre esses tratamentos e os demais medicamentos e o placebo. Contudo, estes resultados são fundamentados em uma meta-análise em rede com estudos com qualidade de evidência classificada como muito baixa e moderada. Igualmente, os custos de tratamento do cabozantinibe e do nivolumabe são superiores, aos tratamentos já disponibilizados, resultando em RCEI e impacto orçamentário elevados para o SUS123. Com base nesses achados, a Conitec recomendou a não incorporação desses medicamentos para o tratamento de primeira e segunda linha do CCRm121,123 
+ Pacientes com prognóstico favorável ou intermediário, sem metástase cerebral, sem episódio cardiovascular recente e com capacidade funcional adequada (de 0 a 2 na escala do ECOG) são candidatos à quimioterapia com citocinas 
+(interferona-alfa, interleucina-2), citotóxico (5-fluoruracila, capecitabina, doxorrubicina, gencitabina, vimblastina), antiangiogênicos (sunitinibe, sorafenibe, pazopanibe, bevacizumabe) ou inibidores da via de sinalização da proteína mammalian target of rapamycin (mTOR) – everolimo, tensirolimo103–107,124. 
+O CCR metastático irressecável é incurável e um dos tumores sólidos mais resistentes à quimioterapia125. Inexistem estudos comparativos diretos que permitam asseverar em definitivo a eficácia de cada um dos medicamentos disponíveis, havendo apenas a indicação de maior resultado terapêutico para os antiangiogênicos ou inibidores mTOR frente ao uso de placebo ou interferona126–130 - a um custo elevado para os sistemas de saúde131,132 - e para a quimioterapia citotóxica no câncer renal com diferenciação sarcomatoide133. 
+O monitoramento após o tratamento cirúrgico do carcinoma de células renais permite identificar complicações pósoperatórias, acompanhar a função renal e identificar recorrências locais e no rim contralateral e a ocorrência de metástases. 
+Após a ressecção cirúrgica, 20% a 30% dos pacientes com tumores localizados apresentam recidiva. O pulmão é o sítio mais comum de recidiva à distância, ocorrendo em 50% a 60% dos casos que evoluem para doença metastática. O tempo mediano para recidiva após o procedimento cirúrgico é um a dois anos, com a maioria das recidivas ocorrendo nos primeiros três anos134. Apesar disso, observam-se recidivas esporádicas após cinco anos do tratamento cirúrgico135,136. 
+Inexiste consenso sobre o monitoramento após o tratamento do câncer de células renais. Vigilância radiológica intensiva não é necessária para todos os casos137. É necessário, portanto, estratificar o risco do caso para adequar o acompanhamento. Um protocolo de vigilância estruturada, que permite identificar recorrência e o desenvolvimento de metástase de maneira mais oportuna, quando o volume tumoral é pequeno e o caso em algumas situações possivelmente ainda curável, está associado à maior sobrevida global138. O tempo de seguimento geralmente recomendado é 3 a 5 anos, sendo que o monitoramento posterior a 5 anos deve ser criteriosamente estabelecido139–141. 
+Para pacientes submetidos a tratamentos ablativos, o monitoramento deve ser inicialmente mais frequente, pois o risco de recorrência local é cinco a vinte vezes maior do que quando é realizada nefrectomia parcial142,143. Uma conduta que pode ser adotada é a avaliação com exames de imagem (TC ou RM de abdome, com ou sem contraste), mais frequentemente no primeiro ano (a cada três a seis meses) e, após, anualmente por cinco anos. 
+A maneira mais adequada para se definir o perfil de risco dos pacientes e, assim, adequar o cronograma de monitoramento é a utilização de nomogramas ou sistemas de estratificação de risco, como o UCLA Integrated Staging 
+System (UISS) e o escore SSIGN144–145. 
+Para o monitoramento de pacientes submetidos à radioterapia e à quimioterapia, adotam-se os respectivos cuidados e condutas institucionais estabelecidas. 
+REGULAÇÃO, CONTROLE E AVALIAÇÃO PELO GESTOR 
+Devem ser observados os critérios de inclusão e exclusão de doentes nestas DDT, a duração e a monitorização do tratamento, bem como para a verificação periódica das doses de medicamento(s) prescritas e dispensadas e da adequação de uso e do acompanhamento pós-tratamento. Casos de CCR devem ser atendidos em hospitais habilitados em oncologia e com porte tecnológico suficiente para diagnosticar, estadiar, tratar e acompanhar os pacientes. Além da familiaridade que tais hospitais guardam com o estadiamento, tratamento e controle de eventos adversos, eles têm toda a estrutura ambulatorial, de internação, de terapia intensiva, de hemoterapia, de suporte multiprofissional e de laboratórios necessária para o adequado atendimento e obtenção dos resultados terapêuticos esperados. 
+A regulação do acesso é um componente essencial da gestão para a organização da rede assistencial e a garantia do atendimento das pacientes, e muito facilita as ações de controle e avaliação. Entre tais ações incluem-se a manutenção atualizada do Cadastro Nacional dos Estabelecimentos de Saúde (CNES), a autorização prévia dos procedimentos, o monitoramento da produção dos procedimentos (por exemplo, frequência apresentada versus autorizada, valores apresentados versus autorizados versus ressarcidos) e a verificação dos percentuais da frequência dos procedimentos quimioterápicos em suas diferentes linhas (cuja ordem descendente – primeira maior do que segunda e segunda maior do que terceira – sinaliza a efetividade terapêutica). Ações de auditoria devem verificar in loco, por exemplo, a existência e a observância da conduta ou do protocolo adotados no hospital, a regulação do acesso assistencial, a qualidade da autorização, a conformidade da prescrição e da dispensação e administração dos medicamentos (tipos e doses), a compatibilidade do procedimento codificado com o diagnóstico e a capacidade funcional (escala de Zubrod), a compatibilidade da cobrança com os serviços executados, a abrangência e a integralidade assistenciais e o grau de diretamente aos hospitais ou aos usuários do SUS. A exceção é feita ao mesilato de imatinibe para a quimioterapia do tumor do estroma gastrointestinal (GIST), da leucemia mieloide crônica e da leucemia linfoblástica aguda cromossoma 
+Philadelphia positivo; do nilotinibe e do dasatinibe para a quimioterapia da leucemia mieloide crônica; do rituximabe para a poliquimioterapia do linfoma folifcular e do linfoma difuso de grandes células B; e dos trastuzumabe e pertuzumabe para a em oncologia no SUS, por meio das secretarias estaduais de saúde.Os procedimentos quimioterápicos da Tabela de 
+Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS (“Tabela do SUS”) não fazem referência a qualquer medicamento e são aplicáveis às situações clínicas específicas para as quais as terapias antineoplásicas medicamentosas são indicadas. Ou seja, os hospitais credenciados pelo SUS e habilitados em oncologia são os responsáveis pelo fornecimento de medicamentos oncológicos que eles, livremente, padronizam, adquirem e fornecem, cabendo-lhes codificar e registrar conforme o respectivo procedimento. Assim, a partir do momento em que um hospital é habilitado para prestar assistência oncológica pelo SUS, a responsabilidade pelo fornecimento de medicamento antineoplásico é do hospital, seja ele público ou privado, com ou sem fins lucrativos. 
+Os procedimentos diagnósticos (Grupo 02 e seus vários subgrupos – clínicos, cirúrgicos, laboratoriais e por imagem), terapêuticos clínicos (Grupo 03), terapêuticos cirúrgicos (Grupo 04 e os vários subgrupos cirúrgicos por especialidades e complexidade) e de transplantes (Grupo 05 e seus seis subgrupos) da Tabela de Procedimentos, 
+Medicamentos e Órteses, Próteses e Materiais Especiais do SUS podem ser acessados, por código ou nome do procedimento e por código da CID-10 para a respectiva doença, no SIGTAP − Sistema de Gerenciamento dessa Tabela 
+(http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp), com versão mensalmente atualizada e disponibilizada. 
+Relativamente ao sítio primário ou secundário, os procedimentos cirúrgicos da tabela do SUS aplicáveis a pacientes com diagnóstico de carcinoma de células renais encontram-se no Grupo 04 e podem ser acessados por código ou nome do procedimento e por código da CID-10. 
+Os procedimentos radioterápicos da tabela do SUS aplicáveis a pacientes com diagnóstico de carcinoma de células 
+03.04.01.011-1 - Internação p/ radioterapia externa (cobaltoterapia/acelerador linear) 
+03.04.01.047-2 - Radioterapia do aparelho urinário 
+03.04.01.052-9 - Radioterapia de metástase em sistema nervoso central 
+03.04.01.053-7 - Radioterapia de plasmocitoma / mieloma / metástases em outras localizações 
+O procedimento da tabela do SUS para a quimioterapia de carcinoma de células renais é o seguinte: 
+Quimioterapia paliativa – adulto 
+03.04.02.016-8 - Quimioterapia do carcinoma de rim avançado 
+American Cancer Society (ACS). Kidney Cancer (Adult) - Renal Cell Carcinoma. [Internet]. Available from: https://www.cancer.org/cancer/kidney-cancer.html 
+Escudier B, Porta C, Schmidinger M, Algaba F, Patard JJ, Khoo V, et al. Renal cell carcinoma: ESMO clinical practice guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2014; 
+Muglia VF, Prando A. Carcinoma de células renais: Classificação histológica e correlação com métodos de imagem. 
+Warren AY, Harrison D. WHO/ISUP classification, grading and pathological staging of renal cell carcinoma: standards and controversies. World J Urol. 2018; 
+Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2018; 
+WHO. Estimated number of new cases in 2018, worldwide, both sexes, all ages. Int Agency Res Cancer. 2018; 
+Myers Squibb. [cited 2021 Sep 8]. Available from: https://www.bms.com/assets/bms/brazil/documents/Infográfico 
+Capitanio U, Bensalah K, Bex A, Boorjian SA, Bray F, Coleman J, et al. Epidemiology of Renal Cell Carcinoma 
+[Figure presented]. European Urology. 2019. 
+Kushi LH, Doyle C, McCullough M, Rock CL, Demark-Wahnefried W, Bandera E V., et al. American Cancer Society guidelines on nutrition and physical activity for cancer prevention: Reducing the Risk of Cancer with Healthy Food 
+Choices and Physical Activity. CA Cancer J Clin. 2012; 
+Usher-Smith J, Simmons RK, Rossi SH, Stewart GD. Current evidence on screening for renal cancer. Nat Rev Urol. 
+Krogsbøll LT, Jørgensen KJ, Gøtzsche PC. Screening with urinary dipsticks for reducing morbidity and mortality. 
+Cochrane Database of Systematic Reviews. 2015. 
+Morrissey JJ, London AN, Luo J, Kharasch ED. Urinary biomarkers for the early diagnosis of kidney cancer. Mayo 
+Diana P, Klatte T, Amparore D, Bertolo R, Carbonara U, Erdem S, et al. Screening programs for renal cell carcinoma: a systematic review by the EAU young academic urologists renal cancer working group. World J Urol [Internet]. 
+2022;(0123456789). Available from: https://doi.org/10.1007/s00345-022-03993-6 
+Vogelzang NJ, Stadler WM. Kidney cancer. Lancet. 1998. 
+Gray RE, Harris GT. Renal cell carcinoma: Diagnosis and management. Am Fam Physician. 2019; 
+Perez Valdivieso JR, Bes-Rastrollo M, Monedero P, De Irala J, Javier Lavilla F. Karnofsky performance score in acute renal failure as a predictor of short-term survival. Nephrology. 2007; 
+Schag CC, Heinrich RL, Ganz PA. Karnofsky performance status revisited: reliability, validity, and guidelines. J Clin 
+Oncol. 1984 Mar;2(3):187–93. 
+Azam F, Latif MF, Farooq A, Tirmazy SH, Alshahrani S, Bashir S, et al. Performance Status Assessment by Using 
+ECOG (Eastern Cooperative Oncology Group) Score for Cancer Patients by Oncology Healthcare Professionals. Case 
+Chen L, Li H, Gu L, Ma X, Li X, Gao Y, et al. The impact of diabetes mellitus on renal cell carcinoma prognosis: A meta-analysis of cohort studies. Med (United States). 2015; 
+Kim HL, Belldegrun AS, Freitas DG, Bui MHT, Han KR, Dorey FJ, et al. Paraneoplastic signs and symptoms of renal cell carcinoma: Implications for prognosis. J Urol. 2003; 
+Jayson M, Sanders H. Increased incidence of serendipitously discovered renal cell carcinoma. Urology. 1998; 
+Patard JJ, Leray E, Rodriguez A, Rioux-Leclercq N, Guillé F, Lobel B. Correlation between symptom graduation, tumor characteristics and survival in renal cell carcinoma. Eur Urol. 2003; 
+Lin S, Zheng Y, Qin Z, Hu X, Qi F, Yin R, et al. Surgical intervention in renal cell carcinoma patients with lung and bronchus metastasis is associated with longer survival time: a population-based analysis. Ann Transl Med. 2019; 
+Ljungberg B, Alamdari FI, Rasmuson T, Roos G. Follow-up guidelines for nonmetastatic renal cell carcinoma based on the occurrence of metastases after radical nephrectomy. BJU Int. 1999;84(4):405–11. 
+Grünwald V, Eberhardt B, Bex A, Flörcken A, Gauler T, Derlin T, et al. An interdisciplinary consensus on the management of bone metastases from renal cell carcinoma. Nature Reviews Urology. 2018. 
+Abdel-Rahman O. Clinical correlates and prognostic value of different metastatic sites in metastatic renal cell carcinoma. Futur Oncol. 2017; 
+Sacco E, Pinto F, Sasso F, Racioppi M, Gulino G, Volpe A, et al. Paraneoplastic syndromes in patients with urological malignancies. Urologia Internationalis. 2009. 
+Ikuerowo S, Ojewuyi O, Omisanjo O, Abolarinwa A, Bioku M, Doherty A. Paraneoplastic syndromes and oncological outcomes in renal cancer. Niger J Clin Pract. 2019; 
+Chuang YC, Lin ATL, Chen KK, Chang YH, Chen MT, Chang LS. Paraneoplastic elevation of serum alkaline phosphatase in renal cell carcinoma: Incidence and implication on prognosis. J Urol. 1997;158(5):1684–7. 
+Gold PJ, Fefer A TJSUO 1996 N-22. P 8946620. Paraneoplastic manifestations of renal cell carcinoma. Urol Oncol. 
+Gill IS, Aron M, Gervais DA, Jewett MAS. Clinical practice. Small renal mass. N Engl J Med. 2010; 
+Silverman SG, Israel GM, Trinh QD. Incompletely characterized incidental renal masses: Emerging data support conservative management. Radiology. 2015. 
+Hélénon O, Delavaud C, Dbjay J, Gregory J, Rasouli N, Correas JM. A Practical Approach to Indeterminate and Cystic 
+Renal Masses. Semin Ultrasound, CT MRI. 2017; 
+Flum AS, Hamoui N, Said MA, Yang XJ, Casalino DD, McGuire BB, et al. Update on the Diagnosis and Management of Renal Angiomyolipoma. Journal of Urology. 2016. 
+Curry NS. Small renal masses (lesions smaller than 3 cm): Imaging evaluation and management. American Journal of 
+Israel GM, Bosniak MA. An update of the Bosniak renal cyst classification system. Urology. 2005; 
+Miranda CMNR de, Maranhão CP de M, Santos CJJ dos, Padilha IG, Farias L de PG de, Rocha MS da. Bosniak classification of renal cystic lesions according to multidetector computed tomography findings. Radiol Bras. 2014; 
+Silverman SG, Pedrosa I, Ellis JH, Hindman NM, Schieda N, Smith AD, et al. Bosniak classification of cystic renal masses, version 2019: An update proposal and needs assessment. Radiology. 2019; 
+Defortescu G, Cornu JN, Béjar S, Giwerc A, Gobet F, Werquin C, et al. Diagnostic performance of contrast-enhanced ultrasonography and magnetic resonance imaging for the assessment of complex renal cysts: A prospective study. Int J 
+Israel GM, Bosniak MA. How I do it: Evaluating renal masses. Radiology. 2005. 
+Kutikov A, Fossett LK, Ramchandani P, Tomaszewski JE, Siegelman ES, Banner MP, et al. Incidence of benign pathologic findings at partial nephrectomy for solitary renal mass presumed to be renal cell carcinoma on preoperative 
+Li G, Cuilleron M, Gentil-Perret A, Tostain J. Characteristics of image-detected solid renal masses: Implication, for optimal treatment. International Journal of Urology. 2004. 
+McKiernan J, Yossepowitch O, Kattan MW, Simmons R, Motzer RJ, Reuter VE, et al. Partial nephrectomy for renal cortical tumors: Pathologic findings and impact on outcome. Urology. 2002; 
+Ferda J, Hora M, Hes O, Ferdová E, Kreuzberg B. Assessment of the kidney tumor vascular supply by two-phase 
+MDCT-angiography. Eur J Radiol. 2007; 
+Mueller-Lisse UG, Mueller-Lisse UL. Imaging of advanced renal cell carcinoma. World J Urol. 2010; 
+Johns Putra LG, Minor TX, Bolton DM, Appu S, Dowling CR, Neerhut GJ. Improved Assessment of Renal Lesions in 
+Pregnancy With Magnetic Resonance Imaging. Urology. 2009; 
+Giannarini G, Petralia G, Thoeny HC. Potential and limitations of diffusion-weighted magnetic resonance imaging in kidney, prostate, and bladder cancer including pelvic lymph node staging: A critical analysis of the literature. European 
+Vogel C, Ziegelmüller B, Ljungberg B, Bensalah K, Bex A, Canfield S, et al. Imaging in Suspected Renal-Cell 
+Carcinoma: Systematic Review. Clin Genitourin Cancer. 2019; 
+Uzzo RG, Novick AC. Nephron sparing surgery for renal tumors: Indications, techniques and outcomes. Journal of 
+Huang WC, Levey AS, Serio AM, Snyder M, Vickers AJ, Raj G V., et al. Chronic kidney disease after nephrectomy in patients with renal cortical tumours: a retrospective cohort study. Lancet Oncol. 2006; 
+Lim DJ, Carter MF. Computerized tomography in the preoperative staging for pulmonary metastases in patients with renal cell carcinoma. J Urol. 1993; 
+Heidenreich A, Ravery V. Preoperative imaging in renal cell cancer. World J Urol. 2004; 
+Sheth S, Scatarige JC, Horton KM, Corl FM, Fishman EK. Current concepts in the diagnosis and management of renal cell carcinoma: Role of multidetector CT and three-dimensional CT. Radiographics. 2001; 
+Mano R, Vertosick E, Sankin AI, Chevinsky MS, Larish Y, Jakubowski CD, et al. Subcentimeter pulmonary nodules are not associated with disease progression in patients with renal cell carcinoma. J Urol. 2015; 
+Seaman E, Goluboff ET, Ross S, Sawczuk IS. Association of radionuclide bone scan and serum alkaline phosphatase in patients with metastatic renal cell carcinoma. Urology. 1996; 
+WHO. World Health Organization. on Cancer IAFR, Others. WHO classification of tumours of the urinary system and male genital organs (IARC WHO classification of tumours). 4th ed. IARC Press, Lyon; 2016. 
+Volpe A, Jewett MAS. Current role, techniques and outcomes of percutaneous biopsy of renal tumors. Expert Review of Anticancer Therapy. 2009. 
+Sanchez A, Feldman AS, Ari Hakimi A. Current management of small renal masses, including patient selection, renal tumor biopsy, active surveillance, and thermal ablation. Journal of Clinical Oncology. 2018. 
+Brierley JD, Gospodarowicz, Mary K. Wittekind C. TNM Classification of Malignant Tumours, 8th Edition. 2017. 
+Mir MC, Derweesh I, Porpiglia F, Zargar H, Mottrie A, Autorino R. Partial Nephrectomy Versus Radical Nephrectomy for Clinical T1b and T2 Renal Tumors: A Systematic Review and Meta-analysis of Comparative Studies. European 
+Delahunt B, Cheville JC, Martignoni G, Humphrey PA, Magi-Galluzzi C, McKenney J, et al. The International Society of Urological Pathology (ISUP) grading system for renal cell carcinoma and other prognostic parameters. Am J Surg 
+Sociedade Brasileira de Oncologia Clínica (SBOC). Diretrizes de tratamentos oncológicos recomendados pela 
+Sociedade Brasileira de Oncologia Clínica: Bexiga. 2020;19. 
+Impacto da revisão do grau histológico em carcinoma de células renais tipo células claras numa coorte - LARCG 
+(Latin American Renal Cancer Group). [Internet]. [cited 2021 Sep 14]. Available from: http://www.iccrcancer.org/getattachment/Datasets-Em-Portugues/Urinary-Male-Genital/Invasive-Carcinoma-of-Renal-TubularOrigin/ICCR-Kidney-nephrectomy-1st-edn-v1-1-bookmark-PT.pdf 
+Ko JJ, Xie W, Kroeger N, Lee J lyun, Rini BI, Knox JJ, et al. The international metastatic renal cell carcinoma database consortium model as a prognostic tool in patients with metastatic renal cell carcinoma previously treated with first-line targeted therapy: A population-based study. Lancet Oncol. 2015; 
+Heng DYC, Xie W, Regan MM, Harshman LC, Bjarnason GA, Vaishampayan UN, et al. External validation and comparison with other models of the International Metastatic Renal-Cell Carcinoma Database Consortium prognostic model: A population-based study. Lancet Oncol. 2013;14(2):141–8. 
+Kunath F, Schmidt S, Krabbe LM, Miernik A, Dahm P, Cleves A, et al. Partial nephrectomy versus radical nephrectomy for clinical localised renal masses. Cochrane Database of Systematic Reviews. 2017. 
+Van Poppel H, Da Pozzo L, Albrecht W, Matveev V, Bono A, Borkowski A, et al. A prospective, randomised EORTC intergroup phase 3 study comparing the oncologic outcome of elective nephron-sparing surgery and radical nephrectomy for low-stage renal cell carcinoma. Eur Urol. 2011; 
+Pierorazio PM, Johnson MH, Ball MW, Gorin MA, Trock BJ, Chang P, et al. Five-year Analysis of a Multiinstitutional Prospective Clinical Trial of Delayed Intervention and Surveillance for Small Renal Masses: The 
+DISSRM Registry. Eur Urol. 2015; 
+MacLennan S, Imamura M, Lapitan MC, Omar MI, Lam TBL, Hilvano-Cabungcal AM, et al. Systematic review of perioperative and quality-of-life outcomes following surgical management of localised renal cancer. European 
+Galvão A, Castro E. TRATAMENTO DO CÂNCER RENAL LOCALIZADO – PROTOCOLO INSTITUCIONAL 
+DO HOSPITAL DAS CLÍNICAS DA UFMG. Urominas- Soc Bras Urol. 2018; 
+Rais-Bahrami S, Guzzo TJ, Jarrett TW, Kavoussi LR, Allaf ME. Incidentally discovered renal masses: Oncological and perioperative outcomes in patients with delayed surgical intervention. BJU Int. 2009; 
+McIntosh A, Lee T, Greenberg R, Chen DY, Viterbo R, Smaldone M, et al. PD51-04 ACTIVE SURVEILLANCE 
+FOR LOCALIZED RENAL MASSES: GROWTH RATES AND OUTCOMES IN PATIENTS WITH MASSES ≥4 https://www.cancer.org/cancer/kidney-cancer/treating/ablation.html 
+Pierorazio PM, Johnson MH, Patel HD, Sozio SM, Sharma R, Iyoha E, et al. Management of Renal Masses and 
+Localized Renal Cancer: Systematic Review and Meta-Analysis. Journal of Urology. 2016. 
+Filippiadis D, Mauri G, Marra P, Charalampopoulos G, Gennaro N, De Cobelli F. Percutaneous ablation techniques for renal cell carcinoma: current status and future trends. Int J Hyperth Off J Eur Soc Hyperthermic Oncol North Am 
+Hyperth Gr. 2019 Oct;36(2):21–30. 
+Li J, Zhang Y, Teng Z, Han Z. Partial nephrectomy versus radical nephrectomy for cT2 or greater renal tumors: A systematic review and meta-analysis. Minerva Urologica e Nefrologica. 2019. 
+Lane BR, Gill IS. 7-Year Oncological Outcomes After Laparoscopic and Open Partial Nephrectomy. J Urol. 2010; 
+Wu Z, Li M, Liu B, Cai C, Ye H, Lv C, et al. Robotic versus open partial nephrectomy: A systematic review and metaanalysis. PLoS ONE. 2014. 
+Choi JE, You JH, Kim DK, Rha KH, Lee SH. Comparison of perioperative outcomes between robotic and laparoscopic partial nephrectomy: A systematic review and meta-analysis. European Urology. 2015. 
+Hu X, Shao YX, Wang Y, Yang ZQ, Yang WX, Li X. Partial nephrectomy versus ablative therapies for cT1a renal masses: A Systematic Review and meta-analysis. European Journal of Surgical Oncology. 2019. 
+Rivero JR, De La Cerda J, Wang H, Liss MA, Farrell AM, Rodriguez R, et al. Partial Nephrectomy versus Thermal 
+Ablation for Clinical Stage T1 Renal Masses: Systematic Review and Meta-Analysis of More than 3,900 Patients. 
+Journal of Vascular and Interventional Radiology. 2018. 
+Abu-Ghanem Y, Fernández-Pello S, Bex A, Ljungberg B, Albiges L, Dabestani S, et al. Limitations of Available 
+Studies Prevent Reliable Comparison Between Tumour Ablation and Partial Nephrectomy for Patients with Localised 
+Renal Masses: A Systematic Review from the European Association of Urology Renal Cell Cancer Guideline Panel. 
+Bhindi B, Wallis CJD, Boorjian SA, Thompson RH, Farrell A, Kim SP, et al. The role of lymph node dissection in the management of renal cell carcinoma: a systematic review and meta-analysis. BJU International. 2018. 
+Capitanio U, Becker F, Blute ML, Mulders P, Patard JJ, Russo P, et al. Lymph node dissection in renal cell carcinoma. 
+Blom JHM, van Poppel H, Maréchal JM, Jacqmin D, Schröder FH, de Prijck L, et al. Radical Nephrectomy with and without Lymph-Node Dissection: Final Results of European Organization for Research and Treatment of Cancer 
+(EORTC) Randomized Phase 3 Trial 30881. Eur Urol. 2009; 
+O’Malley RL, Godoy G, Kanofsky JA, Taneja SS. The Necessity of Adrenalectomy at the Time of Radical 
+Nephrectomy: A Systematic Review. Journal of Urology. 2009. 
+Lenis AT, Burton CS, Golla V, Pooli A, Faiena I, Johnson DC, et al. Cytoreductive nephrectomy in patients with metastatic renal cell carcinoma and venous thrombus—Trends and effect on overall survival. Urol Oncol Semin Orig 
+Shinder BM, Rhee K, Farrell D, Farber NJ, Stein MN, Jang TL, et al. Surgical management of advanced and metastatic renal cell carcinoma: A multidisciplinary approach. Frontiers in Oncology. 2017. 
+Janisch F, Hillemacher T, Fuehner C, D’Andrea D, Meyer CP, Klotzbücher T, et al. The impact of cytoreductive nephrectomy on survival outcomes in patients treated with tyrosine kinase inhibitors for metastatic renal cell carcinoma in a real-world cohort. Urol Oncol Semin Orig Investig. 2020; 
+Sociedade Brasileira de Oncologia Clínica SBOC. Recomendações para o Tratamento do Câncer Renal. 2017; 
+Wang R, Wolf JS, Wood DP, Higgins EJ, Hafez KS. Accuracy of Percutaneous Core Biopsy in Management of Small https://pubmed.ncbi.nlm.nih.gov/19118884/ 
+Scherr AJO, Lima JPSN, Sasse EC, Lima CSP, Sasse AD. Adjuvant therapy for locally advanced renal cell cancer: A systematic review with meta-analysis. BMC Cancer [Internet]. 2011 Mar 31 [cited 2021 May 31];11. Available from: https://pubmed.ncbi.nlm.nih.gov/21453469/ 
+Zhang X, Shen Z, Zhong S, Zhu Z, Wang X, Xu T. Comparison of peri-operative outcomes of robot-assisted vs laparoscopic partial nephrectomy: A meta-analysis. BJU Int. 2013;112(8). 
+Zheng JH, Zhang XL, Geng J, Guo CC, Zhang XP, Che JP, et al. Long-term oncologic outcomes of laparoscopic versus open partial nephrectomy. Chin Med J (Engl). 2013;126(15):2938–42. 
+Van Poppel H, Joniau S, Goethuys H. Open partial nephrectomy for complex tumours and > 4 cm: Is it still the gold standard technique in the minimally invasive era? Arch Esp Urol. 2013 Jan;66(1):129–38. 
+Fan X, Xu K, Lin T, Liu H, Yin Z, Dong W, et al. Comparison of transperitoneal and retroperitoneal laparoscopic nephrectomy for renal cell carcinoma: A systematic review and meta-analysis. BJU Int. 2013 Apr;111(4):611–21. 
+Tait C, Tandon S, Baker L, Goodman C, Townell N, Nabi G. Long-term oncologic outcomes of laparoscopic radical nephrectomy for kidney cancer resection: Dundee cohort and metaanalysis of observational studies. Vol. 25, Surgical 
+Endoscopy. Springer New York LLC; 2011. p. 3154–61. 
+Asimakopoulos AD, Miano R, Annino F, Micali S, Spera E, Iorio B, et al. Robotic radical nephrectomy for renal cell carcinoma: A systematic review. BMC Urol. 2014 Sep 18;14(1). 
+Kim SP, Thompson RH, Boorjian SA, Weight CJ, Han LC, Murad MH, et al. Comparative effectiveness for survival and renal function of partial and radical nephrectomy for localized renal tumors: a systematic review and metahttp://www.ncbi.nlm.nih.gov/pubmed/22591957 portadores de carcinoma renal de células claras metastático. 2018;http://conitec.gov.br/images/Relatorios/2018/Relat. 
+Ko YJ, Atkins MB. Chemotherapies and immunotherapies for metastatic kidney cancer. Current urology reports. 2005. 
+Motzer RJ, Bacik J, Murphy BA, Russo P, Mazumdar M. Interferon-alfa as a comparative treatment for clinical trials of new therapies against advanced renal cell carcinoma. J Clin Oncol. 2002; 
+Hernberg M, Pyrhönen S, Muhonen T. Regimens with or without interferon-α as treatment for metastatic melanoma and renal cell carcinoma: An overview of randomized trials. J Immunother. 1999; 
+Coppin C, Porzsolt F, Autenrieth M, Kumpf J, Coldman A, Wilt TJ. Immunotherapy for advanced renal cell cancer. 
+Cochrane Database of Systematic Reviews. 2015. 
+Baaten G, Voogd AC, Wagstaff J. A systematic review of the relation between interleukin-2 schedule and outcome in patients with metastatic renal cell cancer. Eur J Cancer. 2004; 
+Malaguarnera M, Ferlito L, Gulizia G, Di Fazio I, Pistone G. Use of interleukin-2 in advanced renal carcinoma: Metaanalysis and review of the literature. European Journal of Clinical Pharmacology. 2001. 
+Santoni M, Conti A, De Giorgi U, Iacovelli R, Pantano F, Burattini L, et al. Risk of gastrointestinal events with sorafenib, sunitinib and pazopanib in patients with solid tumors: A systematic review and meta-analysis of clinical trials [Internet]. Vol. 135, International Journal of Cancer. Wiley-Liss Inc.; 2014 [cited 2021 May 31]. p. 763–73. 
+Available from: https://pubmed.ncbi.nlm.nih.gov/24127298/ 
+Ibrahim EM, Kazkaz GA, Abouelkhair KM, Bayer AM, Elmasri OA. Sunitinib adverse events in metastatic renal cell carcinoma: A meta-analysis. Int J Clin Oncol [Internet]. 2013 Dec [cited 2021 May 31];18(6):1060–9. Available from: https://pubmed.ncbi.nlm.nih.gov/23179639/ 
+Zhu X, Stergiopoulos K, Wu S. Risk of hypertension and renal dysfunction with an angiogenesis inhibitor sunitinib: 
+Systematic review and meta-analysis. Acta Oncologica. 2009. 
+Schutz FAB, Jardim DLF, Je Y, Choueiri TK. Haematologic toxicities associated with the addition of bevacizumab in cancer patients. Eur J Cancer. 2011; 
+Schutz FAB, Je Y, Choueiri TK. Hematologic toxicities in cancer patients treated with the multi-tyrosine kinase sorafenib: A meta-analysis of clinical trials. Crit Rev Oncol Hematol. 2011; 
+Hang XF, Xu WS, Wang JX, Wang L, Xin HG, Zhang RQ, et al. Risk of high-grade bleeding in patients with cancer treated with bevacizumab: A meta-analysis of randomized controlled trials. Eur J Clin Pharmacol. 2011; 
+Chu D, Lacouture ME, Weiner E, Wu S. Risk of hand-foot skin reaction with the multitargeted kinase inhibitor sunitinib in patients with renal cell and non-renal cell carcinoma: A meta-analysis. Clinical Genitourinary Cancer. 
+Kapadia S, Hapani S, Choueiri TK, Wu S. Risk of liver toxicity with the angiogenesis inhibitor pazopanib in cancer patients. Acta Oncol (Madr). 2013; 
+Sivendran S, Liu Z, Portas LJ, Yu M, Hahn N, Sonpavde G, et al. Treatment-related mortality with vascular endothelial growth factor receptor tyrosine kinase inhibitor therapy in patients with advanced solid tumors: A metaanalysis. Cancer Treatment Reviews. 2012. 
+Choueiri TK, Je Y, Sonpavde G, Richards CJ, Galsky MD, Nguyen PL, et al. Incidence and risk of treatment-related mortality in cancer patients treated with the mammalian target of rapamycin inhibitors. Ann Oncol. 2013; 
+Iacovelli R, Palazzo A, Mezi S, Morano F, Naso G, Cortesi E. Incidence and risk of pulmonary toxicity in patients treated with mTOR inhibitors for malignancy. A meta-analysis of published trials. Acta Oncol (Madr). 2012; 
+Kaymakcalan MD, Je Y, Sonpavde G, Galsky M, Nguyen PL, Heng DYC, et al. Risk of infections in renal cell carcinoma (RCC) and non-RCC patients treated with mammalian target of rapamycin inhibitors. Br J Cancer. 2013; 
+Beaumont JL, Butt Z, Baladi J, Motzer RJ, Haas T, Hollaender N, et al. Patient‐Reported Outcomes in a Phase III 
+Study of Everolimus Versus Placebo in Patients with Metastatic Carcinoma of the Kidney That Has Progressed on 
+Vascular Endothelial Growth Factor Receptor Tyrosine Kinase Inhibitor Therapy. Oncologist [Internet]. 2011 May 
+[cited 2021 May 31];16(5):632–40. Available from: https://pubmed.ncbi.nlm.nih.gov/21459902/; 
+Recomendação 570. Outubro de 2020. Cabozantinibe para tratamento de primeira linha de câncer renal avançado. https://www.gov.br/conitec/ptbr/midias/consultas/relatorios/2020/20201113_relatorio_de_recomendacao_570_cabozantinibe.pdf; 
+Recomendação 660. Agosto de 2021. Pembrolizumabe, axitinibe, ipilimumabe e nivolumabe para tratamento de https://www.gov.br/conitec/ptbr/midias/relatorios/2021/20210830_relatorio_660_pembrolizumabe_axitinibe_ipilimumabe_nivolumabe_ccr_1_linha
+Recomendação 661. Junho de 2021. Cabozantinibe ou nivolumabe para o tratamento de segunda linha para pacientes https://docs.bvsalud.org/biblioref/2021/09/1292081/20210903_relatorio_cabozantinibe_nivolumabe_ccr_segunda_linh
+Passalacqua R, Buzio C, Buti S, Porta C, Labianca R, Pezzuolo D, et al. Phase III, randomised, multicentre trial of maintenance immunotherapy with low-dose interleukin-2 and interferon-α for metastatic renal cell cancer. Cancer 
+Immunol Immunother. 2010; 
+Escudier B, Eisen T, Stadler WM, Szczylik C, Oudard S, Staehler M, et al. Sorafenib for treatment of renal cell carcinoma: Final efficacy and safety results of the phase III treatment approaches in renal cancer global evaluation trial. J Clin Oncol [Internet]. 2009 Jul 10 [cited 2021 May 31];27(20):3312–8. Available from: https://pubmed.ncbi.nlm.nih.gov/19451442/ 
+Mills EJ, Rachlis B, O’Regan C, Thabane L, Perri D. Metastatic renal cell cancer treatments: An indirect comparison https://pubmed.ncbi.nlm.nih.gov/19173737/ 
+Di Lorenzo G, Casciano R, Malangone E, Buonerba C, Sherman S, Willet J, et al. An adjusted indirect comparison of everolimus and sorafenib therapy in sunitinib-refractory metastatic renal cell carcinoma patients using repeated matched samples. Expert Opin Pharmacother [Internet]. 2011 Jul [cited 2021 May 31];12(10):1491–7. Available from: https://pubmed.ncbi.nlm.nih.gov/21599551/ 
+Zbrozek AS, Hudes G, Levy D, Strahs A, Berkenblit A, DeMarinis R, et al. Q-TWiST analysis of patients receiving temsirolimus or interferon alpha for treatment of advanced renal cell carcinoma. Pharmacoeconomics [Internet]. 2010 
+[cited 2021 May 31];28(7):577–84. Available from: https://pubmed.ncbi.nlm.nih.gov/20550223/ 
+Thompson Coon J, Hoyle M, Green C, Liu Z, Welch K, Moxham T, et al. Bevacizumab, sorafenib tosylate, sunitinib and temsirolimus for renal cell carcinoma: A systematic review and economic evaluation [Internet]. Vol. 14, Health 
+Technology Assessment. Health Technol Assess; 2010 [cited 2021 May 31]. p. 1–184. Available from: https://pubmed.ncbi.nlm.nih.gov/20028613/ 
+Hoyle M, Green C, Thompson-Coon J, Liu Z, Welch K, Moxham T, et al. Cost-effectiveness of sorafenib for secondline treatment of advanced renal cell carcinoma. Value Heal [Internet]. 2010 [cited 2021 May 31];13(1):55–60. 
+Available from: https://pubmed.ncbi.nlm.nih.gov/19804431/ 
+Buti S, Bersanelli M, Sikokis A, Maines F, Facchinetti F, Bria E, et al. Chemotherapy in metastatic renal cell carcinoma today? A systematic review [Internet]. Vol. 24, Anti-Cancer Drugs. Anticancer Drugs; 2013 [cited 2021 
+May 31]. p. 535–54. Available from: https://pubmed.ncbi.nlm.nih.gov/23552469/ 
+Eggener SE, Yossepowitch O, Pettus JA, Snyder ME, Motzer RJ, Russo P. Renal cell carcinoma recurrence after nephrectomy for localized disease: Predicting survival from time of recurrence. J Clin Oncol. 2006; 
+Stewart SB, Thompson RH, Psutka SP, Cheville JC, Lohse CM, Boorjian SA, et al. Evaluation of the National 
+Comprehensive Cancer Network and American Urological Association renal cell carcinoma surveillance guidelines. J 
+Dabestani S, Beisland C, Stewart GD, Bensalah K, Gudmundsson E, Lam TB, et al. Long-term Outcomes of Followup for Initially Localised Clear Cell Renal Cell Carcinoma: RECUR Database Analysis. Eur Urol Focus. 2019; 
+Patard JJ, Shvarts O, Lam JS, Pantuck AJ, Kim HL, Ficarra V, et al. Safety and efficacy of partial nephrectomy for all 
+T1 tumors based on an international multicenter experience. J Urol. 2004; 
+Beisland C, Guðbrandsdottir G, Reisæter LAR, Bostad L, Hjelle KM. A prospective risk-stratified follow-up programme for radically treated renal cell carcinoma patients: evaluation after eight years of clinical use. World J Urol. 
+NCCN. NCCN Guidelines for Kidney Cancer. 2021; 
+European Association of Urology. EAU Guidelines on Renal Cell Carcinoma. 2020. 
+American Urological Association. AUA Guidelines Follow-up for Clinically Localized Renal Neoplasms. 2013. 
+Kunkle DA, Egleston BL, Uzzo RG. Excise, Ablate or Observe: The Small Renal Mass Dilemma-A Meta-Analysis and Review. Journal of Urology. 2008. 
+Klatte T, Grubmüller B, Waldert M, Weibl P, Remzi M. Laparoscopic cryoablation versus partial nephrectomy for the treatment of small renal masses: Systematic review and cumulative analysis of observational studies. European 
+Zisman A, Pantuck AJ, Wieder J, Chao DH, Dorey F, Said JW, et al. Risk group assessment and clinical outcome algorithm to predict the natural history of patients with surgically resected renal cell carcinoma. J Clin Oncol. 2002; 
+Frank I, Blute ML, Cheville JC, Lohse CM, Weaver AL, Zincke H. An outcome prediction model for patients with clear cell renal cell carcinoma treated with radical nephrectomy based on tumor stage, size, grade and necrosis: The 
+SSIGN score. J Urol. 2002; 
+Cindolo L, Patard JJ, Chiodini P, Schips L, Ficarra V, Tostain J, et al. Comparison of predictive accuracy of four prognostic models for nonmetastatic renal cell carcinoma after nephrectomy: A multicenter European study. Cancer. 
+METODOLOGIA DE BUSCA E AVALIAÇÃO DA LITERATURA 
+Escopo e finalidade das Diretrizes 
+A atualização das Diretrizes Diagnósticas e Terapêuticas (DDT) do Carcinoma de Células Renais (CCR) foi iniciada com a reunião presencial para delimitação do seu escopo. Nesta reunião, estavam presentes dois membros do Departamento de Gestão, Incorporação de Tecnologias em Saúde (DGITS/SCTIE/MS); um membro da Coordenação-Geral de Atenção participaram por meio de videoconferência. 
+Inicialmente, foram detalhadas e explicadas questões referentes ao desenvolvimento das DDT, sendo definida a 
+Posteriormente, cada seção foi detalhada e discutida entre os participantes, com o objetivo de identificar tecnologias que seriam consideradas nas recomendações. Após a identificação de tecnologias já disponibilizadas no Sistema Único de 
+Saúde, novas tecnologias puderam ser identificadas. Deste modo, o grupo de especialistas foi orientado a elencar questões de pesquisa, que foram estruturadas segundo o acrônimo PICO, para qualquer tecnologia não incorporada ao SUS ou em casos de dúvida clínica. Para o caso dos medicamentos, foram considerados apenas aqueles que tivessem registro na 
+Agência Nacional de Vigilância Sanitária (ANVISA) e indicação do uso em bula, além de constar na tabela da Câmara de 
+Regulação do Mercado de Medicamentos (CMED). Não houve restrição ao número de perguntas de pesquisa durante a condução desta reunião. Estabeleceu-se que recomendações diagnósticas, de tratamento ou acompanhamento que envolvessem tecnologias já incorporadas ao SUS não teriam questões de pesquisa definidas, por se tratar de prática clínica já estabelecida, à exceção de casos de incertezas sobre o uso, casos de desuso ou possibilidade de desincorporação. 
+Equipe de elaboração e partes interessadas 
+O grupo elaborador destas DDT foi composto por um painel de especialistas e metodologistas sob coordenação do 
+DGITS. Entre os nove membros do grupo elaborador, três eram especialistas e quatro metodologistas. Todos os participantes 
+Declaração e Manejo de Conflitos de Interesse 
+Todos os membros do Grupo Elaborador declararam seus conflitos de interesse, utilizando a Declaração de Potencial 
+Conflitos de Interesses (Quadro A). 
+Quadro A - Questionário de conflitos de interesse diretrizes clínico-assistenciais. 
+1. Você já aceitou de uma instituição que pode se beneficiar ou se prejudicar financeiramente algum dos benefícios abaixo? 
+Reembolso por comparecimento a eventos na área de interesse da diretriz 
+Honorários por apresentação, consultoria, palestra ou atividades de ensino 
+Financiamento para redação de artigos ou editorias 
+Suporte para realização ou desenvolvimento de pesquisa na área 
+Recursos ou apoio financeiro para membro da equipe 
+Algum outro benefício financeiro 
+2. Você possui apólices ou ações de alguma empresa que possa de alguma forma ser beneficiada ou prejudicada com as recomendações da diretriz? 
+3. Você possui algum direito de propriedade intelectual (patentes, registros de marca, royalties) de alguma tecnologia ligada ao tema da diretriz? 
+4. Você já atuou como perito judicial na área tema da diretriz? 
+5. Você participa, direta ou indiretamente, de algum grupo citado abaixo cujos interesses possam ser afetados pela sua atividade na elaboração ou revisão da diretriz? a) Instituição privada com ou sem fins lucrativos b) Organização governamental ou não-governamental c) Produtor, distribuidor ou detentor de registro e) Comitê, sociedade ou grupo de trabalho 
+Estas DDT foram desenvolvidas conforme as Diretrizes Metodológicas de Elaboração de Diretrizes Clínicas do destas DDT, duas questões de pesquisa foram levantadas (Quadro B): 
+Quadro B - Questões PICO elencadas para elaboração das DDT. 
+As associações ipilimumabe/nivolumabe ou pembrolizumabe/axitinibe são eficazes e seguras para o tratamento do carcinoma de células renais avançado ou metastático, comparada à imunoterapia com interferon ou terapia com inibidores de tirosina quinase (sunitinibe ou pazopanibe)? 
+Qual a eficácia, segurança e a custo-efetividade, em segunda linha de tratamento, do levomalato de cabozantinibe ou nivolumabe em comparação ao everolimo, pazopanibe, sunitibe, ipilimumabe, axitinibe e pembrolizumabe para pacientes adultos com CCR metastático? 
+A equipe de metodologistas envolvida no processo ficou responsável pela busca e avaliação de evidências, segundo metodologia GRADE. Deste modo, a busca na literatura foi realizada nas bases PubMed e Embase e validadas no Google 
+Scholar e Epistemonikos. A estratégia de busca contemplou os vocabulários padronizado e não padronizado para cada base de dados para os elementos “P” e “I” da questão de pesquisa, combinados por meio de operadores booleanos apropriados. 
+O fluxo de seleção dos artigos foi descritivo. A seleção das evidências foi realizada por um metodologista e checada por outro, respeitando o conceito da hierarquia das evidências. Dessa forma, na etapa de triagem das referências por meio da leitura do título e resumo, os estudos que potencialmente preenchessem os critérios de elegibilidade (de acordo com a pergunta de pesquisa) foram mantidos, independentemente do delineamento do estudo. 
+Havendo ensaios clínicos randomizados, preconizou-se a utilização de revisões sistemáticas com meta-análise. 
+Havendo mais de uma revisão sistemática com meta-análise, a mais completa, atual e com menor risco de viés foi selecionada. Se a sobreposição dos estudos nas revisões sistemáticas com meta-análise era pequena, mais de uma revisão sistemática com meta-análise foi considerada. Quando a revisão sistemática não tinha meta-análise, preferiu-se considerar os estudos originais, por serem mais completos em relação às descrições das variáveis demográfico-clínicas e desfechos de 
+Adicionalmente, checou-se a identificação de ensaios clínicos randomizados adicionais, para complementar o corpo das evidências, que poderiam não ter sido incluídos nas revisões sistemáticas com meta-análises selecionadas por conta de limitações na estratégia de busca da revisão ou por terem sido publicados após a data de publicação da revisão sistemática considerada. Na ausência de ensaios clínicos randomizados, priorizou-se os estudos comparativos não randomizados. Os estudos excluídos na fase 3 tiveram suas razões de exclusão relatadas e referenciadas. O processo de seleção dos estudos foi representado em forma de fluxograma. 
+Com o corpo das evidências identificado, procedeu-se à extração dos dados quantitativos dos estudos. A extração dos dados foi feita por um metodologista e revisado por um segundo, em uma única planilha de Excel®. As características dos participantes nos estudos foram definidas com base na importância para interpretação dos achados e com o auxílio do especialista relator da questão. As características dos estudos também foram extraídas, bem como os desfechos de importância definidos na questão de pesquisa. 
+O risco de viés dos estudos foi avaliado de acordo com o delineamento de pesquisa e ferramenta específica. Apenas a conclusão desta avaliação foi reportada. Se o estudo apresentasse baixo risco de viés, significaria que não havia nenhum comprometimento do domínio avaliado pela respectiva ferramenta. Se o estudo apresentasse alto risco de viés, os domínios da ferramenta que estavam comprometidos eram explicitados. Desta forma, o risco de viés de revisões sistemáticas foi avaliado pela ferramenta A MeaSurement Tool to Assess systematic Reviews 2 (AMSTAR-2)3, os ensaios clínicos randomizados pela ferramenta de risco de viés da Cochrane4, os estudos observacionais pela ferramenta NewcastleOttawa5. Séries de caso foram consideradas como estudos com alto risco de viés, dadas as limitações metodológicas 
+Após a finalização da extração dos dados, as tabelas foram editadas de modo a auxiliar na interpretação dos achados pelos especialistas. A seguir, podem ser consultadas as estratégias de busca, síntese e avaliação das evidências para cada uma das duas questões PICO realizadas para as presente DDT. 
+A relatoria das seções das DDT foi distribuída entre os especialistas, responsáveis pela redação da primeira versão do texto. Essas seções poderiam ou não ter uma ou mais questões de pesquisa elencadas. Na ausência de questão de pesquisa (recomendações pautadas em prática clínica estabelecidas e apenas com tecnologias já disponíveis no SUS), os especialistas foram orientados a referir a recomendação com base nos estudos pivotais que apoiam a prática clínica. 
+Quando a seção continha uma ou mais questões de pesquisa, os relatores, após atuação dos metodologistas, interpretavam as evidências e redigiam uma primeira versão da recomendação, para ser discutida entre o painel de especialistas na ocasião 
+Shea BJ, Reeves BC, Wells G, Thuku M, Hamel C, Moran J, et al. AMSTAR 2: A critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both. BMJ. 2017; 
+Higgins JPT, Altman DG, Gøtzsche PC, Jüni P, Moher D, Oxman AD, et al. The Cochrane Collaboration’s tool for assessing risk of bias in randomised trials. BMJ. 2011 Oct;343:d5928. 
+Wells GA, Shea B, O’Connell D, Peterson J, Welch V, Losos M et al. The Newcastle-Ottawa Scale (NOS) for assessing the quality if nonrandomized studies in meta-analyses. 2012. 
+MATERIAL SUPLEMENTAR A - PERGUNTA PICO 1 
+Questão de pesquisa: “As associações ipilimumabe/nivolumabe ou pembrolizumabe/axitinibe são eficazes e seguras para o tratamento do carcinoma de células renais avançado ou metastático, comparada à imunoterapia com interferon ou terapia com inibidores de tirosina quinase (sunitinibe ou pazopanibe)?”. 
+Nesta pergunta, o acrônimo PICO era: 
+Pacientes (P): pacientes com carcinoma de células renais avançado (1ª linha) - subgrupo de risco intermediário/alto 
+Intervenção (I): combinação de nivolumabe/ipilimumabe ou pembrolizumabe/axitinibe 
+Comparadores (C):sunitinibe ou pazopanibe 
+Outcomes/desfechos (O):sobrevida livre de progressão, sobrevida global e segurança 
+A estratégia de busca referente a esta pergunta está descrita no Quadro C: 
+Quadro C - Estratégias de busca nas bases de dado PubMed e Embase. 
+("pembrolizumab" [Supplementary Concept] OR "Ipilimumab"[Mesh] OR 
+"Nivolumab"[Mesh] OR "Axitinib"[Mesh]) AND ("Carcinoma, Renal Cell"[Mesh] 
+Data do acesso: 19/09/2020 
+('renal cell carcinoma'/mj OR 'carcinoma, renal cell' OR 'kidney cell carcinoma' OR 
+'renal cell carcinoma' OR 'renal cell adenocarcinoma' OR 'renal cell cancer'/mj OR 
+'kidney carcinoma'/mj OR 'grawitz tumor' OR 'adenocarcinoma, kidney' OR 
+'carcinoma, kidney' OR 'hypernephroid carcinoma' OR 'hypernephroma' OR 'kidney adenocarcinoma' OR 'kidney carcinoma' OR 'renal adenocarcinoma' OR 'renal carcinoma') AND ('pembrolizumab'/mj OR 'keytruda' OR 'pembrolizumab' OR 
+'axitinib'/mj OR 'nivolumab'/mj OR 'nivolumab' OR 'opdivo' OR 'ipilimumab'/mj 
+OR 'ipilimumab') AND ([cochrane review]/lim OR [systematic review]/lim OR 
+[meta-analysis]/lim OR [controlled clinical trial]/lim OR [randomized controlled 
+Data do acesso: 19/09/2020 
+#1 MeSH descriptor: [Carcinoma, Renal Cell] explode all trees 
+#2 "renal cell carcinomas" 
+#3 "renal cell adenocarcinoma" 
+#4 "Adenocarcinoma of Kidney" 
+#6 "Renal Adenocarcinoma" 
+#7 "Renal Cell Carcinoma" 
+#12 "Cancer of the Kidney" 
+#13 #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 
+Data do acesso: 19/09/2020 
+(tw:(Carcinoma de Células Renais )) OR (tw:(Carcinoma, Renal Cell )) OR 
+(tw:(Carcinoma de Células Renales)) OR (tw:(Adenocarcinoma de Células Renais)) 
+OR (tw:(Carcinoma Hipernefroide)) OR (tw:(Hipernefroma)) OR 
+(mh:(C04.557.470.200.025.390)) OR (mh:(C04.588.945.947.535.160)) OR 
+(mh:(C12.758.820.750.160)) OR (mh:(C12.777.419.473.160)) OR 
+(mh:(C13.351.937.820.535.160)) OR (mh:(C13.351.968.419.473.160)) AND 
+(tw:("nivolumabe")) OR (tw:("nivolumab")) OR (tw:(Opdivo)) OR 
+(mh:(D12.776.124.486.485.114.224.060.829)) OR 
+(mh:(D12.776.124.790.651.114.224.060.829)) OR 
+(tw:(D12.776.377.715.548.114.224.200.829)) OR (tw:(ipilimumabe)) OR 
+(tw:(pembrolizumab)) OR (tw:(pembrolizumabe)) OR (tw:(axitinibe)) OR 
+(tw:(axitinib)) OR (tw:(Inlyta)) OR (mh:(D02.065.277.051 )) OR 
+(mh:(D02.241.223.100.100.115)) OR (mh:(D02.455.426.559.389.127.085.093)) 
+OR (mh:(D03.383.129.539.487.065)) OR (mh:(D03.633.100.449.065)) 
+Data do acesso: 19/09/2020 
+Na busca foram recuperadas 1.714 publicações. Após a exclusão de 200 duplicatas, permaneceram 1.514 para análise de título e resumo. Posteriormente, após a aplicação dos critérios de elegibilidade, permaneceram 20 publicações para leitura completa. Por fim, apenas as revisões sistemáticas mais recentes e de qualidade, com meta-análises, foram selecionadas. Ensaios clínicos randomizados foram selecionados apenas se não incluídos em nenhuma das revisões 
+Figura 1 - Fluxograma de seleção dos estudos. 
+C. Descrição dos estudos e resultados 
+Os desfechos de eficácia e segurança dos estudos incluídos encontram-se na Tabela A. 
+Tabela A - Desfechos de eficácia e segurança dos estudos incluídos. 
+Tecnologia avaliada versus eritrodistesia palmoplantar 
+(RR 3,06; IC95% 2,51-3,72) 
+(RR 1,43; IC95% 1,21-1,68), 
+(RR 0,49; IC95% 0,33-0,67), 
+(RR 0,60; IC95% 0,58-0,71) 
+(RR 0,68; IC95% 0,47-0,98) 
+NI: HR 2,18 (IC95% 1,47-3,25) 
+PA: HR 0,72 (IC95% 0, 32-1,30). 
+NI: HR 0,66 (IC95% 0,53 -0,81) 
+PA: HR 0,58 (IC95% 0,44- 0,80) 
+NI: HR 0,57 (IC95% 0,43 a 0,76) 
+PA: HR 0,48 (IC95% 0,30 a 0,82) 
+Tecnologia avaliada versus 
+PA: HR 0,64 (IC95% 0,24 a 1,70) 
+PA e NI (HR 0,53, IC95% 0,34 a 0,81; 
+HR 0,66, IC95% 0,50 a 0,87, 
+PA e NI (HR 0,43, IC95% 0,23 a 0,80; 
+HR 0,57, IC95% 0,39 a 0,83, 
+A comparação de todas as terapias não encontrou diferenças significativas nas taxas de EAs de grau alto ou gerais. 
+Avelumabe/axitinibe foi superior ao 
+PA (HR: 0,67 (0,26-1,70), e NI (HR: 
+PA e avelumabe/axitinibe foram as 
+Tecnologia avaliada versus duas melhores opções comparados a 
+NI (PA HR: 0,87 (0,58-1,30), OR: 1,1 
+(0,76-1,70), avelumabe/axitinibe HR: 
+0,91 (0,58-1,40), OR: 1,7 (1,10-2,70)). 
+População geral: PA foi mais eficaz que avelumabe/axitinibe (HR: 0,68; 
+0,35-1,30) e NI (HR: 0,75; 0,44-1,30). 
+Taxa de resposta objetiva 
+Avelumabe/axitinibe foi superior a PA 
+ (HR 1,8; 0,69-4,60)) e ao NI (HR 5,6; avelumabe/axitinibe (HR 1,7; 1,102,70) foram as melhores opções de tratamento comparadas a NI. 
+Risco baixo: HR, 1,65; IC95%, 1,16–
+2,35 (a favor do sunitinibe). 
+Tecnologia avaliada versus 
+Intermediário/alto: HR, 0,75; 
+Risco baixo: SG mediana não foi alcançada em nenhum dos braços. 
+Intermediário/alto: HR, 0,66; IC95%, 
+Taxa de resposta objetiva 
+ 28,8% (IC95%21,1–37,6) com NI x 
+54,0% (44,9–63,0) com SUN 
+NI x SUN (42,4% vs 29,4%) 
+Legenda: NI: nivolumabe/ipilimumabe; PA: pembrolizumabe/axitinibe; ECR: Ensaio Clínico Randomizado; IC95%: Intervalo de confiança 95%; SLP: sobrevida livre de progressão; SG: sobrevida global; EA: eventos adversos; CCRm: câncer de células renais metastático/avançado; G-3-4: grau 3 e 4 
+Qualidade geral das evidências 
+A avaliação do risco de viés dos ensaios clínicos randomizados que avaliaram a eficácia das associações em tela foi realizada utilizando a versão 2 da ferramenta de risco de viés Cochrane para ensaios randomizados5 e está descrita na 
+Figura 2 - Análise de risco de viés de ensaios clínicos randomizados (RoB2). 
+Para análise da qualidade metodológica das RS com meta-análise em rede ou não, foi utilizada a ferramenta 
+AMSTAR-2. Esta ferramenta é amplamente utilizada para avaliar a qualidade científica de revisões sistemáticas tradicionais ou meta-análises, mas ainda não é formalmente utilizada para ser aplicada em meta-análises em rede6. No entanto, Ge et al., 2016, com base na análise de 102 meta-análises em rede com tema central câncer constatou que revisões e extensões do AMSTAR podem ser consideráveis para serem aplicadas em meta-análises em rede6. A avaliação da qualidade das revisões sistemáticas encontradas para responder esta pergunta está descrita na Tabela B. 
+Tabela B - AMSTAR 2 Avaliação da Qualidade de Revisões Sistemáticas. 
+(7) Justificativa dos estudos excluídos 
+(8) Detalhes dos estudos incluídos 
+(10) Fontes de financiamento 
+(11) Métodos estatísticos 
+(12) Risco de viés na meta-análises 
+(13) Risco de viés em estudos individuais 
+(14) Explicação da heterogeneidade 
+(16) Conflito de interesse 
+Elaidi et al., 20203 avaliou comparativamente, por meta-análise indireta, a SG entre os tratamentos nivolumabe/ipilimumabe, pembrolizumabe/axitinibe e avelumabe/axitinibe. Na população geral, os dados mostraram que o pembrolizumabe/axitinibe (SUCRA = 96%) foi mais eficaz que avelumabe/axitinibe (HR 0,68; 0,35-1,30) e nivolumabe/ipilimumabe (HR 0,75; 0,44-1,30) (Figura 3). 
+Figura 3 - Forest plot da comparação indireta entre cada combinação para o desfecho de sobrevida global. 
+Fonte: Elaidi et al., 20203 
+Pacientes com Baixo risco 
+Com base nos dados da meta-análise em rede de Cao et al., 2020, para tratamento de pacientes com CCRm de baixo risco, não houve diferença significativa na SG entre sunitinibe e pazopanibe (HR 0,88, IC de 95% 0,64 a 1,21) ou pembrolizumabe/axitinibe (HR 0,64; IC95% 0,24 a 1,70)2 (Figura 4). 
+Figura 4 - Análise da sobrevida global para pacientes com classificação de baixo risco. 
+Legenda: (A) diagrama de rede: o tamanho de cada nó de tratamento corresponde ao número de pacientes. A largura das linhas é proporcional ao número de tentativas (B) Classificação dos tratamentos para o desfecho de sobrevida global. SUN = sunitinibe. PAZ = pazopanibe. PEM_AXI = pembrolizumabe/axitinibe. Fonte: Cao et al 20202 
+De forma geral, não houve diferenças significativas entre as terapias sistêmicas para CCRm de baixo risco. 
+Pacientes com Risco intermediário/alto 
+Em pacientes de risco intermediário, tanto o nivolumabe/ipilimumabe (HR 0,66, IC 95% 0,50-0,87) quanto o pembrolizumabe/axitinibe (HR 0,53, IC 95% 0,34-0,81) foram associados a um ganho de SG maior que sunitinibe. Em pacientes de alto risco, as associações também foram mais eficazes (pembrolizumabe/axitinibe: HR 0,43, IC 95% 0,23-0,80 e nivolumabe/ipilimumabe: HR 0,57, IC 95% 0,39-0,83). No ranqueamento das tecnologias avaliadas havia 81% de probabilidade de pembrolizumabe/axitinibe ser a melhor escolha para pacientes de risco intermediário e 78% para os classificados como alto risco, respectivamente (SUCRA = 93,1% e SUCRA = 91,4%, respectivamente) quando comparado indiretamente ao nivolumabe/ipilimumabe, pazopanibe e sunitinibe (Figuras 5 e 6)2. 
+Figura 5 - Análise da sobrevida global para pacientes com classificação de risco intermediário.Legenda: (A) diagrama de rede: o tamanho de cada nó de tratamento corresponde ao número de pacientes. A largura das linhas é proporcional ao número de tentativas (B) Classificação dos tratamentos para o desfecho de sobrevida global. SUN = sunitinibe. PAZ = pazopanibe. PEM_AXI = pembrolizumabe/axitinibe, NIVI_IPI = nivolumabe/ipilimumabe. 
+Figura 6 - Classificação dos tratamentos para o desfecho de sobrevida global para pacientes de alto risco.Legenda: SUN = sunitinibe. PAZ = pazopanibe. 
+PEM_AXI = pembrolizumabe/axitinibe, NIVI_IPI = nivolumabe/ipilimumabe. 
+Para o desfecho de sobrevida global, nenhuma das meta-análises apresentou dados de HR para as comparações entre si, apenas dados da classificação relativa dos diferentes tratamentos usando SUCRA estavam disponíveis. 
+No estudo de extensão do CheckMate 214, com dados de 42 (média) meses de acompanhamento, o nivolumabe/ipilimumabe foi superior ao sunitinibe (HR, 0,66; IC95%, 0,55–0,80) na análise de SG. A probabilidade de SG foi de 52% com a associação e 39% com sunitinibe para o período avaliado4. 
+Sobrevida livre de progressão 
+De acordo com dados de meta-análise indireta de Elaidi e colaboradores3, o pembrolizumabe/axitinibe e o avelumabe/axitinibe mostraram eficácia semelhante na SLP para a população geral (HR: 1,00; 0,68-1,50). A combinação nivolumabe/ipilimumabe teve eficácia inferior em comparação com avelumabe/axitinibe (HR: 0,81; 0,57-1,20) e pembrolizumabe/axitinibe (HR: 0,82; 0,58-1,20). A classificação mostrou o avelumabe/axitinibe como a melhor opção de tratamento (SUCRA = 83%), seguido do pembrolizumabe/axitinibe (SUCRA = 80%), mas a diferença não foi clinicamente 
+Pacientes com Baixo risco 
+Na população de baixo risco, a comparação entre nivolumabe/ipilimumabe, pembrolizumabe/axitinibe e avelumabe/axitinibe, mostrou que o avelumabe/axitinibe foi superior a pembrolizumabe/axitinibe (HR 0,67; 0,26-1,70) e nivolumabe/ipilimumabe (HR 0,44; 0,19–1,00)3. 
+Cao et al., 2020 compararam a eficácia de 12 tratamentos para primeira linha de CCRm: avelumabe/axitinibe, pembrolizumabe/axitinibe, sorafenibe, sunitinibe, temsirolimus/bevacizumabe, tivozanibe (Figura 7). Em pacientes com baixo risco, o IFN-α e nivolumabe/ipilimumabe apresentaram a pior eficácia na SLP, sendo estatisticamente inferiores ao sunitinibe (HR 2,69; IC95% 1,54=4,67 HR 2,18, IC95% 1,47-1,30, respectivamente). O pembrolizumabe/axitinibe não mostrou diferença na SLP quando comparado ao sunitinibe (HR 0,72 IC95% 0,32-3,25) (Figura 8) 2. 
+Figura 7 - Diagrama de rede: o tamanho de cada nó de tratamento corresponde ao número de pacientes.Nota: A largura das linhas é proporcional ao número de tentativas.Legenda: AXI: axitinibe; BEV_IFN: bevacizumabe/interferon; EVE: everolimo; IFN: IFN-α; NIV_IPI: nivolumabe/ipilimumabe; 
+PAZ: pazopanibe; PEM_AXI: pembrolizumabe/axitinibe; PLA: placebo; SOR: sorafenibe; SUN: sunitinibe; TEM_BEV: temsirolimo mais bevacizumabe; 
+Fonte: Cao et al., 20202. 
+Figura 8 - Forest plot da meta-análise tendo o sunitinibe como comparador.Legenda: AXI: axitinibe; BEV_IFN: bevacizumabe/interferon; EVE: everolimo; IFN: IFN-α; NIV_IPI: nivolumabe/ipilimumabe; PAZ: pazopanibe; PEM_AXI: pembrolizumabe/axitinibe; PLA: placebo; SOR: sorafenibe; 
+SUN: sunitinibe; TEM_BEV: temsirolimo mais bevacizumabe; TIV: tivozanibe. 
+Fonte: Cao et al., 20202. 
+Na classificação entre as terapias avaliadas, a associação avelumabe/axitinibe teve maior probabilidade de classificação de fornecer o maior benefício de SLP para pacientes com baixo risco (SUCRA = 92,3%), seguido do pembrolizumabe/axitinibe (SUCRA não apresentado pelos autores) (Figura 9). 
+Figura 9 - Classificação dos tratamentos para sobrevida livre de progressão em pacientes de baixo risco.Legenda: AXI: axitinibe; BEV_IFN: bevacizumabe/interferon; EVE: everolimo; IFN: IFN-α; NIV_IPI: nivolumabe/ipilimumabe; PAZ: pazopanibe; PEM_AXI: pembrolizumabe/axitinibe; 
+PLA: placebo; SOR: sorafenibe; SUN: sunitinibe; TEM_BEV: temsirolimo mais bevacizumabe; TIV: tivozanibe. 
+Pacientes com Risco intermediário/alto 
+Nos grupos de risco intermediário/alto, pembrolizumabe/axitinibe (HR 0,87; 0,58-1,30) e avelumabe/axitinibe (HR 
+0,92; 0,58-1,40) foram melhores opções terapêuticas quando comparados ao nivolumabe/ipilimumabe (Figura 10). 
+Figura 10 - Forest plot da comparação indireta entre cada combinação para o desfecho de sobrevida livre de progressão. 
+Fonte: Elaidi et al., 20203 
+Uma meta-análise em rede avaliando 12 tratamentos em primeira linha demonstrou que cabozantinibe (HR 0,63; 
+IC95% 0,44-0,97) e as associações nivolumabe/ipilimumabe (HR 0,66; IC95% 0,53-0,81), pembrolizumabe/axitinibe (HR 
+0,58; IC95% 0,44-0,80) e avelumabe/axitinibe (HR 0,62; IC95% 0,47-0,83) proporcionaram maior ganho de SLP quando comparado ao sunitinibe em pacientes com risco intermediário (Figura 11). No ranqueamento, a associação pembrolizumabe/axitinibe teve maior probabilidade (49%) de ser o melhor tratamento, com um SUCRA de 90,7% (Figura 
+Figura 11 - Diagrama de rede: o tamanho de cada nó de tratamento corresponde ao número de pacientes.Nota: A largura das linhas é proporcional ao número de tentativas.Legenda: AXI: axitinibe; BEV_IFN: bevacizumabe/interferon; EVE: everolimo; IFN: IFN-α; NIV_IPI: nivolumabe/ipilimumabe; 
+PAZ: pazopanibe; PEM_AXI: pembrolizumabe/axitinibe; PLA: placebo; SOR: sorafenibe; SUN: sunitinibe; TEM_BEV: temsirolimo mais bevacizumabe; 
+Fonte: Cao et al., 20202. 
+Figura 12 - Classificação dos tratamentos para sobrevida livre de progressão em pacientes de risco intermediário.Legenda: AVE_AXI: avelumabe/axitinibe; AXI: axitinibe; CAB: Cabozantinibe; NIV_IPI: nivolumabe/ipilimumabe; PAZ: pazopanibe; PEM_AXI: pembrolizumabe/axitinibe;; 
+SUN: sunitinibe; TIV: tivozanibe. 
+Esta melhora também foi evidenciada em pacientes de alto risco (nivolumabe/ipilimumabe: HR 0,57, IC95% 0,430,76 e pembrolizumabe/axitinibe: HR 0,48, IC95% 0,30-0,82 comparados ao sunitinibe). O pembrolizumabe/axitinibe foi o tratamento com maior probabilidade de classificação na SLP em pacientes de alto risco (SUCRA = 91,3%) dentre os 12 tratamentos avaliados (7). Em outra meta-análise em rede, na qual foram analisados os tratamentos tezolizumabe/ebevacizumabe, IMA901/sunitinibe, pazopanibe, pembrolizumabe/axitinibe, nivolumabe/ipilimumabe e avelumabe/axitinibe, o avelumabe/axitinibe teve a maior probabilidade de fornecer a SLP (pontuação P: 0,7582) seguido do pembrolizumabe/axitinibe (pontuação P: 0,7293) em pacientes com risco intermediário/alto7. Dados da análise estendida do ensaio clínico CheckMate 214 mostraram que o nivolumabe/ipilimumabe foi superior ao sunitinibe (HR, 0,75; IC de 95%, 
+0,62–0,90), com probabilidades de SLP em 42 meses de 33% versus 16%, respectivamente4. 
+Na análise de grupos de riscos para o desfecho taxa de resposta, o avelumabe/axitinibe foi superior a pembrolizumabe/axitinibe (HR 1,8; 0,69-4,60) e ao nivolumabe/ipilimumabe (HR 5,6; 2,40–13,00)) nos pacientes classificados como de baixo risco (Figura 13)3. 
+Figura 13 - Forest plot da comparação indireta entre cada combinação para o desfecho de taxa de resposta em pacientes de baixo risco. 
+Fonte: Elaidi et al., 20203 
+No grupo de risco intermediário/alto, pembrolizumabe/axitinibe (HR 1,1; 0,76-1,70) e avelumabe/axitinibe (HR 1,7; 
+1,10-2,70) foram as melhores opções de tratamento comparadas a nivolumabe/ipilimumabe (Figura 14)3. 
+Figura 14 - Forest plot da comparação indireta entre cada combinação para o desfecho de taxa de resposta em pacientes de baixo risco. 
+Fonte: Elaidi et al., 20203 
+Dados de longo prazo mostraram que mais pacientes obtiveram resposta completa (10,1% –12,8% versus 1,4% –
+5,6%) com nivolumabe/ipilimumabe que com o sunitinibe, independentemente do grupo de risco4. 
+Evidência indireta com nove ensaios clínicos não encontrou diferenças significativas nas taxas de EAs graves ou gerais entre as tecnologias avaliadas (Figura 15). 
+Figura 15 - Eventos adversos graves. O tratamento da coluna é comparado com o tratamento da linha.Nota: Odds Ratio menores que 1 favorecem o tratamento definidor de coluna.Legenda: AVE_AXI: avelumabe /axitinibe; CAB: cabozantinibe; NIV_IPI: nivolumabe/ipilimumabe; PAZ: pazopanibe; 
+PEM_AXI: pembrolizumabe/axitinibe; PLA: placebo; SOR: sorafenibe; SOR_IL-2: sorafenibe/interleucina-2; SUN: sunitinibe; TIV: tivozanibe. 
+Massari e colaboradores avaliaram seguintes os EAs em pacientes tratados com combinações imunológicas, incluindo nivolumabe/ipilimumabe e pembrolizumabe/axitinibe: diminuição do apetite, diarreia, fadiga, hipertensão, hipotireoidismo, náusea, eritrodisestesia palmo plantar, prurido, erupção cutânea e estomatite1.. 
+Para EA de todos os graus de gravidade, os pacientes tratados com combinações imunobiológicas apresentaram maior risco de prurido (RR 3,11; IC952,55-3,78) e erupção cutânea (RR 1,44; IC 95% 1,23-1,69), quando comparados com pacientes tratados com sunitinibe. Entretanto, foi observado que indivíduos tratados com as associações tiveram menor risco de fadiga de grau 3 ou 4 (RR 0,49; IC95% 0,36-0,67), náusea (RR 0,60; IC95% 0,39-0,91), eritrodisestesia palmo plantar (RR 0,22; IC 95% 0,06-0,73) e estomatite (RR 0,68; IC95% 0,47-0,98)1. 
+Para desfechos mais graves (grau 3 ou 4), não foram encontradas diferenças significativas entre as combinações e sunitinibe: hipotireoidismo (RR 1,24; IC95% 0,33-4,61), náusea (RR 1,05; IC 95% 0,55-1,99), eritrodisestesia palmo plantar (RR 0,20; IC95% 0,03-1,58), prurido (RR 4,92; IC 95% 0,57- 42,06), erupção cutânea (RR 1,56; IC 95% = 0,435,70), estomatite (RR = 0,34; IC95% 0,07-1,56) hipertensão (RR 0,61; IC 95% 0,29-1,29), diarreia (RR 1,07; IC95% 0,482,38), diminuição do apetite (RR1,37; IC 95% 0,46-4,09). Nenhuma diferença significativa foi detectada entre os dois grupos analisados, no desfecho de hipertensão de todos os graus (RR 0,54; IC95% 0,27 -1,07)1. 
+Dados de longo prazo não mostraram diferenças significativas de incidência de EAs de qualquer grau entre nivolumabe/ipilimumabe e sunitinibe4. 
+No estudo KEYNOTE-426, 2,6% dos pacientes no grupo pembrolizumabe/axitinibe morreram de eventos adversos, sendo que quatro (0,9%) relacionados ao tratamento (miastenia gravis, miocardite, fascite necrotizante e pneumonite, em 1 paciente cada). Entre os 15 pacientes no grupo de sunitinibe que morreram de eventos adversos, sete pacientes morreram por EAs relacionados ao tratamento (infarto agudo do miocárdio, parada cardíaca, hepatite fulminante, hemorragia gastrointestinal, hemorragia intracraniana e pneumonia)8. No estudo CheckMate 214, oito mortes no grupo nivolumabe mais ipilimumabe e quatro mortes no grupo sunitinibe foram relatadas como relacionadas ao tratamento8. Nos dados de longo prazo, nenhuma morte adicional relacionada ao tratamento foi relatada desde a análise primária4. 
+As informações sobre a certeza da evidência por desfecho estão descritas nas Tabelas C e D. 
+Tabela C - Certeza da evidência para pembrolizumabe mais axitinibe comparado a sunitinibe para carcinoma de células renais avançado. 
+Sobrevida global risco favorável 
+Sobrevida global risco intermediário 
+Sobrevida global risco alto 
+Sobrevida livre de progressão risco favorável 
+Sobrevida livre de progressão risco intermediário 
+Sobrevida livre de progressão risco alto 
+Taxa de resposta objetiva 
+ECR: ensaio clínico randomizado; IC95: intervalo de confiança de 95%; HR: Hazard Ratio; OR: Odds ratio a. Intervalo de confiança amplo favorecendo as duas tecnologias b. Intervalo de confiança amplo c. Pequena amostra da população d. Estudo aberto - pacientes, centros participantes e médicos administrando terapia e avaliando a tecnologia não foram mascarados para atribuição de tratamento. 
+Tabela D - Certeza da evidência para nivolumabe com ipilimumabe comparado a sunitinibe para carcinoma de células renais. 
+Sobrevida global risco intermediário 
+Sobrevida global risco alto 
+Sobrevida livre de progressão risco intermediário 
+Sobrevida livre de progressão risco alto 
+Taxa de resposta objetiva 
+ECR: ensaio clínico randomizado; IC95: intervalo de confiança de 95%; HR: Hazard Ratio; OR: Odds ratio a. Intervalo de confiança amplo b. Número da amostra pequeno c. Estudo aberto - pacientes, centros participantes e médicos administrando terapia e avaliando a tecnologia não foram mascarados para atribuição de tratamento 
+Massari F, Mollica V, Rizzo A, Cosmai L, Rizzo M, Porta C. Safety evaluation of immune-based combinations in patients with advanced renal cell carcinoma: a systematic review and meta-analysis. Expert Opin Drug Saf [Internet]. 
+2020;19(10):1329–38. Available from: https://doi.org/10.1080/14740338.2020.1811226 
+Cao G, Wu X, Wang Z, Tian X, Zhang C, Wu X, et al. What is the optimum systemic treatment for advanced/metastatic renal cell carcinoma of favourable, intermediate and poor risk, respectively? A systematic review and network meta-analysis. BMJ Open. 2020;10(8). 
+Elaidi R, Phan L. Comparative E ffi cacy of First-Line Immune-Based Combination Therapies in Metastatic Renal 
+Cell Carcinoma : A Systematic Review and. 
+Motzer RJ, Escudier B, McDermott DF, Arén Frontera O, Melichar B, Powles T, et al. Survival outcomes and independent response assessment with nivolumab plus ipilimumab versus sunitinib in patients with advanced renal cell carcinoma: 42-month follow-up of a randomized phase 3 clinical trial. J Immunother Cancer. 2020;8(2). 
+Sterne JAC, Savović J, Page MJ, Elbers RG, Blencowe NS, Boutron I, et al. RoB 2: A revised tool for assessing risk of bias in randomised trials. BMJ. 2019;366. 
+Shea BJ, Reeves BC, Wells G, Thuku M, Hamel C, Moran J, et al. AMSTAR 2: A critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both. BMJ. 2017; 
+Mori K, Mostafaei H, Miura N, Karakiewicz PI, Luzzago S, Schmidinger M, et al. Systemic therapy for metastatic renal cell carcinoma in the first-line setting: a systematic review and network meta-analysis. Cancer Immunol Immunother 
+[Internet]. 2021;70(2):265–73. Available from: https://doi.org/10.1007/s00262-020-02684-8 
+Motzer RJ, Escudier B, George S, Hammers HJ, Srinivas S, Tykodi SS, et al. Nivolumab versus everolimus in patients with advanced renal cell carcinoma: Updated results with long-term follow-up of the randomized, open-label, phase 3 CheckMate 025 trial. Cancer. 2020;126(18):4156–67. 
+MATERIAL SUPLEMENTAR B - PERGUNTA PICO 2 
+Questão de pesquisa: “Qual a eficácia, segurança e a custo-efetividade, em segunda linha de tratamento, do levomalato de cabozantinibe ou nivolumabe em comparação ao everolimo, pazopanibe, sunitibe, ipilimumabe, axitinibe e pembrolizumabe para pacientes adultos com CCR metastático?”. 
+Nesta pergunta, o acrônimo PICO era: 
+Pacientes (P): CCR metastático pós-terapia antiangiogênica 
+Intervenção (I): nivolumabe e cabozantinibe 
+Comparadores (C): everolimo, pazopanibe, sunitinibe, ipilimumabe, axitinibe e pembrolizumabe 
+Outcomes/desfechos (O):sobrevida global, sobrevida livre de progressão, taxa de resposta. 
+A estratégia de busca referente a esta pergunta está descrita no Quadro D. 
+Quadro D - Estratégias de busca nas bases de dado PubMed e Embase. 
+((kidney neoplasms[MeSH Terms]) OR (kidney"[All Fields] AND neoplasms[All Fields]) OR (“kidney neoplasms"[All Fields]) OR (renal[All 
+Fields] AND cancer[All Fields]) OR (Carcinoma, Renal cell/) OR (renal cell carcinoma[Title/Abstract]) OR ("metastatic renal cell carcinoma"[All Fields])) 
+AND (("sunitinib"[MeSH Terms] OR "sunitinib"[All Fields] OR "sunitinib s"[All Fields]) OR ("pazopanib"[All Fields] OR ("axitinib"[All Fields]) OR 
+("pembrolizumab"[All Fields]) OR ("ipilimumab"[All Fields]) OR 
+("nivolumab"[All Fields]) OR ("everolimus"[All Fields]) OR 
+("cabozantinib"[All Fields])) AND ((randomized controlled trial[Publication 
+Type]) OR (Controlled clinical trial[Publication Type]) OR 
+(randomized[Title/Abstract]) OR (randomly[Title/Abstract]) OR 
+Data de acesso: 03/08/2020. 
+(('kidney neoplasms':kw) OR (('kidney'/exp OR kidney) AND ('neoplasm'/exp 
+OR neoplasm)) OR (('kidney'/exp OR kidney) AND ('cancer'/exp OR cancer)) 
+OR (('renal'/exp OR renal) AND ('cancer'/exp OR cancer)) OR ('renal cell carcinoma'/exp OR 'renal cell carcinoma') OR ('renal cell carcinoma':ab,ti) OR 
+('metastatic renal cell carcinoma'/exp OR 'metastatic renal cell carcinoma' OR 
+(metastatic AND ('renal'/exp OR renal) AND ('cell'/exp OR cell) AND 
+('carcinoma'/exp OR carcinoma))) OR ('kidney metastasis'/exp OR 'kidney metastasis')) AND (('sunitinib'/exp OR sunitinib) OR ('pazopanib'/exp OR pazopanib) OR ('axitinib'/exp OR axitinib) OR ('pembrolizumab'/exp OR pembrolizumab) OR ('ipilimumab'/exp OR ipilimumab) OR ('nivolumab'/exp 
+OR nivolumab) OR ('everolimus'/exp OR everolimus) OR ('cabozantinib'/exp 
+OR cabozantinib)) AND (('randomized controlled trial'/exp OR 'randomized controlled trial' OR (randomized AND controlled AND ('trial'/exp OR trial))) 
+OR ('controlled clinical trial'/exp OR 'controlled clinical trial') OR 
+(randomized:ti,ab,kw) OR (randomly:ti,ab,kw) OR (trial:ti,ab,kw)) 
+Data de acesso: 03/08/2020. 
+A busca das evidências resultou em 5.842 referências (1.078 no MEDLINE e 4.764 no EMBASE). A revisão sistemática por estudos clínicos identificou 4.898 registros depois de remoção de duplicidades, dos quais 4.624 foram considerados irrelevantes durante a triagem e 263 foram excluídos após leitura dos textos na íntegra. Desta forma, foram incluídos 13 estudos na análise final. Doze estudos foram identificados por busca manual, mediante o acesso às referências dos artigos incluídos neste estudo e revisões publicadas anteriormente, as quais não foram identificadas na busca inicial. 
+Entretanto, após leitura do texto completo, esses estudos não foram incluídos na análise final. Ao todo, 11 ensaios clínicos foram incluídos na presente revisão, conforme Figura 16. 
+Figura 16 -Fluxograma de seleção dos estudos. 
+Descrição dos estudos e resultados 
+Os estudos incluídos para responder esta pergunta estão descritos na Tabela E. 
+Tabela E - Estudos incluídos. 
+Registo no Clinical Trials 
+Tensirolimo vs Sorafenibe everolimo vs Lenvatinibe vs 
+Cabozantinibe vs Everolimo 
+Axitinibe vs Dalantercepte 
+Risco de viés, avalição da qualidade do relato e qualidade da evidência 
+O Quadro G descreve a avaliação do risco de viés dos ensaios clínicos selecionados para responder essa pergunta. 
+Quadro G - Avaliação do risco de viés nos ensaios clínicos (ROB v2.0). 
+Sobrevida livre de progressão 
+A NMA foi composta por dez estudos, os quais totalizaram 5.028 participantes1–9. A Figura 17 demonstra a rede, na qual o tamanho dos nós representa o número de estudos; a cor dos nós representa o indirectness; a espessura das linhas representa o tamanho da amostra; e a cor das linhas representa o risco de viés. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. 
+Para este desfecho, existem 11 intervenções (axitinibe, cabozantinibe, everolimo, lenvatinibe, lenvatinibe associado ao everolimo, nivolumabe, pazopanibe, placebo, sorafenibe, sunitinibe e tensirolimo), com 55 estimativas de efeito relativo 
+(Quadro E). Estes resultados foram apresentados por meio de uma matriz chamada tabela de classificação, a qual contém todos informações sobre a eficácia relativa e sua incerteza para todos os pares de intervenções possíveis. 
+Figura 17 - Network Plot da NMA para sobrevida livre de progressão. 
+Quadro E - League table da NMA para sobrevida livre de progressão. 
+Nota: Médias com valores inferiores a 0 favorecem o medicamento listado na coluna; médias com valores superiores a 0 favorecem o medicamento listado na linha; valores em negrito indicam significância estatística. 
+A NMA foi composta por dez estudos, os quais totalizaram 5.028 participantes1–9. A Figura 18 demonstra a análise em rede, a qual considerou o tamanho e a cor dos nós conforme número de estudos e indirectness, respectivamente; a espessura e a cor das linhas conforme tamanho da amostra risco de viés, respectivamente. 
+A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. Para este desfecho, foram consideradas 11 intervenções (axitinibe, cabozantinibe, everolimo, lenvatinibe, lenvatinibe associado ao everolimo, nivolumabe, pazopanibe, placebo, sorafenibe, sunitinibe e tensirolimo), com 55 estimativas de efeito relativo (Quadro F). 
+Figura 18 - Network Plot da NMA para sobrevida global. 
+Quadro F - League table da NMA para sobrevida global. 
+Nota: Médias com valores inferiores a 0 favorecem o medicamento listado na coluna; médias com valores superiores a 0 favorecem o medicamento listado na linha; valores em negrito indicam significância estatística
+A NMA foi composta por dez estudos, os quais totalizaram 5.028 participantes1–9. A rede construída apara o desfecho taxa de resposta clínica pode ser vista na Figura 19. Para este desfecho, a NMA incluiu um total de 11 intervenções (axitinibe, cabozantinibe, everolimo, lenvatinibe, lenvatinibe associado ao everolimo, nivolumabe, pazopanibe, placebo, sorafenibe, sunitinibe e tensirolimo), sendo feitas 55 estimativas de efeito relativo entre as possíveis 
+Figura 19 - Network Plot da NMA para taxa de resposta clínica. 
+Quadro G - League table da NMA para taxa de resposta clínica. 
+Nota: Razões de chance com valores inferiores a 1 favorecem o medicamento listado na coluna; Razões de chance com valores superiores a 1 favorecem o medicamento listado na linha; valores em negrito indicam significância 
+Taxa de resposta completa 
+A rede para este desfecho foi composta por dez estudos, os quais totalizaram 5.028 participantes (Figura 20) 1–9. A rede incluiu um total de 11 intervenções (axitinibe, cabozantinibe, everolimo, lenvatinibe, lenvatinibe associado ao everolimo, nivolumabe, pazopanibe, placebo, sorafenibe, sunitinibe e tensirolimo), com 55 possibilidades de comparação 
+Figura 20 - Network Plot da NMA para taxa de resposta completa. 
+Quadro H - League table da NMA para taxa de resposta completa. 
+Nota: Razões de chance com valores inferiores a 1 favorecem o medicamento listado na coluna; Razões de chance com valores superiores a 1 favorecem o medicamento listado na linha; valores em negrito indicam significância 
+A NMA foi composta por dez estudos, os quais totalizaram 5.028 participantes1–9. A rede construída para este desfecho pode ser vista na Figura 21. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. 
+Foram incluídas um total de 11 intervenções (axitinibe, cabozantinibe, everolimo, lenvatinibe, lenvatinibe associado ao everolimo, nivolumabe, pazopanibe, placebo, sorafenibe, sunitinibe e tensirolimo), com 55 estimativas de efeito relativo 
+Figura 21 - Network Plot da NMA para taxa de resposta parcial. 
+Quadro I - League table da NMA para taxa de resposta parcial. 
+Nota: Razões de chance com valores inferiores a 1 favorecem o medicamento listado na coluna; Razões de chance com valores superiores a 1 favorecem o medicamento listado na linha; valores em negrito indicam significância 
+Taxa de resposta – doença estável 
+A rede foi composta por dez estudos, os quais totalizaram 5.028 participantes (Figura 22) 1–9. A rede construída para este desfecho pode ser vista na Figura 22. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções, nesta análise composta por 11 intervenções (axitinibe, cabozantinibe, everolimo, lenvatinibe, lenvatinibe associado ao everolimo, nivolumabe, pazopanibe, placebo, sorafenibe, sunitinibe e tensirolimo), com 55 estimativas de efeito relativo (Quadro J). 
+Figura 22 - Network Plot da NMA para taxa de resposta para doença estável. 
+Quadro J - League table da NMA para taxa de resposta para doença estável. 
+Nota: Razões de chance com valores inferiores a 1 favorecem o medicamento listado na coluna; Razões de chance com valores superiores a 1 favorecem o medicamento listado na linha; valores em negrito indicam significância 
+Taxa de resposta para doença progressiva 
+A rede foi composta por dez estudos, os quais totalizaram 5.028 participantes (Figura 23) 1–9. A NMA incluiu de 11 intervenções (axitinibe, cabozantinibe, everolimo, lenvatinibe, lenvatinibe associado ao everolimo, nivolumabe, pazopanibe, placebo, sorafenibe, sunitinibe e tensirolimo), com 55 estimativas de efeito relativo (Quadro K). 
+Figura 23 - Network Plot da NMA para taxa de resposta para doença progressiva. 
+Quadro K - League table da NMA para taxa de resposta para doença progressiva. 
+Nota: Razões de chance com valores inferiores a 1 favorecem o medicamento listado na coluna; Razões de chance com valores superiores a 1 favorecem o medicamento listado na linha; valores em negrito indicam significância 
+A NMA foi composta por dez estudos, os quais totalizaram 5.028 participantes (Figura 24)1–9. Esta rede incluiu um total de 11 intervenções (axitinibe, cabozantinibe, everolimo, lenvatinibe, lenvatinibe associado ao everolimo, nivolumabe, pazopanibe, placebo, sorafenibe, sunitinibe e tensirolimo), com 55 possíveis comparações e estimativas de efeito relativo 
+Figura 24 - Network Plot – Eventos adversos gerais. 
+Quadro L - League table da NMA para evento adverso. 
+Nota: Razões de chance com valores inferiores a 1 favorecem o medicamento listado na coluna; Razões de chance com valores superiores a 1 favorecem o medicamento listado na linha; valores em negrito indicam significância 
+A NMA foi composta por dez estudos, os quais totalizaram 5.028 participantes (Figura 25)1–9. Nesta NMA foram incluídas 11 intervenções (axitinibe, cabozantinibe, everolimo, lenvatinibe, lenvatinibe associado ao everolimo, nivolumabe, pazopanibe, placebo, sorafenibe, sunitinibe e tensirolimo), que geraram um total de 55 comparações possíveis, para as quais foram obtidas as estimativas de efeito (Quadro M). 
+Figura 25 - Network Plot da NMA para evento adverso grave. 
+Quadro M - League table da NMA para evento adverso grave. 
+Nota: Razões de chance com valores inferiores a 1 favorecem o medicamento listado na coluna; Razões de chance com valores superiores a 1 favorecem o medicamento listado na linha; valores em negrito indicam significância 
+Suspensão devido a evento adverso 
+Esta NMA incluiu dez estudos, os quais totalizaram 5.028 participantes1–9. A Figura 26 demonstra a rede para este desfecho. A NMA incluiu 11 intervenções (axitinibe, cabozantinibe, everolimo, lenvatinibe, lenvatinibe associado ao everolimo, nivolumabe, pazopanibe, placebo, sorafenibe, sunitinibe e tensirolimo) e permitiu comparar o efeito relativo entre qualquer par de intervenções, totalizando 55 estimativas de efeito relativo (Quadro N). 
+Figura 26. Network plot da NMA para suspensão devido a evento adverso. 
+Quadro N - League table da NMA para suspensão devido a adverso. 
+Nota: Razões de chance com valores inferiores a 1 favorecem o medicamento listado na coluna; Razões de chance com valores superiores a 1 favorecem o medicamento listado na linha; valores em negrito indicam significância 
+Avaliação da qualidade da evidência - CINeMA (Confidence in Network Meta-Analysis) 
+Sobrevida livre de progressão 
+O Quadro O apresenta a avaliação geral da evidência para o desfecho sobrevida livre de progressão. 
+Quadro O - Avaliação geral da evidência – sobrevida livre de progressão. 
+O Quadro P apresenta a avaliação geral da evidência para o desfecho sobrevida global. 
+Quadro P - Avaliação geral da evidência – sobrevida global. 
+O Quadro Q apresenta a avaliação geral da evidência para o desfecho taxa de resposta clínica. 
+Quadro Q - Avaliação geral da evidência – taxa de resposta clínica. 
+Legenda: N: quantidade de estudo com avaliação direta 
+Taxa de resposta completa 
+O Quadro R apresenta a avaliação geral da evidência para o desfecho taxa de resposta completa. 
+Quadro R - Avaliação geral da evidência – taxa de resposta completa. 
+O Quadro S apresenta a avaliação geral da evidência para o desfecho taxa de resposta parcial. 
+Quadro S - Avaliação geral da evidência – taxa de resposta parcial. 
+Taxa de resposta – doença estável 
+O Quadro T apresenta a avaliação geral da evidência para o desfecho taxa de resposta em doença estável. 
+Quadro T - Avaliação geral da evidência – taxa de resposta para doença estável. 
+Taxa de resposta para doença progressiva 
+O Quadro U apresenta a avaliação geral da evidência para o desfecho taxa de resposta para doença progressiva. 
+Quadro U - Avaliação geral da evidência – taxa de resposta para doença progressiva. 
+O Quadro V apresenta a avaliação geral da evidência para o desfecho eventos adversos gerais. 
+Quadro V - Avaliação geral da evidência – evento adverso geral. 
+O Quadro W apresenta a avaliação geral da evidência para o desfecho eventos adversos graves. 
+Quadro W - Avaliação geral da evidência – evento adverso grave. 
+Suspensão devido a Evento Adverso 
+O Quadro X apresenta a avaliação geral da evidência para o desfecho suspensão devido a evento adverso. 
+Quadro X- Avaliação geral da evidência – suspensão devido a evento adverso. 
+Motzer R, Tykodi S, Escudier B. Final analysis of the CheckMate 025 trial comparing nivolumab (NIVO) versus everolimus (EVE) with >5 years of follow-up in patients with advanced renal cell carcinoma (aRCC). J Clin Oncol. 
+Retz M, Bedke J, Bogemann M. SWITCH II: Phase III randomized, sequential, open-label study to evaluate the efficacy and safety of sorafenib-pazopanib versus pazopanib-sorafenib in the treatment of advanced or metastatic renal cell carcinoma (AUO AN 33/11). Eur J Cancer. 2019; 
+Motzer RJ, Hutson TE, Glen H, Michaelson MD, Molina A, Eisen T, et al. Lenvatinib, everolimus, and the combination in patients with metastatic renal cell carcinoma: A randomised, phase 2, open-label, multicentre trial. Lancet 
+Beaumont JL, Butt Z, Baladi J, Motzer RJ, Haas T, Hollaender N, et al. Patient‐Reported Outcomes in a Phase III 
+Study of Everolimus Versus Placebo in Patients with Metastatic Carcinoma of the Kidney That Has Progressed on Vascular 
+Endothelial Growth Factor Receptor Tyrosine Kinase Inhibitor Therapy. Oncologist [Internet]. 2011 May [cited 2021 May 
+31];16(5):632–40. Available from: https://pubmed.ncbi.nlm.nih.gov/21459902/ 
+Motzer RJ, Barrios CH, Kim TM, Falcon S, Cosgriff T, Harker WG, et al. Phase II randomized trial comparing sequential first-line everolimus and second-line sunitinib versus first-line sunitinib and second-line everolimus in patients with metastatic renal cell carcinoma. J Clin Oncol. 2014;32(25):2765–72. 
+Hutson TE, Escudier B, Esteban E, Bjarnason GA, Lim HY, Pittman KB, et al. Randomized phase III trial of temsirolimus versus sorafenib as second-line therapy after sunitinib in patients with metastatic renal cell carcinoma. J Clin https://pubmed.ncbi.nlm.nih.gov/24297950/ 
+Escudier B, Szczylik C, Oudard S, Siebels M, Hutson TE, Pharm D, et al. Sorafenib in Advanced Clear-Cell 
+Renal-Cell Carcinoma. 2007;125–34. 
+Eichelberg C, Vervenne WL, De Santis M, Fischer Von Weikersthal L, Goebell PJ, Lerchenmüller C, et al. 
+SWITCH: A randomised, sequential, open-label study to evaluate the efficacy and safety of sorafenib-sunitinib versus sunitinib-sorafenib in the treatment of metastatic renal cell cancer. Eur Urol. 2015;68(5):837–47. 
+Powles T, Motzer RJ, Escudier B, Pal S, Kollmannsberger C, Pikiel J, et al. Outcomes based on prior therapy in the phase 3 METEOR trial of cabozantinib versus everolimus in advanced renal cell carcinoma. Br J Cancer. 2018; 
+Motzer RJ, Escudier B, Oudard S, Hutson TE, Porta C, Bracarda S, et al. Phase 3 trial of everolimus for metastatic renal cell carcinoma: Final results and analysis of prognostic factors. Cancer. 2010;116(18):4256–65. 
+Motzer RJ, Escudier B, Tomczak P, Hutson TE, Michaelson MD, Negrier S, et al. Axitinib versus sorafenib as second-line treatment for advanced renal cell carcinoma: Overall survival analysis and updated results from a randomised phase 3 trial. Lancet Oncol [Internet]. 2013;14(6):552–62. Available from: http://dx.doi.org/10.1016/S1470Voss MH, Bhatt RS, Vogelzang NJ, Fishman M, Alter RS, Rini BI, et al. A phase 2, randomized trial evaluating the combination of dalantercept plus axitinib in patients with advanced clear cell renal cell carcinoma. Cancer.

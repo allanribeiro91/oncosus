@@ -1,0 +1,401 @@
+Orientações para agentes comunitários de saúde
+Orientações para agentes comunitários de saúde
+Esta obra é disponibilizada nos termos da Licença Creative Commons – Atribuição – Não Comercial 
+– Compartilha igual 4.0 Internacional. É permitida a reprodução parcial ou total desta obra, desde que citada a fonte. 
+Esta obra pode ser acessada, na íntegra, na Biblioteca Virtual em 
+Saúde Prevenção e Controle de Câncer (http://controlecancer.bvs.
+Elaboração, distribuição e informações
+Rua Visconde de Santa Isabel, 274-A, 
+Ângela de Fátima Saraiva Freitas
+Nélia Beatriz Caiafa Ribeiro
+Todas as ilustrações do livro foram adaptadas de 
+Serviço de Educação e Informação Técnico-científica
+Área de Edição e Produção de Materiais TécnicoRua Marquês de Pombal, 125, Centro 
+Edição e produção editorial
+Rita Rangel de S. Machado
+Capa, projeto gráfico e diagramação
+Normalização e catalogação
+Serviço de Educação e Informação Técnico-científica
+Núcleo do Sistema Integrado de Bibliotecas
+Juliana Moreira (CRB 7/7019) 
+ Cuidados paliativos em oncologia : orientações para agentes 
+ ISBN 978-65-88517-13-0 (versão impressa)
+ ISBN 978-65-88517-14-7 (versão eletrônica)
+ 1. Cuidados Paliativos. 2. Agentes Comunitários de Saúde. 3. Cuidados 
+ Paliativos na Terminalidade da Vida. I. Título.
+Em inglês: Palliative care in oncology. Guidelines for community health workers 
+Em espanhol: Cuidados paliativos en oncología. Directrices para los trabajadores comunitarios de la salud 
+Esta cartilha foi criada pelos alunos dos Programas de 
+Residência Multiprofissional em Oncologia e Residência em 
+Física Médica durante o módulo de Educação em Saúde. Seu objetivo é orientar e educar os profissionais da Atenção Básica sobre os cuidados paliativos na área de oncologia e sobre como eles se inserem no Sistema Único de Saúde (SUS).
+Os alunos contaram com a colaboração dos profissionais do 
+Hospital do Câncer IV (HC IV), unidade de cuidados paliativos pelo acompanhamento dos pacientes sem proposta de terapias modificadoras da doença oncológica.
+Esperamos que a cartilha seja educativa. Caso haja necessidade de mais informações sobre o assunto, o leitor pode nos escrever 
+Lista de Siglas......................................................................................................................................... 6
+Capítulo 1 | Definição e Princípios Norteadores em 
+Cuidados Paliativos............................................................................................................................. 7
+Capítulo 2 | Atuação da Equipe Interprofissional nos Cuidados 
+Paliativos Oncológicos.....................................................................................................................13
+Capítulo 3 | Modalidades Assistenciais.............................................................................22
+Capítulo 4 | Assistência Domiciliar.......................................................................................31
+Capítulo 5 | Cuidados no Fim de Vida e Assistência Pós-óbito................... 36
+Referências............................................................................................................................................46
+Apêndice | Equipe de Elaboração.......................................................................................48
+BPC – Benefício de Prestação Continuada 
+CadÚnico – Cadastro Único
+CPF – Cadastro de Pessoa Física
+Cras – Centro de Referência da Assistência Social
+Ecog-PS – Eastern Cooperative Oncologic Group - Performance Status
+INSS – Instituto Nacional do Seguro Social
+KPS – Karnofsky performance status 
+Loas – Lei Orgânica da Assistência Social
+SAD – Serviço de atenção domiciliar
+SUS – Sistema Único de Saúde
+Definição e Princípios Norteadores 
+A ideia principal da abordagem em cuidados paliativos é cobrir, prote­
+Os cuidados paliativos devem ser ofertados desde o diagnóstico, visan­ do a uma melhor qualidade de vida e autonomia do paciente e de sua 
+Promover o alívio da dor e de outros sintomas que causem sofrimento.
+Oferecer suporte para auxiliar os pacientes a terem uma sobrevida o 
+Atuar com equipes interdisciplinares e com profissionais capacitados.
+Promover os cuidados e o manejo das complicações clínicas que causam sofrimento ao paciente.
+Respeitar a morte como um processo natural do ciclo da vida, bus­ cando não antecipá- la ou adiá-la.
+Oferecer suporte para a família no período da doença e após o óbito.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Definição de câncer e câncer avançado
+“A palavra câncer vem do grego karkínos, que significa 
+ALENCAR GOMES DA SILVA, 2020, p. 13).
+Atualmente, câncer é o nome geral dado a um conjunto de mais de 100 doenças que têm em comum o crescimento desordenado de células.
+Figura 1 - Como surge o câncer
+O crescimento das células cancerosas é diferente do crescimento das células normais. As células cancerosas, em vez de morrerem, continuam crescendo incontrolavelmente, formando outras novas células anormais.
+Independentemente da fase em que o câncer é detectado, há neces­ sidade de classificar cada caso, de acordo com a extensão do tumor. O método utilizado para essa classificação é chamado de estadiamento.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+O estadiamento do câncer é definido segundo o tamanho do tumor, o comprometimento dos linfonodos e a presença ou ausência de metás­ tase – quando a doença se espalha para outros órgãos, próximos ou dis­ tantes da localização de origem –, de acordo com a Classificação TNM.
+O estadiamento permite ao médico especialista em oncologia propor o tratamento mais adequado para cada paciente, uma vez que dois pacientes com o mesmo tipo de câncer, mas com estadiamentos dife­ rentes, podem ter diferentes propostas de tratamento.
+Quem é afetado pelo câncer?
+Enquanto a doença afeta individualmente o paciente, a repercussão do diagnóstico afeta também a família e todos os que vivem ou trabalham com ele. 
+O processo da doença causa uma alte­ ração na dinâmica familiar em razão das alterações de papéis e das mu­
+Assim, os cuidados paliativos auxiliam os pacientes e suas famílias a li­ dar com questões físicas, psicológicas, sociais, espirituais e de ordem prática, abordando suas expectativas e necessidades.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Linha de cuidado: demanda por cuidados paliativos 
+Os cuidados paliativos não pretendem ser a parte final do tratamento, mas, sim, a parte complementar, estando presentes desde o início do processo de adoecimento. Assim, à medida que a doença progride, eles 
+Figura 2 - Inserção dos cuidados paliativos na linha de cuidado para prevenir e aliviar o
+Fonte: adaptada de Sociedade Brasileira de Geriatria e Gerontologia, 2015.
+Os cuidados paliativos precoces visam à avaliação e ao tratamento da dor e de outros problemas de natureza física, psicossocial e espiritual que podem estar associados à doença.
+Com o declínio irreversível do estado geral do usuário, inicia-se a etapa de cuidados paliativos exclusivos. Nesse momento, o principal objetivo é o cuidado ao fim de vida, promovendo conforto e controle de sintomas ao paciente e auxílio aos familiares no processo de luto.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Critérios de elegibilidade para cuidados paliativos 
+Doença progressiva, incurável e avançada.
+Poucas possibilidades de resposta às terapêuticas curativas, ou quando as complicações causadas por essas são inaceitáveis.
+Evolução clínica oscilante, caracterizada pelo surgimento de várias crises de necessidades, como dor de difícil controle.
+Grande impacto emocional ou social para o doente e sua família, relacionado, de maneira explícita ou não, com a proximidade da morte.
+Prognóstico de vida estimado em menos de seis meses.
+Necessidade de adequação terapêutica ou das ações de investigação 
+Internação prolongada, sem evidência de melhora.
+Doença progressiva e incurável e preferência por não ser submetido a tratamento de prolongamento da vida.
+Na abordagem da doença oncológica, é atualmente indicada a integra­
+ção precoce dos cuidados paliativos associada ao tratamento modifi­ cador da doença, se possível a partir do diagnóstico, com o objetivo de auxiliar a equipe no controle dos sintomas. Dessa forma, à medida que a doença avança e a cura não pode ser mais alcançada, a abordagem paliativa tende a ser ampliada e torna-se exclusiva (SOCIEDADE BRASI­
+LEIRA DE GERIATRIA E GERONTOLOGIA, 2015).
+Atuação da Equipe Interprofissional 
+O que significa equipe interprofissional?
+É uma equipe formada por múltiplos profissionais, de diferentes profis­ sões (médicos, enfermeiros, farmacêuticos, nutricionistas, fonoaudiólogos, assistentes sociais, fisioterapeutas, psicólogos, entre outros), na qual cada um exerce um papel diferente nos cuidados. Juntos, promovem o atendi­ mento integral das necessidades dos indivíduos.
+Qual é a necessidade da atuação da equipe 
+É fundamental o trabalho de uma equipe interprofissional, para que todos os aspectos de ordem física, psicossocial e espiritual dos pacientes e suas famílias sejam cuidados.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Quais os principais papéis do médico?
+1. Conhecer a doença (história natural, tratamentos realizados, evolução esperada).
+2. Avaliar os sinais e sintomas apresentados pelo paciente.
+3. Propor tratamentos medicamentosos ou não para o 
+4. Encaminhar o paciente para outras especialidades mé­ dicas, sempre que necessário.
+5. Comunicar a situação dos pacientes à equipe interprofissional.
+6. Esclarecer dúvidas sobre o tratamento aos pacientes e familiares.
+7. Informar o prognóstico da doença, de forma eficaz, à família e ao 
+Sinais de alerta para a necessidade de atendimento médico: febre (aci­ ma de 37,8 °C), queixa de dor, dificuldade para respirar (falta de ar), perda rápida da capacidade de realizar atividades habituais, entre outros.
+Quais os principais papéis do enfermeiro?
+1. Avaliar os sinais e sintomas apresentados pelo paciente.
+2. Realizar tratamentos para controle de sinais e sintomas.
+3. Interagir com a família para esclarecer dúvidas e reforçar as orienta­
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+4. Realizar curativos de feridas ou lesões (como as lesões tumorais) e cuidados com estomas – abertura cirúrgica realizada para construção de um novo trajeto localizado no abdômen para saída de fezes (colosto­ mia) ou urina (urostomia). 
+5. Estimular e auxiliar a higiene do paciente.
+6. Promover medidas de conforto.
+7. Estabelecer comunicação com a equipe interprofissional.
+Cabe destacar a atuação do técnico de enfermagem, que deve realizar as seguintes atividades: aferição de sinais vitais, comunicação dos sinais de alerta à equipe, administração de medicações, realização e acom­ panhamento de curativos sob a supervisão do enfermeiro, reforço aos 
+Sinais de alerta para a necessidade de atendimento do enfermeiro: dor, constipação (dificuldade para evacuar), diarreia (fezes moles e várias vezes ao dia), sintomas descontrolados mesmo com o uso de medicações, dúvidas sobre receita médica e sobre cuidados com feridas e estomas, 
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Quais os principais papéis do farmacêutico?
+1. Realizar a conferência da melhor opção medi­ camentosa de forma individualizada e conforme as alterações clínicas do usuário.
+2. Avaliar as prescrições médicas, fazendo os ajus­
+3. Elaborar receituários simples para melhor entendimento das receitas médicas (receita facilitada).
+4. Monitorar as reações adversas aos medicamentos, notificando-as 
+5. Orientar sobre doses, horários, administração e armazenamento dos 
+Sinais de alerta para a necessidade de atendimento do farmacêutico: enjoo ou êmese, dor mal controlada, constipação, falta de ar, cansaço, dúvidas em relação aos medicamentos, interações medicamentosas na prescrição, falta de adesão do paciente aos medicamentos, entre 
+Quais os principais papéis do nutricionista?
+1. Atuar de forma preventiva, apresentando meios e vias de alimenta­
+ção, bem como adaptações dietéticas, seguras e capazes de promover o controle de sintomas e o conforto.
+2. Em caso de via alternativa de alimentação, seja por sonda ou ostomia, orientar os familiares sobre o preparo, a higienização e a infusão.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+3. Buscar ressignificar o alimento, envolvendo, além da oferta de nutrientes, aspectos emocionais, socioculturais e religiosos, trazendo significados como afeto, 
+4. Auxiliar na evolução favorável do paciente, buscando retardar a perda 
+Sinais de alerta para a necessidade de atendimento do nutricionista: falta de apetite, enjoo, constipação, vômitos, diarreia, orientações para o uso de dieta enteral, perda de peso grave, privação oral, entre outros.
+Quais os principais papéis do fonoaudiólogo?
+1. Avaliar a disfagia e a manutenção da alimenta­
+ção segura e, se possível, por via oral.
+2. Auxiliar nas adequações de postura e manobras necessárias durante as refeições.
+3. Definir a consistência adequada dos alimentos.
+4. Buscar alternativas de comunicação, seja por meio de pranchas de comunicação, gestos seja por observação de manifestações corporais do 
+Sinais de alerta para a necessidade de atendimento do fonoaudiólogo: alterações de deglutição (disfagia), odinofagia (dor ao deglutir), alteração do nível de consciência, alterações de comunicação, entre outros.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Quais os principais papéis do assistente social?
+1. Orientar e encaminhar os usuários para acesso aos benefícios e direi­ tos da previdência social e da assistência social.
+2. Articular para a disponibilização de recursos institucionais e extrainsti­ tucionais (cadeira de rodas, andador, cadeira higiênica, cama hospitalar, 
+3. Orientar e encaminhar para a gratuidade de transporte, para acesso do usuário e do acompanhante ao hospital.
+4. Compreender a dinâmica familiar dos usuários e colaborar para a orga­ nização da rede de cuidados.
+5. Prestar esclarecimentos e orientações pós-óbito.
+Sinais de alerta para a necessidade de atendimento do assistente social: vulnerabilidade social do usuário em relação às condições eco­ nômicas, rede de cuidados, moradia, acesso a tratamento e acompa­ nhamento por meio de transporte público, entre outros.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Quais os principais papéis do fisioterapeuta?
+1. Auxiliar no alívio de sintomas como dor, fadiga (cansaço que não melhora com o re­ pouso) e dispneia (sensação de falta de ar).
+2. Colaborar para a manutenção da inde­ pendência, até onde for possível.
+3. Prevenir quedas e auxiliar na mobilidade no leito.
+4. Orientar os familiares sobre a assistência ao paciente e as complica­
+ções do imobilismo, como lesões por pressão e contraturas.
+Sinais de alerta para a necessidade de atendimento do fisioterapeuta: dor, fadiga, dispneia, dificuldade de locomoção.
+Quais os principais papéis do psicólogo?
+1. Auxiliar na ressignificação do sofrimento de ordem psicológica apre­ sentado pelo usuário e por seus familiares.
+2. Contribuir para a relação entre a família e o doente, entre os próprios membros e a relação que cada familiar estabelece consigo mesmo.
+3. Prestar suporte aos familiares e entes queridos no pós-óbito.
+4. Prestar cuidados com a equipe.
+5. Auxiliar na mediação da comunicação entre família, paciente e equipe 
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Sinais de alerta para a necessidade de atendimento do psicólogo: sinais e sintomas de sofrimento psíquico intenso, sintomas de ansie­ dade e/ou depressão, perda do interesse pelas atividades cotidianas ou de lazer, ideação suicida ou pensamentos frequentes sobre a morte, conflitos familiares, sofrimento da família ou dos cuidadores familiares 
+Modalidades Assistenciais
+Como são definidas as modalidades assistenciais para cada paciente nos cuidados paliativos?
+O que define a modalidade direcionada ao usuário é a funcionalidade deste, que será avaliada pelas escalas de funcionalidade.
+As escalas mais utilizadas mundialmente são a escala Karnofsky Per­ formance Status (KPS) e a Escala de Desempenho de Zubrod, também chamada Eastern Cooperative Oncology Group – Performance Status 
+A KPS é definida como uma escala numeral com dez números, indo de 10 a 100%. Já a escala Ecog-PS é definida como uma escala numeral com cinco números, indo, por sua vez, de 0 a 4. Ver os Quadros 1 e 2, a 
+Outras características para definir a modalidade 
+Capacidade de deslocamento do usuário.
+Dificuldades financeiras.
+Complexidade dos sintomas apresentados.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Quadro 1 – Escala de Karnofsky
+Karnofsky Performance Status
+Sem queixas ou ausência de evidências da doença
+Capaz de levar a vida normalmente; sinais e sintomas menores da doença
+Presença de alguns sintomas mediante esforço dades normalmente ou de realizar trabalho ativo
+Necessita de assistência ocasional, mas ainda é capaz de realizar a maioria 
+Requer assistência considerável e cuidados médicos frequentes
+Extremamente debilitado. Hospitalização necessária, carente de 
+Moribundo. Risco iminente de morte
+Fonte: adaptado de Cuidados..., 2002.
+Quadro 2 – Escala de Zubrod
+Sem queixas ou ausência de evidências da doença
+Capaz de levar a vida normalmente; sinais e sintomas menores da doença
+Presença de alguns sintomas mediante esforço atividades normalmente ou de realizar trabalho ativo
+Fonte: adaptado de Cuidados..., 2002.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Quais são as modalidades disponíveis para os 
+No âmbito do Sistema Único de Saúde (SUS), a Atenção Básica atua como ordenadora e coordenadora dos cuidados paliativos.
+É responsável por acompanhar em campo os usuários com doenças ameaçadoras da vida, oferecendo cuidado longitudinal por meio de suas equipes e em conjunto, quando necessário, com o Núcleo Amplia­ do de Saúde da Família e Atenção Básica (Nasf-AB). Os demais pontos de atenção da rede funcionam como retaguarda da Atenção Básica.
+É a modalidade de atendimento que ocorre em um ambulatório em uma unidade de saúde. É realizada por uma equipe interdisciplinar, com o objetivo de manejo dos sintomas e acompanhamen­ to da doença, sendo necessário que o usuário tenha capacidade funcional de deslocamento até 
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+OUTROS OBJETIVOS DA ASSISTÊNCIA AMBULATORIAL:
+Acolhimento e cuidado emocional dos usuários e familiares.
+Construção de vínculo entre equipe interdisciplinar, família e usuário, assim como em outros serviços assistenciais.
+Esclarecimento da condição clínica do usuário para os sujeitos envol­
+A atenção hospitalar é a modalidade que oferece atendimento aos usuários que apresentam intercorrências, agravamento da doença ou sintomas cujo controle não é possível em outra modalidade de atendi­ mento, necessitando do aparato hospitalar para seu manejo.
+Além do suporte oferecido pela equipe interprofissional, de acordo adolescentes, crianças e pessoas cuja autonomia estiver comprometida têm direito a acompanhante. Ao paciente adulto (de 18 a 59 anos), fica facultado às unidades hospitalares permitirem ou não a presença de cuidadores durante a internação. Também é possível receber visitas conforme rotina e horários estabelecidos pela unidade hospitalar.
+Após a alta hospitalar, esses usuários continuam seu atendimento no seguimento ambulatorial ou 
+Esses serviços prestarão cuidados no alívio dos sintomas agudizados, sendo focados no conforto e na dignidade da pessoa, de acordo com as melhores práticas e evidências disponíveis.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+É uma porta de entrada para a internação hospitalar. Em caso de hospi­ tais com emergências abertas, faz-se necessário informar à equipe que o usuário encontra-se em cuidados paliativos exclusivos, a fim de evitar 
+As emergências nos cuidados paliativos são aquelas que, se não trata­ das, ameaçarão a qualidade de vida e, como consequência, anteciparão 
+QUAIS SÃO AS PRINCIPAIS CAUSAS DE 
+ATENDIMENTO PELA EMERGÊNCIA?
+As principais causas são: dor, náusea e vômito, fraqueza, perda do apetite, febre, perda da funcionalidade, sangramentos, problemas com ostomias, alterações cog­ nitivas e dificuldade respiratória.
+São objetivos da atenção domiciliar nos cuidados paliativos, segundo a 
+Resolução n.º 41, de 31 de outubro de 2018:
+As equipes de atenção domiciliar, cuja modalidade será definida a partir da intensidade do cuidado, observando-se o plano terapêutico singular, deverão contribuir para que o domicílio esteja preparado e seja o princi­ pal locus de cuidado no período de terminalidade de vida, sempre que desejado e possível. Será indicada para pessoas que necessitarem de cuidados paliativos em situação de restrição ao leito ou ao domicílio, sempre que esta for considerada a oferta de cuidado mais oportuna 
+(BRASIL, 2018, p. 276, grifo nosso).
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Foi criado em 1967 por Cicely Saunders com o objetivo de promover um cuidado integral para pacientes cuja doença não é mais responsiva aos tratamentos curativos. Não se trata apenas de um lugar físico, mas de um modelo de atenção ofertado aos pacientes em cuidados paliativos exclusivos. Assim, pode-se referir a um modelo de atenção ou a uma instituição de média ou longa permanência.
+Ao cuidar de você no momento final da vida, quero que sinta que me importo pelo fato de você ser você, que me importo até o último mo­ mento de sua vida, e faremos tudo o que estiver a nosso alcance não somente para ajudá-lo a morrer em paz, mas também para você viver até o dia de sua morte (SAUNDERS apud DOYLE et al., 199, p. vii).
+O teleatendimento é um recurso que amplia a possibilidade de acesso dos usuários em situações adversas, como dificuldade de deslocamento, e ganhou grande força durante a pandemia do novo coronavírus, na qual o distanciamento social se fez necessário.
+COMO FUNCIONA O TELEATENDIMENTO?
+De acordo com a Organização Mundial da Saúde (OMS), telemedicina compreende a oferta de serviços ligados aos cuidados com a saúde, nos casos em que a distância é um fator crítico; tais serviços são prestados por profissionais da área da saúde, usando tecnologias de informação e de comunicação para o intercâmbio de informações válidas para diag­ nósticos, prevenção e tratamento de doenças e a contínua educação de prestadores de serviços em saúde, assim como para fins de pesquisas e avaliações (PINTO et al., 2021, p. 1).
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+OUTROS BENEFÍCIOS DO TELEATENDIMENTO:
+Melhorar a adesão ao tratamento.
+Auxiliar na assistência do tratamento em casa.
+Reduzir encaminhamentos para atenção hospitalar e emergências. eticidade do teleatendimento. A telemedicina pode ser desempenhada 
+• Teleorientação: para que os profissionais de saúde realizem a distân­ cia a orientação e o acompanhamento de usuários com restrição de 
+• Telemonitoramento: ato realizado sob orientação e supervisão médica para monitoramento ou vigilância, a distância, de parâmetros de saúde 
+• Teleinterconsulta: exclusivamente para troca de informações e opiniões entre profissionais de saúde, para auxílio diagnóstico ou terapêutico 
+(PINTO et al., 2021, p. 2).
+Para a condução do teleatendimento em cuidados paliativos, alguns itens são indispensáveis e devem ser avaliados.
+O QUE DEVE SER COLETADO DURANTE O TELEATENDIMENTO?
+Questionar sintomas como: dor, dispneia, sonolência, náuseas, confu­ são mental, entre outros.
+Coletar informações como: se houve visita ao serviço de pronto atendimento (SPA), se houve nova internação, data do último exame 
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Estimar a KPS do paciente, segundo o relato do próprio ou do familiar.
+Questionar a função vesicointestinal, avaliar o funcionamento das ostomias, bem como relatos de sangramento ou feridas recentes e 
+Elaborar conduta conforme demanda.
+É uma modalidade de atenção à saúde integrada às Redes de Atenção 
+à Saúde (RAS), caracterizada por um conjunto de ações de prevenção e controle de sintomas e doenças, e pela contribuição para a reabilitação e a promoção à saúde, prestadas em domicílio, garantindo a continui­ dade de cuidados iniciados em centros de saúde.
+Existem também os serviços de atenção domiciliar (SAD), que são complementares aos cuidados na Atenção Básica e em unidades de urgência, substitutivos ou complementares à internação hospitalar, responsável pelo gerenciamento e pela operacionalização das equipes interprofissionais de atenção domiciliar e de apoio.
+Você sabia que a assistência domiciliar é organizada em três modalidades?
+A assistência domiciliar 1 é responsável por realizar o atendimento de usuários que têm estabilidade de condições para realizar seus cuidados de forma satisfatória, ou seja, que requerem cuidados com menor frequência. Essa assistência é realizada pela Atenção Básica.
+A assistência domiciliar 2 é responsável pela assistência de bebês com prematuridade e baixo peso, com ne­ cessidade de ganho ponderal, de usuários com doenças agudas ou crônicas agudizadas, com necessidade de cuidados intensificados e se­ quenciais, doenças crônico-degenerativas, considerando o grau de comprometimento causado pela doença, e por aqueles em cui­
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+A assistência domiciliar 3 é responsável por assistir aqueles que com­ põem a assistência domiciliar 2 nos casos em que eles necessitem de equipamentos ou maquinários, como ventilação mecânica.
+O SAD é responsável por atender os usuários elegíveis para as mo­ dalidades de assistência domiciliar 2 e 3, mas esse atendimento não exclui a assistência aos usuários realizada pela Atenção Básica.
+Como eu, sendo agente comunitário de saúde, posso atuar nos casos de usuários em cuidados 
+Você é a primeira aproximação do cuidado desse usuário em domicílio. 
+Então, torna-se o representante de sua equipe. Assim, você pode atuar identificando a piora dos sinais e sintomas dos usuários, ou o apareci­ mento de um novo sintoma que requeira uma mudança no plano de cuidados. Também pode atuar na relação com a família, identificando suas necessidades e demandas, orientando-a e capacitando-a para a realização dos cuidados com o usuário.
+Quais os sintomas comuns a esses usuários?
+Depende do tipo de câncer que essa pessoa tem e dos medicamentos de que ela faz uso contínuo. Por exemplo, uma pessoa com câncer de mama pode ter dor nas mamas, principalmente se há uma ferida oncológica (provocada pelo câncer). Mas essa dor pode ser tratada, minimizada ou eliminada com o uso de algumas medicações. A mais conhecida é a morfina, que é uma medicação potente para o controle 
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Possíveis sinais e sintomas: dor, náuseas, vômito, fadiga (cansaço), falta de apetite, prisão de ventre (constipação), edema (inchaço) e linfedema 
+(inchaço generalizado mais comum em braços e pernas), alterações na mucosa oral, diarreia, aumento do volume abdominal, tristeza, ansiedade, alteração de consciência, sangramento, sonolência, dificuldade de 
+Então, se depende do tipo de câncer e dos medicamentos, a quais sintomas devo ficar atento? 
+Você deve avaliar se houve uma mudança ou evolução dos sinais e sinto­ mas descritos anteriormente. Por exemplo, aumento da falta de apetite, fazendo com que o usuário pare totalmente de comer (anorexia), ou do volume abdominal, causando falta de ar (dispneia) e/ou dor. Quer di­ zer, você deve atentar para alterações que cau­ sem desconforto ao paciente para seguimento dos cuidados em domicílio com seus familiares e cuidadores. Nesses casos, deve relatar a condição do paciente à equipe de sua unidade, a fim de que um profissional médico ou enfermeiro faça uma avalia­
+ção do usuário o mais rápido possível e o referencie à equipe especializada.
+Mas, em casos de sangramento ativo, falta de ar e dor (de moderada a intensa), náuseas, vômitos e diarreia persistentes, confusão mental e agitação, você deve orientá-lo a ir para uma unidade de emergên­ cia mais próxima à sua residência.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Como posso melhorar a qualidade de vida desses 
+O principal objetivo dos cuidados paliativos é melhorar a qualidade de vida das pessoas com uma doença sem possibilidade de cura. Então, todos os cuidados referentes à saúde desse usuário são para que ele consiga viver com qualidade, dentro de suas limitações.
+Desse modo, você pode atuar identificando quais ne­ cessidades dele estão sendo afetadas e quais são passíveis de ser resolvidas ou mediadas e, a par­ tir disso, discutir com a equipe interprofissional quais medidas podem ser realizadas.
+Como posso atuar em relação à família 
+A família também faz parte do cuidado prestado ao usuário. Assim, você pode realizar uma escuta ativa das demandas relatadas por eles e atuar na identificação de suas necessidades, pois a sobrecarga dos familiares muitas vezes causa o adoecimento deles. Você também pode verificar junto à equipe de saúde a possibilidade de encaminhamento para atendimento psicológico e/ou de um assistente social que possa estar atento às suas demandas, ofertando suporte emocional. É sempre importante lembrar que o cuidador também precisa de cuidados e do 
+Alguns serviços também têm a assistência da capelania, a fim de ofer­ tar suporte espiritual aos pacientes, seus familiares e cuidadores.
+Cuidados no Fim de Vida e 
+A terminalidade de vida é definida quando se esgotam as possibilidades de recuperação das condições de saúde e as chances de morte parecem inevitáveis e previsíveis.
+Importante: identificar os sintomas aumentados que exijam alteração 
+Diretivas antecipadas de vontade
+As diretivas antecipadas de vontade constituem-se nas manifestações de vontade sobre cuidados de saúde e tratamentos que um paciente 
+Os desejos dos pacientes devem ser documentados e apresentados para a equipe que vai avaliar o paciente.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Principais sintomas relacionados com os cuidados 
+(pode apresentar-se por confusão mental, agitação ou sonolência excessiva, até torpor ou apatia) cianóticas ou arroxeadas) prolongados sem movimentos)
+(atividade metabólica diminuída)
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+A nutrição nos cuidados de fim de vida
+Concentra-se no conforto que o usuário deve receber durante a última 
+O ideal é dar assistência ao usuário, sempre respeitando sua vontade, pois sua autonomia está acima de qualquer evidência científica e da vontade dos familiares e dos profissionais. Os familiares ficam angus­ tiados ao ver os usuários com xerostomia (boca seca). Nesse período de terminalidade, geralmente, eles não apresentam sede e fome. Em caso de o usuário expressar esse desejo, atenda-o de maneira efetiva, molhando seus lábios com água, oferecendo-lhe pequenas quantidades de sucos ou alimentos, ou até mesmo promovendo higiene oral, a fim de minimizar o desconforto.
+Acolhimento ao familiar nos cuidados 
+A fase ativa de morte, que evidencia a proximidade desse evento, pode gerar angústias, incertezas e sofrimento 
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Como realizar o acolhimento ao familiar?
+Decidir, com sensibilidade e discernimento, o melhor momento para a abordagem de algumas pendências e providências.
+Atentar para a comunicação verbal e a não verbal.
+Utilizar perguntas abertas, permitindo que o outro possa expressar o que está sentindo e pensando.
+Construir uma relação empática com o familiar, na tentativa de identificar e manejar suas demandas para o alívio possível do sofrimento e o preparo para a perda 
+Encorajar a família a planejar e a participar 
+Pessoas preparadas para o processo de morte de um familiar têm uma experiência e uma lembrança diferente daquelas que não foram instru­
+Embora não se reduza a carga de dor e perda por ocasião da morte, o preparo realizado ajuda a diminuir a ansiedade e o medo.
+Preparar a família aumenta a competência e a confiança no cuidado dos últimos dias, cria melhores lembranças e prepara para a perda 
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Encoraja a família a planejar e a participar de rituais memoriais, fune­ rais, visitas ao túmulo, entre outros.
+Coloca o ente querido em contato íntimo com os familiares e amigos sobreviventes, oferecendo possibilidades de despedida e de encerra­ mento da relação, para que eles possam, então, seguir em frente com 
+Intervenção da equipe de saúde responsável
+Pode ser realizada por meio de um telefonema de condolências, aproveitando para oferecer um momento de acolhida, podendo ser dentro ou fora do ambiente hospitalar.
+Reconhecer a importância da espiritualidade para a ma­ nutenção da saúde mental em momentos de intensa dor.
+Objetivos específicos do trabalho do profissional no processo de luto familiar
+Aumentar a realidade da perda.
+Ajudar a pessoa a lidar com afetos manifestos e latentes.
+Ajudar a pessoa a superar obstáculos para se reajustar depois da 
+Encorajar a pessoa a dizer um “adeus” adequado e a sentir conforto ao reinvestir novamente na vida, sem se esquecer do ente querido que 
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+O tempo de duração da prestação desses serviços é variável e está intimamente relacionado com a disponibilidade da equipe em conjunto com a demanda da pessoa em luto.
+Direitos previdenciários e assistência social nos 
+Pensão por morte e sepultamento gratuito
+O QUE É A PENSÃO POR MORTE? QUEM TEM DIRETO?
+É um benefício para os dependentes do paciente falecido que, na data tinha a qualidade de segurado, ou seja, contribuía para o Instituto 
+Nacional do Seguro Social (INSS), seja pelo trabalho registrado em carteira, como contribuinte individual (pagava o INSS como autônomo) ou por receber algum benefício previdenciário, tais como recebia benefício previdenciário ou já tinha direito a algum benefício 
+Cônjuge ou companheiro: comprovar casamento ou união estável até a data do falecimento.
+Filhos e equiparados (pessoa que, apesar de não participar da com­ posição nuclear de família, possui os mesmos direitos que os demais membros, como enteado, madrasta, padrastro e etc.): ter menos de 
+Filhos e equiparados inválidos: com invalidez confirmada pela perícia.
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Pais: comprovar dependência econômica.
+Irmãos: comprovar dependência econômica e idade inferior a 21 anos, a não ser que seja inválido ou com deficiência.
+Para todos os casos, o número do Cadastro de Pessoa Física (CPF) da pessoa falecida e dos dependentes é obrigatório.
+Também se podem solicitar: procuração ou termo de representação legal (tutela, curatela, termo de guarda), documentos para comprovar o tempo de contribuição e/ou documentos para comprovar os depen­ dentes. O site do INSS disponibiliza essa lista de documentos.
+Essa solicitação é realizada pelo aplicativo Meu INSS ou pelo site 
+Meu INSS. Ligue para 135 quando o sistema informatizado encontrar-se 
+O BENEFÍCIO DE PRESTAÇÃO CONTINUADA (BPC – DA LEI ORGÂNICA 
+DA ASSISTÊNCIA SOCIAL N.º 8.742, CRIADA EM 7 DE DEZEMBRO DE 1993) 
+INCLUI DIREITO À PENSÃO POR MORTE?
+Não. O BPC/Loas não gera pensão por morte!
+NOSSA RENDA FAMILIAR FOI FORTEMENTE IMPACTADA. O QUE FAREMOS 
+Nesse caso, pode-se realizar o Cadastro Único (CadÚnico), um instrumen­ to de coleta de dados e informações que identifica todas as famílias de 
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE baixa renda existentes no país para fins de inclusão em programas de assistência social de redistribuição de renda.
+E QUEM SÃO AS FAMÍLIAS DE BAIXA RENDA QUE DEVEM SE INSCREVER NO até meio salário mínimo por pessoa; ou até três salários mínimos de renda mensal total.
+Diversos programas e benefícios sociais do governo federal utilizam o 
+CadÚnico como base para a seleção das famílias.
+Procure um Centro de Referência da Assistência Social (Cras) no mu­ nicípio e solicite o cadastramento. E no Cras você também é orientado sobre a documentação civil básica.
+E SE NÃO TIVERMOS DINHEIRO PARA O SEPULTAMENTO?
+Existe o sepultamento gratuito, que garante a gratuidade para o serviço funerário (urna, remoção) e para o serviço cemiterial (aluguel de capela, de jazigo e demais tarifas cemiteriais). A funerária avalia a documenta­
+ção para saber se a faixa de renda do solicitante tem acesso à gratuidade.
+Destina-se às famílias que não têm condições financeiras para arcar com as despesas do funeral (regulamentado pela Lei Estadual n.º 2.015/1992).
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+QUAIS SÃO OS DOCUMENTOS NECESSÁRIOS PARA OBTER ESSE DIREITO?
+Da pessoa falecida: carteira de identidade, CPF, comprovante de residência, declaração de óbito (não é certidão de óbito).
+Do familiar que pede a gratuidade do sepultamento: certidão de nascimento ou de casamento (caso a pessoa seja divorciada ou separada judicialmente, deverá apresentar a certidão de casamento com a averbação), carteira de identidade ou carteira profissional, CPF, comprovante de renda (para que seja verificado o direito à gratuidade de justiça), comprovante de residência em seu nome (declaração da associação de moradores inclusa) datada de até três meses.
+E, não se esqueça: é necessário levar os originais e as cópias de todos os 
+O agente comunitário de saúde de seu território, está disponível para ajudá-lo com o que precisar. Sempre que tiver alguma dúvida, não deixe 
+BITTENCOURT, N. C. C. M. et al. Sinais e sintomas em cuidado paliativo oncológi­ de 31 de outubro de 2018. Dispõe sobre as diretrizes para a organização dos cui­ dados paliativos, à luz dos cuidados continuados integrados, no âmbito Sistema 
+Único de Saúde (SUS). Diário Oficial da União: seção 1, Brasília, DF, ano 155, n. 225, põe sobre os direitos e deveres dos usuários da saúde. Brasília, DF: Ministério da 
+Saúde, 2009. Disponível em: https://bvsms.saude.gov.br/bvs/saudelegis/gm/2009/ prt1820_13_08_2009.html. Acesso em: 13 jul. 2022. da União: seção 1, Brasília, DF, ano 153, n. 78, s. 1, p. 33-38, 26 abr. 2016.
+CASTILHO, R. K.; SILVA, V. C. S. da; PINTO, C. da S. (ed.). Manual de cuidados palia­ tivos. 3. ed. São Paulo: Academia Nacional de Cuidados Paliativos; Atheneu, 2021. 
+CLARK, D. Cicely Saunders: a life and legacy. New York: Oxford University Press, 
+CONSENSO brasileiro de constipação induzida por opioides. Revista Brasileira de Cuidados Paliativos, São Paulo, v. 2, n. 3, p. 12-16, 2009. Supl. 1.
+CORADAZZI, A. L.; SANTANA, M. T. E. A.; CAPONERO, R. (org.). Cuidados paliati­ vos: diretrizes para melhores práticas. São Paulo: MG Editores, 2019.
+CORNILLON et al. Reasons for transferral to emergency departments of termi­ nally ill patients - a French descriptive and retrospective study. BMC Palliative 
+Care, London, v. 15, n. 1, p. 87, Oct. 2016. DOI 10.1186/s12904-016-0155-y.
+CUIDADOS paliativos oncológicos - controle de sintomas. Revista Brasileira de 
+D’ALESSANDRO, M. P. S.; PIRES, C. T.; FORTE, D. N. (coord). Manual de cuidados paliativos. São Paulo: Hospital Sírio Libanês, 2020. Disponível em: https://cuida­ dospaliativos.org/uploads/2020/12/Manual-Cuidados-Paliativos.pdf. Acesso em: 
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+DOYLE, D. et al. (ed.). Oxford textbook of palliative medicine. 2nd ed. New York: 
+Oxford University Press, 1999. como-surge-o-cancer#:~:text=O%20c%C3%A2ncer%20surge%20a%20partir,s%­
+C3%A3o%20inativos%20em%20c%C3%A9lulas%20normais. Acesso em: 28 jul. 2022. câncer: abordagens básicas para o controle do câncer. 6. ed. rev. e atual. Rio de 
+TERNACIONAL CONTRA O CÂNCER. TNM: classificação de tumores malignos. 7. 
+MARENGO, M. O.; FLÁVIO, D. A.; SILVA, R. H. A. Terminalidade de vida: bioética e humanização em saúde. Medicina (Ribeirão Preto), v. 42, n. 3, p. 350-357, 2009. 
+DOI 10.11606/issn.2176-7262.v42i3p350-357.
+MAURIZ, P.; WIRTZBIKI, P. M.; CAMPOS, U. W. Protocolo de cuidados paliativos. 
+[Fortaleza]: Instituto de Saúde e Gestão Hospitalar, set. 2014. Disponível em: ht­ tps://www.isgh.org.br/intranet/images/Servicos/Protocolos/isgh_protoco_cuida­ do_paliativo.pdf. Acesso em: 12 jul. 2022.
+PINTO, C. da S. et al. Teleatendimento ambulatorial em cuidados paliativos onco­ lógicos: quebrando paradigmas e transformando a realidade atual. Revista Bra­ https://gov-rj.jusbrasil.com.br/legislacao/151089/lei-2015-92. Acesso em: 28 jul. 2022.
+SILVA NETO, B. R. da (org.). Difusão do conhecimento através das diferentes 
+áreas da medicina 5. Ponta Grossa, PR: Atena Editora, 2020. 
+SILVA, S. M. A. da. Os cuidados ao fim de vida no contexto dos cuidados paliativos. 
+10.32635/2176-9745.RBC.2016v62n3.338.
+SOCIEDADE BRASILEIRA DE GERIATRIA E GERONTOLOGIA. Vamos falar de cuida­ dos paliativos. Tradução de Sociedade Brasileira de Geriatria e Gerontologia. Rio de 
+Janeiro: SBGG, 2015. Disponível em: https://sbgg.org.br/wp-content/uploads/2014/11/ vamos-falar-de-cuidados-paliativos-vers--o-online.pdf. Acesso em: 12 jul. 2022.
+WATSON, M. et al. Oxford handbook of palliative care. 2nd ed. New York: Oxford 
+Alessandra Maia Gonçalves 
+Aurilio Sergio Araújo Viana 
+Bruna Franco Lopes e Silva
+Caio Weber Mendanha Ribeiro 
+Catiane da Silva Fatigate
+Fabiane Sorrentino de Amorim Mendonça 
+Gabrielle Cordeiro Maciel 
+Isabel Rebecca Melo Albino 
+Isabelle Cristine Lopo dos Santos 
+Jessica de Oliveira Nunes Figueira dos Santos
+Kajena do Nascimento Seriano 
+CUIDADOS PALIATIVOS EM ONCOLOGIA: ORIENTAÇÕES PARA AGENTES COMUNITÁRIOS DE SAÚDE
+Lara Laise Alves da Silva
+Lorran Ferreira Felismino 
+Lucas Duarte Braga da Silva 
+Luciana Almeida Eppinghaus 
+Ludmila Andrade Alves Ferreira 
+Manassés Trindade Freitas
+Marcelo Pinheiro da Silva
+Marcos Vinicius dos Santos Corrêa 
+Maria Carolina de Amorim Barata
+Mariana Ilara de Oliveira 
+Rosehellen Monteiro Lima da Costa 
+Sônia Barbosa do Nascimento 
+Sylvia Silva Nascimento Oliveira 
+Thamiris da Silva e Silva 
+Valquíria dos Santos Pinto 
+Fonte: Montserrat, corpo 9.

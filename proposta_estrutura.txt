@@ -1,0 +1,84 @@
+oncosus-ai-assistant/
+│
+├─ README.md
+├─ requirements.txt
+├─ .gitignore
+│
+├─ docs/
+│   ├─ arquitetura.md
+│   ├─ relatorio_tecnico.md
+│   └─ fluxos_langchain.md
+│
+├─ data/
+│   ├─ raw_documents/
+│   │   ├─ pcdt/
+│   │   └─ inca/
+│   │
+│   ├─ processed_documents/
+│   │   └─ cleaned_text/
+│   │
+│   ├─ datasets/
+│   │   ├─ clinical_qa_dataset/
+│   │   └─ synthetic_qa_dataset/
+│   │
+│   └─ vector_store/
+│
+├─ rag/
+│   ├─ ingest_documents.py
+│   ├─ clean_documents.py
+│   ├─ chunk_documents.py
+│   ├─ create_embeddings.py
+│   └─ vector_database.py
+│
+├─ finetuning/
+│   ├─ prepare_dataset.py
+│   ├─ generate_synthetic_qa.py
+│   ├─ training_config.yaml
+│   ├─ train_model.py
+│   └─ export_model.py
+│
+├─ backend/
+│   ├─ app/
+│   │   ├─ main.py
+│   │   ├─ routes/
+│   │   │   ├─ chat.py
+│   │   │   └─ health.py
+│   │   │
+│   │   ├─ services/
+│   │   │   ├─ rag_service.py
+│   │   │   ├─ router_service.py
+│   │   │   └─ llm_service.py
+│   │   │
+│   │   ├─ langchain/
+│   │   │   ├─ pipeline.py
+│   │   │   ├─ router_chain.py
+│   │   │   └─ retrieval_chain.py
+│   │   │
+│   │   └─ config/
+│   │       └─ settings.py
+│   │
+│   └─ requirements.txt
+│
+├─ frontend/
+│   ├─ package.json
+│   ├─ vite.config.js
+│   │
+│   └─ src/
+│       ├─ components/
+│       │   ├─ ChatBox.jsx
+│       │   ├─ Message.jsx
+│       │   └─ SuggestedQuestions.jsx
+│       │
+│       ├─ pages/
+│       │   └─ ChatPage.jsx
+│       │
+│       ├─ services/
+│       │   └─ api.js
+│       │
+│       ├─ App.jsx
+│       └─ main.jsx
+│
+└─ notebooks/
+    ├─ explore_documents.ipynb
+    ├─ rag_tests.ipynb
+    └─ finetuning_experiments.ipynb

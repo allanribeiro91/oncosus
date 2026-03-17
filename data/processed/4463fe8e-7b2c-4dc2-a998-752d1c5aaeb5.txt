@@ -1,0 +1,881 @@
+SECRETARIA DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO E DO COMPLEXO ECONÔMICO-INDUSTRIAL DA SAÚDE 
+Aprova o Protocolo Clínico e Diretrizes Terapêuticas da 
+O SECRETÁRIO DE ATENÇÃO ESPECIALIZADA À SAÚDE E A SECRETÁRIA DE CIÊNCIA, TECNOLOGIA 
+E INOVAÇÃO E DO COMPLEXO ECONÔMICO-INDUSTRIAL DA SAÚDE, no uso das atribuições que lhes conferem o Decreto nº 11.798, de 28 de novembro de 2023, alterado pelo Decreto nº 12.489, de 04 de junho de 2025, 
+Considerando a necessidade de se atualizarem os parâmetros sobre a Osteoporose no Brasil e as diretrizes nacionais para diagnóstico, tratamento e acompanhamento dos indivíduos com esta doença; 
+Considerando que os protocolos clínicos e diretrizes terapêuticas são resultado de consenso técnico-científico e são formulados dentro de rigorosos parâmetros de qualidade e precisão de indicação; 
+Considerando o Registro de Deliberação nº 1009/2025 e o Relatório de Recomendação nº 1012 de junho de 2025 da 
+Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC), a atualização da busca e a avaliação da literatura; 
+Considerando a avaliação técnica do Departamento de Gestão e Incorporação de Tecnologias em Saúde 
+(DGITS/SECTICS/MS), do Departamento de Assistência Farmacêutica e Insumos Estratégicos (DAF/SECTICS/MS) e do 
+Departamento de Atenção Especializada e Temática (DAET/SAES/MS), resolvem: 
+Art. 1º Fica aprovado o Protocolo Clínico e Diretrizes Terapêuticas – Osteoporose. 
+Parágrafo único. O Protocolo objeto deste artigo, que contém o conceito geral da Osteoporose, critérios de diagnóstico, critérios de inclusão e de exclusão, tratamento e mecanismos de regulação, controle e avaliação, disponível no sítio https://www.gov.br/saude/pt-br/assuntos/protocolos-clinicos-e-diretrizes-terapeuticas-pcdt, é de caráter nacional e deve ser utilizado pelas Secretarias de Saúde dos Estados, do Distrito Federal e dos Municípios na regulação do acesso assistencial, autorização, registro e ressarcimento dos procedimentos correspondentes. 
+Art. 2º É obrigatória a cientificação do paciente, ou de seu responsável legal, dos potenciais riscos e efeitos colaterais 
+(efeitos ou eventos adversos) relacionados ao uso de procedimento ou medicamento preconizados para o tratamento da 
+Art. 3º Os gestores estaduais, distrital e municipais do SUS, conforme suas competências e pactuações, deverão estruturar a rede assistencial, definir os serviços referenciais e estabelecer os fluxos para o atendimento dos indivíduos com 
+Oficial da União nº 201, de 23 de outubro de 2023, seção 1, pág. 105. 
+ MOZART JULIO TABOSA SALES 
+PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS DA OSTEOPOROSE 
+A osteoporose é uma doença metabólica caracterizada pela diminuição da massa óssea e pela deterioração da sua microarquitetura, com consequente aumento da fragilidade óssea e da susceptibilidade a fraturas1. Estima-se que aproximadamente 50% das mulheres e 20% dos homens com idade igual ou superior a 50 anos sofrerão uma fratura osteoporótica ao longo da vida22. Além das fraturas, as complicações clínicas da osteoporose incluem dor crônica, deformidade, redução da mobilidade, piora da qualidade de vida e aumento da mortalidade. A fratura de quadril é considerada a mais grave, com aumento da taxa de mortalidade em 12% a 20% nos dois anos seguintes à fratura2. Além da fratura de quadril, fraturas vertebrais e não vertebrais também podem ocorrer e trazer limitações físicas, interferindo na qualidade de 
+A presença de determinadas condições nas primeiras décadas de vida, capazes de interferir na saúde óssea pode determinar o risco de osteoporose de um indivíduo. Durante o crescimento e desenvolvimento, o esqueleto passa por um processo complexo de formação e reabsorção óssea, que inicia na vida fetal e continua até a fusão epifisária ao final da segunda década de vida, determinando a forma adulta dos ossos. A massa óssea é adquirida lentamente durante a infância, seguida por uma aceleração significativa nos primeiros anos de puberdade. O pico de aquisição de massa óssea usualmente ocorre aos 12 anos em meninas e aos 14 anos em meninos, logo após o pico de crescimento. Nos anos seguintes, até o final da adolescência, cerca de 95% da massa óssea adulta estará formada. Estima-se que aproximadamente 60% a 80% da massa 
+óssea seja determinada geneticamente, enquanto fatores ambientais e hormônios sexuais modulam os 20% restantes. Entre os fatores ambientais que podem afetar o pico de massa óssea estão ingestão de cálcio, níveis de vitamina D, prática de atividade física, medicamentos e comorbidades. A otimização do pico de massa óssea, com condições ambientais favoráveis, pode prevenir ou retardar o desenvolvimento de osteoporose nos anos seguintes4. 
+Devido à prevalência elevada, a osteoporose representa um sério problema de saúde pública. Estima-se que afete mais de 200 milhões de pessoas no mundo e, aproximadamente, 30% das mulheres nos Estados Unidos e na Europa5. No Brasil, dados epidemiológicos do estudo BRAZOS (Brazilian Osteoporosis Study), que incluiu 2.420 indivíduos acima de 40 anos oriundos de várias regiões do país, mostraram que fraturas de baixo impacto foram identificadas em 15,1% das mulheres e 
+12,8% dos homens avaliados, sendo os principais sítios de fratura o antebraço distal (30%), quadril (12%), úmero (8%), costelas (6%) e coluna (4%). Não foram observadas diferenças significativas em relação ao gênero e à classe social, mas houve maior incidência de fraturas nas mulheres das regiões metropolitanas quando comparada às da área rural. A maioria dos pacientes com fratura osteoporótica prévia desconhecia a condição de fragilidade óssea associada ao diagnóstico de osteoporose6. Estudo conduzido em São Paulo, em indivíduos com mais de 65 anos, mostrou a incidência de fraturas vertebrais morfométricas em 17,1% das mulheres e 13,2% dos homens, das quais 7,6% e 5,4% eram moderadas a graves, respectivamente7. Nessa população, foi observada a associação entre fraturas vertebrais e piores escores de qualidade de vida, particularmente no domínio de desempenho físico8. Em uma cidade do sul do Brasil, uma análise de todas as internações por fratura de quadril entre 2010 e 2012 verificou uma incidência anual de 268 casos/100.000 mulheres e 153 casos/100.000 homens, com taxa de mortalidade hospitalar de 7,5%, chegando a 25% após 12 meses seguintes ao evento9. 
+A osteoporose pode ser classificada em primária ou secundária, conforme sua etiologia. A forma primária, mais comum, é diagnosticada na ausência de doenças ou outras condições associadas à fragilidade óssea. Nesses casos, a perda de massa óssea está relacionada ao processo de envelhecimento ou pós-menopausa. A osteoporose secundária deve ser considerada na presença de uma condição sabidamente associada à fragilidade óssea e corresponde a aproximadamente 30% dos casos em mulheres na pós-menopausa, 40% a 50% em mulheres na pré-menopausa e 50 a 55% em homens com diagnóstico de osteoporose10,11. 
+Este Protocolo visa a estabelecer os critérios diagnósticos e terapêuticos da osteoporose. A identificação de fatores de risco e da doença em estágio inicial e o encaminhamento ágil e adequado para o atendimento especializado dão à Atenção 
+Primária um caráter essencial para um melhor resultado terapêutico e prognóstico dos casos. 
+CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À 
+- M80.0 Osteoporose pós-menopáusica com fratura patológica 
+- M80.1 Osteoporose pós ooforectomia com fratura patológica 
+- M80.2 Osteoporose de desuso com fratura patológica 
+- M80.3 Osteoporose por má absorção pós cirúrgica com fratura patológica 
+- M80.4 Osteoporose induzida por drogas com fratura patológica 
+- M80.5 Osteoporose idiopática com fratura patológica 
+- M80.8 Outras osteoporoses com fratura patológica 
+- M81.0 Osteoporose pós-menopáusica 
+- M81.1 Osteoporose pós ooforectomia 
+- M81.2 Osteoporose de desuso 
+- M81.3 Osteoporose devido à má absorção pós cirúrgica 
+- M81.4 Osteoporose induzida por drogas 
+- M81.5 Osteoporose idiopática 
+- M81.6 Osteoporose localizada 
+- M81.8 Outras osteoporoses 
+- M82.0 Osteoporose na mielomatose múltipla 
+- M82.1 Osteoporose em distúrbios endócrinos 
+- M82.8 Osteoporose em outras doenças classificadas em outra parte 
+- M85.8 Outros transtornos especificados da densidade e da estrutura óssea 
+Diagnóstico clínico e densitométrico 
+A definição clínica de osteoporose baseia-se tanto na evidência de fratura por fragilidade, independentemente da massa 
+óssea, como na avaliação da densidade mineral óssea (DMO), por meio de densitometria óssea (g/cm2) da coluna lombar, fêmur total, colo do fêmur ou terço médio do rádio14. 
+A realização de rastreamento populacional amplo e aleatório com densitometria óssea não é preconizada pelo custo relativamente elevado15. No entanto, o rastreamento para avaliar a DMO está indicado para todas as mulheres com idade ≥ 
+65 anos e homens ≥ 70 anos ou na presença de fatores de risco para osteoporose, como baixo peso, fratura prévia, uso de medicamentos ou presença de doenças que sabidamente afetam a saúde óssea16. 
+Sendo assim, o número de desvios-padrão abaixo do normal em comparação ao adulto jovem, conhecido como Tescore, é usado para definir a doença em mulheres e homens, geralmente, na pós-menopausa e acima dos 50 anos de idade, respectivamente. Embora a redução da massa óssea esteja associada a um maior risco de fratura, o T-escore, obtido pela densitometria óssea, indica um risco relativo e não um risco absoluto para fraturas. A maior parte das fraturas ocorre em pacientes com osteopenia, já que a distribuição gaussiana da massa óssea na população concentra o maior número de indivíduos no intervalo entre -1,0 e -2,5 desvios padrão (DP) em relação ao T-escore17. 
+A osteoporose refere-se a uma condição em que há: 
+- o T-escore menor ou igual a -2,5 DP em homens acima dos 50 anos e mulheres na pós menopausa na coluna lombar 
+(ântero-posterior), colo femoral, quadril total ou 1/3 do rádio, mesmo na ausência de uma fratura prevalente ou; 
+- presença de fratura osteoporótica (também chamada de fratura de fragilidade), ou seja, uma fratura decorrente de trauma mínimo, insuficiente para fraturar um osso normal, independentemente do T-escore ou; 
+- o T-escore entre -1 e -2,49 associado a um aumento de risco de fratura avaliado pela ferramenta FRAX® (Fracture 
+Risk Assessment Tool)10, 14. 
+Em situações em que não há disponibilidade de densitometria óssea, a presença de fraturas osteoporóticas e o uso da ferramenta FRAX®, mesmo na ausência de dados densitométricos, poderão estratificar o risco do paciente e direcionar o tratamento, conforme critérios de inclusão deste Protocolo. 
+É considerada osteoporose grave quando o paciente com T-escore menor ou igual a – 2,5 DP associado a uma ou mais fraturas por fragilidade. 
+Estratégias que considerem fatores clínicos de risco podem adicionar informações sobre o risco individual de fratura, independentemente das medidas da DMO. A ferramenta FRAX® é o primeiro modelo de predição de fraturas específico, com calibração para cada país onde a epidemiologia das fraturas de quadril e mortalidade tenha sido publicada. Consiste em um algoritmo online que calcula a probabilidade de ocorrer, em 10 anos, uma fratura osteoporótica maior (fratura clínica vertebral, úmero, punho ou quadril) ou uma fratura de quadril isolada, em homens e mulheres entre 40 e 90 anos após análise individual. A probabilidade é calculada a partir de dados clínicos do paciente como idade, sexo e índice de massa corporal, além de fatores de risco como história de fratura por fragilidade óssea, história parental de fratura de quadril, tabagismo atual ou prévio, uso prolongado de glicocorticoides, artrite reumatoide, alto consumo de álcool ou outras causas de osteoporose secundária (diabetes melito tipo 1, menopausa precoce – antes dos 40 anos). A DMO do colo femoral pode ser opcionalmente inserida para melhorar a predição do risco de fratura. 
+A partir das variáveis clínicas inseridas, é calculado um limiar de intervenção fixado como “limiar de fratura” e apresentado na ferramenta, baseado na probabilidade de fratura por idade específica equivalente a mulheres com fratura de fragilidade prévia (Figura 1)18–20. Esse instrumento foi validado para uso na população brasileira, é reconhecido pela 
+Organização Mundial da Saúde (OMS) e é disponibilizado pela Associação Brasileira de Avaliação Óssea e 
+Osteometabolismo (ABRASSO) 21, no endereço eletrônico: https://abrasso.org.br/frax-brasil/. O FRAX® auxilia na identificação dos pacientes em risco de fratura e, baseado nos critérios do National Osteoporosis Guideline Group (NOGG), auxilia na indicação de tratamento. Essa abordagem de avaliação mostrou-se custo-efetiva em determinados cenários, sendo incorporada nas indicações de tratamento medicamentoso para pacientes com osteoporose em uma variedade de diretrizes 
+Figura 1. Limite de intervenção FRAX. 
+Além disso, o risco de fraturas também pode ser estratificado em uma das categorias do Quadro 1. 
+Quadro 1. Categorias de estratificação de risco de fratura 
+Paciente sem diagnóstico de osteoporose (T-escore maior que -2,5 DP), baixo risco de fratura no 
+FRAX® e sem fraturas prévias. 
+T-escore igual ou inferior a -2,5 DP; ou 
+T-escore entre -1,0 e -2,49 DP e alto risco de fratura no FRAX®; ou 
+Um ou mais dos seguintes fatores: 
+Fratura nos últimos 12 meses; ou 
+Fraturas durante o tratamento; ou 
+Fraturas em uso de medicamento que altera o metabolismo ósseo; ou 
+T-escore inferior a -3,0 DP; ou 
+Muito alto risco de fratura no FRAX®; ou 
+Risco de queda aumentado. 
+Legenda: DP – desvio padrão. 
+Fonte: Kanis, 202023; Schoback, 202024; Eastell, 201925 e Camacho, 202010. 
+É fundamental que o profissional possa identificar e reconhecer marcadores de determinantes sociais como identidade de gênero, racismo, orientação sexual, etnia, questões laborais e iniquidades sociais e econômicas como os indicadores de saúde que podem contribuir ou desenvolver situações de agravos e condições de adoecimento. 
+Para o diagnóstico de causas secundárias de osteoporose ou monitoramento do tratamento, deve-se utilizar exames laboratoriais, tais como hemograma, velocidade de hemossedimentação (VHS), dosagens séricas de cálcio, fósforo, albumina, creatinina, fosfatase alcalina, PTH, TSH, T4 livre, 25-hidroxivitamina D (25OHD) e dosagem de cálcio na urina de 24 horas10. 
+Podem ser necessários outros exames complementares para diagnosticar causas secundárias de osteoporose, de acordo com o quadro clínico e a história do paciente. 
+Exames radiológicos, em especial radiografias da coluna vertebral dorsal e lombar em anteroposterior (AP) e perfil, são indicados para diagnóstico de fraturas vertebrais, sintomáticas ou não, que aumentam em muito o risco de novas fraturas osteoporóticas, além de ajudar no diagnóstico diferencial com outras doenças ósseas. Podem ser solicitados nos casos de pacientes com diagnóstico densitométrico ou clínico de osteoporose, no início do tratamento e sempre que sintomas sugestivos de fraturas vertebrais (dor aguda intensa ou crônica persistente e perda de altura maior que 4 cm) estiverem 
+Serão incluídos neste Protocolo indivíduos com suspeita de osteoporose ou osteoporose confirmada que apresentarem pelo menos um dos critérios a seguir 26,27: 
+- Fraturas maiores (i.e., fêmur proximal, rádio distal, úmero proximal ou coluna vertebral) ou fraturas de quadril, por baixo impacto (decorrentes de queda da própria altura ou menos) e comprovadas radiologicamente, sem necessidade de 
+- Exame densitométrico com T-escore menor ou igual a -2,5 no fêmur proximal (colo ou fêmur total), coluna lombar ou terço distal do rádio; 
+- Baixa massa óssea (T-escore menor ou igual a -1,0 e maior ou igual a -2,49) em pacientes frágeis, com risco de queda aumentada, independentemente da idade ou em pacientes com probabilidade de fratura pelo FRAX®, acima do limiar 
+Adicionalmente, para o uso dos seguintes medicamentos, os pacientes devem apresentar os seguintes critérios: 
+Para uso de ácido zoledrônico, os pacientes deverão ainda apresentar intolerância ou dificuldades de deglutição dos bisfosfonatos orais decorrentes de anormalidades do esôfago que retardam o esvaziamento esofágico, tais como estenose ou acalasia, doença do refluxo gastroesofágico importante, ou situações clínicas que comprometem de forma significativa a absorção de bisfosfonatos orais. 
+Para o uso de calcitonina, o paciente deve apresentar osteonecrose de mandíbula ou fratura atípica de fêmur ou contraindicação absoluta aos outros medicamentos. 
+ Para o uso de raloxifeno, a paciente deve ser mulher, estar na pós menopausa, ter baixo risco de tromboembolismo venoso, não estar em uso concomitante de estrógenos e apresentar um dos critérios abaixo: 
+- Alto risco de câncer de mama; ou 
+- Osteonecrose de mandíbula ou fratura atípica de fêmur; ou 
+- Intolerância ou contraindicação aos bisfosfonatos. 
+Para o uso de estrógenos conjugados, a paciente deve ser mulher, estar no climatério, apresentar comprometimento da qualidade de vida pelos sintomas vasomotores e não estar em uso concomitante de raloxifeno. 
+Para o uso de romosozumabe, as pacientes devem ser mulheres na pós-menopausa e apresentar osteoporose grave e falha terapêutica, definida por: 
+- Presença de duas ou mais fraturas incidentes por fragilidade em vigência de tratamento para osteoporose; ou 
+- Presença de uma fratura incidente após tempo mínimo de tratamento de 1 ano com agente preconizado neste protocolo e perda significativa de densidade mineral óssea (redução de mais de 5% em qualquer sítio no intervalo avaliado), considerando boa adesão ao tratamento e ausência de causas secundárias de perda de massa óssea. 
+Nota: Considera-se pacientes frágeis aqueles que apresentam pelo menos um dos seguintes critérios: idade igual ou maior que 75 anos, vive em instituições de longa permanência para idosos (ILPI), encontra-se acamado, esteve hospitalizado encefálico, síndromes demenciais e outras doenças neurodegenerativas, etilismo, neoplasia terminal, amputações de membros paciente com alto risco de queda aquele que se enquadra em um dos seguintes critérios: paciente independente, que se locomove e realiza suas atividades sem ajuda de terceiros, mas possui pelo menos um fator de risco; paciente dependente de ajuda de terceiros para realizar suas atividades, com ou sem a presença de algum fator de risco, que anda com auxílio (de pessoa ou de dispositivo) ou se locomove em cadeira de rodas; ou paciente acomodado em maca, por exemplo, aguardando a realização de exames, procedimentos ou transferência, com ou sem a presença de fatores risco. 
+Serão excluídos os pacientes que apresentarem toxicidade (intolerância, hipersensibilidade ou outro evento adverso) ou contraindicações absolutas ao uso dos respectivos medicamentos ou procedimentos preconizados neste Protocolo. 
+Este Protocolo não preconiza o tratamento medicamentoso de pacientes com doença renal crônica (DRC) estágios 4 e 5, uma vez que os medicamentos aqui citados podem ser contraindicados para essa população. Para estes pacientes, o tratamento não medicamentoso e controle adequado da DRC devem ser considerados. 
+Em indivíduos adultos com plano de início e manutenção de tratamento com glicocorticoides em dose diária superior a 5 mg de prednisona ou equivalente, por período igual ou superior a 3 meses, há indicação de tratamento medicamentoso na presença de fratura osteoporótica prévia, T-escore menor ou igual a -2,0 DP na coluna ou quadril ou probabilidade de fratura pelo FRAX® acima do limiar de intervenção 28,29. 
+Em homens com história de carcinoma de próstata e plano de início e manutenção de terapia de privação androgênica com agonistas ou antagonistas de GnRH ou com terapia antiandrogênica, há indicação de tratamento medicamentoso na presença de fratura osteoporótica prévia, T-escore menor ou igual a −2,0 DP na coluna ou quadril ou probabilidade de fratura pelo FRAX® acima do limiar de intervenção 30,31. 
+Em indivíduos com história de carcinoma de mama com plano de início e manutenção de tratamento com inibidores de aromatase, há indicação de tratamento medicamentoso na presença de T-escore menor ou igual a −2,0 DP na coluna ou quadril ou redução anual da DMO em 5% a 10% após início da terapia. Para pacientes com T-escore maior que -2,0 DP, o tratamento medicamentoso está indicado na presença de 2 ou mais fatores de risco: T-escore menor que -1,5 DP, idade maior que 65 anos, IMC menor que 20 kg/m², história familiar de fratura de quadril, história pessoal de fratura por fragilidade, tabagismo ou uso de glicocorticoides por período maior que 6 meses 30,32. 
+Em pacientes com risco de desenvolver osteoporose, medidas preventivas devem ser adotadas. Já em pacientes com baixa DMO ou histórico de fraturas, o tratamento visa a diminuir o risco da primeira ou segunda fratura óssea e suas consequências de morbimortalidade. Sabe-se que, clinicamente, a fratura de quadril está associada à dor aguda e perda de função, frequentemente ocasionando a hospitalização do paciente. A recuperação é lenta e o processo de reabilitação incompleto, com 50% desses pacientes necessitando de institucionalização permanente 33. 
+As fraturas vertebrais podem causar dor aguda e perda de função, mas são, frequentemente, assintomáticas. Uma fratura vertebral aumenta exponencialmente o risco de novas fraturas e pode ocorrer a “cascata fraturária”. Quando recorrentes, as fraturas vertebrais podem interferir significativamente na qualidade de vida e este impacto aumenta com o número de fraturas. Já as fraturas de antebraço cursam com dor aguda, mas, usualmente, a recuperação funcional é completa3. 
+O tratamento da osteoporose consiste em medidas não medicamentosas e medicamentosas. Ainda, as medidas não medicamentosas e suplementação de cálcio e colecalciferol (vitamina D) são preconizadas em todas as situações citadas25. 
+Tratamento não medicamentoso 
+A atividade física contribui para a redução do risco de fratura porque a força biomecânica que os músculos exercem sobre os ossos é capaz de aumentar a DMO. Exercícios com ação da gravidade parecem desempenhar importante papel no aumento e na preservação da massa óssea. Além disso, a atividade física regular pode ajudar a prevenir quedas que ocorrem devido a alterações do equilíbrio e diminuição de força muscular e de resistência34. 
+Prevenção de quedas e reabilitação 
+Tendo em vista a forte relação causal entre quedas e fraturas, medidas de prevenção devem ser adotadas. Além dos exercícios físicos, deve-se incluir a revisão do uso de medicamentos associados ao risco de quedas, avaliação de problemas neurológicos, correção de distúrbios visuais e auditivos, medidas de segurança ambiental, conforme protocolos de prevenção orientações do Instituto Nacional de Traumatologia e Ortopedia 36,37. 
+Além disso, estratégias relacionadas à reabilitação podem incluir a proposição de grupos de orientação sobre prevenção de quedas, conservação de energia e proteção articular, adaptação na rotina e de utensílios para melhora da capacidade funcional, treino de atividade de vida diária com pacientes egressos de procedimentos cirúrgicos ortopédicos ou ambulatórios de reumatologia, com diminuição da massa óssea e prescrição de órteses para repouso ou auxílio na função 
+O tabagismo deve ser desencorajado, bem como a ingestão excessiva de álcool, desde a fase de crescimento 
+(adolescência) até a vida adulta. 
+A maior parte dos estudos que demonstraram eficácia do tratamento medicamentoso na prevenção de fraturas foi realizada em populações de pacientes com osteoporose na pós-menopausa. Os medicamentos utilizados para tratamento de osteoporose incluem: o carbonato de cálcio e o colecalciferol (vitamina D), que usualmente fazem parte de todos os esquemas terapêuticos; os agentes antirreabsortivos (bisfosfonatos - alendronato, risedronato, pamidronato e ácido zoledrônico); o modulador seletivo dos receptores de estrogênio (raloxifeno); os estrógenos conjugados; a calcitonina e o agente antirreabsortivo e anabólico (romosozumabe). 
+Preconiza-se a reposição de cálcio e colecalciferol (vitamina D) associada ao uso de um bisfosfonato (alendronato ou risedronato), como tratamento preferencial. Contudo, pacientes que não possam utilizar alendronato ou risedronato devido à intolerância gastrintestinal ou dificuldades de deglutição, devem utilizar um medicamento administrado por via endovenosa, como o ácido zoledrônico ou pamidronato. 
+Considera-se falha terapêutica uma das seguintes situações: 
+- quando o paciente apresenta duas ou mais fraturas osteoporóticas enquanto em uso dos medicamentos preconizados neste Protocolo por pelo menos um ano, com adequação das posologias de cálcio e vitamina D; ou 
+- quando o paciente apresenta uma fratura incidente após tempo mínimo de tratamento de 1 ano com medicamento preconizado neste Protocolo e perda significativa de densidade mineral óssea (redução de mais de 5% em qualquer sítio no intervalo avaliado), considerando boa adesão ao tratamento e ausência de causas secundárias de perda de massa óssea. 
+Não são considerados em falha ao tratamento aqueles pacientes que apresentaram perda de DMO ou que tenham apresentado fraturas logo após o início da terapia medicamentosa ou fraturas não osteoporóticas. Nestes casos, recomendase individualizar a conduta, avaliando a adesão ao tratamento, possíveis problemas de absorção de cálcio, uso de medicamentos que podem causar perda óssea e outras causas secundárias de osteoporose38–41. 
+Ressalta-se a importância do acompanhamento dos usuários em relação ao uso dos medicamentos preconizados neste 
+PCDT para que alcancem os resultados positivos em relação à efetividade do tratamento e para monitorar o surgimento de problemas relacionados à segurança. Nesse aspecto, a prática do Cuidado Farmacêutico, por meio de orientação, educação em saúde e acompanhamento contínuo, contribui diretamente para o alcance dos melhores resultados em saúde, ao incentivar o uso apropriado dos medicamentos que sejam indicados, seguros e efetivos, ao estimular a adesão ao tratamento, ao fornecer apoio e informações que promovam a autonomia e o autocuidado dos pacientes. Como a adesão ao tratamento é essencial para que o usuário alcance os resultados esperados, é fundamental que sejam fornecidas, no momento da dispensação dos medicamentos, informações acerca do processo de uso do medicamento, interações medicamentosas e possíveis reações adversas. A integração do Cuidado Farmacêutico aos protocolos clínicos e diretrizes terapêuticas é, portanto, fundamental para proporcionar uma assistência à saúde mais segura, efetiva e centrada na pessoa, abordando de forma abrangente as necessidades de cada indivíduo42. 
+7.2.1 Reposição de cálcio e vitamina D 
+Embora vários nutrientes estejam envolvidos na formação e manutenção da massa óssea, o cálcio e o colecalciferol 
+(vitamina D) são os mais importantes e fazem parte do tratamento padrão na prevenção de fraturas. A suplementação de cálcio deve ser garantida caso a ingestão mínima diária de alimentos lácteos não seja atingida. A ingestão de cálcio recomendada varia ao longo da vida, mas de maneira geral, recomenda-se que seja mantida entre 1.000 a 1.200 mg de cálcio elementar por dia. Em casos especiais, como na gravidez, lactação e síndromes disabsortivas intestinais, pode haver benefício com doses maiores, à critério clínico. Preocupações sobre a segurança da suplementação de cálcio quanto ao aumento do risco de eventos cardiovasculares, não foram confirmadas, exceto nos casos de excesso de suplementação, principalmente acima de 1.400 mg/dia. Assim, a dose deve ser inferior a 1.400 mg/dia de cálcio elementar e fracionada em doses de 500 mg 
+Em relação à vitamina D, recomenda-se a ingestão diária de, pelo menos, 800 a 1.000 UI de colecalciferol ou 7.000 
+UI por semana para todos os pacientes, exceto idosos a partir dos 60 anos, que podem necessitar até 2.000 UI por dia ou 
+14.000 UI por semana. Eventualmente, pacientes com níveis séricos de 25-hidroxivitamina D abaixo de 20 ng/mL e idosos a partir dos 60 anos de idade, podem utilizar doses maiores, até que os níveis séricos se estabilizem acima de 30 ng/mL43,44. 
+Alguns estudos mostraram que essa dose de vitamina D associada ao cálcio leva à redução das fraturas de quadril e das não vertebrais, especialmente na população com risco aumentado de quedas, como nos idosos institucionalizados com histórico ou risco de fraturas por fragilidade45. 
+Já o calcitriol, análogo do colecalciferol, não repõe níveis de 25-hidroxivitamina D e só é preconizado para pacientes com insuficiência renal crônica com depuração de creatinina endógena (DCE) menor ou igual a 30 mL/min, com osteomalácia hipofosfatêmica ou por deficiência de 1-alfa-hidroxilase, com insuficiência hepática ou hipoparatireoidismo. 
+Os bisfosfonatos são a classe mais utilizada entre os medicamentos que reduzem fraturas osteoporóticas46,47, sendo os de uso oral a primeira escolha48. Embora não haja evidência de superioridade de um bisfosfonato em relação aos outros na prevenção de fraturas ou em termos de perfil de eventos adversos, a escolha de alendronato de sódio ou risedronato sódico baseia-se na maior experiência de seu uso e no menor custo. Os eventos adversos gastrointestinais mais frequentes como esofagite e gastrite são similares para todos os bisfosfonatos orais46,48. Fraturas atípicas do fêmur e necrose asséptica da mandíbula, apesar de raras, têm sido associadas a uso em longo prazo de bisfosfonatos 49, portanto, após cinco anos de uso de bisfosfonatos orais pode haver uma pausa ou ‘férias' de 1 a 2 anos. 
+Para evitar o risco de ulceração esofágica é importante que seja observada a orientação de evitar o decúbito por até 30 a 60 minutos, após a ingestão do medicamento. A comparação entre o uso diário ou semanal de bisfosfonato mostra maiores taxas de adesão e persistência de tratamento a favor do uso semanal50–52. 
+No caso de bisfosfonatos de uso oral (alendronato e risedronato), as contraindicações ao seu uso incluem hipersensibilidade ao medicamento ou a qualquer componente da fórmula, hipocalcemia, gravidez e lactação e insuficiência renal grave (DCE abaixo de 30 mL/min), bem como inabilidade do paciente para sentar-se ou ficar em pé por pelo menos 
+30-60 minutos após a ingestão do medicamento53,54. 
+O alendronato de sódio é efetivo na prevenção primária de fraturas em pacientes com osteoporose, havendo evidência de sua efetividade na redução de incidência de fraturas vertebrais, não vertebrais e de quadril53. Não é necessário ajuste posológico para pacientes idosos ou para pacientes com insuficiência renal leve a moderada (depuração da creatinina plasmática de 35 a 60 mL/min). O alendronato de sódio não é recomendado para pacientes com insuficiência renal mais grave 
+(depuração da creatinina plasmática menor que 35 mL/min) em razão da falta de experiência com o medicamento em tal 
+O risedronato sódico previne fraturas tanto em mulheres na pós-menopausa como em homens com osteoporose estabelecida, havendo evidência de sua efetividade na prevenção secundária de fraturas vertebrais, não vertebrais e de quadril 
+54. Em pacientes com perda de função renal pré-existente, essa função deve ser monitorada a cada 1 a 3 meses. 
+A terapia antirreabsortiva óssea com ácido zoledrônico intravenoso (IV) é indicada para pacientes de ambos os sexos com osteoporose densitométrica ou osteopenia e história de fratura por fragilidade ou alto risco de fratura, calculado pelo 
+FRAX®. Devido à sua via de administração, deve ser utilizado por pacientes com intolerância ou dificuldades de deglutição dos bisfosfonatos orais, decorrentes de anormalidades do esôfago que retardem o esvaziamento esofágico, tais como estenose ou acalasia, ou situações clínicas que comprometem de forma significativa a absorção de bisfosfonatos orais. 
+O pamidronato é outro bisfosfonato de uso intravenoso e constitui uma alternativa de tratamento para pacientes com intolerância aos bisfosfonatos de administração oral. Há evidências, oriundas de estudos controlados não randomizados e de estudos retrospectivos, que o uso de pamidronato associado a cálcio e colecalciferol (vitamina D) aumenta a DMO e é bem tolerado no tratamento da osteoporose na pós-menopausa. Entretanto, devido à maior frequência de administrações, este 
+Protocolo preconiza seu uso apenas em casos de indisponibilidade ou contraindicações ao ácido zoledrônico. 
+ O raloxifeno é um modulador seletivo do receptor de estrógeno aprovado para prevenção e tratamento da osteoporose em mulheres após a menopausa e para a redução do risco de câncer de mama, em mulheres na pós-menopausa com osteoporose56. Apresenta evidência para prevenção de fraturas vertebrais, mas não para as de quadril ou não vertebrais57. 
+Dessa forma, parece ser um tratamento menos efetivo do que os bisfosfonatos. 
+Seu uso deve ser reservado para pacientes com baixo risco de eventos tromboembólicos, que não estão em uso concomitante de estrógenos e que tenham alto risco de câncer de mama, uma vez que ele pode diminuir este risco58. É uma opção para pacientes com histórico de osteonecrose de mandíbula ou fratura atípica de fêmur associadas ao uso de bisfosfonatos. O raloxifeno também é preconizado para mulheres com intolerância ou contraindicação aos bisfosfonatos com baixo risco de tromboembolismo venoso58. 
+7.2.4 Estrógenos conjugados 
+Os estrógenos conjugados constituem uma alternativa para prevenção de osteoporose para as pacientes no climatério e que apresentam comprometimento da qualidade de vida pelos sintomas vasomotores. Deve-se atentar para os riscos potenciais dos estrógenos conjugados, como acidente vascular encefálico, câncer de mama ou tromboembolismo venoso. 
+Quando prescritos, a dose deve ser individualizada. Há evidência de que o uso de estrógenos reduz o risco de fraturas de quadril, vertebrais e não vertebrais56. 
+Antes do início do tratamento, devem ser avaliados os antecedentes pessoais e familiares de neoplasias dependentes de estrogênios, além de realizar exames ginecológico e geral completos, considerando as contraindicações e advertências de uso. Mulheres não submetidas à histerectomia necessitam fazer uso de associação com progestágenos. 
+O romosozumabe é um anticorpo monoclonal humanizado (IgG2) que liga e inibe a esclerostina, estimulando a formação óssea em superfícies ósseas trabeculares e corticais, bem como a atividade osteoblástica, resultando em aumentos de massa óssea trabecular e cortical e em melhorias na massa, estrutura e força óssea. 
+Antes do início do tratamento, os níveis séricos de cálcio devem ser avaliados e corrigidos, pois o medicamento é contraindicado em pacientes com hipocalcemia não corrigida. Eventos cardiovasculares como infarto do miocárdio (IM) e acidente vascular encefálico (AVE) devem ser considerados, apesar de, segundo o fabricante, não ter sido estabelecida relação causal entre romosozumabe e estes eventos e estudos recentes não terem confirmado a associação. O medicamento não deve ser iniciado em pacientes que sofreram IM ou AVE no ano anterior59–61. 
+Em julho de 2024 foram revisadas as evidências científicas sobre eficácia, segurança e avaliação econômica entre os medicamentos romosozumabe e teriparatida. A recomendação foi favorável à ampliação de uso do romosozumabe para o tratamento de osteoporose grave e falha terapêutica e pela exclusão da teriparatida62,63. 
+O tempo de uso de romosozumabe é de no máximo um ano. Após esse período, o paciente deve iniciar tratamento com bisfosfonato imediatamente, para preservar o ganho de massa óssea e prevenir fraturas, mesmo que tenha ocorrido ganho substancial em DMO ao longo do tratamento. 
+Permanece como opção terapêutica somente nos seguintes casos: osteonecrose de mandíbula ou fratura atípica associadas ao uso de bisfosfonatos ou em pacientes com contraindicação absoluta aos outros fármacos. A calcitonina solução nasal na dose de 400 UI/dia mostrou redução do risco de novas fraturas vertebrais, com mínimo aumento da DMO da coluna e sem redução significativa de fraturas não vertebrais e de quadril. Além disso, foi observada maior incidência de malignidade em pacientes tratados com calcitonina. Apesar de haver pouca plausibilidade biológica para esta associação e de limitações de segurança, como por exemplo o desenvolvimento de malignidades no uso de longo-prazo, preconiza-se evitar seu uso ou limitar o uso prolongado da calcitonina no tratamento de pacientes com osteoporose25,58,66,67. 
+- Ácido zoledrônico: solução para infusão de 5 mg/100mL; 
+- Alendronato de sódio: comprimidos de 10 e 70 mg; 
+- Calcitonina: solução nasal com 200 UI/dose; 
+- Calcitriol: cápsula de 0,25 mcg; 
+- Carbonato de cálcio: comprimido de 1.250 mg (equivalente a 500 mg de cálcio elementar); 
+- Carbonato de cálcio + colecalciferol: comprimidos de 1.250 mg (equivalente a 500 mg de cálcio elementar) + 200 
+UI ou 400 UI; comprimidos de 1.500 mg (equivalente a 600 mg de cálcio elementar) + 400 UI; 
+- Fosfato de cálcio tribásico + colecalciferol: comprimidos de 1661,616 mg (equivalente a 600 mg de cálcio 
+- Cloridrato de raloxifeno: comprimidos de 60 mg; 
+- Estrogênios conjugados: comprimidos de 0,3 mg e 0,625 mg; 
+- Pamidronato dissódico: pó para solução injetável de 60 mg; 
+- Risedronato sódico: comprimidos de 35 mg; 
+- Romosozumabe: solução injetável de 90 mg/mL. 
+7.2.8 Esquemas de administração 
+- Ácido zoledrônico: dose de 5 mg, por via intravenosa (IV), uma vez ao ano. 
+- Alendronato de sódio: dose de 10 mg/dia ou 70 mg, uma vez por semana, por via oral (VO). Deve ser ingerido em jejum, pelo menos meia hora antes da primeira refeição e de outros medicamentos, com um copo de água (200 mL). Após a ingestão, o paciente deve ficar sentado ou de pé por pelo menos 30 a 60 minutos. 
+- Calcitonina: dose de 400 UI/dia, por via intranasal. 
+- Calcitriol: dose de 0,25 mcg, duas vezes ao dia, por VO. 
+- Carbonato de cálcio: dose de 500 a 1.400 mg por dia de cálcio elementar por VO, divididas em administrações de, no máximo, 500 mg de cálcio elementar por vez. 
+- Fosfato de cálcio tribásico + colecalciferol: doses de 600 a 1200 mg por dia de cálcio elementar por VO, divididas em no máximo 600 mg de cálcio elementar por vez. 
+- Estrógenos conjugados: dose individualizada, por VO. 
+- Pamidronato dissódico: dose de 60 mg, por via IV a cada 3 meses. Após reconstituição, deve-se diluir o fármaco em 
+500 mL de soro fisiológico. A duração mínima da infusão é de 2 horas; 
+- Raloxifeno: dose de 60 mg por dia, por VO. 
+- Risedronato sódico: dose de 35 mg, uma vez por semana, por VO. Deve ser ingerido em jejum, pelo menos 30 minutos antes da primeira refeição e de outros medicamentos, com um copo de água. Após a ingestão, o paciente deve ficar sentado ou de pé por 30 minutos; 
+- Romosozumabe: dose recomendada de 210 mg, por via subcutânea, uma vez por mês durante um período de 12 meses. Os pacientes devem ser adequadamente suplementados com cálcio e colecalciferol (vitamina D). 
+7.2.9 Tempo de tratamento – critérios de interrupção 
+A maioria dos estudos que embasam o uso de medicamentos na prevenção de fraturas osteoporóticas tem seguimento de 3 a 5 anos. O estudo FIT mostrou redução de fraturas com alendronato por 5 anos46. No entanto, o estudo FLEX, seguimento do primeiro, randomizou os pacientes do grupo alendronato para manutenção com alendronato por mais 5 anos 
+(totalizando 10 anos de tratamento) ou para placebo (com interrupção do alendronato após 5 anos), mostrando leve benefício apenas na prevenção de fraturas vertebrais com a manutenção em longo prazo47. Portanto, com base no exposto, o tratamento da osteoporose deve ser mantido por cinco anos em pacientes em uso de bisfosfonato oral e por três anos, para bisfosfonato intravenoso. No entanto, em pacientes com risco de fratura elevado (T-escore menor que -3,0 DP ou na presença de fraturas), o tratamento pode ser estendido por dez anos para bisfosfonato oral e seis anos para bisfosfonato IV. Nestes casos, recomendase a individualização da conduta25. 
+Naqueles pacientes que, mesmo em tratamento medicamentoso, apresentem piora da DMO à densitometria e ocorrência de fraturas, deve-se avaliar adesão ao tratamento, fatores interferentes na absorção do medicamento e causas secundárias de osteoporose. Assim, antes de uma mudança no tratamento medicamentoso, a equipe multidisciplinar deve considerar esses fatores, bem como o cumprimento dos critérios de inclusão deste Protocolo. 
+Durante o uso de estrógenos deve-se acompanhar o risco do paciente de desenvolvimento de eventos tromboembólicos, avaliação periódica do risco cardiovascular e risco de câncer de mama e sua suspensão deve ser realizada de acordo com diretrizes de terapia de reposição hormonal da menopausa68,69. 
+O tempo de uso do romosozumabe é de no máximo um ano, sendo recomendado o seguimento com o uso de bisfosfonato, para preservar o ganho de massa óssea e prevenir fraturas, independentemente da DMO, salvo contraindicação para uso. Caso haja contraindicação, a escolha da terapia sequencial deverá ser individualizada. O possível aumento de risco de eventos adversos cardiovasculares deve ser considerando quando em uso de romosozumabe70. Inexiste, até o momento, evidência científica robusta que justifique retratamento com romosozumabe para pacientes com osteoporose. 
+7.2.10 Fluxo de tratamento 
+Figura 2. Fluxograma para tratamento da osteoporose. 
+7.2.11 Benefícios esperados 
+O tratamento da osteoporose tem por objetivo reduzir a incidência de fraturas osteoporóticas vertebrais, não vertebrais e de quadril, bem como as complicações delas advindas. 
+Deve ser realizada densitometria óssea inicial na primeira avaliação e após o início do tratamento, repetindo-se o exame a cada 1 a 2 anos, até que a massa óssea esteja estável. O antebraço pode ser considerado uma alternativa quando os outros sítios apresentam artefatos ou em pacientes com hiperparatireoidismo. O monitoramento posterior deve ser baseado na avaliação clínica individual. É importante utilizar o mesmo equipamento de densitometria para as comparações futuras. 
+Radiografia de coluna dorsal e lombar em perfil deve ser repetida, caso o paciente apresente clínica sugestiva de fratura ou perda progressiva de altura superior a 4 cm. Exames laboratoriais devem ser repetidos a critério clínico, basicamente para verificar níveis séricos de vitamina D e cálcio ou para reinvestigar causas secundárias, se o tratamento não for eficaz. O tratamento é considerado bem-sucedido10 com a DMO crescente ou estável ou sem evidência de novas fraturas. 
+A adesão ao tratamento medicamentoso e não medicamentoso deve ser monitorada regularmente durante o tratamento. 
+Deve-se reforçar a importância do uso correto dos medicamentos e identificar e tratar possíveis eventos adversos que contribuam para a má adesão. 
+REGULAÇÃO/CONTROLE/AVALIAÇÃO PELO GESTOR 
+Devem ser observados os critérios de inclusão e exclusão de pacientes deste PCDT, a duração e a monitorização do tratamento, bem como a verificação periódica das doses de medicamentos prescritas e dispensadas, além da adequação de uso de medicamentos. Doentes com osteoporose devem ser atendidos em serviços especializados, para seu adequado diagnóstico, inclusão no protocolo de tratamento e acompanhamento. 
+Pacientes com osteoporose em tratamento devem ser avaliados periodicamente em relação à eficácia do mesmo e ao desenvolvimento de toxicidade aguda ou crônica. A existência de centro de referência facilita o tratamento em si, bem como o ajuste de doses, conforme necessário e o controle de efeitos adversos. 
+Os procedimentos diagnósticos (Grupo 02), terapêuticos clínicos (Grupo 03) e terapêuticos cirúrgicos (Grupo 04 e os vários subgrupos cirúrgicos por especialidades e complexidade) da Tabela de Procedimentos, Medicamentos e Órteses, 
+Próteses e Materiais Especiais do SUS podem ser acessados, por código ou nome do procedimento e por código da CID-10, no SIGTAP − Sistema de Gerenciamento dessa Tabela (http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp), com versão mensalmente atualizada e disponibilizada. 
+Deve-se verificar na Relação Nacional de Medicamentos Essenciais (Rename) vigente em qual componente da 
+Assistência Farmacêutica se encontram os medicamentos preconizados neste Protocolo. 
+Os estados e municípios deverão manter atualizadas as informações referentes aos registros de estoque, distribuição e e Serviços da Assistência Farmacêutica no âmbito do Sistema Único de Saúde (BNAFAR), conforme as normativas vigentes. 
+TERMO DE ESCLARECIMENTO E RESPONSABILIDADE – TER 
+Recomenda-se informar ao paciente, ou seu responsável legal, sobre os potenciais riscos, benefícios e eventos adversos relacionados ao uso dos medicamentos preconizados neste Protocolo, bem como critérios para interrupção do tratamento, levando-se em consideração as informações contidas no Termo de Esclarecimento e Responsabilidade (TER). 
+Professor Kanis JA, Melton LJ, Christiansen C, Johnston CC, Khaltaev N. The diagnosis of osteoporosis. Journal of 
+Bone and Mineral Research. 1994 Aug 1;9(8):1137–41. 
+Radominski SC, Bernardo W, Paula AP de, Albergaria B, Moreira C, Fernandes CE, et al. Diretrizes brasileiras para o diagnóstico e tratamento da osteoporose em mulheres na pós‐menopausa. Rev Bras Reumatol. 2017;57:452–66. 
+Kanis JA, Cooper C, Rizzoli R, Reginster JY. European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Osteoporosis International. 2019 Jan 18;30(1):3–44. 
+Weaver CM, Gordon CM, Janz KF, Kalkwarf HJ, Lappe JM, Lewis R, et al. The National Osteoporosis Foundation’s position statement on peak bone mass development and lifestyle factors: a systematic review and implementation recommendations. Osteoporosis International. 2016 Apr 1;27(4):1281–386. 
+Sozen T, Ozisik L, Calik Basaran N. An overview and management of osteoporosis. Eur J Rheumatol. 2017 Mar 
+Pinheiro MM, Ciconelli RM, Martini LA, Ferraz MB. Clinical risk factors for osteoporotic fractures in Brazilian women and men: the Brazilian Osteoporosis Study (BRAZOS). Osteoporosis International. 2009 Mar 3;20(3):399–
+Domiciano DS, Machado LG, Lopes JB, Figueiredo CP, Caparbo VF, Takayama L, et al. Incidence and risk factors for osteoporotic vertebral fracture in low-income community-dwelling elderly: a population-based prospective cohort study in Brazil. The São Paulo Ageing &amp; Health (SPAH) Study. Osteoporosis International. 2014 Dec 
+Lopes JB, Fung LK, Cha CC, Gabriel GM, Takayama L, Figueiredo CP, et al. The impact of asymptomatic vertebral fractures on quality of life in older community-dwelling women: the São Paulo Ageing &amp; Health Study. Clinics. 
+Silva DMW, Lazaretti-Castro M, Freitas Zerbini CA de, Szejnfeld VL, Eis SR, Borba VZC. Incidence and excess mortality of hip fractures in a predominantly Caucasian population in the South of Brazil. Arch Osteoporos. 2019 
+Watts NB, Camacho PM, Lewiecki EM, Petak SM. American Association of Clinical Endocrinologists/American 
+College of Endocrinology Clinical Practice Guidelines for the Diagnosis and Treatment of Postmenopausal 
+Osteoporosis—2020 Update. Endocrine Practice. 2021 Apr;27(4):379–80. 
+Walker-Bone K. Recognizing and treating secondary osteoporosis. Nat Rev Rheumatol. 2012 Aug 10;8(8):480–92. 
+[Internet]. Available from: www.gov.br/conitec/pt-br/ 
+Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-Coello P, et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ. 2008 Apr 26;336(7650):924–6. 
+Kanis JA, Kanis JA. Assessment of fracture risk and its application to screening for postmenopausal osteoporosis: 
+Synopsis of a WHO report. Osteoporosis International. 1994 Nov;4(6):368–81. 
+Nicholson WK, Silverstein M, Wong JB, Chelmow D, Coker TR, Davis EM, et al. Screening for Osteoporosis to 
+Prevent Fractures. JAMA. 2025 Jan 14; 
+Shuhart C, Cheung A, Gill R, Gani L, Goel H, Szalat A. Executive Summary of the 2023 Adult Position Development 
+Conference of the International Society for Clinical Densitometry: DXA Reporting, Follow-up BMD Testing and 
+Trabecular Bone Score Application and Reporting. J Clin Densitom. 2024;27(1):101435. 
+Siris ES, Chen YT, Abbott TA, Barrett-Connor E, Miller PD, Wehren LE, et al. Bone Mineral Density Thresholds for Pharmacological Intervention to Prevent Fractures. Arch Intern Med. 2004 May 24;164(10):1108. 
+Kanis JA, Harvey NC, Johansson H, Liu E, Vandenput L, Lorentzon M, et al. A decade of FRAX: how has it changed the management of osteoporosis? Aging Clin Exp Res. 2020 Feb 11;32(2):187–96. 
+Sousa C de J, Oliveira MLC de. FRAX Tool in Brazil: an integrative literature review following validation. Revista 
+Brasileira de Geriatria e Gerontologia. 2018 Feb;21(1):108–15. 
+Augusto De Freitas Zerbini C. FRAX Modelo Brasil: um texto clínico explicativo sobre limiares para intervenção terapêutica [Internet]. Available from: https://www.shef- 
+Zerbini CAF, Szejnfeld VL, Abergaria BH, McCloskey E V., Johansson H, Kanis JA. Incidence of hip fracture in 
+Brazil and the development of a FRAX model. Arch Osteoporos. 2015 Dec 25;10(1):28. 
+Augusto De Freitas Zerbini C. FRAX Modelo Brasil: um texto clínico explicativo sobre limiares para intervenção terapêutica [Internet]. Available from: https://www.shef- 
+Kanis JA, Cooper C, Rizzoli R, Reginster JY. European guidance for the diagnosis and management of osteoporosis in postmenopausal women. Osteoporosis International. 2019 Jan 18;30(1):3–44. 
+Shoback D, Rosen CJ, Black DM, Cheung AM, Murad MH, Eastell R. Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Guideline Update. J Clin Endocrinol Metab. 2020 Mar 
+Eastell R, Rosen CJ, Black DM, Cheung AM, Murad MH, Shoback D. Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2019 May 
+Cosman F, de Beur SJ, LeBoff MS, Lewiecki EM, Tanner B, Randall S, et al. Clinician’s Guide to Prevention and 
+Treatment of Osteoporosis. Osteoporosis International. 2014 Sep 26;25(10):2359–81. 
+Prevention and management of osteoporosis. World Health Organ Tech Rep Ser. 2003;921:1–164, back cover. 
+Compston J. Glucocorticoid-induced osteoporosis: an update. Endocrine. 2018 Jul 24;61(1):7–16. 
+Humphrey MB, Russell L, Danila MI, Fink HA, Guyatt G, Cannon M, et al. 2022 American College of Rheumatology 
+Guideline for the Prevention and Treatment of <scp>Glucocorticoid‐Induced</scp> Osteoporosis. Arthritis & 
+Rheumatology. 2023 Dec 16;75(12):2088–102. 
+Rachner TD, Coleman R, Hadji P, Hofbauer LC. Bone health during endocrine therapy for cancer. Lancet Diabetes 
+Endocrinol. 2018 Nov;6(11):901–10. 
+Russell N, Grossmann M. Management of bone and metabolic effects of androgen deprivation therapy. Urologic 
+Oncology: Seminars and Original Investigations. 2021 Oct;39(10):704–12. 
+Hadji P, Aapro MS, Body JJ, Bundred NJ, Brufsky A, Coleman RE, et al. Management of aromatase inhibitorassociated bone loss in postmenopausal women with breast cancer: practical guidance for prevention and treatment. 
+Annals of Oncology. 2011 Dec;22(12):2546–55. 
+Morrison RS, Chassin MR, Siu AL. The medical consultant’s role in caring for patients with hip fracture. Ann Intern 
+Med. 1998 Jun 15;128(12 Pt 1):1010–20. 
+Howe TE, Shea B, Dawson LJ, Downie F, Murray A, Ross C, et al. Exercise for preventing and treating osteoporosis in postmenopausal women. Cochrane Database of Systematic Reviews. 2011 Jul 6; 
+Tricco AC, Thomas SM, Veroniki AA, Hamid JS, Cogo E, Strifler L, et al. Comparisons of Interventions for 
+Preventing Falls in Older Adults. JAMA. 2017 Nov 7;318(17):1687. 
+CADERNETA DE SAÚDE DA PESSOA IDOSA DA PESSOA IDOSA [Internet]. Available from: 
+INTO. Instituto Nacional de Traumatologia e Ortopedia. Como reduzir quedas no idoso [Internet]. [cited 2025 Jan 
+19]. Available from: https://www.into.saude.gov.br/lista-dicas-dos-especialistas/186-quedas-e-inflamacoes/272como-reduzir-quedas-no-idoso 
+Diez-Perez A, Adachi JD, Agnusdei D, Bilezikian JP, Compston JE, Cummings SR, et al. Treatment failure in osteoporosis. Osteoporos Int. 2012 Dec;23(12):2769–74. 
+Carey JJ. What is a “failure” of bisphosphonate therapy for osteoporosis? Cleve Clin J Med. 2005 Nov;72(11):1033–
+Confavreux CB, Paccou J, David C, Mehsen N, Leboime A, Thomas T. Defining treatment failure in severe osteoporosis. Joint Bone Spine. 2010 Dec;77 Suppl 2:S128-32. 
+Silva BC, Madeira M, d’Alva CB, Maeda SS, Holanda NCP de, Ohe MN, et al. Definition and management of very high fracture risk in women with postmenopausal osteoporosis: a position statement from the Brazilian Society of 
+Endocrinology and Metabolism (SBEM) and the Brazilian Association of Bone Assessment and Metabolism 
+(ABRASSO). Arch Endocrinol Metab. 2022 Oct 3; 
+GM/MS no 2, de 28 de setembro de 2017, para estabelecer as Diretrizes Nacionais do Cuidado Farmacêutico no https://bvsms.saude.gov.br/bvs/saudelegis/gm/2024/prt4379_17_06_2024.html 
+Moreira CA, Ferreira CE dos S, Madeira M, Silva BCC, Maeda SS, Batista MC, et al. Reference values of 25hydroxyvitamin D revisited: a position statement from the Brazilian Society of Endocrinology and Metabolism 
+(SBEM) and the Brazilian Society of Clinical Pathology/Laboratory Medicine (SBPC). Arch Endocrinol Metab. 2020 
+Holick MF, Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley DA, Heaney RP, et al. Evaluation, Treatment, and Prevention of Vitamin D Deficiency: an Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 
+Avenell A, Mak JC, O’Connell DL. Vitamin D and vitamin D analogues for preventing fractures in post-menopausal women and older men. Cochrane Database of Systematic Reviews. 2014 Apr 14;2021(6). 
+Black DM, Cummings SR, Karpf DB, Cauley JA, Thompson DE, Nevitt MC, et al. Randomised trial of effect of alendronate on risk of fracture in women with existing vertebral fractures. The Lancet. 1996 Dec;348(9041):1535–
+Black DM, Schwartz A V., Ensrud KE, Cauley JA, Levis S, Quandt SA, et al. Effects of Continuing or Stopping 
+Alendronate After 5 Years of Treatment. JAMA. 2006 Dec 27;296(24):2927. 
+Byun JH, Jang S, Lee S, Park S, Yoon HK, Yoon BH, et al. The Efficacy of Bisphosphonates for Prevention of 
+Osteoporotic Fracture: An Update Meta-analysis. J Bone Metab. 2017;24(1):37. 
+Black DM, Abrahamsen B, Bouxsein ML, Einhorn T, Napoli N. Atypical Femur Fractures: Review of Epidemiology, 
+Relationship to Bisphosphonates, Prevention, and Clinical Management. Endocr Rev. 2019 Apr 1;40(2):333–68. 
+Kothawala P, Badamgarav E, Ryu S, Miller RM, Halbert RJ. Systematic Review and Meta-analysis of Real-World 
+Adherence to Drug Therapy for Osteoporosis. Mayo Clin Proc. 2007 Dec;82(12):1493–501. 
+Wells GA, Hsieh SC, Zheng C, Peterson J, Liu W, Kelly SE, et al. Risedronate for the primary and secondary prevention of osteoporotic fractures in postmenopausal women. Cochrane Database of Systematic Reviews. 2022 
+Wells GA, Cranney A, Peterson J, Boucher M, Shea B, Welch V, et al. Alendronate for the primary and secondary prevention of osteoporotic fractures in postmenopausal women. Cochrane Database of Systematic Reviews. 2008 Jan 
+Aché Laboratórios Farmacêuticos S.A. Farmacêutica. Alendronato de sódio. [Internet]. [cited 2025 Jan 20]. Available from: https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=ALENDRONATO%20DE%20SODIO 
+Legrand Pharma Indústria Farmacêutica LTDA. Risedronato sódico. [Internet]. [cited 2025 Jan 20]. Available from: https://consultas.anvisa.gov.br/#/bulario/q/?numeroRegistro=167730579 
+Cellera Farmacêutica S/A. Alendronato de Sódio [Internet]. [cited 2025 Feb 12]. Available from: https://www.cellerafarma.com.br/wp-content/uploads/2019/04/Bula-do-Profissional_ENDROSTAN.pdf https://consultas.anvisa.gov.br/#/bulario/q/?nomeProduto=cloridrato%20de%20raloxifeno 
+Barrionuevo P, Kapoor E, Asi N, Alahdab F, Mohammed K, Benkhadra K, et al. Efficacy of Pharmacological 
+Therapies for the Prevention of Fractures in Postmenopausal Women: A Network Meta-Analysis. J Clin Endocrinol 
+Metab. 2019 May 1;104(5):1623–30. 
+Agnusdei D, Iori N. Raloxifene: results from the MORE study. J Musculoskelet Neuronal Interact. 2000 
+Cheng SH, Chu W, Chou WH, Chu WC, Kang YN. Cardiovascular Safety of Romosozumab Compared to Commonly 
+Used Anti-osteoporosis Medications in Postmenopausal Osteoporosis: A Systematic Review and Network Metaanalysis of Randomized Controlled Trials. Drug Saf. 2025 Jan;48(1):7–23. 
+Saag KG, Petersen J, Brandi ML, Karaplis AC, Lorentzon M, Thomas T, et al. Romosozumab or Alendronate for 
+Fracture Prevention in Women with Osteoporosis. New England Journal of Medicine. 2017 Oct 12;377(15):1417– grave em mulheres na pós-menopausa, acima de 70 anos, em falha terapêutica ao padrão de tratamento atualmente disponível no SUS e em muito alto risco de fratura por fragilidade. 2022 Nov [cited 2025 Jan 20]; Available from: https://www.gov.br/conitec/ptbr/midias/relatorios/2022/20221206_relatorio_romosozumabe_osteoporose_grave_falha.pdf da teriparatida para o tratamento de osteoporose grave [Internet]. Brasília; 2024 Jul. Available from: https://www.gov.br/conitec/pt-br secundária a glicocorticoides, pacientes do sexo masculino e pacientes que apresentaram infarto do miocárdio ou https://www.gov.br/conitec/pt-br 
+Lewiecki EM, Blicharski T, Goemaere S, Lippuner K, Meisner PD, Miller PD, et al. A Phase III Randomized 
+Placebo-Controlled Trial to Evaluate Efficacy and Safety of Romosozumab in Men With Osteoporosis. J Clin 
+Endocrinol Metab. 2018 Sep 1;103(9):3183–93. 
+Kobayakawa T, Kanayama Y, Hirano Y, Nakamura Y. Comparison of Denosumab with Romosozumab in the treatment of male osteoporosis: a retrospective cohort study. Sci Rep. 2024 Oct 1;14(1):22785. 
+Wells G, Chernoff J, Gilligan JP, Krause DS. Does salmon calcitonin cause cancer? A review and meta-analysis. 
+Osteoporosis International. 2016 Jan 5;27(1):13–9. 
+Li N, Gong YC, Chen J. A meta-analysis of the therapeutic effect of intranasal salmon calcitonin on osteoporosis. 
+Eur J Med Res. 2021 Dec 8;26(1):140. 
+Oliveira GMM de, Almeida MCC de, Arcelus CMA, Espíndola L, Rivera MAM, Silva-Filho AL da, et al. Brazilian 
+Guideline on Menopausal Cardiovascular Health – 2024. Revista Brasileira de Ginecologia e Obstetrícia. 2024 Oct 
+“The 2022 Hormone Therapy Position Statement of The North American Menopause Society” Advisory Panel. The 
+2022 hormone therapy position statement of The North American Menopause Society. Menopause. 2022 Jul 
+Fuggle NR, Beaudart C, Bruyère O, Abrahamsen B, Al-Daghri N, Burlet N, et al. Evidence-Based Guideline for the management of osteoporosis in men. Nat Rev Rheumatol. 2024 Apr 14;20(4):241–51. 
+TERMO DE ESCLARECIMENTO E RESPONSABILIDADE - TER 
+ÁCIDO ZOLEDRÔNICO, ALENDRONATO, CALCITONINA, CALCITRIOL, CARBONATO DE 
+CÁLCIO, COLECALCIFEROL, PAMIDRONATO, RALOXIFENO, RISEDRONATO E ROMOSOZUMABE 
+Eu, __________________________________________________________________ (nome do [a] paciente), declaro ter sido informado(a) sobre benefícios, riscos, contraindicações e principais efeitos adversos relacionados ao uso de 
+ácido zoledrônico, alendronato, calcitonina, calcitriol, carbonato de cálcio, colecalciferol, pamidronato, raloxifeno, risedronato e romosozumabe indicados para o tratamento da osteoporose. 
+Os termos médicos foram explicados e todas as dúvidas foram esclarecidas pelo(a) médico(a) 
+___________________________________________________________________________________________ (nome do 
+(a) médico (a) que prescreve). 
+Assim, declaro que fui claramente informado (a) de que o medicamento que passo a receber pode trazer os seguintes 
+- redução de fraturas osteoporóticas; 
+- redução das complicações relacionadas a fraturas. 
+Fui também claramente informado (a) a respeito das seguintes contraindicações, potenciais efeitos adversos e riscos: 
+- os bisfosfonatos orais (alendronato e risedronato) não devem ser usados por quem não consegue ficar sentado ou de pé por 30 min após a ingestão com água; a função dos rins deve ser avaliada antes e durante o tratamento; são contraindicados em quem tem cálcio baixo no sangue, na gravidez e na amamentação; caso engravide, devo avisar imediatamente o médico; 
+- o raloxifeno é contraindicado em quem tem risco de trombose ou embolia; não se pode usar estrógenos ao mesmo 
+- os estrógenos conjugados são contraindicados em quem tem risco de câncer de mama, de trombose ou de isquemia; 
+- eventos adversos mais comuns do calcitriol: náuseas, vômitos, sede aumentada, urina aumentada (por hipercalcemia). Os eventos menos comuns incluem dor de cabeça, dor abdominal e manchas na pele (rash); 
+- eventos adversos mais comuns dos bisfosfonatos orais (alendronato e risedronato): dores abdominais, náusea, diarreia, gases, dor no estômago, depressão, tonturas, insônia, ansiedade, dores nos músculos, câimbras, formigamentos, aumento da pressão arterial, dor no peito, falta de ar, vermelhidão e coceira na pele, infecções em geral; 
+- eventos adversos mais comuns do ácido zoledrônico: dores de cabeça, musculares e nas juntas, febre, cansaço, fraqueza, sonolência ou insônia, náuseas, perda do apetite, aumento dos batimentos do coração, aumento da pressão arterial, tonturas, formigamentos, prisão de ventre, aftas, dor no local da aplicação, diminuição das células do sangue (células brancas 
+- eventos adversos mais comuns do raloxifeno: câimbras nas pernas, fogachos, formação de coágulos nas veias profundas das pernas, inchaço, náusea, vômitos, dores abdominais e dor de cabeça; 
+- eventos adversos mais comuns da calcitonina: náusea, diarreia, prisão de ventre, gases, dor no estômago, perda de apetite, calorões/fogachos, aumento da pressão arterial, dor no peito, falta de ar, chiado no peito, tonturas, aumento do volume de urina, infecções, dores em geral, sangramento e irritação nasal, formação de crostas no nariz quando via nasal, espirros, reações no local de aplicação do medicamento (quando administrado pela via subcutânea), reações alérgicas, vermelhidão na 
+- eventos adversos mais comuns do pamidronato: febre, cansaço, sonolência ou insônia, náusea, perda do apetite, aumento dos batimentos do coração, aumento da pressão arterial, prisão de ventre, aftas, dor no local da aplicação e diminuição das células do sangue (células brancas e plaquetas); 
+- eventos adversos mais comuns do romosozumabe: o uso de romosozumabe pode resultar em hipocalcemia transitória, sendo necessário corrigir a hipocalcemia antes de iniciar o tratamento, além de monitorar os pacientes quanto a sinais e sintomas de hipocalcemia e suplementá-los com cálcio e vitamina D. Muito comumente pode ocorrer infecção viral do trato respiratório superior e artralgia. Comumente, podem ocorrer reações de hipersensibilidade (com erupções cutâneas, dermatite ou urticária), dor de cabeça, tosse, dor no pescoço, espasmos musculares, edema periférico e reações no local da 
+- contraindicação em caso de hipersensibilidade (alergia) aos fármacos ou aos componentes da fórmula; 
+- risco da ocorrência de eventos adversos aumenta com a superdosagem. 
+Estou ciente de que este medicamento somente pode ser utilizado por mim, comprometendo-me a devolvê-lo caso não queira ou não possa utilizá-lo ou se o tratamento for interrompido. Sei também que continuarei a ser atendido (a), inclusive em caso de desistência do uso do medicamento. desde que assegurado o anonimato. 
+Meu tratamento constará do seguinte medicamento: 
+( ) colecalciferol (vitamina D) 
+( ) estrogênios conjugados 
+Local: Data: 
+Cartão Nacional de Saúde: 
+Nome do responsável legal: 
+Documento de identificação do responsável legal: 
+_____________________________________ 
+Assinatura do paciente ou do responsável legal 
+___________________________ 
+Assinatura e carimbo do médico 
+Data:____________________ 
+Nota: Verificar na Relação Nacional de Medicamentos Essenciais (RENAME) vigente em qual componente da Assistência Farmacêutica se encontram os medicamentos preconizados neste Protocolo. 
+METODOLOGIA DE BUSCA E AVALIAÇÃO DA LITERATURA e Diretrizes Terapêuticas da Osteoporose, pela necessidade de se incluir o termo “associado a” na redação da definição de osteoporose grave, disposta no tópico “3.1 Diagnóstico clínico e densitométrico”. 
+O tema foi apresentado como informe à 132ª reunião da Subcomissão Técnica de Avaliação de Protocolos Clínicos e 
+Diretrizes Terapêuticas, realizada dia 13 de janeiro de 2025. e Diretrizes Terapêuticas da Osteoporose, pela necessidade de se incluir o termo “pós-menopausa” nos critérios de inclusão do medicamento romosozumabe, considerando a indicação prevista em bula aprovada pela Agência Nacional de Vigilância 
+O tema foi apresentado como informe à 131ª reunião da Subcomissão Técnica de Avaliação de Protocolos Clínicos e 
+Diretrizes Terapêuticas, realizada dia 16 de dezembro de 2025. 
+Atualização do Protocolo Clínico e Diretrizes Terapêuticas da Osteoporose após ampliação do uso do romosozumabe e exclusão da teriparatida no SUS − versão 2025 
+Escopo e finalidade do Protocolo 
+O objetivo desta atualização do Protocolo Clínico e Diretrizes Terapêuticas (PCDT) da Osteoporose foi incluir nº 40, de 12 de setembro de 2024. 
+19, de 28 de setembro de 2023, esta atualização rápida focou na inclusão de orientações sobre a ampliação de uso de romosozumabe e da exclusão da teriparatida no âmbito do SUS. 
+O processo de atualização rápida do Protocolo se iniciou com uma reunião de alinhamento em 27 de novembro 2024, na qual foram discutidos os tópicos a serem atualizados no documento. 
+Todos os membros do Grupo Elaborador preencheram o formulário de Declaração de Conflitos de Interesse, que foram enviados ao MS para análise prévia à reunião. 
+Equipe de elaboração e partes interessadas 
+O Protocolo foi atualizado pelo NATS Nuclimed do Hospital de Clínicas de Porto Alegre (Nuclimed HCPA). 
+Declaração e Manejo de Conflitos de Interesse 
+Todos os membros votantes e metodologistas do Grupo Elaborador declararam seus conflitos de interesse, utilizando a Declaração de Potenciais Conflitos de Interesse (Quadro A). 
+Quadro A. Questionário de conflitos de interesse diretrizes clínico-assistenciais. 
+1. Você já aceitou de uma instituição que pode se beneficiar ou se prejudicar financeiramente algum dos benefícios abaixo? a) Reembolso por comparecimento a eventos na área de interesse da diretriz b) Honorários por apresentação, consultoria, palestra ou atividades de ensino c) Financiamento para redação de artigos ou editorias d) Suporte para realização ou desenvolvimento de pesquisa na área e) Recursos ou apoio financeiro para membro da equipe f) Algum outro benefício financeiro 
+2. Você possui apólices ou ações de alguma empresa que possa de alguma forma ser beneficiada ou prejudicada com as recomendações da diretriz? 
+3. Você possui algum direito de propriedade intelectual (patentes, registros de marca, royalties) de alguma tecnologia ligada ao tema da diretriz? 
+4. Você já atuou como perito judicial na área tema da diretriz? 
+5. Você participa, direta ou indiretamente, de algum grupo citado abaixo cujos interesses possam ser afetados pela sua atividade na elaboração ou revisão da diretriz? a) Instituição privada com ou sem fins lucrativos b) Organização governamental ou não-governamental c) Produtor, distribuidor ou detentor de registro e) Comitê, sociedade ou grupo de trabalho f) Outro grupo de interesse 
+6. Você poderia ter algum tipo de benefício clínico? 
+7. Você possui uma ligação ou rivalidade acadêmica com alguém cujos interesses possam ser 
+8. Você possui profunda convicção pessoal ou religiosa que pode comprometer o que você irá escrever e que deveria ser do conhecimento público? 
+9. Existe algum aspecto do seu histórico profissional, que não esteja relacionado acima, que possa afetar sua objetividade ou imparcialidade? 
+10. Sua família ou pessoas que mantenha relações próximas possui alguns dos conflitos listados 
+Avaliação da Subcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas 
+A proposta de atualização do PCDT da Osteoporose foi apresentada na 122ª Reunião da Subcomissão Técnica de 
+Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas, realizada em janeiro de 2025. A reunião teve a presença de representantes da Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde (SECTICS); de Atenção Primária à Saúde (SAPS). A proposta foi aprovada para avaliação da Conitec. O PCDT foi aprovado para avaliação da Conitec e a proposta foi apresentada aos membros do Comitê de PCDT da Conitec em sua 137ª Reunião 
+Ordinária, os quais recomendaram favoravelmente ao texto. 
+A Consulta Pública nº 16/2025, para a atualização do Protocolo Clínico e Diretrizes Terapêuticas da Osteoporose, foi realizada entre os dias 26/03/2025 e 14/04/2025. Foram recebidas 142 contribuições, que podem ser verificadas em: 
+(https://www.gov.br/conitec/pt-br/midias/consultas/contribuicoes/2025/contribuicao-cp-16_2025-pcdt-para-osteoporose). 
+Busca da evidência e recomendações 
+MS nº 19, de 28 de setembro de 2023, esta atualização rápida teve foco na inclusão de orientações sobre a exclusão da 
+As evidências e pergunta de pesquisa avaliadas no momento das avaliações, incluídas nesta atualização, encontram-
+(https://www.gov.br/conitec/pt-br/midias/relatorios/2024/relatorio-de-recomendacao-no-920-ampliacao-de-uso-do-
+(https://www.gov.br/conitec/pt-br/midias/relatorios/2024/relatorio-de-recomendacao-no-921Também foram feitas revisões pontuais no texto e incluídas referências publicadas após a atualização anterior do 
+Atualização do Protocolo Clínico e Diretrizes Terapêuticas da Osteoporose após incorporação do romosozumabe no SUS − versão 2023 
+Escopo e finalidade do Protocolo 
+O objetivo da atualização deste Protocolo foi incluir orientações sobre o uso do romosozumabe, devido à incorporação desse novo tratamento no âmbito do SUS após a recomendação do plenário da Conitec, no dia 09 de novembro de 2022, de atualização do Protocolo Clínico e Diretrizes Terapêuticas da Osteoporose. A deliberação da Conitec, conforme o Relatório nº 788 – Romosozumabe para o tratamento da osteoporose grave em mulheres na pós-menopausa, acima de 70 anos, e falha terapêutica ao padrão de tratamento atualmente disponível no SUS e em muito alto risco de fratura por fragilidade, foi: 
+“recomendar a incorporação do romosozumabe para mulheres com osteoporose na pós menopausa, a partir de 70 anos, que apresentam risco muito alto de fratura por fragilidade e falha com o padrão de tratamento medicamentoso, conforme protocolo nº 166, de 5 de dezembro de 2022. 
+Processo de atualização do PCDT: 
+Houve atualização na seção sobre tratamento da osteoporose, sendo o romosozumabe incluído entre as opções de tratamento medicamentoso. 
+Avaliação da Subcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas 
+A proposta de atualização do PCDT de Osteoporose foi apresentada na 105ª Reunião da Subcomissão Técnica de 
+Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas, realizada em janeiro de 2023. A reunião teve a presença de 
+Atualização do Protocolo Clínico e Diretrizes Terapêuticas da Osteoporose − versão 2023 
+Escopo e finalidade do Protocolo 
+O presente apêndice consiste no documento de trabalho do grupo elaborador da atualização do Protocolo Clínico e 
+Diretrizes Terapêuticas (PCDT) da Osteoporose contendo a descrição da metodologia de busca de evidências científicas, as recomendações e seus julgamentos (fundamentos para a tomada de decisão), tendo como objetivo embasar o texto do PCDT, aumentar a sua transparência e prover considerações adicionais para profissionais da saúde, gestores e demais potenciais texto e das referências do PCDT vigente. A reunião de escopo foi realizada em Brasília, em 19 de março de 2019. 
+O grupo desenvolvedor desta diretriz foi composto por um painel de especialistas sob coordenação do Departamento de Gestão e Incorporação de Tecnologias e Inovação em Saúde da Secretaria de Ciência, Tecnologia e Insumos Estratégicos 
+Todos os participantes do processo de elaboração do PCDT preencheram o formulário de Declaração de Conflitos de junho de 2014, publicada em 10 de junho de 2014 e retificada em 18 de junho de 2014) e a estrutura de PCDT definida pela 
+Ficou estabelecido que as recomendações diagnósticas, de tratamento ou acompanhamento que utilizassem tecnologias previamente disponibilizadas no SUS não demandariam questões de pesquisa definidas por serem práticas clínicas estabelecidas, exceto em casos de incertezas sobre seu uso, casos de desuso ou oportunidades de desinvestimento. 
+Ainda, foram elencadas três novas questões de pesquisa para a revisão do PCDT. 
+Equipe de elaboração e partes interessadas 
+O grupo elaborador deste PCDT foi composto por um painel de especialistas e metodologistas sob coordenação do 
+Interesse e confidencialidade. 
+Avaliação da Subcomissão Técnica de Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas 
+A proposta de atualização do PCDT de Osteoporose foi apresentada na 102ª Reunião da Subcomissão Técnica de 
+Avaliação de Protocolos Clínicos e Diretrizes Terapêuticas, realizada em agosto de 2022. A reunião teve a presença de representantes da Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde (SCTIE); Secretaria de 
+Indígena. O PCDT foi aprovado para avaliação da Conitec e a proposta foi apresentada aos membros do Plenário da Conitec em sua 112ª Reunião Ordinária, os quais recomendaram favoravelmente ao texto. 
+A Consulta Pública nº 06/2023, para a atualização do Protocolo Clínico e Diretrizes Terapêuticas da Osteoporose, foi realizada entre os dias 06/04/2023 a 25/04/2023. Foram recebidas 171 contribuições, que podem ser verificadas em: https://www.gov.br/conitec/pt-br/assuntos/participacao-social/consultas-publicas/encerradas . 
+Busca da evidência e recomendações 
+O processo de desenvolvimento desse PCDT seguiu recomendações da Diretriz Metodológica de Elaboração de 
+(Figura A). Durante a reunião de escopo deste PCDT três questões de pesquisa foram definidas (Quadro A). 
+Figura A. Definição da questão de pesquisa estruturada de acordo com o acrônimo PICO. 
+Quadro A. Questões PICO elencadas para atualização do PCDT da Osteoporose. 
+Ácido zoledrônico é eficaz, seguro e custo-efetivo no tratamento de pacientes com osteoporose com intolerância ou dificuldades de deglutição dos bisfosfonatos orais, comparado a alendronato, risedronato, 
+Denosumabe e teriparatida são eficazes, efetivos, seguros e custo-efetivos no tratamento de pacientes com osteoporose grave e falha terapêutica (após segunda fratura) comparado a bisfosfonatos e raloxifeno? 
+Denosumabe é eficaz, seguro e custo-efetivo no tratamento de pacientes com osteoporose com insuficiência renal grave (DCE < 30 mL/min), comparado a qualquer comparador ativo ou placebo? 
+A equipe de metodologistas do projeto PCDT do HAOC foi responsável pela busca e avaliação de evidências, segundo metodologia GRADE (Grading of Recommendations Assessment, Development and Evaluation) 1. A busca na literatura foi realizada nas bases de dados PubMed e Embase, bem como no Google Scholar e Epistemonikos. A estratégia de busca contemplou os vocabulários padronizados e não padronizados para cada base de dados para os elementos “P” e “I” da questão de pesquisa, combinados por meio de operadores booleanos apropriados. 
+O fluxo de seleção dos artigos foi descritivo. A seleção das evidências foi realizada por um metodologista e checada por outro ou por dois metodologistas independentes. Dessa forma, na etapa de triagem dos estudos por meio da leitura do título e resumo, os estudos que potencialmente preenchessem os critérios de elegibilidade (de acordo com a pergunta de pesquisa) foram mantidos, independentemente do delineamento do estudo. Havendo mais de uma revisão sistemática com meta-análise, a mais completa, atual e com menor risco de viés foi selecionada. Se a sobreposição dos estudos nas revisões sistemáticas com meta-análise era pequena, mais de uma revisão sistemática com meta-análise foi considerada. Quando a revisão sistemática não tinha meta-análise, preferiu-se considerar os estudos originais, por serem mais completos em relação 
+às descrições das variáveis demográfico-clínicas e desfechos de eficácia/segurança. 
+Adicionalmente, verificou-se a existência de ensaios clínicos randomizados adicionais, para complementar o corpo das evidências, que poderiam não ter sido incluídos nas revisões sistemáticas com meta-análises selecionadas por conta de limitações na estratégia de busca da revisão ou por terem sido publicados após a data de publicação da revisão sistemática considerada. Na ausência de ensaios clínicos randomizados, priorizou-se os estudos comparativos não randomizados. Os estudos excluídos na elegibilidade (leitura completa dos textos) tiveram suas razões de exclusão relatadas e referenciadas. O processo de seleção dos estudos foi representado em forma de fluxograma e pode ser visto ao longo do texto dos materiais suplementares específicos. 
+Com o corpo das evidências identificado, procedeu-se à extração dos dados quantitativos dos estudos. A extração dos dados foi feita por um metodologista e revisado por um segundo, em uma única planilha de Excel®. As características dos participantes nos estudos foram definidas com base na importância para interpretação dos achados e com o auxílio do especialista relator da questão. As características dos estudos também foram extraídas, bem como os desfechos de importância definidos na questão de pesquisa. 
+O risco de viés dos estudos foi avaliado de acordo com o delineamento de pesquisa e ferramenta específica. Se o estudo apresentasse baixo risco de viés, significaria que não havia nenhum comprometimento do domínio avaliado pela respectiva ferramenta. Se o estudo apresentasse alto risco de viés, os domínios da ferramenta que estavam comprometidos eram explicitados. Desta forma, o risco de viés de revisões sistemáticas foi avaliado pela ferramenta A MeaSurement Tool to 
+Assess systematic Reviews 2 (AMSTAR-2) 2, os ensaios clínicos randomizados pela ferramenta de risco de viés da Cochrane 
+- Risk of Bias – segunda versão (RoB) 3 e os estudos observacionais pela ferramenta Risk Of Bias In Non-Randomised Studies 
+- of Interventions (ROBINS-I) 4. 
+Após a finalização da extração dos dados, as tabelas foram editadas de modo a auxiliar na interpretação dos achados pelos especialistas. A seguir, podem ser consultadas as estratégias de busca, síntese e avaliação das evidências para cada uma das questões PICO avaliadas para o presente PCDT. 
+ÁCIDO ZOLEDRÔNICO PARA PACIENTES COM OSTEOPOROSE COM INTOLERÂNCIA OU 
+DIFICULDADES DE DEGLUTIÇÃO DOS BISFOSFONATOS ORAIS 5-6 
+Para a avaliação desta tecnologia, foi elaborada a seguinte pergunta de pesquisa: “Ácido zoledrônico é eficaz, seguro e custo-efetivo no tratamento de pacientes com osteoporose com intolerância ou dificuldades de deglutição dos bisfosfonatos orais, comparado a alendronato, risedronato, pamidronato ou placebo?” 
+Nesta pergunta, a população (P) foram os pacientes com osteoporose com intolerância ou dificuldades de deglutição dos bisfosfonatos orais; a intervenção (I) foi o ácido zoledrônico; o comparador alendronato, risedronato, pamidronato ou placebo (C); os outcomes/desfechos (O) primários ‘qualquer fratura osteoporótica’; e secundários, eventos adversos graves e não graves e a densidade mineral óssea; o desenho de estudo incluído (S) foi ensaio clínico randomizado. 
+A seguir, são apresentados o processo de busca da evidência, triagem e seleção de estudos, resultados e síntese dos dados, avaliação do risco de viés e avaliação da certeza na evidência. A avaliação detalhada dessa tecnologia encontra-se no 
+Relatório de Recomendação nº 741, de junho de 2022 - Ácido zoledrônico para pacientes com osteoporose com intolerância ou dificuldades de deglutição dos bisfosfonatos orais, disponível no site da Conitec 2. 
+Com base na pergunta estruturada no acrônimo PICOS, foi realizada uma busca em 10 de setembro de 2021 nas plataformas de busca PubMed e Embase. Não houve restrições com relação à data de publicação, mas houve em relação ao idioma na busca inicial para português, inglês e espanhol. As estratégias de busca podem ser vistas no Quadro B. 
+Quadro B. Estratégias de busca sobre o uso de ácido zoledrônico para tratamento da osteoporose 
+(((osteoporosis[MeSH Terms]) OR (osteoporosis[Title/Abstract])) 
+(risedronate[Title/Abstract])) OR (alendronate[Title/Abstract])) OR 
+(alendronate[MeSH Terms])) OR (pamidronate[MeSH Terms])) OR 
+(pamidronate[Title/Abstract])) OR (zoledronic acid[Title/Abstract])) 
+OR (zoledronic acid[MeSH Terms]))) AND (((randomized controlled trial[Publication Type]) OR (Controlled clinical trial[Publication 
+(randomized[Title/Abstract]) 
+(randomly[Title/Abstract]) OR (trial[Title/Abstract]))) 
+('osteoporosis'/exp OR osteoporosis) AND ('risedronic acid'/exp/mj 
+OR 'alendronic acid'/exp/mj OR 'pamidronic acid'/exp/mj OR 
+'zoledronic acid'/exp/mj) AND ('randomized controlled trial'/exp OR 
+'randomized controlled trial' OR (randomized AND controlled AND 
+('trial'/exp OR trial)) OR 'controlled clinical trial'/exp OR 'controlled clinical trial' OR randomized:ti,ab,kw OR randomly:ti,ab,kw OR 
+A revisão sistemática avaliou 2.533 registros depois de remoção de duplicidades, dos quais 2.259 foram considerados irrelevantes durante a triagem e 204 foram excluídos após leitura dos textos na íntegra. Desta forma, foram incluídos 70 estudos na análise final. O fluxograma do processo de seleção dos estudos pode ser visto na Figura B. 
+Figura B. Fluxograma da seleção dos estudos. 
+Resultados e síntese de dados 
+● Descrição dos estudos incluídos 
+Os estudos incluídos foram descritos narrativamente. As informações sobre cada um deles pode ser consultada no 
+Relatório de Recomendação nº 741, de junho de 2022 2, disponível no site da Conitec. 
+Foram conduzidas meta-análises para os desfechos de fratura geral, fratura vertebral, fratura não vertebral, DMO em coluna, em colo femoral, quadril, trocanter, evento adverso, evento adverso grave e evento adverso gastrointestinal. 
+A NMA foi composta por 36 estudos, os quais totalizaram 32.901 participantes. A Figura C demonstra a rede, na qual o tamanho dos nós representa o número de estudos e a espessura das linhas representa o tamanho da amostra. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. Para este desfecho, existem sete intervenções (ácido zoledrônico 5 mg, alendronato 10 mg, alendronato 20 mg, alendronato 70 mg semana, placebo, risedronato), com 21 estimativas de efeito relativo (Quadro C). Estes resultados foram apresentados usando uma matriz chamada tabela de classificação (ou league table), a qual contém todos informações sobre a eficácia relativa e sua incerteza para todos os pares de intervenções possíveis. A NMA também verificou a contribuição de cada par de intervenções e de cada estudo no resultado 
+Figura C. NMA para fratura geral em pacientes com osteoporose. 
+Ao considerar a NMA, o ácido zoledrônico possui menor risco para a ocorrência de fraturas quando comparado ao placebo (RR: 0,762; IC95%: 0,584 – 0,995) e não possui diferença significativa quando comparado aos demais tratamentos. 
+Quadro C. League table para fratura geral em pacientes com osteoporose. 
+A NMA foi composta por 16 estudos, os quais totalizaram 23.816 participantes. A Figura D demonstra a rede, na qual o tamanho dos nós representa o número de estudos e a espessura das linhas representa o tamanho da amostra. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. Para este desfecho, existem sete intervenções (ácido zoledrônico 5 mg, alendronato 10 mg, alendronato 20 mg, alendronato 70 mg semana, placebo, risedronato), com 21 estimativas de efeito relativo (Quadro D). 
+Figura D. NMA para fratura vertebral em pacientes com osteoporose. 
+Ao considerar a NMA, o ácido zoledrônico possui menor risco para a ocorrência de fraturas vertebrais quando comparado ao alendronato 10 mg (RR: 0,200; IC95%: 0,049 – 0,815) e placebo (RR: 0,343; IC95% 0,218 – 539) e não possui diferença significativa quando comparado aos demais tratamentos.
+Quadro D. League table fratura vertebral em pacientes com osteoporose. 
+A NMA foi composta por 15 estudos, os quais totalizaram 23.773 participantes. A Figura E demonstra a rede, na qual o tamanho dos nós representa o número de estudos e a espessura das linhas representa o tamanho da amostra. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. Para este desfecho, existem seis intervenções (ácido zoledrônico 5 mg, alendronato 10 mg, alendronato 20 mg, alendronato 70 mg semana, placebo, risedronato), com 153 estimativas de efeito relativo (Quadro E). 
+Figura E. NMA para fratura vertebral em pacientes com osteoporose. 
+Ao considerar a NMA, o ácido zoledrônico não possui diferença significativa quando comparado aos demais 
+Quadro E. League table fratura não vertebral em pacientes com osteoporose. 
+Densidade mineral óssea – Coluna vertebral 
+A NMA foi composta por 48 estudos, os quais totalizaram 28.897 participantes. A Figura F demonstra a rede na qual o tamanho dos nós representa o número de estudos e a espessura das linhas representa o tamanho da amostra. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. Para este desfecho, existem 10 intervenções 
+(alendronato 10 mg, alendronato 20 mg, placebo, alendronato 40 mg, alendronato 5 mg, alendronato 1 mg, alendronato 2,5 mg, alendronato 70 mg, risedronato, ácido zoledrônico 5 mg, pamidronato 150 mg, risedronato 35 mg, pamidronato 1x ano, pamidronato 4x ano ácido zoledrônico 2 mg), com 43 estimativas de efeito relativo (Quadro F). 
+Figura F. NMA para densidade mineral óssea na coluna vertebral em pacientes com osteoporose. 
+Ao considerar a obtenção do desfecho de densidade mineral óssea para coluna, a NMA demonstrou que o ácido zoledrônico possui aumento de 4,646% (IC 95%: 1,252 - 8,040) quando comparado ao placebo e não possui diferença significativa quando comparado ao demais tratamentos.
+Quadro F. League table densidade mineral óssea da coluna vertebral em pacientes com osteoporose. 
+Densidade mineral óssea – Colo femoral 
+A NMA foi composta por 39 estudos, os quais totalizaram 23.451 participantes. A Figura G demonstra a rede, na qual o tamanho dos nós representa o número de estudos e a espessura das linhas representa o tamanho da amostra. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. Para este desfecho, existem nove intervenções (ácido zoledrônico 5 mg, alendronato 10 mg, alendronato 20 mg, alendronato 70 mg semana, pamidronato 150 mg oral, pamidronato 
+1x IV, pamidronato 4x IV, placebo, risedronato), com 153 estimativas de efeito relativo (Quadro G). 
+Figura G. NMA para densidade mineral óssea no colo femoral em pacientes com osteoporose. 
+Ao considerar a obtenção do desfecho de densidade mineral óssea para colo femoral, a NMA demonstrou que o 
+ácido zoledrônico possui aumento de 2,785% (IC95%: 0,086 - 5,484) quando comparado ao placebo e não possui diferença significativa quando comparado ao demais tratamentos.
+Quadro G. League table densidade mineral óssea do colo femoral em pacientes com osteoporose. 
+Densidade mineral óssea – Quadril 
+A NMA foi composta por 32 estudos, os quais totalizaram 24.434 participantes. A Figura H demonstra a rede, na qual o tamanho dos nós representa o número de estudos e a espessura das linhas representa o tamanho da amostra. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. Para este desfecho, existem nove intervenções (ácido zoledrônico 5 mg, alendronato 10 mg, alendronato 20 mg, alendronato 70 mg semana, pamidronato 150 mg oral, pamidronato 
+1x IV, pamidronato 4x IV, placebo, risedronato), com 153 estimativas de efeito relativo (Quadro H). 
+Figura H. NMA para densidade mineral óssea no quadril em pacientes com osteoporose. 
+Ao considerar a obtenção do desfecho de densidade mineral óssea para quadril, a NMA demonstrou que o ácido zoledrônico possui aumento de 3,730% (IC95%: 1,244 - 6,216) quando comparado ao placebo e não possui diferença significativa quando comparado ao demais tratamentos.
+Quadro H. League table densidade mineral óssea do quadril em pacientes com osteoporose. 
+Densidade mineral óssea – Trocanter 
+A NMA foi composta por 32 estudos, os quais totalizaram 18.888 participantes. A Figura I demonstra a rede, na qual o tamanho dos nós representa o número de estudos e a espessura das linhas representa o tamanho da amostra. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. Para este desfecho, existem oito intervenções (ácido zoledrônico 5 mg, alendronato 10 mg, alendronato 20 mg, alendronato 70 mg semana, pamidronato 150 mg oral, pamidronato 
+1x IV, pamidronato 4x IV, placebo, risedronato), com 153 estimativas de efeito relativo (Quadro I). 
+Figura I. NMA para densidade mineral óssea no trocanter em pacientes com osteoporose. 
+Ao considerar a obtenção do desfecho de densidade mineral óssea para trocanter, a NMA demonstrou que o ácido zoledrônico não possui diferença significativa quando comparado ao demais tratamentos e ao placebo.
+Quadro I. League table densidade mineral óssea do trocanter em pacientes com osteoporose. 
+A NMA foi composta por 46 estudos, os quais totalizaram 23.605 participantes. A Figura J demonstra a rede, na qual o tamanho dos nós representa o número de estudos e a espessura das linhas representa o tamanho da amostra. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. Para este desfecho, existem oito intervenções (Ácido zoledrônico 5 mg, alendronato 10 mg, alendronato 20 mg, alendronato 70 mg semana, pamidronato 150 mg oral, pamidronato 
+1x IV, pamidronato 4x IV, placebo, risedronato), com 153 estimativas de efeito relativo (Quadro J). 
+Figura J. NMA para evento adverso em pacientes com osteoporose. 
+Ao considerar a NMA, o ácido zoledrônico possui maior risco para a ocorrência de eventos adversos quando comparado ao alendronato 70 mg de uso semanal (RR: 1,093; IC95% 1,009 – 1,184) e placebo (RR: 1,048; IC95%: 1,017 – 
+Quadro J. League table de eventos adversos em pacientes com osteoporose. 
+A NMA foi composta por 39 estudos, os quais totalizaram 26.296 participantes. A Figura K demonstra a rede, na qual o tamanho dos nós representa o número de estudos e a espessura das linhas representa o tamanho da amostra. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. Para este desfecho, existem seis intervenções (ácido zoledrônico 5 mg, alendronato 10 mg, alendronato 20 mg, alendronato 70 mg semana, placebo, risedronato), com 153 estimativas de efeito relativo (Quadro K). 
+Figura K. NMA para evento adverso grave em pacientes com osteoporose. 
+Ao considerar a NMA, o ácido zoledrônico possui maior risco para a ocorrência de eventos adversos quando comparado ao alendronato 70 mg de uso semanal (RR: 1,577; IC95%: 1,020 – 2,438).
+Quadro K. League table de evento adverso grave em pacientes com osteoporose. 
+Evento adverso gastrointestinal 
+A NMA foi composta por 39 estudos, os quais totalizaram 26.413 participantes. A Figura L demonstra a rede, na qual o tamanho dos nós representa o número de estudos e a espessura das linhas representa o tamanho da amostra. A NMA permitiu comparar o efeito relativo entre qualquer par de intervenções. Para este desfecho, existem sete intervenções (ácido zoledrônico 5 mg, alendronato 10 mg, alendronato 20 mg, alendronato 70 mg semana, placebo, risedronato), com 153 estimativas de efeito relativo (Quadro L). 
+Figura L. NMA para evento adverso gastrointestinal em pacientes com osteoporose. 
+Ao considerar a NMA, o ácido zoledrônico não possui maior risco para a ocorrência de eventos adversos 
+Quadro L. League table de evento adverso gastrointestinal em pacientes com osteoporose. 
+Avaliação do risco de viés 
+De modo geral, os estudos apresentaram algumas preocupações. No total, 15 estudos apresentaram baixo viés global; 
+30, algumas preocupações e 25, alto risco de viés. Os principais motivos para redução foram randomização, desvio das intervenções pretendidas, dados perdidos e mensuração do desfecho. A avaliação de cada estudo está descrita no Quadro M. 
+Quadro M. Sumário da avaliação do risco de viés dos ECR por meio da ferramenta Rob2. 
+Avaliação da certeza na evidência 
+Os Quadros N a W descrevem a avaliação da certeza da evidência por desfecho.
+Quadro N. Avaliação geral da evidência – fratura geral. 
+Ácido Zoledrônico 5 mg - Placebo 
+Alendronato 10 mg - Placebo 
+Alendronato 10 mg - Risedronato 
+Alendronato 20 mg - Placebo 
+Alendronato 70 mg semana - Placebo 
+Alendronato 70 mg semana - risedronato 
+Pamidronato 150 mg oral - Placebo 
+Ácido Zoledrônico 5 mg – Alendronato 10 mg 
+Ácido zoledrônico 5 mg – Alendronato 20 mg 
+Ácido Zoledrônico 5 mg – Alendronato 70 mg 
+Ácido Zoledrônico 5 mg – Pamidronato 150 mg 
+Ácido Zoledrônico 5 mg – risedronato 
+Alendronato 10 mg – Alendronato 20 mg 
+Alendronato 10 mg – Alendronato 70 mg semana 
+Alendronato 10 mg – pamidronato 150 mg oral 
+Alendronato 20 mg – Alendronato 70 mg semana 
+Alendronato 20 mg - pamidronato 150 mg oral 
+Alendronato 20 mg - risedronato 
+Alendronato 70 mg semana – pamidronato 150 
+Pamidronato 150 mg oral - risedronato 
+Legenda: NP: nenhuma preocupação; AP: Algumas preocupações; GP: Grandes preocupações; BR: Baixo risco 
+Quadro O. Avaliação geral da evidência – fratura vertebral. 
+Alendronato 10 mg - Placebo 
+Alendronato 20 mg - Placebo 
+Alendronato 70 mg semana - Placebo 
+Pamidronato 150 mg oral - Placebo 
+Ácido Zoledrônico 5mg - Alendronato 10 
+Ácido Zoledrônico 5mg - Alendronato 20 
+Ácido Zoledrônico 5mg - Alendronato 70 
+Ácido Zoledrônico 5mg - pamidronato 
+Ácido Zoledrônico 5 mg - risedronato 
+Alendronato 10 mg - Alendronato 20 mg 
+Alendronato 10 mg - Alendronato 70 mg 
+Alendronato 10 mg - pamidronato 150 mg 
+Alendronato 10 mg - risedronato 
+Alendronato 20 mg - Alendronato 70 mg 
+Alendronato 20 mg - pamidronato 150 mg 
+Alendronato 20 mg - risedronato 
+Alendronato 70 mg semana - pamidronato 
+Alendronato 70 mg semana - risedronato 
+Pamidronato 150 mg oral - risedronato 
+Legenda: NP - nenhuma preocupação; AP - Algumas preocupações; GP - Grandes preocupações; BR - Baixo risco 
+Quadro P. Avaliação geral da evidência – fratura não vertebral. 
+Ácido Zoledrônico 5 mg - Placebo 
+Alendronato 10 mg - Placebo 
+Alendronato 20 mg - Placebo 
+Alendronato 70 mg semana - 
+Alendronato 10 mg - Alendronato 
+Alendronato 10 mg - Alendronato 
+Alendronato 10 mg - risedronato 
+Alendronato 20 mg - Alendronato 
+Alendronato 20 mg - risedronato 
+Alendronato 70 mg semana - 
+Legenda: NP - nenhuma preocupação; AP - Algumas preocupações; GP - Grandes preocupações; BR - Baixo risco 
+Quadro Q. Avaliação geral da evidência – densidade mineral óssea da coluna vertebral 
+Alendronato 10 mg - Placebo 
+Alendronato 20 mg - Placebo 
+Alendronato 40 mg - Placebo 
+Alendronato 70 mg semana - 
+Alendronato 70 mg semana - 
+Pamidronato 150 mg oral - 
+Pamidronato 1 x ano - Placebo 
+Pamidronato 4 x ano - Placebo 
+Alendronato 70 mg semana - 
+Alendronato 70 mg semana - 
+Alendronato 70 mg semana - 
+Pamidronato 150 mg oral - 
+Pamidronato 150 mg oral - 
+Pamidronato 150 mg oral - 
+Legenda: NP - nenhuma preocupação; AP - Algumas preocupações; GP - Grandes preocupações; BR - Baixo risco 
+Quadro R. Avaliação geral da evidência – densidade mineral óssea do colo femoral 
+Ácido Zoledrônico 5 mg - Placebo 
+Alendronato 10 mg - Alendronato 
+Alendronato 10 mg - Placebo 
+Alendronato 10 mg - risedronato 
+Alendronato 20 mg - Placebo 
+Alendronato 70 mg semana - 
+Alendronato 70 mg semana - pamidronato 150 mg oral - pamidronato 1 x ano - Placebo pamidronato 4 x ano - Placebo 
+Alendronato 10 mg - Alendronato 
+Alendronato 10 mg - pamidronato 
+Alendronato 10 mg - pamidronato 
+Alendronato 10 mg - pamidronato 
+Alendronato 20 mg - Alendronato 
+Alendronato 20 mg - pamidronato 
+Alendronato 20 mg - pamidronato 
+Alendronato 20 mg - pamidronato 
+Alendronato 20 mg - risedronato 
+Alendronato 70 mg semana - 
+Alendronato 70 mg semana - 
+Alendronato 70 mg semana - 
+Pamidronato 150 mg oral - 
+Pamidronato 150 mg oral - 
+Pamidronato 150 mg oral - 
+Pamidronato 1 x ano - risedronato 
+Pamidronato 4 x ano - risedronato 
+Legenda: NP - nenhuma preocupação; AP - Algumas preocupações; GP - Grandes preocupações; BR - Baixo risco 
+Quadro S. Avaliação geral da evidência – densidade mineral óssea do quadril 
+Ácido Zoledrônico 5 mg - Placebo 
+Alendronato 10 mg - Alendronato 20 mg 
+Alendronato 10 mg - Alendronato 40 mg 
+Alendronato 10 mg - Placebo 
+Alendronato 10 mg - risedronato 
+Alendronato 20 mg - Alendronato 40 mg 
+Alendronato 20 mg - Placebo 
+Alendronato 40 mg - Placebo 
+Alendronato 70 mg semana - Placebo 
+Alendronato 70 mg semana - risedronato 
+Pamidronato 1 x ano - Placebo 
+Pamidronato 4 x ano - Placebo 
+Pamidronato 1 x ano - pamidronato 4 x ano 
+Ácido Zoledrônico 5 mg - Alendronato 10 
+Ácido Zoledrônico 5 mg - Alendronato 20 
+Ácido Zoledrônico 5 mg - Alendronato 40 
+Ácido Zoledrônico 5 mg - Alendronato 70 
+Ácido Zoledrônico 5 mg - pamidronato 1 x 
+Ácido Zoledrônico 5 mg - pamidronato 4 x 
+Ácido Zoledrônico 5 mg - risedronato 
+Alendronato 10 mg - Alendronato 70 mg 
+Alendronato 10 mg - pamidronato 1 x ano 
+Alendronato 10 mg - pamidronato 4 x ano 
+Alendronato 20 mg - Alendronato 70 mg 
+Alendronato 20 mg - pamidronato 1 x ano 
+Alendronato 20 mg - pamidronato 4 x ano 
+Alendronato 20 mg - risedronato 
+Alendronato 40 mg - Alendronato 70 mg 
+Alendronato 40 mg - pamidronato 1 x ano 
+Alendronato 40 mg - pamidronato 4 x ano 
+Alendronato 40 mg - risedronato 
+Alendronato 70 mg semana - pamidronato 1 
+Alendronato 70 mg semana - pamidronato 4 
+Pamidronato 1 x ano - risedronato 
+Pamidronato 4 x ano - risedronato 
+Legenda: NP - nenhuma preocupação; AP - Algumas preocupações; GP - Grandes preocupações; BR - Baixo risco 
+Quadro T. Avaliação geral da evidência – densidade mineral óssea do trocanter. 
+Alendronato 10 mg - Alendronato 20 mg 
+Alendronato 10 mg - Placebo 
+Alendronato 10 mg - risedronato 
+Alendronato 20 mg - Placebo 
+Alendronato 70 mg semana - Placebo 
+Alendronato 70 mg semana - risedronato 
+Ácido Zoledrônico 5 mg - Placebo 
+Pamidronato 1 x ano - Placebo 
+Pamidronato 4 x ano - Placebo 
+Pamidronato 1 x ano - pamidronato 4 x ano 
+Alendronato 10 mg - Alendronato 70 mg 
+Ácido Zoledrônico 5 mg - Alendronato 10 
+Alendronato 10 mg - pamidronato 1 x ano 
+Alendronato 10 mg - pamidronato 4 x ano 
+Alendronato 20 mg - Alendronato 70 mg 
+Ácido Zoledrônico 5 mg - Alendronato 20 
+Alendronato 20 mg - pamidronato 1 x ano 
+Alendronato 20 mg - pamidronato 4 x ano 
+Alendronato 20 mg - risedronato 
+Ácido Zoledrônico 5 mg - Alendronato 70 
+Alendronato 70 mg semana - pamidronato 
+Alendronato 70 mg semana - pamidronato 
+Ácido Zoledrônico 5 mg - pamidronato 1 
+Ácido Zoledrônico 5 mg - pamidronato 4 x 
+Ácido Zoledrônico 5 mg - risedronato 
+Pamidronato 1 x ano - risedronato 
+Pamidronato 4 x ano - risedronato 
+Legenda: NP - nenhuma preocupação; AP - Algumas preocupações; GP - Grandes preocupações; BR - Baixo risco. 
+Quadro U. Avaliação geral da evidência – evento adverso 
+Ácido Zoledrônico 5 mg - Alendronato 10 
+Ácido Zoledrônico 5 mg - Alendronato 70 
+Ácido Zoledrônico 5 mg - Placebo 
+Alendronato 10 mg - Alendronato 20 mg 
+Alendronato 10 mg - Placebo 
+Alendronato 10 mg - risedronato 
+Alendronato 20 mg - Placebo 
+Alendronato 70 mg semana - Placebo 
+Alendronato 70 mg semana - risedronato 
+Pamidronato 1 x ano - Placebo 
+Pamidronato 4 x ano - Placebo 
+Pamidronato 1 x ano - pamidronato 4 x ano 
+Ácido Zoledrônico 5 mg - Alendronato 20 
+Ácido Zoledrônico 5 mg - pamidronato 1 x 
+Ácido Zoledrônico 5 mg - pamidronato 4 x 
+Ácido Zoledrônico 5 mg - risedronato 
+Alendronato 10 mg - Alendronato 70 mg 
+Alendronato 10 mg - pamidronato 1 x ano 
+Alendronato 10 mg - pamidronato 4 x ano 
+Alendronato 20 mg - Alendronato 70 mg 
+Alendronato 20 mg - pamidronato 1 x ano 
+Alendronato 20 mg - pamidronato 4 x ano 
+Alendronato 20 mg - risedronato 
+Alendronato 70 mg semana - pamidronato 
+Alendronato 70 mg semana - pamidronato 
+Pamidronato 1 x ano - risedronato 
+Pamidronato 4 x ano - risedronato 
+Legenda: NP - nenhuma preocupação; AP - Algumas preocupações; GP - Grandes preocupações; BR - Baixo risco 
+Quadro V. Avaliação geral da evidência – evento adverso grave. 
+Ácido Zoledrônico 5 mg - Placebo 
+Alendronato 10 mg - Alendronato 20 mg 
+Alendronato 10 mg - Placebo 
+Alendronato 10 mg - risedronato 
+Alendronato 20 mg - Placebo 
+Alendronato 70 mg semana - Placebo 
+Alendronato 70 mg semana - risedronato 
+Ácido Zoledrônico 5 mg - Alendronato 10 
+Ácido Zoledrônico 5 mg - Alendronato 20 
+Ácido Zoledrônico 5 mg - Alendronato 70 
+Ácido Zoledrônico 5 mg - risedronato 
+Alendronato 10 mg - Alendronato 70 mg 
+Alendronato 20 mg - Alendronato 70 mg 
+Alendronato 20 mg - risedronato 
+Legenda: NP - nenhuma preocupação; AP - Algumas preocupações; GP - Grandes preocupações; BR - Baixo risco. 
+Quadro W. Avaliação geral da evidência – evento adverso gastrointestinal. 
+Alendronato 10 mg - Alendronato 20 mg 
+Alendronato 10 mg - Placebo 
+Alendronato 10 mg - risedronato 
+Alendronato 20 mg - Placebo 
+Alendronato 70 mg semana - Placebo 
+Ácido Zoledrônico 5 mg - Alendronato 70 
+Alendronato 70 mg semana - risedronato 
+Ácido Zoledrônico 5 mg - Placebo 
+Pamidronato 150 mg oral - Placebo 
+Alendronato 10 mg - Alendronato 70 mg 
+Ácido Zoledrônico 5 mg - Alendronato 10 
+Alendronato 10 mg - pamidronato 150 mg 
+Alendronato 20 mg - Alendronato 70 mg 
+Ácido Zoledrônico 5 mg - Alendronato 20 
+Alendronato 20 mg - pamidronato 150 mg 
+Alendronato 20 mg - risedronato 
+Alendronato 70 mg semana - pamidronato 
+Ácido Zoledrônico 5 mg - pamidronato 150 
+Ácido Zoledrônico 5 mg - risedronato 
+Pamidronato 150 mg oral - risedronato 
+Legenda: NP - nenhuma preocupação; AP - Algumas preocupações; GP - Grandes preocupações; BR - Baixo risco
+DENOSUMABE E TERIPARATIDA PARA O TRATAMENTO INDIVÍDUOS COM OSTEOPOROSE GRAVE E 
+FALHA TERAPÊUTICA AOS MEDICAMENTOS DISPONÍVEIS NO SISTEMA ÚNICO DE SAÚDE 7-8 
+Para a avaliação desta tecnologia, foi elaborada a seguinte pergunta de pesquisa: “Denosumabe e teriparatida são eficazes, efetivos, seguros e custo-efetivos no tratamento de pacientes com osteoporose grave e falha terapêutica (após segunda fratura) comparado a bisfosfonatos e raloxifeno?” 
+Nesta pergunta, população (P) foram os pacientes com osteoporose grave e falha terapêutica (após segunda fratura); as intervenções (I) foram denosumabe e teriparatida; os comparadores (C) foram os bisfosfonatos e raloxifeno; os outcomes/desfechos (O) primários número de pacientes com ao menos uma nova fratura vertebral; número de pacientes com ao menos uma nova fratura não vertebral; número de pacientes com descontinuação de tratamento devido a evento adverso; número de pacientes com ao menos um evento adverso grave; e secundários, mudança percentual da densidade mineral óssea de colo femoral; mudança percentual da densidade mineral óssea de coluna lombar; mudança percentual da densidade mineral 
+óssea de quadril total; número de pacientes com ao menos uma nova fratura clínica; número de pacientes com ao menos uma nova ou piora de fratura relacionada à osteoporose; número de pacientes com ao menos um evento adverso; e os desenhos de estudo (S) foram revisões sistemáticas, ensaios clínicos randomizados e estudos de coorte comparativos. Após definição da pergunta PICO em 2019, foi identificada necessidade de adequação da pergunta PICO, em que foram acrescentados aos compradores o ácido zoledrônico, teriparatida e denosumabe. 
+A seguir, são apresentados o processo de busca da evidência, triagem e seleção de estudos, resultados e síntese dos dados, avaliação do risco de viés e avaliação da certeza na evidência. A avaliação detalhada dessa tecnologia encontra-se no 
+Relatório de Recomendação nº 742, de junho de 2022 - Denosumabe e teriparatida para o tratamento indivíduos com osteoporose grave e falha terapêutica aos medicamentos disponíveis no Sistema Único de Saúde8. 
+Com base na pergunta PICO estruturada, foi realizada uma busca em maio de 2021 nas seguintes plataformas: 
+PubMed, EMBASE e The Cochrane Library. Para validação da estratégia de busca, uma busca no Epistemonikos foi realizada visando a identificação de potenciais revisões sistemáticas não recuperadas nas bases principais e estudos primários recuperados por essas revisões. O Quadro X a seguir detalha as estratégias de busca efetuadas em cada plataforma. 
+Quadro X. Estratégia de busca nas plataformas consultadas em maio de 2021. 
+"osteoporosis"[MH] OR osteoporo*[TIAB] OR “bone loss”[TIAB] OR “bone losses”[TIAB] OR 
+Fractures, Bone[MH] OR “Bone Fractures”[TIAB] OR “Bone Fracture”[TIAB] OR “Broken 
+Bone”[TIAB] OR “Broken Bones”[TIAB] OR Bone Resorption[MH] OR “Bone Resorption”[TIAB] 
+OR “Bone Resorptions”[TIAB] OR Bone Density[MH] OR “Bone Density”[TIAB] OR “Bone 
+Densities”[TIAB] OR “Bone Mineral Density”[TIAB] OR “Bone Mineral Densities”[TIAB] OR 
+“Bone Mineral Content”[TIAB] OR “Bone Mineral Contents”[TIAB] teriparatid*[TIAB] OR "teriparatide"[MH] OR "denosumab"[MH] OR "denosumab"[TIAB] OR 
+Parathar[TIAB] OR Forteo[TIAB] OR Prolia[TIAB] 
+(animals[MH:noexp] NOT (animals[MH:noexp] AND humans[MH])) 
+(editorial[PT] OR historical article[PT] OR Case Reports[PT] OR News[PT]) 
+('osteoporosis':ti,ab,kw OR osteoporo*:ti,ab,kw OR 'bone loss':ti,ab,kw OR 'bone losses':ti,ab,kw OR 
+'fractures, bone':ti,ab,kw OR 'bone fractures':ti,ab,kw OR 'bone fracture':ti,ab,kw OR 'broken bone':ti,ab,kw OR 'broken bones':ti,ab,kw OR 'bone resorption':ti,ab,kw OR 'bone resorptions':ti,ab,kw 
+OR 'bone density':ti,ab,kw OR 'bone densities':ti,ab,kw OR 'bone mineral density':ti,ab,kw OR 'bone mineral densities':ti,ab,kw OR 'bone mineral content':ti,ab,kw OR 'bone mineral contents':ti,ab,kw) 
+(teriparatid*:ti,ab,kw OR 'denosumab':ti,ab,kw OR parathar:ti,ab,kw OR forteo:ti,ab,kw OR 
+[embase]/lim NOT ([embase]/lim AND [medline]/lim) osteoporo* OR “bone loss” OR “bone losses” OR “Bone Fractures” OR “Bone Fracture” OR “Broken 
+Bone” OR “Broken Bones” OR “Bone Resorption” OR “Bone Resorptions” OR “Bone Density” OR 
+“Bone Densities” OR “Bone Mineral Density” OR “Bone Mineral Densities” OR “Bone Mineral 
+Content” OR “Bone Mineral Contents” teriparatid* OR "denosumab" OR Parathar OR Forteo OR Prolia 
+Foram recuperadas 5.825 publicações nas bases de dados consultadas, restando 5.621 após remoção de duplicatas identificadas eletronicamente. Durante a seleção, 5.071 registros foram considerados irrelevantes na triagem e 543 foram excluídos na etapa de leitura na íntegra, o que pode ser observado na Figura M. Assim, sete registros foram incluídos, referente a seis estudos: cinco ECR e um estudo de coorte comparativa. 
+Figura M. Fluxograma de seleção dos estudos. 
+Resultados e síntese de dados 
+● Descrição dos estudos incluídos 
+Os estudos incluídos foram descritos com auxílio de quadros e tabelas. As informações sobre cada um deles podem ser consultadas no Relatório de Recomendação nº 742, de junho de 20228, disponível no site da Conitec. 
+Foram conduzidas meta-análises para todos os desfechos. Os resultados são apresentados nas Tabelas A a D8. 
+Tabela A. Meta-análise para fratura vertebral, considerando apenas estudos que atendem aos critérios de elegibilidade deste relatório de recomendação 
+Interpretação: O triângulo inferior corresponde aos resultados das meta-análises em rede, enquanto o triângulo superior aos resultados das metaanálises diretas. A leitura deve ser feita da esquerda para a direita, por exemplo, teriparatida reduz o risco de fraturas vertebrais em relação a todos os comparadores (de 50% a 65%), exceto alendronato. As terapias são ranqueadas pela probabilidade de ser a opção mais eficaz, portanto, para esse desfecho teriparatida tem potencial de ser a terapia mais eficaz e alendronato a terapia menos eficaz. 
+Tabela B. Meta-análise para fratura não vertebral, considerando apenas estudos que atendem aos critérios de elegibilidade deste relatório de recomendação 
+Interpretação: O triângulo inferior corresponde aos resultados das meta-análises em rede, enquanto o triângulo superior aos resultados das metaanálises diretas. A leitura deve ser feita da esquerda para a direita, por exemplo, teriparatida reduz o risco de fraturas não vertebrais em relação a placebo 
+(54%). As terapias são ranqueadas pela probabilidade de ser a opção mais eficaz, portanto, para esse desfecho teriparatida tem potencial de ser a terapia mais eficaz e placebo a opção menos eficaz. 
+Tabela C. Meta-análise para mudança da DMO em colo femoral, considerando apenas estudos que atendem aos critérios de elegibilidade deste relatório de recomendação (caso-base). 
+Interpretação: O triângulo inferior corresponde aos resultados das meta-análises em rede, enquanto o triângulo superior aos resultados das metaanálises diretas. A leitura deve ser feita da esquerda para a direita, por exemplo, teriparatida aumenta a DMO em relação a todos os comparadores (de 1,34% a 3,51% a mais que estes comparadores). As terapias são ranqueadas pela probabilidade de ser a opção mais eficaz, portanto, para esse desfecho teriparatida tem potencial de ser a terapia mais eficaz e ácido zoledrônico a terapia menos eficaz. 
+Tabela D. Meta-análise para mudança da DMO em coluna lombar, considerando apenas estudos que atendem aos critérios de elegibilidade deste relatório de recomendação (caso-base). 
+Interpretação: O triângulo inferior corresponde aos resultados das meta-análises em rede, enquanto o triângulo superior aos resultados das metaanálises diretas. A leitura deve ser feita da esquerda para a direita, por exemplo, teriparatida aumenta a DMO em relação a todos os comparadores (de 5,17% a 9,47% a mais que estes comparadores). As terapias são ranqueadas pela probabilidade de ser a opção mais eficaz, portanto, para esse desfecho teriparatida tem potencial de ser a terapia mais eficaz e ácido zoledrônico a terapia menos eficaz. 
+Avaliação do risco de viés 
+A avaliação do risco de viés para os desfechos primários é apresentada na Figura N e no Quadro Y. 
+Figura N. Risco de viés por estudo e desfecho 
+Legenda: D: domínio; DMO: densidade mineral óssea. 
+Quadro Y. Avaliação dos estudos observacionais, segundo a ROBINS-I. 
+Avaliação da certeza na evidência 
+A avaliação da certeza na evidência dos desfechos primários é apresentada no Quadro Z.
+Quadro Z. Avaliação da qualidade da evidência (adaptado da ferramenta GRADE). 
+Pacientes com ao menos uma nova fratura vertebral (desfecho primário) 
+Pacientes com descontinuação de tratamento por evento adverso (desfecho primário) 
+Pacientes com ao menos um evento adverso grave (desfecho primário) 
+Mudança da densidade mineral óssea percentual de colo femoral (desfecho secundário) 
+Mudança da densidade mineral óssea percentual de coluna lombar (desfecho secundário) a. Algumas preocupações para domínios relativos à randomização, desvio da intervenção pretendida e reporte seletivo de resultado. b. Similaridade estatística entre comparadores. c. Algumas preocupações devido a problemas nos domínios relativos à randomização, desvio da intervenção pretendida e reporte seletivo de resultado. 
+ECR: ensaio clínico randomizado; IC: intervalo de confiança; MD: diferença média; RR: risco relativo.
+DENOSUMABE PARA O TRATAMENTO DE OSTEOPOROSE E DOENÇA RENAL CRÔNICA EM ESTÁGIO 4 e 5 
+Para a avaliação desta tecnologia, foi elaborada a seguinte pergunta de pesquisa: “Denosumabe é eficaz, seguro e custo-efetivo no tratamento de pacientes com osteoporose com insuficiência renal grave (DCE < 30 mL/min), comparado a qualquer comparador ativo ou placebo?” 
+Nesta pergunta, população (P) foram os pacientes com osteoporose com insuficiência renal grave (DCE < 30 mL/min); intervenção (I) foi o denosumabe; comparador (C) foi qualquer comparador ativo ou placebo; outcomes/desfechos (O) primários foram novas fraturas vertebrais e não vertebrais; e eventos adversos graves; e os secundários DMO de colo femoral, coluna lombar e no quadril total em relação ao baseline, eventos adversos em geral; e os desenhos de estudo (S) foram revisão sistemática com e sem meta-análise, ensaios clínicos randomizados, estudos de coorte (prospectivos e retrospectivo) com 
+A seguir, são apresentados o processo de busca da evidência, triagem e seleção de estudos, resultados e síntese dos dados, avaliação do risco de viés e avaliação da certeza na evidência. A avaliação detalhada dessa tecnologia encontra-se no 
+Relatório de Recomendação nº 740, de junho de 2022 - denosumabe para o tratamento de osteoporose e doença renal crônica 
+Com base na pergunta PICO estruturada, foram realizadas buscas nas plataformas Medline (PUBMED) e EMBASE. 
+As estratégias de busca adotadas em cada uma das plataformas, assim como os resultados obtidos, são apresentadas no 
+Quadro AA. Estratégias de busca nas plataformas consultadas em 01/06/2021. 
+("Osteoporosis"[Mesh] OR "Osteoporosis" OR Osteoporoses OR "Osteoporosis, Post-Traumatic" 
+OR "Osteoporosis, Post Traumatic" OR "Post-Traumatic Osteoporoses" OR "Post-Traumatic 
+Osteoporosis" OR "Osteoporosis, Senile" OR "Osteoporoses, Senile" OR "Senile Osteoporoses" OR 
+"Osteoporosis, Involutional" OR "Senile Osteoporosis" OR "Osteoporosis, Age-Related" OR 
+"Osteoporosis, Age Related" OR "Bone Loss, Age-Related" OR "Age-Related Bone Loss" OR "AgeRelated Bone Losses" OR "Bone Loss, Age Related" OR "Bone Losses, Age-Related" OR "AgeRelated Osteoporosis" OR "Age Related Osteoporosis" OR "Age-Related Osteoporoses" OR 
+"Osteoporoses, Age-Related") AND ("Denosumab"[Mesh] OR "AMG 162" OR Prolia) 
+('osteoporosis'/exp OR 'endocrine osteoporosis' OR 'osteoporotic decalcification') AND 
+('denosumab'/exp OR 'amg 162' OR 'amg162' OR 'amgiva' OR prolia) NOT [1-6-2021]/sd AND 
+Foram encontradas 6.030 publicações nas plataformas de busca (1.378 no MEDLINE e 4.649 no EMBASE) e três por meio de busca manual. Após a remoção de duplicatas, 4.836 registros foram triados (leitura de título e resumo). Na fase seguinte, 94 textos completos foram avaliados quanto a elegibilidade. Ao final, um artigo foi incluído na revisão. A Figura 
+O descreve o fluxograma da seleção dos estudos e suas etapas. 
+Figura O. Fluxograma da seleção das evidências. 
+Resultados e síntese de dados 
+Na comparação entre denosumabe e placebo, o denosumabe pode fazer pouca ou nenhuma diferença no risco de fratura vertebral (risco relativo, RR 0,35, intervalo de confiança de 95%, IC 95% 0,04; 3,23). O mesmo acontece para fratura não vertebral, não houve diferença estatisticamente significante entre os comparadores (RR 0,51, IC 95% 0,05; 5,42), conforme apresentado na Figura P. 
+Figura P. Forest plots das meta-análises para desfechos de fraturas vertebrais (1.1) e não vertebrais (1.2). 
+Mudança percentual na densidade mineral óssea (DMO) 
+As alterações na DMO colo femoral e quadril total foram a favor do denosumabe, quando comparado ao placebo. O denosumabe foi associado a um aumento significativo (p≤ 0,0002) de 5,9% (IC 95% 3,3; 8,5) na DMO colo femoral e 5,9% 
+(IC 95% 3,0; 8,7) na DMO de quadril total ao longo de 36 meses. Na DMO da coluna lombar não houve diferença estatisticamente significante entre denosumabe e placebo (percentual de diferença de 5,0%, IC 95% -0,8; 10,8). 
+Na comparação entre denosumabe e placebo, não houve diferenças na incidência de eventos adversos graves 
+(denosumabe n= 15 e placebo n= 13), conforme apresentado na Tabela E. 
+Eventos adversos graves relacionados à infecção e cardiovasculares 
+Na comparação entre denosumabe e placebo não houve diferença na incidência de eventos adversos graves relacionados à infecção (denosumabe n= 4 e placebo n= 1) ou eventos adversos cardiovasculares graves (denosumabe n= 4 e placebo n= 3), conforme apresentado na Tabela E. 
+Tabela E. Incidência de eventos adversos na comparação denosumabe e placebo. 
+Placebo, n participantes (%) 
+Denosumabe, n participantes 
+Pacientes com eventos adversos 
+Pacientes com eventos adversos grave graves relacionados à infecção 
+Avaliação do risco de viés 
+A avaliação do risco de viés está descrita na Figura Q. 
+Figura Q. Avaliação do risco de viés dos estudos incluídos por tipo de desfecho. 
+Domínios do risco de viés 
+Estudo/ Comparação/ Desfecho avaliado 
+D1: Risco de viés decorrente do processo de randomização 
+D2: Risco de viés devido a desvios das intervenções pretendidas 
+D3: Risco de viés devido à falta de dados de resultados 
+D4: Risco de viés na medição do resultado 
+D5: Risco de viés na seleção do resultado relatado 
+Avaliação da certeza na evidência 
+A avaliação da certeza na evidência está descrita na Tabela F.
+Tabela F: Sumarização dos resultados dos estudos incluídos (Summary of Findings; SoF) e avaliação da qualidade da evidência (do webapp Grade PRO). 
+Novas fraturas de qualquer tipo (População com osteoporose) 
+Novas fraturas vertebrais (População com osteoporose e DRC estágios 4 e 5) 
+Novas fraturas não vertebrais (População com osteoporose e DRC estágios 4 e 5) 
+DMO coluna lombar (População com osteoporose) 
+Percentual de mudança a favor do denosumabe: 
+5,41% (IC 95%: 1,92; 8,90), p=0,002. 
+DMO coluna lombar (População com osteoporose e DRC estágios 4 e 5) 
+Percentual de mudança a favor do denosumabe: 5,0% 
+(IC 95% -0,8; 10,8), p> 0,05. 
+DMO quadril total (População com osteoporose) 
+Percentual de mudança a favor do denosumabe: 
+1,65% (IC 95%: 1,12; 2,19), p<0,0001. 
+DMO quadril total (População com osteoporose e DRC estágios 4 e 5) 
+Percentual de mudança a favor do denosumabe: 5,9% 
+(IC 95% 3,0; 8,7), p≤ 0,0002. 
+DMO colo femoral (População com osteoporose) 
+Percentual de mudança a favor do denosumabe: 
+1,79% (IC 95%: 1,06; 2,52), p<0,0001. 
+DMO colo femoral (População com osteoporose e DRC estágios 4 e 5) 
+Percentual de mudança a favor do denosumabe: 5,9% 
+(IC 95% 3,3; 8,5), p≤ 0,0002. 
+Eventos adversos geral (População com osteoporose) 
+Eventos adversos em geral (População com osteoporose e DRC estágios 4 e 5) 
+Eventos adversos graves (População com osteoporose) 
+Eventos adversos graves (População com osteoporose e DRC estágios 4 e 5) 
+IC: Intervalo de confiança; DM: Diferença média; RR: Risco relativo. a. ausência de informação quanto ao método utilizado para garantir o sigilo da alocação durante a randomização; b. ausência de cegamento de participantes; c. heterogeneidade considerável; d. população diferente da proposta, estudo realizado em mulheres com osteoporose na pós-menopausa. Evidência avaliada para pacientes com osteoporose e doença renal crônica em estágios avançados (4 e 5); e. ausência de informação de desvios da intervenção pretendida; f. o resultado ultrapassa a linha de nulidade; g. ausência de dados dos desfechos relatados; h. método de randomização não descrito, foi informado que a randomização foi estratificada de acordo com grupos de 5 anos; i. houve perda de dados balanceada entre os grupos de intervenção, no entanto o motivo não foi relatado; j. tamanho amostral pequeno, não teve poder suficiente para avaliar uma diferença no desfecho avaliado. k. o desfecho de DMO foi relatado de forma incompleta (sem dados do grupo de controle).
+1. Guyatt G H, Oxman A D, Vist G E, Kunz R, Falck-Ytter Y, Alonso-Coello P et al. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations BMJ 2008; 336 :924 doi:10.1136/bmj.39489.470347.AD. 
+2. Shea, B. J., Reeves, B. C., Wells, G., Thuku, M., Hamel, C., Moran, J., Henry, D. A. (2017). AMSTAR 2: a critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or 
+3. Sterne JAC, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ. Published online August 28, 2019:l4898. doi:10.1136/bmj.l4898 
+4. Sterne JA, Hernán MA, Reeves BC, et al. ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions. BMJ. 2016;355:i4919. intolerância ou dificuldades de deglutição dos bisfosfonatos orais. Brasília, 2022. osteoporose grave e falha terapêutica aos medicamentos disponíveis no Sistema Único de Saúde. Brasília, 2022. 
+HISTÓRICO DE ALTERAÇÕES DO PROTOCOLO 
+Tecnologias avaliadas pela Conitec 
+Incorporação ou alteração do uso no 
+Ampliação do uso do romosozumabe para o tratamento de osteoporose grave 
+SECTICS/MS nº 40/2024; Relatório de 
+Romosozumabe para mulheres com osteoporose na pós menopausa, a partir de 70 anos, que apresentam risco muito alto de fratura por fragilidade e que falharam (apresentaram duas ou mais fraturas) com o padrão de tratamento 
+Ácido zoledrônico para o tratamento de deglutição dos bisfosfonatos orais. indivíduos com osteoporose grave e falha terapêutica aos medicamentos disponíveis no Sistema Único de Saúde tratamento indivíduos com osteoporose grave e falha terapêutica aos medicamentos disponíveis no Sistema Único 
+Recomendação nº 742/2022] tratamento de osteoporose e 
+Relatório de Recomendação
