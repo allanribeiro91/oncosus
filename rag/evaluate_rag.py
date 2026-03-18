@@ -1,11 +1,13 @@
 import csv
 import json
+from dotenv import load_dotenv
 import os
 from pathlib import Path
 from datetime import datetime
 
 from openai import OpenAI
 
+load_dotenv()
 
 # ----------------------------------
 # CONFIG
@@ -13,8 +15,9 @@ from openai import OpenAI
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-INPUT_DIR = Path("data/rag_test")
-OUTPUT_DIR = Path("data/rag_test/evaluations")
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+INPUT_DIR = PROJECT_ROOT / "data/rag_test"
+OUTPUT_DIR = PROJECT_ROOT / "data/rag_test/evaluations"
 
 
 # ----------------------------------
