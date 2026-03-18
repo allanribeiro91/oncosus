@@ -30,7 +30,6 @@ DOC_TYPES = [
     "technical_manual",        # manuais técnicos para profissionais
     "patient_education",       # cartilhas para pacientes
     "institutional_guide",     # guias institucionais / apresentação
-    "institutional_document",  # documentos administrativos
 ]
 
 # ---------------------------------------------------------
