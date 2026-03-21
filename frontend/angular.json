@@ -33,7 +33,7 @@
               ],
               "budgets": [
                 { "type": "initial", "maximumWarning": "500kB", "maximumError": "1MB" },
-                { "type": "anyComponentStyle", "maximumWarning": "2kB", "maximumError": "4kB" }
+                { "type": "anyComponentStyle", "maximumWarning": "6kB", "maximumError": "10kB" }
               ],
               "outputHashing": "all"
             },
@@ -47,6 +47,11 @@
         },
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "port": 4200,
+            "host": "127.0.0.1",
+            "open": false
+          },
           "configurations": {
             "production": { "buildTarget": "oncosus-frontend:build:production" },
             "development": { "buildTarget": "oncosus-frontend:build:development" }

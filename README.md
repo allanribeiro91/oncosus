@@ -175,7 +175,7 @@ npm install
 npm start
 ```
 
-O frontend estará em `http://localhost:4200` e chamará a API em `http://localhost:8000/api`.
+O servidor de **desenvolvimento** sobe com `npm start` (não use só `npm run build` — o build só gera `dist/` e não abre porta). A app fica em `http://127.0.0.1:4200` (ou `http://localhost:4200`) e chama a API em `http://localhost:8000/api`. Se `localhost` não responder, abra explicitamente `http://127.0.0.1:4200`.
 
 **3. CLI (alternativa ao frontend)**
 

@@ -1,37 +1,66 @@
-<div class="chat-container">
-  <header class="header">
-    <h1>OncoSUS</h1>
-    <p>Assistente de perguntas e respostas sobre oncologia (INCA/PCDT)</p>
-  </header>
+<div class="chat-page">
+  <div class="chat-bg" aria-hidden="true"></div>
 
-  <div class="messages">
-    <div *ngFor="let msg of messages; let i = index" class="message" [class.user]="msg.isUser" [class.assistant]="!msg.isUser">
-      <div *ngIf="msg.isUser" class="bubble user-bubble">{{ msg.question }}</div>
-      <div *ngIf="!msg.isUser" class="bubble assistant-bubble">
-        <div class="answer">{{ msg.answer }}</div>
-        <div *ngIf="msg.sources.length > 0" class="sources">
-          <strong>Fontes:</strong>
-          <ul>
-            <li *ngFor="let src of msg.sources">{{ src }}</li>
-          </ul>
+  <div class="chat-container">
+    <header class="header">
+      <div class="brand-strip">
+        <span class="brand-tag">INCA</span>
+        <span class="brand-divider"></span>
+        <span class="brand-tag">PCDT</span>
+        <span class="brand-tag brand-tag--ghost">RAG</span>
+      </div>
+      <h1 class="title">OncoSUS</h1>
+      <p class="subtitle">Assistente clínico — protocolos e diretrizes oficiais</p>
+    </header>
+
+    <div class="messages">
+      <div
+        *ngFor="let msg of messages; let i = index"
+        class="message"
+        [class.user]="msg.isUser"
+        [class.assistant]="!msg.isUser"
+      >
+        <div *ngIf="msg.isUser" class="bubble user-bubble">
+          <span class="bubble-label">Você</span>
+          {{ msg.question }}
+        </div>
+        <div *ngIf="!msg.isUser" class="bubble assistant-bubble">
+          <span class="bubble-label bubble-label--ai">Assistente</span>
+          <div class="answer">{{ msg.answer }}</div>
+          <div *ngIf="msg.sources.length > 0" class="sources">
+            <strong>Fontes</strong>
+            <ul>
+              <li *ngFor="let src of msg.sources">{{ src }}</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div *ngIf="loading" class="message assistant">
+        <div class="bubble assistant-bubble loading">
+          <span class="bubble-label bubble-label--ai">Assistente</span>
+          <span class="loading-dots" aria-live="polite">
+            <span></span><span></span><span></span>
+          </span>
+          <span class="loading-text">Montando resposta</span>
         </div>
       </div>
     </div>
-    <div *ngIf="loading" class="message assistant">
-      <div class="bubble assistant-bubble loading">Processando...</div>
+
+    <div *ngIf="error" class="error" role="alert">{{ error }}</div>
+
+    <div class="input-dock">
+      <div class="input-area">
+        <input
+          type="text"
+          [(ngModel)]="question"
+          placeholder="Sua pergunta sobre oncologia / protocolos..."
+          (keydown.enter)="send()"
+          [disabled]="loading"
+        />
+        <button type="button" (click)="send()" [disabled]="loading || !question.trim()">
+          Enviar
+        </button>
+      </div>
     </div>
-  </div>
-
-  <div *ngIf="error" class="error">{{ error }}</div>
-
-  <div class="input-area">
-    <input
-      type="text"
-      [(ngModel)]="question"
-      placeholder="Digite sua pergunta sobre oncologia..."
-      (keydown.enter)="send()"
-      [disabled]="loading"
-    />
-    <button (click)="send()" [disabled]="loading || !question.trim()">Enviar</button>
   </div>
 </div>
