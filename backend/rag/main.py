@@ -10,10 +10,8 @@ from rag_pipeline import RAGPipeline
 # LangGraph
 from graph.graph_builder import build_graph
 
-
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
-VECTOR_DB_PATH = PROJECT_ROOT / "data/vectorstore"
-
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+VECTOR_DB_PATH = PROJECT_ROOT / "data" / "vectorstore"
 
 def load_patient_case(case_path: Optional[str]) -> Optional[Dict[str, Any]]:
     """

@@ -9,10 +9,9 @@ from rag_pipeline import RAGPipeline
 # CONFIG
 # ----------------------------------
 
-PROJECT_ROOT = Path(__file__).resolve().parent
-VECTOR_DB_PATH = PROJECT_ROOT / "data/vectorstore"
-OUTPUT_DIR = PROJECT_ROOT / "data/rag_test"
-
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+VECTOR_DB_PATH = PROJECT_ROOT / "data" / "vectorstore"
+OUTPUT_DIR = PROJECT_ROOT / "data" / "rag_test"
 
 # ----------------------------------
 # DATASET (Q + EXPECTED)

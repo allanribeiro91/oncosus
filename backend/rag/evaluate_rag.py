@@ -15,9 +15,9 @@ load_dotenv()
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
-INPUT_DIR = PROJECT_ROOT / "data/rag_test"
-OUTPUT_DIR = PROJECT_ROOT / "data/rag_test/evaluations"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+INPUT_DIR = PROJECT_ROOT / "data" / "rag_test"
+OUTPUT_DIR = PROJECT_ROOT / "data" / "rag_test" / "evaluations"
 
 
 # ----------------------------------
