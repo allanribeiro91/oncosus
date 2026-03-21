@@ -1,11 +1,53 @@
-# rag_pipeline.py
+# rag_pipeline.py — OncoSUS
+# Integração: ChromaDB nativo (Allan) + BioMistral fine-tuned (Diego)
 
-from langchain_community.vectorstores import Chroma
-from langchain_community.embeddings import HuggingFaceEmbeddings
-
-import ollama
+from pathlib import Path
+import torch
+import chromadb
+from sentence_transformers import SentenceTransformer
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+from peft import PeftModel
 
 from prompt import PROMPT_TEMPLATE
+
+# ── Caminhos absolutos ────────────────────────────────────────────────────────
+PROJECT_ROOT   = Path(__file__).resolve().parent.parent.parent
+TOKENIZER_PATH = str(PROJECT_ROOT / "finetuning" / "output" / "final_adapter")
+ADAPTER_PATH   = str(PROJECT_ROOT / "finetuning" / "output" / "checkpoints" / "checkpoint-200")
+BASE_MODEL     = "BioMistral/BioMistral-7B"
+
+
+def load_finetuned_model():
+    print(f"Carregando BioMistral fine-tuned de: {ADAPTER_PATH}")
+
+    bnb = BitsAndBytesConfig(
+        load_in_4bit=True,
+        bnb_4bit_quant_type="nf4",
+        bnb_4bit_compute_dtype=(
+            torch.bfloat16 if torch.cuda.is_bf16_supported() else torch.float16
+        ),
+        bnb_4bit_use_double_quant=True,
+    )
+
+    base = AutoModelForCausalLM.from_pretrained(
+        BASE_MODEL,
+        quantization_config=bnb,
+        device_map="auto",
+        trust_remote_code=True,
+    )
+
+    tokenizer = AutoTokenizer.from_pretrained(TOKENIZER_PATH, trust_remote_code=True)
+
+    if tokenizer.pad_token is None:
+        tokenizer.add_special_tokens({"pad_token": "[PAD]"})
+
+    base.resize_token_embeddings(len(tokenizer))
+
+    model = PeftModel.from_pretrained(base, ADAPTER_PATH)
+    model.eval()
+
+    print("✅ Modelo oncológico carregado!")
+    return model, tokenizer
 
 
 class RAGPipeline:
@@ -13,32 +55,50 @@ class RAGPipeline:
         self,
         persist_directory: str,
         embedding_model: str = "intfloat/multilingual-e5-base",
-        llm_model: str = "llama3",  # ou llama3
+        llm_model: str = "biomistral-finetuned",
         top_k: int = 8,
-        final_k: int = 4,
+        final_k: int = 2,
     ):
-        # Embeddings
-        self.embeddings = HuggingFaceEmbeddings(
-            model_name=embedding_model
+        print("📐 Carregando modelo de embeddings...")
+        self.embedding_model = SentenceTransformer(embedding_model)
+
+        print("🗄️  Conectando ao ChromaDB...")
+        chroma_client   = chromadb.PersistentClient(path=persist_directory)
+        self.collection = chroma_client.get_or_create_collection(
+            name="oncology_documents"
         )
+        print(f"   ✅ {self.collection.count()} chunks indexados")
 
-        # Vector DB
-        self.db = Chroma(
-            persist_directory=persist_directory,
-            embedding_function=self.embeddings
-        )
-
-        # LLM local (Ollama)
-        self.llm_model = llm_model
-
-        self.top_k = top_k
+        self.top_k   = top_k
         self.final_k = final_k
+
+        self.model, self.tokenizer = load_finetuned_model()
 
     # ----------------------------------
     # 1. Retrieval
     # ----------------------------------
     def retrieve(self, query: str):
-        docs = self.db.similarity_search(query, k=self.top_k)
+        query_embedding = self.embedding_model.encode([query]).tolist()
+
+        results = self.collection.query(
+            query_embeddings=query_embedding,
+            n_results=self.top_k,
+        )
+
+        class Doc:
+            def __init__(self, content, metadata):
+                self.page_content = content
+                self.metadata     = metadata
+
+        docs = []
+        for i, text in enumerate(results["documents"][0]):
+            meta = results["metadatas"][0][i] if results["metadatas"] else {}
+            meta["titulo"] = meta.get("document_title", "Documento")
+            meta["fonte"]  = meta.get("source", "")
+            meta["secao"]  = "N/A"
+            meta["pagina"] = "N/A"
+            docs.append(Doc(text, meta))
+
         return docs
 
     # ----------------------------------
@@ -48,115 +108,122 @@ class RAGPipeline:
         return [d for d in docs if d.page_content.strip()][:self.final_k]
 
     # ----------------------------------
-    # 3. Contexto estruturado
+    # 3. Contexto
     # ----------------------------------
     def build_citation(self, metadata):
-        titulo = metadata.get("titulo") or "Documento"
-        secao = metadata.get("secao")
-        pagina = metadata.get("pagina")
-
-        parts = [titulo]
-
-        if secao and secao != "N/A":
-            parts.append(secao)
-
-        if pagina and pagina != "N/A":
-            parts.append(f"pág. {pagina}")
-
+        titulo = metadata.get("titulo", "Documento")
+        fonte  = metadata.get("fonte", "")
+        year   = metadata.get("year", "")
+        parts  = [titulo]
+        if fonte and fonte.upper() not in titulo.upper():
+            parts.append(fonte.upper())
+        if year:
+            parts.append(str(year))
         return " – ".join(parts)
-    
+
     def build_context(self, docs):
         context_str = ""
-
         for i, doc in enumerate(docs, 1):
-            metadata = doc.metadata or {}
-
-            fonte = metadata.get("fonte", "Desconhecido")
-            titulo = metadata.get("titulo", "Documento")
-            secao = metadata.get("secao", "N/A")
-            pagina = metadata.get("pagina", "N/A")
-
-            citation = self.build_citation(metadata)
-
+            meta     = doc.metadata or {}
+            citation = self.build_citation(meta)
             context_str += f"""
-    [Documento {i}]
-    Fonte: {fonte}
-    Documento: {titulo}
-    Seção: {secao}
-    Página: {pagina}
-    Citação: {citation}
+[Documento {i}]
+Fonte: {meta.get('fonte', 'N/A')}
+Documento: {meta.get('titulo', 'N/A')}
+Citação: {citation}
 
-    Trecho:
-    {doc.page_content}
-    """
+Trecho:
+{doc.page_content}
+"""
         return context_str
-    
 
     def format_sources(self, docs):
-        sources = []
-        seen = set()
-
+        sources, seen = [], set()
         for doc in docs:
-            md = doc.metadata or {}
-            citation = self.build_citation(md)
+            citation = self.build_citation(doc.metadata or {})
             if citation not in seen:
                 seen.add(citation)
                 sources.append(citation)
-
         return sources
 
     # ----------------------------------
     # 4. Prompt
     # ----------------------------------
     def build_prompt(self, question: str, context: str):
-        return PROMPT_TEMPLATE.format(
-            question=question,
-            context=context
-        )
+        return PROMPT_TEMPLATE.format(question=question, context=context)
 
     # ----------------------------------
-    # 5. LLM (Ollama)
+    # 5. LLM
     # ----------------------------------
-    def generate_answer(self, prompt: str):
+    def generate_answer(self, prompt: str) -> str:
+        # Extrai a pergunta do prompt completo
+        pergunta = prompt.split("PERGUNTA:")[-1].split("---")[0].strip()
 
-        response = ollama.chat(
-            model=self.llm_model,
-            messages=[
-                {
-                    "role": "user",
-                    "content": prompt
-                }
-            ],
-            options={
-                "temperature": 0.0  # anti-hallucination
-            }
+        # Extrai os trechos dos documentos (limita a 1000 chars)
+        trechos = ""
+        if "TRECHOS RECUPERADOS:" in prompt:
+            trechos = prompt.split("TRECHOS RECUPERADOS:")[-1].strip()[:1000]
+
+        # Formato exato do treino: contexto dentro da Instrução
+        prompt_alpaca = (
+            "### Sistema:\n"
+            "Assistente oncológico baseado nos PCDTs e manuais do INCA/SUS. "
+            "Responda APENAS com base nos trechos abaixo. Nunca prescreva diretamente.\n\n"
+            "### Instrução:\n"
+            f"Com base nos trechos a seguir, responda: {pergunta}\n\n"
+            f"Trechos dos documentos oficiais do SUS:\n{trechos}\n\n"
+            "### Resposta:\n"
         )
 
-        return response["message"]["content"]
+        inputs = self.tokenizer(
+            prompt_alpaca,
+            return_tensors="pt",
+            truncation=True,
+            max_length=1024,
+        ).to(self.model.device)
+
+        input_len = inputs["input_ids"].shape[1]
+
+        with torch.no_grad():
+            out = self.model.generate(
+                **inputs,
+                max_new_tokens=300,
+                do_sample=True,
+                temperature=0.2,
+                top_p=0.9,
+                pad_token_id=self.tokenizer.pad_token_id,
+                eos_token_id=self.tokenizer.eos_token_id,
+                repetition_penalty=1.2,
+            )
+
+        novos    = out[0][input_len:]
+        resposta = self.tokenizer.decode(novos, skip_special_tokens=True).strip()
+
+        # Remove marcadores residuais
+        for m in ["### Resposta:", "### Instrução:", "### Sistema:", "Resposta:"]:
+            if resposta.startswith(m):
+                resposta = resposta[len(m):].strip()
+
+        # Trunca se começar a repetir estrutura do contexto
+        for corte in ["### Instrução:", "### Sistema:", "[Documento", "Trecho:"]:
+            if corte in resposta:
+                resposta = resposta[:resposta.index(corte)].strip()
+
+        return resposta or "A informação não foi encontrada nos documentos recuperados."
 
     # ----------------------------------
     # 6. Pipeline completo
     # ----------------------------------
     def run(self, question: str):
-        # 1. Retrieval
-        docs = self.retrieve(question)
-
-        # 2. Seleção
+        docs          = self.retrieve(question)
         selected_docs = self.select_top_docs(docs)
-
-        # 3. Contexto
-        context = self.build_context(selected_docs)
-
-        sources = self.format_sources(selected_docs)
-
-        # 4. Prompt
-        prompt = self.build_prompt(question, context)
-
-        # 5. LLM
-        answer = self.generate_answer(prompt)
+        context       = self.build_context(selected_docs)
+        sources       = self.format_sources(selected_docs)
+        prompt        = self.build_prompt(question, context)
+        answer        = self.generate_answer(prompt)
 
         return {
             "question": question,
-            "answer": answer,
-            "sources": sources
+            "answer":   answer,
+            "sources":  sources,
         }
