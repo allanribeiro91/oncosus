@@ -1,0 +1,2087 @@
+{
+  "metadata": {
+    "project": "OncoSUS",
+    "specialty": "oncology",
+    "generated_at": "2026-03-20T20:31:46.975427"
+  },
+  "protocols": [
+    {
+      "title": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "content": "Fase AC: Doxorrubicina 60 mg/m² IV D1 + Ciclofosfamida 600 mg/m² IV D1.\nCiclo a cada 21 dias × 4 ciclos.\nFase T: Paclitaxel 80 mg/m² IV semanal × 12 semanas.\nG-CSF profilático obrigatório na fase AC (risco febril ≥ 20%).\nMonitorar FEVE basal e a cada 4 ciclos. Suspender se FEVE < 50%."
+    },
+    {
+      "title": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "content": "Oxaliplatina 85 mg/m² IV em 2h D1.\nLeucovorina 400 mg/m² IV em 2h D1 (concomitante).\n5-Fluorouracil 400 mg/m² IV bolus D1 + 5-FU 2.400 mg/m² IC 46h.\nCiclo a cada 14 dias.\nSuspender oxaliplatina se neuropatia grau ≥ 3."
+    },
+    {
+      "title": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "content": "Rituximabe 375 mg/m² IV D1.\nCiclofosfamida 750 mg/m² IV D1.\nDoxorrubicina 50 mg/m² IV D1.\nVincristina 1,4 mg/m² IV D1 (máx 2 mg).\nPrednisona 100 mg VO D1-D5.\nCiclo a cada 21 dias × 6-8 ciclos."
+    },
+    {
+      "title": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "content": "Bleomicina 30 UI IV D1, D8, D15.\nEtoposídeo 100 mg/m² IV D1-D5.\nCisplatina 20 mg/m² IV D1-D5 (hiperhidratação obrigatória).\nCiclo a cada 21 dias × 3-4 conforme prognose.\nMonitorar DLCO — suspender bleomicina se < 40%."
+    },
+    {
+      "title": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "content": "Indicação: adenocarcinoma pulmonar EGFR exon 19 del ou L858R.\nDose: 80 mg VO 1x/dia.\nToxicidades: diarreia (40%), rash acneiforme, pneumonite (2-3%).\nMonitorar ECG (QTc), FEVE, TC tórax a cada 3 meses."
+    },
+    {
+      "title": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "content": "Dose: 200 mg IV a cada 21 dias.\nirAE — colite grau ≥ 2: suspender + Prednisona 1-2 mg/kg/dia.\nirAE — pneumonite: suspender + corticoide IV.\nTSH e ALT/AST antes de cada ciclo.\nNão reintroduzir após irAE grau 3-4."
+    }
+  ],
+  "faq": [
+    {
+      "pergunta": "Qual a conduta para neutropenia febril pós-quimioterapia?",
+      "resposta": "Neutropenia febril é emergência oncológica. Conduta:\n1. Confirmar neutrófilos < 500/mm³.\n2. Hemoculturas (2 pares) ANTES do antibiótico.\n3. Antibiótico empírico: Cefepima 2g IV 8/8h ou Pip-Tazo 4,5g IV 6/6h.\n4. Escore MASCC ≥ 21 = baixo risco.\n5. Reavaliar em 48-72h.",
+      "fonte": "protocolo_institucional"
+    },
+    {
+      "pergunta": "Quais são os critérios RECIST 1.1?",
+      "resposta": "RC: desaparecimento de todas as lesões-alvo.\nRP: redução ≥ 30% na soma dos diâmetros.\nDE: nem RP nem progressão.\nPD: aumento ≥ 20% + ≥ 5mm ou nova lesão.\nLesão mínima mensurável: ≥ 10mm em TC.",
+      "fonte": "recist_1_1"
+    },
+    {
+      "pergunta": "Quando indicar G-CSF profilático?",
+      "resposta": "Profilaxia primária se:\n• Risco neutropenia febril ≥ 20%;\n• Paciente ≥ 65 anos em protocolo moderado;\n• Comorbidades: IRC, hepatopatia, ECOG ≥ 2.\nDose: Pegfilgrastima 6mg SC D2.",
+      "fonte": "asco_gcfs_guideline"
+    },
+    {
+      "pergunta": "Como manejar cardiotoxicidade por antraciclinas?",
+      "resposta": "Doxorrubicina: suspender se FEVE < 50% ou dose > 450 mg/m².\nEcocardiograma basal e a cada 200-300 mg/m².\nDexrazoxano se dose cumulativa prevista > 300 mg/m².\nTratamento de ICC: IECA + betabloqueador.",
+      "fonte": "cardio_oncologia"
+    },
+    {
+      "pergunta": "O assistente pode prescrever medicamentos diretamente?",
+      "resposta": "Não. Este assistente é uma ferramenta de suporte à decisão clínica.\nToda prescrição deve ser realizada e validada por médico habilitado,\nconsiderando o contexto individual do paciente.",
+      "fonte": "politica_seguranca"
+    },
+    {
+      "pergunta": "Qual a diferença entre tratamento neoadjuvante e adjuvante?",
+      "resposta": "Neoadjuvante: tratamento ANTES da cirurgia.\n  Objetivos: reduzir tumor, testar sensibilidade, erradicar micrometástases.\n  Indicação: HER2+, triplo negativo > 2cm, localmente avançado.\nAdjuvante: tratamento APÓS cirurgia ressecada.\n  Objetivo: reduzir risco de recorrência.",
+      "fonte": "protocolo_mama"
+    },
+    {
+      "pergunta": "Como interpretar o PD-L1 na imunoterapia?",
+      "resposta": "CPS ≥ 1: expressão positiva baixa.\nCPS ≥ 10: melhor resposta ao pembrolizumabe.\nCPS ≥ 20: benefício enriquecido em gástrico/esofágico.\nPD-L1 negativo NÃO exclui resposta (melanoma, MSI-H).",
+      "fonte": "guideline_imuno"
+    },
+    {
+      "pergunta": "Quando solicitar teste molecular para câncer de pulmão?",
+      "resposta": "Obrigatório para adenocarcinoma pulmonar:\n• EGFR → osimertinibe;\n• ALK → alectinibe;\n• ROS1 → crizotinibe;\n• KRAS G12C → sotorasibe;\n• MET exon 14 → capmatinibe.\nPD-L1 (22C3) para todos os NSCLC. Preferir NGS amplo.",
+      "fonte": "sboc_pulmao"
+    },
+    {
+      "pergunta": "Qual a conduta para síndrome de lise tumoral?",
+      "resposta": "Alto risco: Rasburicase 0,2 mg/kg/dia × 5 + hiper-hidratação 3 L/m²/dia.\nRisco intermediário: Alopurinol 300 mg VO 2x/dia + hidratação.\nMonitorar eletrólitos e creatinina 6/6h nas primeiras 24h.",
+      "fonte": "hematologia"
+    },
+    {
+      "pergunta": "Como calcular dose de quimio em paciente obeso?",
+      "resposta": "Usar peso real (não ideal) — diretriz ASCO 2012.\nCapping não recomendado: subdosagem aumenta falha terapêutica.\nExceções: Bleomicina (UI fixas), Vincristina (máx 2 mg).\nBSA Mosteller: sqrt[(altura cm × peso kg) / 3600].",
+      "fonte": "asco_2012"
+    }
+  ],
+  "patient_records": [
+    {
+      "patient_id": "ONC_0001",
+      "age": 75,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "II",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0002",
+      "age": 75,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 0. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0003",
+      "age": 42,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0004",
+      "age": 65,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "II",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0005",
+      "age": 37,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0006",
+      "age": 50,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "II",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0007",
+      "age": 52,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "IV",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 0. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0008",
+      "age": 73,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0009",
+      "age": 82,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0010",
+      "age": 81,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0011",
+      "age": 45,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "IV",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 0. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0012",
+      "age": 52,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0013",
+      "age": 80,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Câncer de mama HER2+",
+      "stage": "III",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de mama HER2+, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0014",
+      "age": 64,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0015",
+      "age": 57,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0016",
+      "age": 44,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "III",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 2. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0017",
+      "age": 59,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "II",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 0. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0018",
+      "age": 55,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 0. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0019",
+      "age": 63,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "IV",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 0. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0020",
+      "age": 46,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 2. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0021",
+      "age": 76,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "IV",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0022",
+      "age": 40,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "II",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0023",
+      "age": 59,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "III",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 0. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0024",
+      "age": 43,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "IV",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 0. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0025",
+      "age": 77,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0026",
+      "age": 44,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 2. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0027",
+      "age": 70,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0028",
+      "age": 42,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0029",
+      "age": 28,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0030",
+      "age": 32,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer de mama HER2+",
+      "stage": "IV",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de mama HER2+, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0031",
+      "age": 36,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "III",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 2. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0032",
+      "age": 34,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 2. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0033",
+      "age": 31,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 0. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0034",
+      "age": 40,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0035",
+      "age": 57,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "III",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0036",
+      "age": 62,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Câncer de mama HER2+",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de mama HER2+, ECOG 0. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0037",
+      "age": 58,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "II",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0038",
+      "age": 52,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0039",
+      "age": 73,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0040",
+      "age": 65,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "II",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 0. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0041",
+      "age": 60,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0042",
+      "age": 66,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 0. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0043",
+      "age": 65,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "III",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0044",
+      "age": 70,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "III",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0045",
+      "age": 69,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0046",
+      "age": 67,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Câncer de mama HER2+",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de mama HER2+, ECOG 0. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0047",
+      "age": 36,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0048",
+      "age": 56,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0049",
+      "age": 44,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0050",
+      "age": 66,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0051",
+      "age": 44,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 0. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0052",
+      "age": 28,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "IV",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0053",
+      "age": 56,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0054",
+      "age": 30,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "III",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0055",
+      "age": 51,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Câncer de mama HER2+",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de mama HER2+, ECOG 0. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0056",
+      "age": 77,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 2. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0057",
+      "age": 29,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0058",
+      "age": 78,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0059",
+      "age": 80,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "III",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 2. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0060",
+      "age": 70,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0061",
+      "age": 50,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 2. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0062",
+      "age": 65,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0063",
+      "age": 78,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "IV",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0064",
+      "age": 40,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "IV",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0065",
+      "age": 79,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer de mama HER2+",
+      "stage": "III",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de mama HER2+, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0066",
+      "age": 48,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "IV",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 0. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0067",
+      "age": 53,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0068",
+      "age": 75,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0069",
+      "age": 41,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "III",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 2. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0070",
+      "age": 41,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "IV",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0071",
+      "age": 70,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "II",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0072",
+      "age": 37,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0073",
+      "age": 57,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "IV",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 2. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0074",
+      "age": 43,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "II",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0075",
+      "age": 79,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 2. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0076",
+      "age": 36,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 2. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0077",
+      "age": 38,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 2. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0078",
+      "age": 59,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "III",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0079",
+      "age": 45,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0080",
+      "age": 42,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 2. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0081",
+      "age": 54,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0082",
+      "age": 52,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 0. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0083",
+      "age": 76,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "IV",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 2. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0084",
+      "age": 45,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 2. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0085",
+      "age": 71,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0086",
+      "age": 29,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "II",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 2. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0087",
+      "age": 39,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 0. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0088",
+      "age": 48,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0089",
+      "age": 58,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 0. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0090",
+      "age": 30,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 0. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0091",
+      "age": 43,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0092",
+      "age": 57,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0093",
+      "age": 34,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "IV",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 0. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0094",
+      "age": 40,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 0. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0095",
+      "age": 78,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "IV",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 0. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0096",
+      "age": 60,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0097",
+      "age": 51,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 2. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0098",
+      "age": 45,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0099",
+      "age": 81,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "III",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0100",
+      "age": 67,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "II",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 2. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0101",
+      "age": 59,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "III",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0102",
+      "age": 72,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "IV",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0103",
+      "age": 74,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 2. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0104",
+      "age": 73,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0105",
+      "age": 53,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0106",
+      "age": 61,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "IV",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0107",
+      "age": 57,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0108",
+      "age": 40,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0109",
+      "age": 75,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 2. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0110",
+      "age": 46,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0111",
+      "age": 62,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer de mama HER2+",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de mama HER2+, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0112",
+      "age": 72,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0113",
+      "age": 58,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "III",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 2. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0114",
+      "age": 58,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Câncer de mama HER2+",
+      "stage": "III",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de mama HER2+, ECOG 0. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0115",
+      "age": 68,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "II",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 0. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0116",
+      "age": 35,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 2. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0117",
+      "age": 47,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 2. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0118",
+      "age": 34,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0119",
+      "age": 39,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0120",
+      "age": 66,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0121",
+      "age": 46,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "IV",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0122",
+      "age": 65,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0123",
+      "age": 80,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0124",
+      "age": 75,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "II",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0125",
+      "age": 53,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0126",
+      "age": 55,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "II",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0127",
+      "age": 81,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "IV",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 0. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0128",
+      "age": 61,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "II",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 2. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0129",
+      "age": 58,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0130",
+      "age": 49,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "III",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 2. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0131",
+      "age": 57,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 0. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0132",
+      "age": 60,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 0. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0133",
+      "age": 51,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "II",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 2. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0134",
+      "age": 36,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "IV",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0135",
+      "age": 68,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0136",
+      "age": 33,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0137",
+      "age": 73,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0138",
+      "age": 57,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0139",
+      "age": 77,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 2. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0140",
+      "age": 74,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer de mama HER2+",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de mama HER2+, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0141",
+      "age": 50,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0142",
+      "age": 43,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0143",
+      "age": 58,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "IV",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0144",
+      "age": 36,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0145",
+      "age": 28,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0146",
+      "age": 78,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0147",
+      "age": 82,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 2. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0148",
+      "age": 67,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "IV",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 0. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0149",
+      "age": 33,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "IV",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0150",
+      "age": 72,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0151",
+      "age": 50,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer de mama HER2+",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de mama HER2+, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0152",
+      "age": 64,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "II",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0153",
+      "age": 67,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0154",
+      "age": 68,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0155",
+      "age": 71,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "III",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0156",
+      "age": 68,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "III",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 2. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0157",
+      "age": 82,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "II",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 2. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0158",
+      "age": 64,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "II",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0159",
+      "age": 64,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 0. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0160",
+      "age": 42,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "IV",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0161",
+      "age": 69,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 0. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0162",
+      "age": 74,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "III",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0163",
+      "age": 40,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0164",
+      "age": 80,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "IV",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 2. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0165",
+      "age": 32,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0166",
+      "age": 33,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "III",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 2. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0167",
+      "age": 71,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "IV",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 1. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0168",
+      "age": 42,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0169",
+      "age": 69,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0170",
+      "age": 36,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 0. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0171",
+      "age": 43,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0172",
+      "age": 65,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0173",
+      "age": 54,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "IV",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 1. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0174",
+      "age": 56,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "II",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0175",
+      "age": 50,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 0. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0176",
+      "age": 33,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "II",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 6. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0177",
+      "age": 78,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0178",
+      "age": 80,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0179",
+      "age": 36,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0180",
+      "age": 50,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "II",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0181",
+      "age": 36,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "IV",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 2. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0182",
+      "age": 77,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 1. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0183",
+      "age": 74,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Linfoma de Hodgkin clássico",
+      "stage": "IV",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma de Hodgkin clássico, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0184",
+      "age": 82,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Câncer de mama HER2+",
+      "stage": "IV",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de mama HER2+, ECOG 2. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0185",
+      "age": 56,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 0. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0186",
+      "age": 45,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0187",
+      "age": 66,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Mieloma múltiplo",
+      "stage": "IV",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Mieloma múltiplo, ECOG 2. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0188",
+      "age": 41,
+      "sex": "F",
+      "ecog": 2,
+      "diagnosis": "Leucemia mielóide aguda",
+      "stage": "II",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Leucemia mielóide aguda, ECOG 2. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0189",
+      "age": 53,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "III",
+      "current_protocol": "Protocolo BEP (Tumor de Células Germinativas Testicular)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 2. Em tratamento com Protocolo BEP (Tumor de Células Germinativas Testicular), ciclo 7. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0190",
+      "age": 44,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "IV",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0191",
+      "age": 81,
+      "sex": "M",
+      "ecog": 0,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 0. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0192",
+      "age": 63,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 0. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 2. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0193",
+      "age": 70,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "III",
+      "current_protocol": "Protocolo R-CHOP (Linfoma Difuso de Grandes Células B)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 2. Em tratamento com Protocolo R-CHOP (Linfoma Difuso de Grandes Células B), ciclo 5. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0194",
+      "age": 64,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "IV",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0195",
+      "age": 50,
+      "sex": "M",
+      "ecog": 1,
+      "diagnosis": "Linfoma difuso de grandes células B",
+      "stage": "III",
+      "current_protocol": "Protocolo AC-T (Câncer de Mama Adjuvante)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Linfoma difuso de grandes células B, ECOG 1. Em tratamento com Protocolo AC-T (Câncer de Mama Adjuvante), ciclo 4. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0196",
+      "age": 77,
+      "sex": "F",
+      "ecog": 0,
+      "diagnosis": "Câncer de ovário BRCA1/2 mutado",
+      "stage": "II",
+      "current_protocol": "Terapia-alvo: Osimertinibe — NSCLC EGFR mutado",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer de ovário BRCA1/2 mutado, ECOG 0. Em tratamento com Terapia-alvo: Osimertinibe — NSCLC EGFR mutado, ciclo 3. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0197",
+      "age": 76,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Melanoma metastático BRAF V600E",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Melanoma metastático BRAF V600E, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0198",
+      "age": 64,
+      "sex": "M",
+      "ecog": 2,
+      "diagnosis": "Câncer colorretal metastático",
+      "stage": "II",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Câncer colorretal metastático, ECOG 2. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 1. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0199",
+      "age": 61,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Adenocarcinoma de pulmão EGFR mutado",
+      "stage": "III",
+      "current_protocol": "Imunoterapia: Pembrolizumabe — Melanoma Metastático",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Adenocarcinoma de pulmão EGFR mutado, ECOG 1. Em tratamento com Imunoterapia: Pembrolizumabe — Melanoma Metastático, ciclo 8. Hemograma sem citopenias significativas."
+    },
+    {
+      "patient_id": "ONC_0200",
+      "age": 51,
+      "sex": "F",
+      "ecog": 1,
+      "diagnosis": "Carcinoma hepatocelular",
+      "stage": "IV",
+      "current_protocol": "Protocolo FOLFOX6m (Câncer Colorretal Metastático)",
+      "clinical_notes": "Paciente oncológico, diagnóstico de Carcinoma hepatocelular, ECOG 1. Em tratamento com Protocolo FOLFOX6m (Câncer Colorretal Metastático), ciclo 2. Hemograma sem citopenias significativas."
+    }
+  ]
+}
