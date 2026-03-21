@@ -1,0 +1,32 @@
+{
+  "patient_case": {
+    "id": 8,
+    "nome": "Lívia Rodrigues Costa",
+    "sexo": "Feminino",
+    "idade": 40,
+    "peso_kg": 108.7,
+    "altura_cm": 186,
+    "imc": 31.4,
+    "hipertenso": "NÃO",
+    "diabetico": "NÃO",
+    "obeso": "SIM",
+    "faz_atividade_fisica": "NÃO",
+    "bebida_alcoolica": "NÃO",
+    "fumante": "NÃO",
+    "tipo_cancer": "Câncer de Mama",
+    "estadio_do_cancer": "IV",
+    "tempo_desde_diagnostico_meses": 47,
+    "historico_familiar_cancer": "SIM",
+    "metastase": "NÃO",
+    "cirurgia": "SIM",
+    "quimioterapia": "SIM",
+    "radioterapia": "NÃO",
+    "medicacao_em_uso": [
+      "Levotiroxina",
+      "Hidroclorotiazida",
+      "Anlodipino"
+    ],
+    "resultado_tratamento": "Resposta completa",
+    "data_ultimo_acompanhamento": "2025-04-18"
+  }
+}
