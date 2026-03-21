@@ -13,7 +13,7 @@ class RAGPipeline:
         self,
         persist_directory: str,
         embedding_model: str = "intfloat/multilingual-e5-base",
-        llm_model: str = "llama3",  # ou llama3
+        llm_model: str = "llama3",
         top_k: int = 8,
         final_k: int = 4,
     ):
@@ -25,12 +25,12 @@ class RAGPipeline:
         # Vector DB
         self.db = Chroma(
             persist_directory=persist_directory,
-            embedding_function=self.embeddings
+            embedding_function=self.embeddings,
+            collection_name="oncology_documents",
         )
 
         # LLM local (Ollama)
         self.llm_model = llm_model
-
         self.top_k = top_k
         self.final_k = final_k
 
