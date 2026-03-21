@@ -9,9 +9,12 @@ from rag_pipeline import RAGPipeline
 # CONFIG
 # ----------------------------------
 
-PROJECT_ROOT = Path(__file__).resolve().parent
-VECTOR_DB_PATH = PROJECT_ROOT / "data/vectorstore"
-OUTPUT_DIR = PROJECT_ROOT / "data/rag_test"
+RAG_DIR = Path(__file__).resolve().parent
+REPO_ROOT = RAG_DIR.parent.parent
+VECTOR_DB_PATH = REPO_ROOT / "data" / "vectorstore"
+if not VECTOR_DB_PATH.exists():
+    VECTOR_DB_PATH = RAG_DIR.parent / "data" / "vectorstore"
+OUTPUT_DIR = REPO_ROOT / "data" / "rag_test"
 
 
 # ----------------------------------

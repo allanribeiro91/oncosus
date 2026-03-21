@@ -1,9 +1,16 @@
 # main.py
 from pathlib import Path
+
+from dotenv import load_dotenv
+
 from rag_pipeline import RAGPipeline
 
+RAG_DIR = Path(__file__).resolve().parent
+REPO_ROOT = RAG_DIR.parent.parent
+load_dotenv(REPO_ROOT / ".env")
+load_dotenv(RAG_DIR / ".env", override=True)
+
 # Prefer repo root data/vectorstore; fallback to backend/data/vectorstore
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 VECTOR_DB_PATH = REPO_ROOT / "data" / "vectorstore"
 if not VECTOR_DB_PATH.exists():
     BACKEND_ROOT = Path(__file__).resolve().parent.parent

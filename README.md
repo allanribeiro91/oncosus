@@ -157,7 +157,12 @@ Pergunta do usuário
 ```bash
 cd backend/rag
 python -m pip install -r requirements.txt
-uvicorn app:app --reload --port 8000
+```
+
+Opcional: copie `backend/rag/.env.example` para `backend/rag/.env` (ou `.env` na raiz `oncosus-novo/`) e defina `ONCOSUS_OLLAMA_MODEL` para o nome do seu modelo Ollama (ex.: `oncosus-llm`). O Ollama precisa estar rodando.
+
+```bash
+python -m uvicorn app:app --reload --port 8000
 ```
 
 A API estará em `http://localhost:8000`. Endpoints: `POST /api/chat`, `GET /api/health`.
@@ -185,7 +190,7 @@ python main.py
 2. Copiar `frontend/dist/oncosus-frontend` para o servidor (ex.: `/srv/oncosus/frontend/dist/oncosus-frontend`)
 3. Copiar `backend/` e `data/` para o servidor
 4. Usar `deploy/nginx.conf` como referência para configurar o Nginx (raiz = build Angular, `/api` = proxy para FastAPI na porta 8000)
-5. Rodar a API com `deploy/start-api.sh` ou: `cd backend/rag && uvicorn app:app --host 0.0.0.0 --port 8000`
+5. Rodar a API com `deploy/start-api.sh` ou: `cd backend/rag && python -m uvicorn app:app --host 0.0.0.0 --port 8000`
 
 ### Path do vector store
 
