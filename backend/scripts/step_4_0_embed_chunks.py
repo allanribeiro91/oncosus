@@ -41,6 +41,8 @@ for _, row in df.iterrows():
         "document_id": row["document_id"],
         "document_title": row.get("document_title", ""),
         "source": row.get("source", ""),
+        "year": row.get("year", ""),
+        "section": row.get("section", ""),
         "chunk_index": int(row["chunk_index"])
     })
 

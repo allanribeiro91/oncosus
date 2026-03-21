@@ -51,17 +51,24 @@ class RAGPipeline:
     # 3. Contexto estruturado
     # ----------------------------------
     def build_citation(self, metadata):
-        titulo = metadata.get("titulo") or "Documento"
-        secao = metadata.get("secao")
-        pagina = metadata.get("pagina")
+        fonte = metadata.get("source")
+        titulo = metadata.get("document_title", "Documento")
 
-        parts = [titulo]
+        # secao = (
+        #     metadata.get("section")
+        #     or metadata.get("secao")
+        #     or "N/A"
+        # )
 
-        if secao and secao != "N/A":
-            parts.append(secao)
+        chunk_index = metadata.get("chunk_index")
 
-        if pagina and pagina != "N/A":
-            parts.append(f"pág. {pagina}")
+        parts = [str(fonte)]
+
+        if titulo:
+            parts.append(titulo)
+
+        if chunk_index is not None:
+            parts.append(f"Parte: {chunk_index}")        
 
         return " – ".join(parts)
     
@@ -71,19 +78,17 @@ class RAGPipeline:
         for i, doc in enumerate(docs, 1):
             metadata = doc.metadata or {}
 
-            fonte = metadata.get("fonte", "Desconhecido")
-            titulo = metadata.get("titulo", "Documento")
-            secao = metadata.get("secao", "N/A")
-            pagina = metadata.get("pagina", "N/A")
+            # fonte = metadata.get("source", "Desconhecido")            
+            titulo = metadata.get("document_title", "Documento")
+            chunk_index = metadata.get("chunk_index", "N/A")
 
             citation = self.build_citation(metadata)
 
             context_str += f"""
     [Documento {i}]
-    Fonte: {fonte}
+    Fonte: {citation}
     Documento: {titulo}
-    Seção: {secao}
-    Página: {pagina}
+    Parte: {chunk_index}
     Citação: {citation}
 
     Trecho:
@@ -99,6 +104,7 @@ class RAGPipeline:
         for doc in docs:
             md = doc.metadata or {}
             citation = self.build_citation(md)
+
             if citation not in seen:
                 seen.add(citation)
                 sources.append(citation)
