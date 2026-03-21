@@ -1,0 +1,37 @@
+<div class="chat-container">
+  <header class="header">
+    <h1>OncoSUS</h1>
+    <p>Assistente de perguntas e respostas sobre oncologia (INCA/PCDT)</p>
+  </header>
+
+  <div class="messages">
+    <div *ngFor="let msg of messages; let i = index" class="message" [class.user]="msg.isUser" [class.assistant]="!msg.isUser">
+      <div *ngIf="msg.isUser" class="bubble user-bubble">{{ msg.question }}</div>
+      <div *ngIf="!msg.isUser" class="bubble assistant-bubble">
+        <div class="answer">{{ msg.answer }}</div>
+        <div *ngIf="msg.sources.length > 0" class="sources">
+          <strong>Fontes:</strong>
+          <ul>
+            <li *ngFor="let src of msg.sources">{{ src }}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div *ngIf="loading" class="message assistant">
+      <div class="bubble assistant-bubble loading">Processando...</div>
+    </div>
+  </div>
+
+  <div *ngIf="error" class="error">{{ error }}</div>
+
+  <div class="input-area">
+    <input
+      type="text"
+      [(ngModel)]="question"
+      placeholder="Digite sua pergunta sobre oncologia..."
+      (keydown.enter)="send()"
+      [disabled]="loading"
+    />
+    <button (click)="send()" [disabled]="loading || !question.trim()">Enviar</button>
+  </div>
+</div>

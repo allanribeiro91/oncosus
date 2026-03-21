@@ -138,3 +138,55 @@ Pergunta do usuário
   - apresentar respostas estruturadas e claras
   - citar os documentos utilizados como fonte da informação
 - Dessa forma, o sistema poderá atuar como um assistente de consulta inteligente aos protocolos clínicos do SUS, contribuindo para facilitar o acesso às diretrizes terapêuticas oficiais.
+
+---
+
+## 10. Execução e Deploy
+
+### Pré-requisitos
+
+- Python 3.10+
+- Node.js 18+
+- Ollama instalado e rodando com o modelo `llama3` (ou outro configurado no RAG)
+- Vector store populado em `data/vectorstore/` (rodar os scripts de ingestão se necessário)
+
+### Desenvolvimento local
+
+**1. Backend (API FastAPI)**
+
+```bash
+cd backend/rag
+python -m pip install -r requirements.txt
+uvicorn app:app --reload --port 8000
+```
+
+A API estará em `http://localhost:8000`. Endpoints: `POST /api/chat`, `GET /api/health`.
+
+**2. Frontend (Angular)**
+
+```bash
+cd frontend
+npm install
+npm start
+```
+
+O frontend estará em `http://localhost:4200` e chamará a API em `http://localhost:8000/api`.
+
+**3. CLI (alternativa ao frontend)**
+
+```bash
+cd backend/rag
+python main.py
+```
+
+### Deploy em servidor único (Nginx)
+
+1. Build do frontend: `cd frontend && npm run build`
+2. Copiar `frontend/dist/oncosus-frontend` para o servidor (ex.: `/srv/oncosus/frontend/dist/oncosus-frontend`)
+3. Copiar `backend/` e `data/` para o servidor
+4. Usar `deploy/nginx.conf` como referência para configurar o Nginx (raiz = build Angular, `/api` = proxy para FastAPI na porta 8000)
+5. Rodar a API com `deploy/start-api.sh` ou: `cd backend/rag && uvicorn app:app --host 0.0.0.0 --port 8000`
+
+### Path do vector store
+
+O sistema procura o Chroma em `data/vectorstore/` (raiz do repo). Se não existir, tenta `backend/data/vectorstore/`. Garanta que o vector store esteja populado antes de usar a API.
