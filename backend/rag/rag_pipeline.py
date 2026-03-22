@@ -240,7 +240,13 @@ class RAGPipeline:
             "question": question,
             "answer": answer,
             "sources": docs_used if docs_used else sources,
-            "documents": [doc.page_content for doc in selected_docs]
+            "documents": [
+                {
+                    "text": doc.page_content,
+                    "title": doc.metadata.get("document_title", "Documento")
+                }
+                for doc in selected_docs
+            ]
         }
 
         print(retorno)

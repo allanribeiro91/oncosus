@@ -16,10 +16,11 @@ def format_context(docs):
 
     for i, doc in enumerate(docs, 1):
         context_text += f"""
-        [DOC_{i}]
-        CONTEÚDO:
-        {doc.strip()}
-        """
+[DOC_{i}]
+FONTE: {doc["title"]}
+CONTEÚDO:
+{doc["text"].strip()}
+"""
 
     return context_text.strip()
 
@@ -35,25 +36,29 @@ CONTEXTO:
 
 def build_assistant_answer(expected_answer, docs):
 
-    # pega apenas 2 primeiros docs (evita ruído)
-    doc_refs = [f"[DOC_{i+1}]" for i in range(min(2, len(docs)))]
+    n_docs = min(2, len(docs))
 
+    doc_refs = [f"[DOC_{i+1}]" for i in range(n_docs)]
     refs_inline = " ".join(doc_refs)
 
-    sources_str = "\n".join([f"- [DOC_{i+1}]" for i in range(len(docs))])
+    # 🔥 agora com nome real
+    sources_str = "\n".join([
+        f"- {docs[i]['title']} [DOC_{i+1}]"
+        for i in range(n_docs)
+    ])
 
     return f"""### Resposta
-            {expected_answer} {refs_inline}
+{expected_answer} {refs_inline}
 
-            ### Critérios clínicos
-            Não explicitamente detalhados nos trechos fornecidos.
+### Critérios clínicos
+Não explicitamente detalhados nos trechos fornecidos.
 
-            ### Observações
-            Resposta baseada exclusivamente no contexto.
+### Observações
+Resposta baseada exclusivamente no contexto.
 
-            ### Fontes
-            {sources_str}
-    """
+### Fontes
+{sources_str}
+"""
 
 def build_system_prompt():
     return """Você é o OncoSUS, um assistente especializado em Protocolos Clínicos e Diretrizes Terapêuticas (PCDTs) oncológicos do SUS.
