@@ -6,7 +6,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 
 import ollama
 
-from prompt import PROMPT_TEMPLATE
+from rag.prompt import PROMPT_TEMPLATE
 
 
 class RAGPipeline:
@@ -15,8 +15,9 @@ class RAGPipeline:
         persist_directory: str,
         embedding_model: str = "intfloat/multilingual-e5-base",
         llm_model: str = "llama3",
-        top_k: int = 10,
-        final_k: int = 5,
+        top_k: int = 5,
+        final_k: int = 3,
+        use_reranker: bool = False,
     ):
         # ----------------------------------
         # Embeddings
@@ -46,9 +47,15 @@ class RAGPipeline:
         # ----------------------------------
         # Re-ranker
         # ----------------------------------
-        self.reranker = CrossEncoder(
-            "cross-encoder/ms-marco-MiniLM-L-6-v2"
-        )
+        self.use_reranker = use_reranker
+        print(f"Use reranker: {self.use_reranker}")
+
+        if self.use_reranker:
+            self.reranker = CrossEncoder(
+                "cross-encoder/ms-marco-MiniLM-L-6-v2"
+            )
+        else:
+            self.reranker = None
 
     # ----------------------------------
     # 1. QUERY EXPANSION
@@ -118,6 +125,9 @@ class RAGPipeline:
         if not docs:
             return []
 
+        if not self.use_reranker:
+            return docs  # 🔥 bypass direto
+
         pairs = [
             (query, d.page_content[:512])
             for d in docs
@@ -148,17 +158,24 @@ class RAGPipeline:
     # 5. FONTES (PARA LOG/CSV)
     # ----------------------------------
     def build_citation(self, metadata):
-        titulo = metadata.get("titulo") or "Documento"
-        secao = metadata.get("secao")
-        pagina = metadata.get("pagina")
+        titulo = (
+            metadata.get("document_title")
+            or metadata.get("title")
+            or "Documento"
+        )
+
+        secao = metadata.get("section")
+        ano = metadata.get("year")
 
         parts = [titulo]
 
-        if secao and secao != "N/A":
-            parts.append(secao)
+        # 🔹 ano (AQUI entra o que você perguntou)
+        if ano:
+            parts.append(str(ano))
 
-        if pagina and pagina != "N/A":
-            parts.append(f"pág. {pagina}")
+        # 🔹 seção (filtrando lixo)
+        if secao and secao not in ["N/A", "other"]:
+            parts.append(secao)
 
         return " – ".join(parts)
 
@@ -222,6 +239,14 @@ class RAGPipeline:
         # 3. Seleção final
         selected_docs = reranked_docs[:self.final_k]
 
+        # ----------------------------------
+        # 🔥 DEBUG DO METADATA (AQUI!)
+        # ----------------------------------
+        if selected_docs:
+            print("\n🔍 DEBUG METADATA:")
+            print(selected_docs[0].metadata)
+            print("\n")
+
         # 4. Contexto
         context = self.build_context(selected_docs)
 
@@ -234,16 +259,53 @@ class RAGPipeline:
         # 7. Geração
         answer = self.generate_answer(prompt)
 
+        # ----------------------------------
+        # 🔗 MAPEAMENTO DOC_X → DOCUMENTO
+        # ----------------------------------
+        doc_map = {
+            f"[DOC_{i+1}]": doc
+            for i, doc in enumerate(selected_docs)
+        }
+
         docs_used = self.extract_docs_from_answer(answer)
+
+        # ----------------------------------
+        # 🧠 CONSTRUIR FONTES CORRETAS
+        # ----------------------------------
+        sources_final = sources  # default
+
+        if docs_used:
+            sources_final = []
+            for d in docs_used:
+                doc = doc_map.get(d)
+                if doc:
+                    md = doc.metadata or {}
+                    citation = self.build_citation(md)
+                    sources_final.append(f"{d} – {citation}")
+
+
+        # ----------------------------------
+        # 🧹 REMOVE "Fontes" do LLM
+        # ----------------------------------
+        answer_clean = re.split(r"\n\s*Fontes:\s*\n", answer)[0]
+
+        # ----------------------------------
+        # 🧾 ADICIONA FONTES CORRETAS
+        # ----------------------------------
+        answer_final = answer_clean
+
+        if sources_final:
+            fontes_str = "\n".join([f"- {s}" for s in sources_final])
+            answer_final += f"\n\nFontes:\n{fontes_str}"
 
         retorno = {
             "question": question,
-            "answer": answer,
-            "sources": docs_used if docs_used else sources,
+            "answer": answer_final,
+            "sources": sources_final,
             "documents": [
                 {
                     "text": doc.page_content,
-                    "title": doc.metadata.get("document_title", "Documento")
+                    "title": doc.metadata.get("title", "Documento")
                 }
                 for doc in selected_docs
             ]

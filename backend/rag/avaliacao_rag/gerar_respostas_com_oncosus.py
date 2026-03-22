@@ -7,7 +7,6 @@ from pathlib import Path
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 
 from rag_pipeline import RAGPipeline
-from rag_pipeline_comFt import RAGPipelineComFt
 from perguntas_respostas import EVAL_DATA
 
 # ----------------------------------
@@ -36,10 +35,6 @@ def gerar_respostas_com_oncosus():
         persist_directory=str(VECTOR_DB_PATH),
         llm_model="mistral"
     )
-
-    # rag = RAGPipelineComFt(
-    #     persist_directory=str(VECTOR_DB_PATH)
-    # )
 
     results = []
 
