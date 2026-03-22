@@ -7,7 +7,7 @@ import chromadb
 # CONFIG
 # ---------------------------------------------------------
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 
 CHUNKS_PATH = PROJECT_ROOT / "data/chunks/chunks.csv"
 VECTOR_DB_PATH = PROJECT_ROOT / "data/vectorstore"

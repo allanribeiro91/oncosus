@@ -1,0 +1,41 @@
+# training_config.yaml — OncoSUS
+# Modelo: Llama 3.2 3B Instruct (migração do BioMistral)
+
+model:
+  base_model: "Qwen/Qwen2.5-3B-Instruct"
+
+lora:
+  r: 8                    # Instruct já alinhado — rank menor é suficiente
+  alpha: 16               # alpha = 2x r (regra padrão)
+  dropout: 0.05
+  target_modules:         # Todos os lineares do Llama 3.2
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+
+training:
+  output_dir: "finetuning/output/checkpoints_llama"
+  max_steps: 300
+  per_device_train_batch_size: 2    
+  gradient_accumulation_steps: 8    
+  learning_rate: 0.0001
+  max_length: 768                   
+  eval_steps: 50
+  save_steps: 50
+  warmup_steps: 30
+
+data:
+  train_path: "data/datasets/synthetic_qa_dataset/dataset_treino.json"
+  val_path:   "data/datasets/synthetic_qa_dataset/dataset_validacao.json"
+  val_ratio:  0.10
+
+system_prompt: >
+  Você é um assistente clínico especializado em oncologia do SUS.
+  Responda APENAS com base nos trechos fornecidos dos documentos oficiais
+  (PCDTs e manuais do INCA). Se a informação não estiver nos trechos,
+  diga "Informação não encontrada nos documentos disponíveis."
+  Nunca faça prescrições diretas ou substitua a avaliação médica.
