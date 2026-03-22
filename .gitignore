@@ -1,5 +1,4 @@
 *.env
-*.safetensors
 *.bin
 *.pt
 data/vectorstore/
