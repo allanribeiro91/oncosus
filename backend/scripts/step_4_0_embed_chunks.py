@@ -1,3 +1,5 @@
+import os
+
 import pandas as pd
 from pathlib import Path
 from sentence_transformers import SentenceTransformer
@@ -12,16 +14,19 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 CHUNKS_PATH = PROJECT_ROOT / "data/chunks/chunks.csv"
 VECTOR_DB_PATH = PROJECT_ROOT / "data/vectorstore"
 
-# MODEL_NAME = "BAAI/bge-m3"
-MODEL_NAME = "intfloat/multilingual-e5-base"
+# Deve ser o MESMO modelo usado em runtime (backend/rag, env ONCOSUS_EMBEDDING_MODEL).
+# Padrão e5-base é pesado; para PC com pouca RAM use MiniLM e apague vectorstore antes de reindexar.
+MODEL_NAME = os.environ.get(
+    "ONCOSUS_EMBEDDING_MODEL", "intfloat/multilingual-e5-base"
+)
 
 # ---------------------------------------------------------
 # LOAD MODEL
 # ---------------------------------------------------------
 
-print("Loading embedding model...")
+print(f"Loading embedding model: {MODEL_NAME} ...")
 
-model = SentenceTransformer(MODEL_NAME)
+model = SentenceTransformer(MODEL_NAME, trust_remote_code=False)
 
 # ---------------------------------------------------------
 # LOAD CHUNKS

@@ -7,6 +7,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import RedirectResponse
 from pydantic import BaseModel
 
 from rag_pipeline import RAGPipeline
@@ -63,12 +64,18 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+# Dev: ng serve pode cair em outra porta se 4200 estiver ocupada (ex. 64600).
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:4200",
         "http://127.0.0.1:4200",
+        "http://localhost:4201",
+        "http://127.0.0.1:4201",
+        "http://localhost:4300",
+        "http://127.0.0.1:4300",
     ],
+    allow_origin_regex=r"http://(127\.0\.0\.1|localhost):\d+",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -83,6 +90,34 @@ class ChatResponse(BaseModel):
     question: str
     answer: str
     sources: list[str]
+
+
+def _hint_for_ollama_error(msg: str) -> str:
+    m = msg.lower()
+    if "more system memory" in m or "requires more system memory" in m:
+        return (
+            " O modelo no Ollama precisa de mais RAM livre do que o Windows reportou. "
+            "Feche navegador (muitas abas), Docker, outros IDEs e o que ocupar RAM; "
+            "deixe só API + Ollama + um terminal. Aumente arquivo de paginação. "
+            "No .env reduza ainda: ONCOSUS_OLLAMA_NUM_CTX=512 e menos trechos (TOP_K/FINAL_K). "
+            "Se continuar sem ~1,5 GiB livres para o llama3.2:1b, só resta um modelo menor no Ollama."
+        )
+    if "exit status 2" in m or "llama runner" in m or "cpu buffer" in m:
+        return (
+            " Dicas (Ollama no Windows): (1) PATH: %LOCALAPPDATA%\\Programs\\Ollama\\lib\\ollama. "
+            "(2) Atualize o Ollama. "
+            "(3) $env:OLLAMA_NUM_GPU='0'; ollama serve (outro terminal: API). "
+            "(4) .env: ONCOSUS_OLLAMA_NUM_CTX=512, ONCOSUS_OLLAMA_NUM_BATCH=64, ONCOSUS_TOP_K=4, ONCOSUS_FINAL_K=2."
+        )
+    if "1455" in m or "paginação" in m:
+        return " Ver README: memória virtual / arquivo de paginação ou modelo de embeddings menor."
+    return ""
+
+
+@app.get("/", include_in_schema=False)
+def root():
+    """Raiz: navegador em / abre a documentação interativa da API."""
+    return RedirectResponse(url="/docs")
 
 
 @app.post("/api/chat", response_model=ChatResponse)
@@ -103,9 +138,10 @@ def chat(request: ChatRequest):
             sources=result["sources"],
         )
     except Exception as e:
+        err = str(e)
         raise HTTPException(
             status_code=500,
-            detail=f"Erro ao processar pergunta: {str(e)}",
+            detail=f"Erro ao processar pergunta: {err}.{_hint_for_ollama_error(err)}",
         )
 
 
@@ -122,7 +158,8 @@ def health():
     try:
         import ollama
 
-        ollama.list()
+        # Evita health travar minutos: o cliente global usa timeout=None.
+        ollama.Client(timeout=20.0).list()
         out["ollama"] = "disponível"
     except Exception as e:
         out["ollama"] = str(e)

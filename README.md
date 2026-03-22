@@ -165,17 +165,31 @@ Opcional: copie `backend/rag/.env.example` para `backend/rag/.env` (ou `.env` na
 python -m uvicorn app:app --reload --port 8000
 ```
 
-A API estará em `http://localhost:8000`. Endpoints: `POST /api/chat`, `GET /api/health`.
+No Windows, para limitar RAM do Ollama ao subir a API: `.\start-api.ps1` (em `backend/rag`).
+
+A API estará em `http://127.0.0.1:8000`. Endpoints: `POST /api/chat`, `GET /api/health`. Abrir `http://127.0.0.1:8000/` redireciona para `/docs` (Swagger). Para liberar a porta 8000 no Windows: `cd backend/rag` e `.\stop-api.ps1`.
 
 **2. Frontend (Angular)**
 
-```bash
-cd frontend
+Use o caminho **real** da pasta (no PowerShell, `...` **não** é atalho — não use `cd "...\oncosus-novo\frontend"`). Exemplo a partir da raiz do repositório `oncosus-novo`:
+
+```powershell
+cd projeto-tech-challenge\oncosus-novo\frontend
 npm install
 npm start
 ```
 
-O servidor de **desenvolvimento** sobe com `npm start` (não use só `npm run build` — o build só gera `dist/` e não abre porta). A app fica em `http://127.0.0.1:4200` (ou `http://localhost:4200`) e chama a API em `http://localhost:8000/api`. Se `localhost` não responder, abra explicitamente `http://127.0.0.1:4200`.
+Ou, de qualquer lugar, abra o script (ele já entra na pasta certa):
+
+```powershell
+powershell -ExecutionPolicy Bypass -File "CAMINHO_COMPLETO\oncosus-novo\frontend\start-frontend.ps1"
+```
+
+Confira se o `package.json` desta pasta tem `"name": "oncosus-frontend"`. Se aparecer outro nome (ex.: portal-fornecedor), você está na pasta errada.
+
+O `npm start` usa `npx ng` (não precisa do `ng` instalado globalmente). **O frontend fica na porta 4200:** `http://127.0.0.1:4200`. O proxy manda `/api` para `127.0.0.1:8000`.
+
+Se **Port 4200 is already in use**: `.\stop-front.ps1` e `npm start` de novo, ou `npm run start:alt` → `http://127.0.0.1:4201`.
 
 **3. CLI (alternativa ao frontend)**
 
@@ -195,3 +209,19 @@ python main.py
 ### Path do vector store
 
 O sistema procura o Chroma em `data/vectorstore/` (raiz do repo). Se não existir, tenta `backend/data/vectorstore/`. Garanta que o vector store esteja populado antes de usar a API.
+
+### Ollama: “model requires more system memory (1.x GiB) than is available”
+
+O **llama3.2:1b** (~oncosus-llm) ainda pede cerca de **1,3 GiB livres** só para carregar. Com a API (PyTorch + embeddings) aberta, o Windows pode mostrar só **~1 GiB** livre e o Ollama recusa. **Feche** navegador pesado, Docker, segundo IDE; suba **primeiro** a API (com Ollama fechado até embeddings carregarem), depois o Ollama; no `.env` use `ONCOSUS_OLLAMA_NUM_CTX=512`. Se necessário, aumente RAM ou arquivo de paginação.
+
+### Erro no Windows: “arquivo de paginação é muito pequeno” (1455) ao subir a API
+
+O modelo de embeddings padrão (`multilingual-e5-base`) precisa de bastante **RAM + memória virtual**. Se aparecer esse erro ao iniciar o `uvicorn`:
+
+1. **Aumente o arquivo de paginação** (Painel de Controle → Sistema → Configurações avançadas do sistema → Desempenho → Configurações → Avançado → Memória virtual) e reinicie; feche Ollama e o navegador antes de subir a API de novo.
+
+2. **Ou use modelo de embeddings menor** (exige **reindexar**): em `.env` defina  
+   `ONCOSUS_EMBEDDING_MODEL=sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2`,  
+   **apague** a pasta `data/vectorstore`, rode de novo `backend/scripts/step_4_0_embed_chunks.py` (com a mesma variável no ambiente) e suba a API.
+
+O nome da coleção Chroma usado pelo RAG é `oncology_documents`, alinhado ao script de ingestão.

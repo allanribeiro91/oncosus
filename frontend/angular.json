@@ -50,7 +50,8 @@
           "options": {
             "port": 4200,
             "host": "127.0.0.1",
-            "open": false
+            "open": false,
+            "proxyConfig": "proxy.conf.json"
           },
           "configurations": {
             "production": { "buildTarget": "oncosus-frontend:build:production" },
@@ -75,5 +76,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "a4ad294c-849f-476f-b5f5-7372503c9658"
   }
 }

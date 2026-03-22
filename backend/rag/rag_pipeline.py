@@ -43,6 +43,28 @@ import ollama
 
 from prompt import PROMPT_TEMPLATE
 
+# Mesmo nome no step_4_0_embed_chunks.py — trocar embeddings exige reindexar o Chroma.
+_DEFAULT_EMBEDDING_MODEL = "intfloat/multilingual-e5-base"
+_LIGHT_EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+# Padrão: llama3 (o que costuma funcionar no projeto). Máquinas com pouca RAM: ONCOSUS_OLLAMA_MODEL=llama3.2:1b
+_DEFAULT_OLLAMA_MODEL = "llama3"
+
+
+def _ollama_client_timeout() -> float | None:
+    raw = (os.environ.get("ONCOSUS_OLLAMA_TIMEOUT_SEC") or "300").strip().lower()
+    if raw in ("", "0", "none", "inf", "false"):
+        return None
+    return float(raw)
+
+_EMBEDDING_LOAD_FAIL_HINT = (
+    "Memória virtual insuficiente ao carregar embeddings (erro 1455). Tente nesta ordem: "
+    "(0) Feche o Ollama da bandeja, suba só a API até aparecer 'Application startup', depois abra o Ollama. "
+    "(1) Aumente o arquivo de paginação do Windows e feche navegadores. "
+    "(2) Só se ainda falhar: mesmo embedding do índice é obrigatório — use %s, apague data/vectorstore "
+    "e rode backend/scripts/step_4_0_embed_chunks.py com a mesma variável."
+    % _LIGHT_EMBEDDING_MODEL
+)
+
 
 class RAGPipeline:
     def __init__(
@@ -50,36 +72,54 @@ class RAGPipeline:
         persist_directory: str,
         embedding_model: str | None = None,
         llm_model: str | None = None,
-        top_k: int = 8,
-        final_k: int = 4,
+        top_k: int = 6,
+        final_k: int = 3,
     ):
-        # Modelo de embedding: parâmetro > env ONCOSUS_EMBEDDING_MODEL > padrão (exige ~1,1 GB em HF_HOME)
-        # Para disco apertado (~500 MB), exemplo: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+        # Modelo de embedding: parâmetro > env ONCOSUS_EMBEDDING_MODEL > padrão (e5-base ~1,1 GB RAM+commit)
+        # Vector store foi gerado com um modelo: consultas DEVEM usar o mesmo (ou reindexar).
         resolved_model = (
             embedding_model
             or os.environ.get("ONCOSUS_EMBEDDING_MODEL")
-            or "intfloat/multilingual-e5-base"
+            or _DEFAULT_EMBEDDING_MODEL
         )
-        self.embeddings = HuggingFaceEmbeddings(
-            model_name=resolved_model
-        )
+        os.environ.setdefault("TOKENIZERS_PARALLELISM", "false")
+        try:
+            # Não usar low_cpu_mem_usage aqui: várias versões do sentence-transformers quebram com TypeError.
+            self.embeddings = HuggingFaceEmbeddings(model_name=resolved_model)
+        except (OSError, MemoryError) as e:
+            winerr = getattr(e, "winerror", None)
+            msg = str(e).lower()
+            if (
+                isinstance(e, MemoryError)
+                or winerr == 1455
+                or "paginação" in msg
+                or "paging" in msg
+                or "1455" in msg
+            ):
+                raise RuntimeError(f"{_EMBEDDING_LOAD_FAIL_HINT}\n\nErro original: {e}") from e
+            raise
 
-        # Vector DB
+        # Vector DB (mesmo nome da coleção que step_4_0_embed_chunks.py grava no Chroma)
         self.db = Chroma(
             persist_directory=persist_directory,
-            embedding_function=self.embeddings
+            embedding_function=self.embeddings,
+            collection_name="oncology_documents",
         )
 
         # LLM local (Ollama): parâmetro > env ONCOSUS_OLLAMA_MODEL > padrão
-        # Máquinas com pouca RAM: pull um modelo menor, ex.: ollama pull llama3.2:1b
-        # e exporte ONCOSUS_OLLAMA_MODEL=llama3.2:1b
         self.llm_model = (
             llm_model
             or os.environ.get("ONCOSUS_OLLAMA_MODEL")
-            or "llama3"
+            or _DEFAULT_OLLAMA_MODEL
         )
 
-        # Menos trechos = prompt menor = menos RAM no Ollama (rede/PDF grande: use 4 e 2)
+        # Cliente com timeout — o módulo ollama.chat() usa timeout=None e pode travar a API para sempre.
+        self._ollama_timeout_sec = _ollama_client_timeout()
+        self._ollama_client = ollama.Client(
+            timeout=self._ollama_timeout_sec,
+        )
+
+        # Menos trechos = prompt menor = menos RAM no Ollama
         self.top_k = int(os.environ.get("ONCOSUS_TOP_K", str(top_k)))
         self.final_k = int(os.environ.get("ONCOSUS_FINAL_K", str(final_k)))
 
@@ -99,15 +139,26 @@ class RAGPipeline:
     # ----------------------------------
     # 3. Contexto estruturado
     # ----------------------------------
+    @staticmethod
+    def _normalize_meta(metadata: dict) -> dict:
+        """Chroma pode ter document_title/source (ingestão) ou titulo/fonte (legado)."""
+        md = metadata or {}
+        titulo = md.get("titulo") or md.get("document_title") or "Documento"
+        fonte = md.get("fonte") or md.get("source") or "Desconhecido"
+        secao = md.get("secao") or md.get("section")
+        pagina = md.get("pagina")
+        return {"titulo": titulo, "fonte": fonte, "secao": secao, "pagina": pagina}
+
     def build_citation(self, metadata):
-        titulo = metadata.get("titulo") or "Documento"
-        secao = metadata.get("secao")
-        pagina = metadata.get("pagina")
+        m = self._normalize_meta(metadata)
+        titulo = m["titulo"]
+        secao = m["secao"]
+        pagina = m["pagina"]
 
         parts = [titulo]
 
         if secao and secao != "N/A":
-            parts.append(secao)
+            parts.append(str(secao))
 
         if pagina and pagina != "N/A":
             parts.append(f"pág. {pagina}")
@@ -119,11 +170,12 @@ class RAGPipeline:
 
         for i, doc in enumerate(docs, 1):
             metadata = doc.metadata or {}
+            m = self._normalize_meta(metadata)
 
-            fonte = metadata.get("fonte", "Desconhecido")
-            titulo = metadata.get("titulo", "Documento")
-            secao = metadata.get("secao", "N/A")
-            pagina = metadata.get("pagina", "N/A")
+            fonte = m["fonte"]
+            titulo = m["titulo"]
+            secao = m["secao"] if m["secao"] is not None else "N/A"
+            pagina = m["pagina"] if m["pagina"] is not None else "N/A"
 
             citation = self.build_citation(metadata)
 
@@ -167,32 +219,44 @@ class RAGPipeline:
     # 5. LLM (Ollama)
     # ----------------------------------
     def _ollama_chat_options(self) -> dict:
-        """Opções passadas ao llama.cpp via Ollama — reduzir num_ctx poupa muita RAM."""
-        num_ctx = int(os.environ.get("ONCOSUS_OLLAMA_NUM_CTX", "2048"))
+        """Opções llama.cpp via Ollama — padrões conservadores para evitar falta de RAM no CPU."""
+        num_ctx = int(os.environ.get("ONCOSUS_OLLAMA_NUM_CTX", "512"))
         opts: dict = {
             "temperature": 0.0,
             "num_ctx": num_ctx,
         }
-        # Opcional: ex. 128 ou 256 se ainda der "unable to allocate CPU buffer"
+        # num_batch menor reduz "unable to allocate CPU buffer" no Windows
         nb = os.environ.get("ONCOSUS_OLLAMA_NUM_BATCH")
-        if nb:
-            opts["num_batch"] = int(nb)
+        opts["num_batch"] = int(nb) if nb else 128
         return opts
 
     def generate_answer(self, prompt: str):
+        try:
+            response = self._ollama_client.chat(
+                model=self.llm_model,
+                messages=[
+                    {
+                        "role": "user",
+                        "content": prompt,
+                    }
+                ],
+                options=self._ollama_chat_options(),
+            )
+        except Exception as e:
+            msg = str(e).lower()
+            if self._ollama_timeout_sec is not None and (
+                "timeout" in msg or "timed out" in msg or "read timeout" in msg
+            ):
+                raise RuntimeError(
+                    f"Ollama não respondeu em {self._ollama_timeout_sec:.0f}s "
+                    f"(modelo `{self.llm_model}`). CPU/RAM ocupados ou modelo grande. "
+                    "Garanta o app Ollama aberto; confira ONCOSUS_OLLAMA_MODEL ou "
+                    "aumente ONCOSUS_OLLAMA_TIMEOUT_SEC."
+                ) from e
+            raise
 
-        response = ollama.chat(
-            model=self.llm_model,
-            messages=[
-                {
-                    "role": "user",
-                    "content": prompt
-                }
-            ],
-            options=self._ollama_chat_options(),
-        )
-
-        return response["message"]["content"]
+        text = response.message.content
+        return (text or "").strip()
 
     # ----------------------------------
     # 6. Pipeline completo
