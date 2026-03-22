@@ -286,7 +286,60 @@ def generate_answer(
     else:
         answer = rag_pipeline.generate_answer(prompt)
 
-    return {"answer": answer}
+    # ----------------------------------
+    # 🧹 REMOVE FONTES DO LLM (ROBUSTO)
+    # ----------------------------------
+    answer_clean = re.split(
+        r"\n\s*\*{0,2}Fontes\*{0,2}\s*\n",
+        answer,
+        flags=re.IGNORECASE
+    )[0]
+
+    answer_clean = re.sub(
+        r"\*{0,2}Fontes\*{0,2}:?",
+        "",
+        answer_clean,
+        flags=re.IGNORECASE
+    ).strip()
+
+    # ----------------------------------
+    # 🔗 RECONSTRUIR FONTES CORRETAS
+    # ----------------------------------
+    selected_docs = state.get("retrieved_docs") or []
+
+    doc_map = {
+        f"[DOC_{i+1}]": doc
+        for i, doc in enumerate(selected_docs)
+    }
+
+    docs_used = set(re.findall(r"\[DOC_\d+\]", answer))
+
+    sources_final = []
+
+    for d in docs_used:
+        doc = doc_map.get(d)
+        if doc:
+            md = doc.metadata or {}
+            citation = rag_pipeline.build_citation(md)
+            sources_final.append(f"{d} – {citation}")
+
+    # fallback se LLM não citou
+    if not sources_final:
+        sources_final = state.get("retrieved_sources", [])
+
+    # ----------------------------------
+    # 🧾 MONTA RESPOSTA FINAL
+    # ----------------------------------
+    answer_final = answer_clean
+
+    if sources_final:
+        fontes_str = "\n".join([f"- {s}" for s in sources_final])
+        answer_final += f"\n\nFontes:\n{fontes_str}"
+
+    return {
+        "answer": answer_final,
+        "sources": sources_final
+    }
 
 
 def fallback_response(state: GraphState) -> GraphState:

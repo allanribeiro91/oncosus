@@ -283,16 +283,10 @@ class RAGPipeline:
                     citation = self.build_citation(md)
                     sources_final.append(f"{d} – {citation}")
 
-
         # ----------------------------------
-        # 🧹 REMOVE "Fontes" do LLM
+        # 🧾 FORÇAR FONTES NA RESPOSTA FINAL
         # ----------------------------------
-        answer_clean = re.split(r"\n\s*Fontes:\s*\n", answer)[0]
-
-        # ----------------------------------
-        # 🧾 ADICIONA FONTES CORRETAS
-        # ----------------------------------
-        answer_final = answer_clean
+        answer_final = answer
 
         if sources_final:
             fontes_str = "\n".join([f"- {s}" for s in sources_final])
