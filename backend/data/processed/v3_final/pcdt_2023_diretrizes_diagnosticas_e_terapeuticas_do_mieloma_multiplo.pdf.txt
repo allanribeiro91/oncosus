@@ -1,0 +1,596 @@
+# 1. INTRODUÇÃO
+O mieloma múltiplo (MM) é uma neoplasia maligna de plasmócitos provenientes da medula óssea que, de acordo com a Agência Internacional para Pesquisa em Câncer da Organização Mundial de Saúde (OMS), em 2020, foi responsável por 176.404 novos casos e 117.077 óbitos. A incidência mundial, neste mesmo ano, foi de 1,8 casos/100 mil habitantes com taxa de mortalidade mundial de 1,1 óbitos/100 mil habitantes. Na América do Sul, a incidência foi de 2,0 casos/100 mil habitantes e a taxa de mortalidade foi de 1,5 óbitos a cada 100 mil habitantes1. No Brasil, dados do Painel Oncologia Brasil2 mostram que, entre 2013 e 2019, foram diagnosticados cerca de 2.600 casos de MM, anualmente, estimando-se 1,24 casos/100 mil habitantes2. Os principais fatores de risco para MM são idade, sexo masculino, etnia e histórico familiar. Em relação à idade, apenas 15% dos diagnósticos são realizados em pessoas com menos de 55 anos, enquanto mais de 60% dos diagnósticos acontecem em adultos com mais de 65 anos. A incidência de MM é 1,5 vezes maior em homens do que em mulheres; 2 vezes maior em pessoas afro-americanas do que em caucasianas, enquanto asiáticos e nascidos nas ilhas do Pacífico Sul apresentam riscos menores. Também existe forte associação de risco entre parentes de primeiro grau, especialmente em homens e afro-americanos3,4. No Brasil, dados do Observatório de Oncologia apontam uma mediana de idade destes pacientes de 63 anos, com variação de 18 a 100 anos. Algumas condições clínicas também estão associadas ao maior risco de desenvolver MM, tais como a gamopatia monoclonal de significado indeterminado (GMSI), o plasmocitoma solitário e o MM latente. Indivíduos com GMSI, com mais de 1,5 g/dL de proteína M e razão alterada de dosagem de cadeias kappa/lambda leves livres séricas, apresentam risco aumentado entre 20% e 30% de desenvolverem MM ativo em 20 anos6,7. O plasmocitoma solitário, em especial o plasmocitoma ósseo, apresenta risco maior que o plasmocitoma extramedular na evolução para o MM (35% e 7%, respectivamente, em dois anos)7. Já o MM latente apresenta um risco de progressão entre 70% e 80% em dois anos, com taxas decrescentes em função do tempo7. O MM é classicamente descrito como síndrome “CRAB”, acrônimo, do inglês, que resume as principais manifestações clínicas da doença: hipercalcemia (Calcium elevation), insuficiência renal (Renal failure), anemia (Anemia) e doença óssea (Bone disease). A doença é caracterizada pela proliferação descontrolada de plasmócitos, que pode causar sinais e sintomas localizados, de acordo com o sítio de proliferação (principalmente ossos), e sistêmicos, que ocorrem pelo excesso dessas células na corrente sanguínea. Cerca de 73% dos pacientes apresentam anemia ao diagnóstico, que está associada à fadiga em 32% dos casos. Outras manifestações observadas são dores ósseas (58%), perda de peso (28%), parestesia (5%) e febre (0,7%)8. Por apresentar grande carga de sintomas, o MM pode comprometer a qualidade de vida e a capacidade funcional dos pacientes, desde os estágios iniciais da doença, até os mais avançados. Os pacientes relatam alterações em todos os domínios relacionados à qualidade de vida, como aspectos emocionais, capacidade física (mobilidade, lazer, passatempo e atividade sexual), aspectos cognitivos e sociais (rede de apoio familiar; institucional e financeiro)9,10. As principais queixas físicas incluem formigamento nas mãos e nos pés, dores osteomusculares e tontura10, além de ansiedade, depressão e fadiga que requerem atenção dos profissionais de saúde11. A atenção à saúde do paciente com MM no Sistema Único de Saúde (SUS) envolve diferentes níveis de complexidade, desde a identificação precoce de sinais e sintomas que levam à suspeita clínica, preferencialmente na Atenção Primária, até a confirmação diagnóstica em um centro de referência em oncologia, acompanhada do planejamento do tratamento12. De acordo com a Política Nacional para a Prevenção e Controle do Câncer na Rede de Atenção à Saúde das Pessoas com Doenças Crônicas no âmbito do SUS13, a atenção ao paciente oncológico, incluindo os pacientes com MM, deve ser realizada de forma multiprofissional e envolve diferentes especialidades como ortopedia, fisiatria, nefrologia, enfermagem, odontologia, psicologia, fisioterapia, cuidados paliativos, radiologia, além de serviços de procedimentos diagnósticos especializados. A apresentação clínica inicial do paciente com MM pode variar, cabendo aos profissionais da Atenção Primária o encaminhamento à Unidade de Assistência de Alta Complexidade em Oncologia (UNACON) ou ao Centro de Assistência de Alta Complexidade em Oncologia (CACON) a partir das características epidemiológicas, da avaliação clínica e dos exames complementares13. Em alguns casos, pacientes com sintomas agudos ou subagudos podem procurar a Rede de Urgência e Emergência, principalmente por fraturas, dores osteomusculares, infecções, fraqueza e perda de peso14. Diante da suspeita clínica, estes pacientes devem ter seu referenciamento assegurado e, se necessário, serem transferidos ao hospital geral de referência. O fluxo de atendimento e encaminhamento do paciente com suspeita de MM pode variar nas diversas regiões do país, de acordo com suas especificidades regionais e dimensionamento das ofertas de serviços em saúde, a fim de otimizar tanto a celeridade do encaminhamento quanto a utilização dos recursos disponíveis15. O painel mínimo sugerido, visando sensibilidade e celeridade do processo de referenciamento, inclui hemograma e eletroforese de proteínas, a fim de documentar os sinais de anemia e pico monoclonal16. A identificação de fatores de risco e da doença em seu estágio inicial e o encaminhamento ágil e adequado para o atendimento especializado dão à Atenção Primária um caráter essencial para um melhor resultado terapêutico e prognóstico dos casos. Estas Diretrizes visam a estabelecer os critérios diagnósticos e terapêuticos do Mieloma Múltiplo, com o objetivo de orientar o que é válido e não válido técnico-cientificamente, com base em evidências que garantam a segurança, a efetividade e a reprodutibilidade, para orientar condutas e protocolos assistenciais. A metodologia de busca e avaliação das evidências estão detalhadas no Apêndice 1.
+
+# 2. CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À SAÚDE (CID-11)
+- C90.0 Mieloma múltiplo3.
+
+# DIAGNÓSTICO
+
+## 3.1. Diagnóstico clínico
+A avaliação do paciente com suspeita de MM inclui a história clínica completa com investigação dos sintomas iniciais, os quais dependem das lesões de órgãos-alvo. Dor óssea (doença óssea), anemia, infecções (disfunção leucocitária) e alteração da função renal são sinais e sintomas comuns. Ainda, sintomas constitucionais e neurológicos também devem ser investigados12. A doença óssea pode se apresentar como dores osteomusculares, fraturas de fragilidade e sintomas neurológicos por lesões vertebrais. A alteração da função renal, causada pelo excesso de proteína-M e pela hipercalcemia, pode ocasionar oligúria e outros sintomas inespecíficos como náusea, fraqueza e sonolência. A disfunção de linfócitos B pode cursar com quadros infecciosos recorrentes. Já a síndrome de hiperviscosidade pode provocar sintomas relacionados à diminuição do fluxo sanguíneo para o sistema nervoso central e eventos tromboembólicos com consequentes tontura, confusão mental, ou sintomas específicos relacionados a um possível acidente vascular cerebral19. A história clínica deve incluir antecedentes como infecção, doença crônica, exposição a substâncias carcinogênicas (solventes, herbicidas, inseticidas) e radiação, bem como imunossupressão e histórico familiar de MM12. Os achados de exame físico no MM são inespecíficos e se relacionam também à lesão de órgão alvo. Sinais como palidez cutânea e taquicardia podem ser provenientes da anemia. A doença óssea pode cursar com alterações musculoesqueléticas, dificuldades na marcha, alteração da mobilidade e sinais de fratura. A avaliação neurológica permite identificar lesão vertebral acometendo o sistema nervoso periférico motor, sensorial ou central. Outros achados incluem hepatomegalia, esplenomegalia e linfonodomegalia8. Escores como International Myeloma Working Group (IMWG) e o modelo Fried para avaliação de fragilidade20, podem ser utilizados para mensurar a fragilidade clínica.
+
+## 3.2. Diagnóstico laboratorial, citogenético e radiológico
+A investigação inicial de pacientes com suspeita de MM inclui exames de sangue, urina, aspirado de medula óssea e de imagem, com objetivo de identificar lesões de órgão-alvo (hipercalcemia, anemia, insuficiência renal e lesões ósseas), presença de proteína monoclonal tumoral (sérica e urinária) e infiltração plasmocitária na medula-óssea12,21. A triagem inicial dos pacientes deve considerar o hemograma completo (contagem celular e esfregaço), níveis séricos de ureia e creatinina, cálcio, eletroforese e imunofixação de proteínas séricas e urinárias, dosagem sérica de imunoglobulinas (IgA, IgM, IgG e IgE), dosagem de cadeias leves (kappa e lambda) livres, albumina e desidrogenase láctica (DHL)12,21. Se a suspeita diagnóstica de MM for apoiada pela investigação inicial, devem ser realizados exames complementares, que incluem: beta-2 microglobulina, proteína C reativa (PCR), velocidade de hemossedimentação (VHS), eletroforese de proteínas e imunofixação na urina de 24 horas (se não realizada na investigação inicial), proteinúria de 24h, mielograma, biópsia de medula óssea e imunofenotipagem (citogenética convencional ou, preferencialmente, teste citogenético por Hibridização in Situ por Fluorescência - FISH) no aspirado da medula óssea. A avaliação citogenética é obrigatória para o diagnóstico. A técnica FISH está disponível para identificação das alterações moleculares e avaliação do prognóstico dos pacientes com MM recém-diagnosticado. O painel mínimo de investigação permite avaliar a presença de alterações moleculares de importância prognóstica como t(4;14), del17p13, t(14;16) e, quando disponível, deve-se realizar o painel ampliado para identificação das alterações de amplificação do 1q, t(11;14). Na confirmação do diagnóstico do MM, exames adicionais devem ser realizados para auxiliar o planejamento terapêutico. Estes exames incluem tempo de protrombina (TP) e tempo de tromboplastina parcial ativada (TTPa), fibrinogênio, d-dímero, bilirrubina total (BT) e frações, fosfatase alcalina, aminotransferases/transaminases, gama-glutamil transferase, ácido úrico e glicemia12. Se o nível de proteína-M estiver elevado (maior que 5 g/dL) ou o paciente apresentar sintomas sugestivos de hiperviscosidade, recomenda-se a dosagem da viscosidade sérica. Quando a dosagem da viscosidade sérica não estiver disponível, deve-se realizar o exame do fundo do olho simples ou retinografia fluorescente, por ser um método diagnóstico sensível para hiperviscosidade com repercussão clínica quando hemorragias retinianas, papiledema, distensão e dilatação de vasos (forma de salsicha) são detectados22. A avaliação laboratorial renal e hepática são necessárias para ajuste das doses de medicamentos e controle dos eventos adversos do tratamento12. Ao diagnóstico, a avaliação esquelética é obrigatória para o estadiamento do MM e deve ser repetida quando houver suspeita de progressão da doença. Os exames recomendados incluem ressonância nuclear magnética (RNM) e tomografia computadorizada (TC) de baixa dose de corpo inteiro23. A TC deve incluir avaliação do tórax, coluna, pelve e outras áreas esqueléticas relacionadas àquelas em que o paciente apresenta sintomas e a RNM de corpo inteiro é obrigatória no caso da TC de corpo inteiro negativa21. Na suspeita de recidiva, recomenda-se repetir os exames laboratoriais iniciais incluindo hemograma completo (contagem celular e esfregaço), níveis séricos de ureia e creatinina, cálcio, eletroforese e imunofixação de proteínas séricas e urinárias, dosagem sérica de imunoglobulinas (IgA, IgM, IgG e IgE), dosagem de cadeias kappa/lambda leves livres séricas monoclonais, albumina e desidrogenase láctica (DHL)21. O mielograma é opcional, entretanto, recomenda-se a avaliação citogenética por FISH para investigação das alterações moleculares. A TC de corpo inteiro é recomendada para avaliação dos pacientes com suspeita de recidiva.
+
+## 3.3. Critérios Diagnósticos
+A atualização dos critérios diagnósticos publicados em 2014 pela IMWG (International Myeloma Working Group) incluiu, além das lesões de órgão alvo classicamente utilizadas (CRAB), três biomarcadores de malignidade (aspirado de medula óssea, cadeias leves livres e lesões focais à ressonância magnética) que são avaliados a partir da biópsia de medula óssea, dosagem de cadeias kappa/lambda leves livres séricas e lesões focais. O acréscimo destes três eventos definidores de doença aumenta a sensibilidade do diagnóstico e possibilita a identificação precoce e o início oportuno do tratamento, antes que lesões de órgão alvo potencialmente graves se estabeleçam24. De acordo com a nova classificação, o diagnóstico do MM será confirmado com a presença de lesão de órgão alvo conforme critérios CRAB ou pela presença de, pelo menos, um evento definidor de doença24 (Quadro 1).
+
+Quadro 1 - Critérios diagnósticos para mieloma múltiplo.
+
+### CRAB
+
+#### Hipercalcemia
+Nível de cálcio sérico 0,25 mmol/L (1 mg/dL) ou mais acima do limite superior de normalidade ou maior que 2,75 mmol/L (11 mg/dL).
+
+#### Insuficiência renal
+Clearance de creatinina menor que 40 mL/min ou creatinina sérica maior que 177 mmol/L (2 mg/dL).
+
+#### Anemia
+Nível de hemoglobina 2 g/dL ou mais abaixo do limite da normalidade ou hemoglobina menor que 10 g/dL.
+
+#### Lesões ósseas
+Uma ou mais lesões osteolíticas à radiografia óssea, TC ou PET/CT*.
+
+### Biomarcadores
+
+#### Aspirado de medula óssea
+Presença de 60% ou mais de células clonais na avaliação medular.
+
+#### Cadeias kappa/lambda leves
+Razão entre níveis séricos de cadeias leves envolvidas e não envolvidas maior ou igual a 100, desde que o nível sérico de cadeias leves envolvidas seja de, pelo menos, 100 livres séricas mg/L.
+
+#### Lesões focais à ressonância magnética
+Mais de uma lesão focal à RNM de, pelo menos, 5 mm de tamanho.
+
+## 3.4. Estratificação de risco e estadiamento
+O estadiamento e a estratificação do risco prognóstico dos pacientes com MM podem ser realizados por meio da versão revisada do Sistema de Estadiamento Internacional Revisado (R-ISS). Os pacientes são classificados, de acordo com alterações específicas encontradas no teste de hibridização in situ por fluorescência (FISH), como alto risco, risco padrão e baixo risco25. A R-ISS destaca três alterações genéticas das células neoplásicas - t(4;14), t(14;16) e deleção 17p13 - que cursam com pior sobrevida global em cinco anos e pior sobrevida livre de progressão26,27. As menores taxas de sobrevida associadas ao alto risco citogenético tem gerado esforços para identificação de tratamentos e associações de medicamentos que possam melhorar o prognóstico destes pacientes27,28. Pacientes classificados como alto risco têm sobrevida global de 24,5 meses versus 50,5 meses para pacientes com risco padrão. As informações citogenéticas podem ainda ser utilizadas na tomada de decisão sobre início do tratamento, momento do transplante e esquema terapêutico a ser utilizado8,25 (Quadro 2).
+
+[QUADRO] id: quadro_2 titulo: Estratificação de risco prognóstico no mieloma múltiplo (R-ISS) contexto: Estadiamento Internacional Revisado (R-ISS)
+
+Estágio I (R-ISS I): Critérios:
+- Beta-2 microglobulina < 3,5 mg/L
+- Albumina sérica ≥ 3,5 g/dL
+- Ausência de marcadores citogenéticos de alto risco
+- LDH normal
+
+Prognóstico:
+- Sobrevida global estimada em 5 anos: 82%
+- Sobrevida livre de progressão: 66 meses
+
+---
+
+Estágio II (R-ISS II): Critérios:
+- Não atende aos critérios de estágio I nem de estágio III
+
+Prognóstico:
+- Sobrevida global estimada em 5 anos: 62%
+- Sobrevida livre de progressão: 42 meses
+
+---
+
+Estágio III (R-ISS III): Critérios:
+- Beta-2 microglobulina ≥ 5,5 mg/L
+- Presença de alterações citogenéticas de alto risco:
+- t(4;14)
+- t(14;16)
+- del(17p13)
+- LDH acima do limite superior da normalidade
+
+Prognóstico:
+- Sobrevida global estimada em 5 anos: 40%
+- Sobrevida livre de progressão: 29 meses
+
+---
+
+Observações:
+- LDH = lactato desidrogenase
+- Fonte: Adaptado de Palumbo et al., 2015 [/QUADRO]
+
+
+## 3.5. Diagnóstico diferencial
+Por ser uma doença proliferativa de plasmócitos, o diagnóstico diferencial do MM deve avaliar outras doenças proliferativas que envolvam essas células, tais como: GMSI não-IgM, GMSI IgM, GMSI de cadeias leves, MM latente, plasmocitoma solitário, plasmocitoma solitário com acometimento medular mínimo, leucemia de células plasmáticas, macroglobulinemia de Waldenström, amiloidose de cadeia leve (primária) e síndrome POEMS (polineuropatia, organomegalia, endocrinopatia, proteína M, alterações dermatológicas). O Quadro 3 descreve os principais critérios para o diagnóstico diferencial de outras doenças.
+
+[QUADRO] id: quadro_3 titulo: Critérios diagnósticos para doenças de células plasmáticas tipo: tabela_clinica
+
+Diagnóstico: Gamopatia Monoclonal de Significado Indeterminado não-IgM
+
+Todos os critérios abaixo devem ser atendidos:
+- Proteína monoclonal sérica (não-IgM) < 3 g/dL
+- Plasmócitos clonais na medula óssea < 10%
+- Ausência de evidência de outra doença proliferativa de células B
+- Ausência de lesão de órgão ou tecido alvo relacionado ao mieloma ou critérios CRAB atribuíveis a outra doença proliferativa de células plasmáticas
+
+---
+
+Diagnóstico: Gamopatia Monoclonal de Significado Indeterminado IgM
+
+Todos os critérios abaixo devem ser atendidos:
+- Proteína monoclonal sérica (IgM) < 3 g/dL
+- Infiltração linfoplasmocitária na medula óssea < 10%
+- Ausência de evidência de outra doença proliferativa de células B
+- Ausência de sintomas constitucionais, linfadenopatia, hepatoesplenomegalia, anemia ou hiperviscosidade atribuíveis a outra doença proliferativa de células plasmáticas
+
+---
+
+Diagnóstico: Gamopatia Monoclonal de Significado Indeterminado de cadeias leves
+
+Todos os critérios abaixo devem ser atendidos:
+- Razão anormal de cadeias leves (< 0,25 ou > 1,65)
+- Aumento da cadeia leve envolvida:
+- Kappa elevada com razão > 1,65
+- Lambda elevada com razão < 0,26
+- Ausência de expressão de imunoglobulina de cadeia pesada à imunofixação
+- Ausência de lesão de órgão alvo ou critérios CRAB atribuíveis a outra doença proliferativa de células plasmáticas
+- Proteína monoclonal urinária < 500 mg/24h
+
+---
+
+Diagnóstico: Mieloma múltiplo latente
+
+Todos os critérios abaixo devem ser atendidos:
+- Proteína monoclonal sérica ≥ 3 g/dL OU proteína monoclonal urinária ≥ 500 mg/24h OU plasmócitos clonais na medula óssea entre 10% e 60%
+- Ausência de eventos definidores de mieloma ou amiloidose
+
+---
+
+Diagnóstico: Plasmocitoma solitário
+
+Todos os critérios abaixo devem ser atendidos:
+- Lesão óssea ou de tecido mole única confirmada em biópsia sem plasmócitos clonais na medula
+- Medula óssea normal sem evidência de plasmócitos clonais
+- Avaliação esquelética normal (sem lesões adicionais em RX, TC ou RNM)
+- Ausência de lesão de órgão alvo ou critérios CRAB
+
+---
+
+Diagnóstico: Plasmocitoma solitário com acometimento medular mínimo
+
+Todos os critérios abaixo devem ser atendidos:
+- Lesão única confirmada em biópsia
+- Plasmócitos clonais na medula óssea < 10%
+- Avaliação esquelética normal (exceto lesão primária)
+- Ausência de lesão de órgão alvo ou critérios CRAB
+
+---
+
+Diagnóstico: Leucemia de células plasmáticas
+
+Critérios principais:
+- Plasmócitos clonais no sangue periférico > 2.000/µL (2 x 10^9/L) OU ≥ 20% dos leucócitos
+
+Critérios adicionais (não obrigatórios):
+- Presença de proteína monoclonal, infiltração de medula óssea ou lesão de órgão alvo (CRAB)
+
+---
+
+Diagnóstico: Macroglobulinemia de Waldenström
+
+Ambos os critérios abaixo devem ser atendidos:
+- Gamopatia monoclonal IgM
+- Infiltração linfoplasmocitária na medula ≥ 10%
+
+Outros possíveis achados:
+- Infiltrado com imunofenótipo típico
+- Anemia, hepatoesplenomegalia e sintomas sistêmicos
+
+---
+
+Diagnóstico: Amiloidose de cadeias leves (primária)
+
+Todos os critérios abaixo devem ser atendidos:
+- Síndrome sistêmica associada à proteína amiloide
+- Deposição de amiloide confirmada (Congo red ou microscopia eletrônica)
+- Evidência de proteína amiloide sérica relacionada a cadeias leves
+- Evidência de doença de células plasmáticas monoclonais
+
+---
+
+Diagnóstico: Síndrome POEMS
+
+Ambos os critérios abaixo devem ser atendidos:
+- Polineuropatia
+- Doença proliferativa de plasmócitos monoclonais
+
+Pelo menos um critério maior deve ser atendido:
+- Lesões osteoescleróticas ou mistas ≥ 0,8 cm
+- Doença de Castleman
+- Fator de crescimento endotelial vascular (VEGF) elevado
+
+Pelo menos um critério menor deve ser atendido:
+- Organomegalia (hepato/esplenomegalia ou linfadenopatia)
+- Sobrecarga de volume extravascular (edema, ascite, derrame pleural)
+- Endocrinopatia (exceto DM ou hipotireoidismo)
+- Alterações dermatológicas (hiperpigmentação, hipertricose, etc.)
+- Papiledema
+- Trombocitose ou policitemia
+
+---
+
+Observações:
+- CRAB: hipercalcemia, insuficiência renal, anemia e doença óssea
+- Fonte: Adaptado de Michels, 2017 [/QUADRO]
+
+
+# 4. CRITÉRIOS DE INCLUSÃO
+Devem ser incluídos nestas DDT todos os pacientes com diagnóstico de MM com idade igual ou superior a 19 anos. A indicação de transplante de células-tronco hematopoéticas (TCTH) deve observar o vigente Regulamento Técnico do Sistema Nacional de Transplantes e as idades mínima e máxima atribuídas aos respectivos procedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS, devendo todos os potenciais receptores estar inscritos no Sistema Nacional de Transplantes (SNT)30.
+
+# 5. CRITÉRIOS DE EXCLUSÃO
+Não estão contemplados nestas DDT os pacientes com diagnóstico de plasmocitoma solitário, mieloma osteoesclerótico ou leucemia de células plasmáticas. Serão excluídos pacientes que apresentarem toxicidade (intolerância, hipersensibilidade ou outro evento adverso) ou contraindicações absolutas ao uso do respectivo medicamento preconizado ou procedimento preconizados nestas Diretrizes.
+
+# 6. TRATAMENTO
+
+## 6.1. Tratamento não medicamentoso
+
+### 6.1.1. Transplante de células-tronco hematopoéticas (TCTH)
+O TCTH autólogo é o padrão ouro no tratamento do paciente com MM e a avaliação da sua indicação deve ser considerada precocemente no planejamento terapêutico12,31. A elegibilidade ao procedimento é regulada pela Política Nacional de Transplantes e inclui pacientes com idade inferior a 75 anos, níveis de bilirrubina direta até 2,0 mg/dL e creatinina sérica até 2,5 mg/dL, exceto se o paciente estiver em terapia renal substitutiva crônica e estável; capacidade funcional 0, 1 ou 2 pela escala Zubrod, exceto se comprometida principalmente por dor óssea, e, função cardíaca preservada, conforme classe funcional I ou II da New York Heart Association12,30. O TCTH alogênico não é recomendado, mas pode ser considerado para pacientes de alto risco. Um segundo TCTH autólogo não é rotineiramente recomendado, mas pode ser considerado para pacientes que não alcançaram, no mínimo, resposta parcial muito boa após o primeiro transplante; para pacientes com alto risco citogenético ou para pacientes que recaíram 18 meses após o primeiro TCTH12,21.
+
+## 6.2. Tratamento medicamentoso
+
+### 6.2.1. Pacientes elegíveis ao TCTH
+O objetivo terapêutico para os pacientes com MM elegíveis ao TCTH é a indução de máxima resposta, sem toxicidade limitante31. As etapas consistem em terapia de indução, coleta de células-tronco hematopoiéticas, condicionamento com quimioterapia em alta dose, TCTH autólogo e terapia de manutenção12,21,32.
+
+6.2.1.1. Terapia de indução O melhor tratamento disponível deverá ser utilizado para indução, priorizando-se o uso de terapia tripla que inclua, pelo menos, inibidor de proteassoma e corticoide21. Outros medicamentos disponíveis para a terapia de indução são agentes alquilantes (ciclofosfamida e cisplatina), antraciclinas (doxorrubicina e doxorrubicina lipossomal), inibidores da topoisomerase (etoposido) e alcaloides da vinca (vincristina)12. Especificamente em relação ao inibidor de proteassoma, conforme a Portaria SCTIE/MS nº 43/2020, o bortezomibe foi incorporado no âmbito do SUS para uso em combinação com outros medicamentos no tratamento de pacientes com MM, recém-diagnosticado, elegíveis ao transplante de células-tronco hematopoiéticas30. O número de ciclos de indução para os pacientes elegíveis ao TCTH não está definido, mas deve ser de, pelo menos, 3 ou 4 ciclos12,32.
+
+6.2.1.2. Condicionamento pré-TCTH O esquema de condicionamento pré-TCTH recomendado é melfalana 200 mg/m2 em dose única, a ser administrada no dia -1 ou -2, conforme protocolo institucional. A infusão das células tronco é realizada posteriormente no dia 012,21,32–35.
+
+6.2.1.3. Consolidação A terapia de consolidação é definida como esquema terapêutico fixo, administrado após o transplante, com finalidade de aumentar a resposta terapêutica12. No entanto, a consolidação não deve ser considerada rotineiramente. A indicação desta etapa do tratamento deve ser individualizada21,32.
+
+6.2.1.4. Manutenção Os pacientes submetidos ao TCTH podem receber a terapia de manutenção, que consiste na administração prolongada de medicamentos com baixa toxicidade na tentativa de prevenir a progressão da doença36. O objetivo da manutenção é aumentar o tempo de remissão da doença com boa qualidade de vida. Os imunomoduladores são indicados para terapia de manutenção. A talidomida é o imunomodulador disponível no âmbito do SUS, mas os eventos adversos associados a este medicamento podem limitar a duração do tratamento e não há estudos que demonstrem aumento da sobrevida global12. A utilização de lenalidomida para terapia de manutenção em pacientes submetidos ao TCTH autólogo foi avaliada para esta Diretriz. Na síntese de evidências para atualização deste documento, a estimativa de efeito da comparação indireta entre lenalidomida e talidomida não mostrou diferença entre as duas tecnologias para o desfecho sobrevida global [Hazard ratio (HR) de 0,58; Intervalo de Confiança de 95% (IC95%) de 0,30 a 1,11]. Em relação à sobrevida livre de progressão, o resultado da meta-análise foi favorável à lenalidomida, indicando que esta é 36% superior à talidomida (HR de 0,64; IC95% de 0,48 a 0,86). Quanto aos eventos adversos, não houve diferença na ocorrência de eventos adversos graus 3 e 4 entre a lenalidomida e a talidomida [Risco Relativo (RR) de 0,75; IC95% de 0,20 a 2,86]. Quanto aos eventos adversos neurológicos, incluindo a neuropatia periférica, a estimativa de efeito indireta também se apresentou inconclusiva quanto à superioridade da lenalidomida (RR de 0,33; IC95% de 0,73 a 3,11). O medicamento foi avaliado pela Conitec, entretanto, após recomendação desfavorável à incorporação, o medicamento não foi incorporado ao SUS para esta indicação, conforme Portaria SCTIE/MS nº 21/202237.
+
+6.2.2. Pacientes inelegíveis ao TCTH Pacientes inelegíveis ao TCTH podem iniciar terapia de indução completa com imunomoduladores e inibidores de proteassoma31. O bortezomibe pode ser utilizado, uma vez que foi incorporado no âmbito do SUS para uso em combinação com outros medicamentos no tratamento de pacientes com MM, recém-diagnosticado, inelegíveis ao transplante de células-tronco hematopoiéticas, de acordo com a Portaria SCTIE/MS nº 45/202038. Conforme a tolerância destes pacientes, a dose de talidomida pode ser modificada, a fim de minimizar eventos associados à toxicidade, uma vez que o medicamento deve ser mantido até a progressão da doença12,39. A combinação de bortezomibe, lenalidomida e dexametasona apresenta bons resultados em relação à sobrevida global e livre de progressão. A utilização de lenalidomida para pacientes inelegíveis ao TCTH foi avaliada pela Conitec. Na síntese de evidências elaborada para esta atualização, em relação aos eventos adversos, a comparação entre os esquemas RDc (lenalidomida e dexametasona) e TDc (talidomida e dexametasona), em relação à sobrevida global, foi avaliada por três revisões sistemáticas, que mostraram uma superioridade para o esquema de RDc quando comparado ao TDc (HR de 0,32; IC95% de 0,20 a 0,52), (HR de 0,44; IC95% de 0,20 a 0,97) e (HR de 0,36; IC95% de 0,23 a 0,55). A comparação da sobrevida global entre os esquemas MPR-R (melfalana, prednisona e lenalidomida com manutenção de lenalidomida) e MPT-T (melfalana, prednisona e talidomida com manutenção de talidomida) também foi avaliada pelas mesmas revisões sistemáticas e em nenhuma delas houve diferença entre os dois esquemas (HR de 1,08; IC95% de 0,90 a 1,30), (HR 0,89; IC95% de 0,66 a 1,21) e (HR de 0,91; IC95% de 0,75 a 1,10])40. Considerando os eventos adversos avaliados, pacientes tratados com MPR-R apresentaram menor risco de EA graves do que aqueles tratados com MPT-T (RR de 0,79; IC95% de 0,67 a 0,93). Pacientes tratados com RDc apresentaram menor risco de EA neurológicos graus 3 e 4 do que aqueles tratados com TDc (RR 0,02; IC95% de 0,004 a 0,12). Ademais, pacientes tratados com MPR-R apresentaram menor risco de polineuropatia graus 3 e 4 do que aqueles tratados com MPT-T (RR de 0,13; IC95% de 0,05 a 0,32). Não houve diferença entre os esquemas RDc versus TDc e MPR-R versus MPT-T (RR de 0,29; IC95% de 0,05 a 1,65) e (RR 0,79; IC95% de 0,50 a 1,24), respectivamente) em relação à taxa de suspensão do tratamento 40. O medicamento foi avaliado pela Conitec, entretanto, após recomendação desfavorável à incorporação, o medicamento não foi incorporado ao SUS para esta indicação, conforme Portaria SCTIE/MS nº 16/202240.
+
+6.2.3. Pacientes refratários ou em recidiva Apesar dos avanços terapêuticos nos últimos anos, o MM permanece uma doença incurável e quase todos os casos se tornam refratários aos tratamentos padrão41. O objetivo terapêutico para os pacientes com MM recidivado ou refratário é controlar a progressão da doença, com eventos adversos aceitáveis, e manter a qualidade de vida do paciente pelo maior tempo possível42. A recidiva pode ser classificada como clínica ou como bioquímica isolada. Pacientes com recidiva clínica são sintomáticos e apresentam piora da lesão de órgão alvo, como evolução das lesões ósseas ou surgimento de novas lesões, plasmocitomas, anemia, insuficiência renal ou hipercalcemia43. Nestes casos, recomenda-se que a terapia de resgate seja iniciada imediatamente. Já a recidiva bioquímica isolada se apresenta com aumento assintomático dos níveis séricos do componente monoclonal44,45. A observação cuidadosa é apropriada para pacientes com recidiva lentamente progressiva, requerendo monitoramento dos sintomas e da função dos órgãos e avaliação frequente dos níveis de paraproteína do mieloma. Entretanto, o tratamento pode ser considerado naqueles pacientes com alto risco citogenético, doença extramedular, recidiva após transplante ou terapia inicial ou evidência de rápido aumento nos seguintes marcadores de MM12,32:
+- Duplicação da componente M em duas medidas consecutivas, separadas por até dois meses;
+- aumento nos níveis absolutos da proteína M sérica maior ou igual a 1 g/dL;
+- aumento da proteína M urinária maior ou igual a 500 mg/24h; ou
+- aumento dos níveis da cadeia leve livre envolvida maior ou igual a 20 mg/dL e uma razão de dosagem de cadeias kappa/lambda leves livres séricas anormal em duas medidas consecutivas separadas por até dois meses. O tratamento deve ser individualizado e a escolha deve considerar fatores relacionados ao paciente, como idade, comorbidades (neuropatia, insuficiência renal), performance status e preferências do paciente; relacionados à doença, como a sua natureza (comportamento indolente ou agressivo), duração da resposta aos tratamentos prévios, risco citogenético e características da recidiva; e relacionados ao tratamento, como os medicamentos já utilizados anteriormente e a resposta do paciente a eles, bem como as reações adversas apresentadas, número de tratamentos, via de administração e a disponibilidade do medicamento32,46. Os diferentes tipos de tratamentos do MM recidivado ou refratário incluem novo TCTH autólogo, repetição do uso de medicamentos anti-mieloma já utilizados anteriormente ou uso de outros medicamentos não utilizados na primeira linha12,21,46. Até o momento, não há um consenso sobre qual é a melhor sequência e combinação de medicamentos a ser utilizada por estes pacientes46. No entanto, na primeira recidiva, esquemas com três medicamentos, envolvendo aqueles não utilizados na terapia prévia, são recomendados12,32,47. Os esquemas podem incluir inibidores de proteassoma (bortezomibe), agentes alquilantes (ciclofosfamida e cisplatina), corticosteroides (dexametasona), antraciclinas (doxorrubicina e doxorrubicina lipossomal), inibidores da topoisomerase (etoposido) e alcaloides da vinca (vincristina). O bortezomibe está disponível no âmbito do SUS para uso em combinação com outros medicamentos no tratamento de pacientes com MM recidivados ou refratários, conforme a Portaria SCTIE/MS nº 44/202048. A utilização de daratumumabe para pacientes com mieloma múltiplo recidivado ou refratário já foi avaliada pela Conitec. Na síntese de evidências, foi incluído apenas um ensaio clínico que identificou superioridade de daratumumabe + bortezomibe + dexametasona comparado a bortezomibe + dexametasona para sobrevida livre de progressão (16,7 vs. 7,1 meses; HR de 0,31; IC 95% de 0,31 a 0,39) (qualidade da evidência moderada), taxa de resposta geral (83,9% vs. 60,7%; p < 0,001), taxa de resposta completa (28,2% vs. 8,9%; p < 0,0001) e taxa de resposta parcial muito boa (60,9% vs. 29,2%; p < 0,0001). A mediana da sobrevida global não foi alcançada e por isso não foi reportada. A qualidade de vida relacionada à saúde foi mantida para os pacientes de ambos os grupos (p > 0,05) (qualidade da evidência alta) entre o início e o final do estudo. Considerando os desfechos de segurança reportados, daratumumabe não parece aumentar o risco de suspensão (7,4% para esquema com daratumumabe vs. 9,3% para esquema sem daratumumabe) (qualidade da evidência alta) ou a incidência de eventos adversos (98,8% vs. 95,4%)49. O medicamento foi avaliado pela Conitec para esta indicação. No entanto, após recomendação desfavorável à incorporação, o medicamento não foi incorporado ao SUS para esta indicação, conforme Portaria SCTIE/MS nº 18/202249.
+
+[FLUXOGRAMA] id: figura_1 titulo: Fluxo de diagnóstico e tratamento do mieloma múltiplo tipo: fluxo_clinico
+
+ETAPA 1: Suspeita clínica
+
+Entrada:
+- Sintomas inespecíficos
+- Sintomas ósseos
+- Pacientes assintomáticos
+
+Processo: → Realizar história clínica e exame físico → Solicitar exames laboratoriais iniciais
+
+Decisão: Mantém suspeita de mieloma múltiplo (MM)?
+- Não → Encaminhar para diagnóstico diferencial
+- Sim → Prosseguir investigação
+
+---
+
+ETAPA 2: Confirmação diagnóstica
+
+Processo: → Realizar exames laboratoriais adicionais → Realizar biópsia e aspirado de medula óssea
+
+Decisão: Diagnóstico de MM confirmado?
+- Não → Encaminhar para diagnóstico diferencial
+- Sim → Prosseguir para estadiamento
+
+---
+
+ETAPA 3: Estadiamento e planejamento terapêutico
+
+Processo: → Exames laboratoriais complementares → Avaliação oftalmológica (fundo de olho ou retinografia fluorescente) → Exames de imagem:
+- RNM
+- TC (tórax, pelve, coluna)
+
+Decisão: Elegível para transplante autólogo (TCTH)?
+- Sim → → Indução → Coleta de células-tronco → Condicionamento → TCTH autólogo → Manutenção
+- Não → → Indução
+
+---
+
+ETAPA 4: Avaliação da resposta
+
+Processo: → Avaliação da resposta terapêutica
+
+Decisão: Recidiva ou refratariedade?
+- Não → Monitoramento
+- Sim → Replanejamento terapêutico
+
+---
+
+Observação:
+- O fluxo contempla desde a suspeita clínica até o manejo terapêutico e acompanhamento do mieloma múltiplo [/FLUXOGRAMA]
+
+
+6.2.4. Medicamentos e esquemas de administração Diversos medicamentos são utilizados para o tratamento do MM e as opções terapêuticas foram ampliadas nos últimos anos. O Quadro 4 resume os principais medicamentos e doses recomendadas para composição dos esquemas terapêuticos12. As doses, frequências de utilização e dias de administração dos medicamentos deverão ser avaliadas conforme o protocolo institucional.
+
+[QUADRO] id: quadro_4 titulo: Medicamentos utilizados no tratamento do mieloma múltiplo no SUS tipo: tabela_terapeutica
+
+Classe: Imunomoduladores
+
+Medicamento: Talidomida
+- Via de administração: Oral
+- Dose: 50–200 mg
+- Frequência: 1 vez ao dia
+
+---
+
+Classe: Inibidores de proteassoma
+
+Medicamento: Bortezomibe
+- Via de administração: Intravenosa ou subcutânea
+- Dose: 1,3 mg/m²
+- Frequência: 2 vezes por semana ou 1 vez por semana
+
+---
+
+Classe: Alquilantes
+
+Medicamento: Ciclofosfamida
+- Via de administração: Oral
+- Dose: 300 mg/m²
+- Frequência: 1 vez por semana
+- Via de administração: Intravenosa
+- Dose: 400 mg/m²
+- Frequência: 1 vez ao dia
+
+Medicamento: Melfalana
+- Via de administração: Oral
+- Dose: 9 mg/m²
+- Frequência: 1 vez ao dia
+- Via de administração: Intravenosa
+- Dose: 200 mg/m²
+- Frequência: Dose única para condicionamento pré-TCTH
+
+Medicamento: Cisplatina
+- Via de administração: Intravenosa
+- Dose: 10 mg/m²
+- Frequência: 1 vez ao dia
+
+---
+
+Classe: Esteroides
+
+Medicamento: Dexametasona
+- Via de administração: Oral
+- Dose: 40 mg
+- Frequência: 1 vez ao dia
+
+Medicamento: Prednisona
+- Via de administração: Oral
+- Dose: 60 mg/m²
+- Frequência: 1 vez ao dia
+
+---
+
+Classe: Antraciclinas
+
+Medicamento: Doxorrubicina
+- Via de administração: Intravenosa
+- Dose: 9 mg/m²
+- Frequência: 1 vez ao dia
+
+Medicamento: Doxorrubicina lipossomal
+- Via de administração: Intravenosa
+- Dose: 30 mg/m²
+- Frequência: Dose única por ciclo
+
+---
+
+Classe: Inibidores da topoisomerase
+
+Medicamento: Etoposídeo
+- Via de administração: Intravenosa
+- Dose: 40 mg/m²
+- Frequência: 1 vez ao dia
+
+---
+
+Classe: Alcaloides da vinca
+
+Medicamento: Vincristina
+- Via de administração: Intravenosa
+- Dose: 0,4 mg
+- Frequência: 1 vez ao dia
+
+---
+
+Observações:
+- As doses e frequências devem ser ajustadas conforme protocolo institucional, idade e exames laboratoriais
+- Os ajustes de dose por toxicidade não estão detalhados neste quadro
+- A frequência exata depende do esquema terapêutico [/QUADRO]
+
+6.2.5. Prevenção e tratamento das lesões ósseas A doença óssea é uma das principais manifestações clínicas do MM, ocorre em consequência da destruição óssea e pode se manifestar como lesões osteolíticas ou osteopenia, causando dor intensa, fraturas, compressão da medula espinhal e hipercalcemia44,57. A destruição óssea ocorre pelo aumento da atividade osteoclástica (reabsorção óssea) por meio de fatores ativadores dos osteoclastos que são produzidos pelas células tumorais e não tumorais na medula óssea44. A prevenção de fratura patológica é importante no paciente com MM, por meio da terapia profilática com a administração de inibidores da osteólise (bisfosfonatos). O uso de bisfosfonatos é recomendado em todos os pacientes, independente do diagnóstico de doença óssea, embora os benefícios de seu uso em pacientes sem doença óssea diagnosticada pelo PET-CT ou RM de corpo inteiro, sejam questionáveis21. O ácido zoledrônico é o bisfosfonato mais indicado para pacientes recém diagnosticados com MM sem acometimento ósseo58 e a dose de 4 mg deve ser administrada por via intravenosa, uma vez ao mês12,59. Uma vez que ele tenha sido utilizado por, pelo menos, 12 meses e que a resposta clínica obtida tenha sido parcial, muito boa ou completa, pode-se considerar reduzir a frequência do tratamento (a cada três meses, a cada seis meses ou anualmente) ou suspende-lo58. O tempo máximo de uso do medicamento é de 24 meses. No entanto, apenas pacientes que não alcançaram resposta parcial após tratamento inicial do MM podem utilizar por tempo superior. Na recidiva, o ácido zoledrônico pode ser reiniciado21. Quando o ácido zoledrônico não estiver disponível ou quando for contraindicado, o pamidronato, outro bisfosfonato, pode ser utilizado58. A dose recomendada do pamidronato é de 90 mg, uma vez por mês, por via intravenosa, diluída em 500 mL de solução de infusão livre de cálcio e administrada em quatro horas12,60. Todos os pacientes com MM acometidos por doença óssea no momento do diagnóstico devem ser tratados com bisfosfonatos (ácido zoledrônico ou pamidronato), de acordo com o esquema de administração preconizado nesta Diretriz21,58. A suplementação oral com vitamina D (400 UI/dia, via oral) e cálcio (500 mg/dia, via oral) é mandatória para evitar hipocalcemia induzida por bisfosfonatos. Em pacientes que apresentem hipercalcemia, a suplementação deve ser iniciada, após a normalização de cálcio sérico12,21,58,59. Pacientes com insuficiência renal e que tenham recebido suplementação de cálcio devem ser monitorados58. Os bisfosfonatos são potencialmente nefrotóxicos21,57. Deve-se monitorar, mensalmente, o clearance de creatinina e os níveis de eletrólitos séricos nos pacientes que usam pamidronato ou outro bisfosfonato. A dosagem da albumina urinária deve ser feita, também mensalmente, quando o pamidronato estiver sendo utilizado58. Ajustes de dose, a depender do clearance de creatinina, podem ser necessários e devem ser feitos de acordo com a bula do medicamento registrada na ANVISA. Pacientes com clearance de creatinina inferior a 30 mL/min não devem utilizar bisfosfonatos21,57. Os pacientes devem ser aconselhados quanto ao reconhecimento e relato de eventos adversos aos medicamentos58. Nesse sentido, a equipe multiprofissional, destacando os farmacêuticos e enfermeiros, desempenha papel importante. A avaliação por ortopedista deve ser solicitada em caso de fratura iminente ou atual de ossos longos, de compressão óssea da medula espinhal ou de instabilidade da coluna vertebral12, situações em que procedimentos cirúrgicos ortopédicos podes ser recomendados21. A indicação do procedimento cirúrgico deve ocorrer em decisão conjunta com o hematologista, ortopedista ou neurocirurgião, para determinar quando o tratamento do MM pode ser reiniciado com segurança12. A cifoplastia com balão pode ser considerada para fraturas de compressão vertebral sintomáticas21,58. Ademais, baixas doses de radiação (até 30 Gy) podem ser usadas para paliação da dor não controlada, fratura patológica iminente ou compressão de coluna espinhal iminente por MM21.
+
+6.2.6. Prevenção e tratamento da insuficiência renal A insuficiência renal é uma complicação comum e grave do MM, considerada emergência médica e fator de mau prognóstico. Estima-se que ela afete de 20% a 30% dos pacientes no momento do diagnóstico, podendo atingir até 50% dos pacientes durante o curso da doença e levar até 12% dos pacientes a necessitar de terapia renal substitutiva21,61,62. As causas da insuficiência renal no paciente com MM incluem dano tubular causado pela excreção de imunoglobulinas de cadeias leves e, consequentemente, nefropatia obstrutiva (também conhecida como “rim do mieloma”). Esta insuficiência também pode estar associada a outras causas, como hipercalcemia, sepse, desidratação, uso de medicamentos nefrotóxicos e contraste endovenoso63,64. Por isso, devem ser adotadas medidas para prevenção da insuficiência renal: monitoramento da ingesta hídrica e promoção do uso racional de medicamentos potencialmente nefrotóxicos (aminoglicosídeos, anti-inflamatórios não esteroidais, inibidores da enzima conversora de angiotensina, anfotericina B, diuréticos de alça, bisfosfonatos e contraste iodado venoso). Também deve ser realizado um acompanhamento rigoroso da função renal (creatinina sérica, ureia, sódio, potássio, cálcio, taxa de filtração glomerular, exame de urina de 24 horas) e das concentrações de cadeia leve12,61,63–65. Além das medidas preventivas, o paciente deve ser acompanhado por nefrologista, caso a função renal não seja restabelecida até 48 horas após as intervenções iniciais. Deve haver uma comunicação clara entre o médico assistente e nefrologista para otimizar o resultado terapêutico12. A biópsia renal é desejável para ajudar na decisão terapêutica, mas não é essencial12,61. A plasmaférese ou hemofiltração tem sido sugerida para remoção física das cadeias leves, entretanto, seu papel permanece controverso. A hidratação adequada é essencial e deve ser assegurada em todos os pacientes com MM e insuficiência renal65. A administração de soluções salinas hipotônicas pode ser mais vantajosa do que as soluções fisiológicas, já que a formação de cilindros na alça de Henle é favorecida quando a concentração de cloreto de sódio está acima de 80 mmol/L12. O tratamento do paciente com MM e insuficiência renal deve ser iniciado o mais precocemente possível, preferencialmente com esquemas de tratamento que incluem bortezomibe, associado a altas doses de dexametasona durante o primeiro mês. Não há informações sobre esquemas específicos para pacientes em terapia renal substitutiva. A talidomida é efetiva em pacientes com MM com insuficiência renal e pode ser administrada sem alteração de dose. Para os pacientes que recebem altas doses de quimioterapia como condicionamento para o TCTH, a dose de melfalana deve ser restrita a 100 a 140 mg/m2 21.
+6.2.7. Profilaxia e controle das infecções As infecções relacionadas à imunossupressão (da doença e seu tratamento) são uma importante causa de morbimortalidade em pacientes com MM, de modo que todas as medidas para evitá-las devem ser instituídas68. Os pacientes com MM que apresentam alto risco de desenvolver infecções graves podem receber profilaxia antimicrobiana segundo protocolos institucionais. Contudo, sua indicação deve ser individualizada de acordo com o histórico de infecções, idade, atividade da doença, tipo e duração dos tratamentos prévios, nível de imunossupressão e comorbidades. Portanto, a profilaxia antimicrobiana não deve ser recomendada como rotina e deve ter indicação individualizada12,69. Os pacientes tratados com inibidores de proteassoma (bortezomibe), altas doses de corticoide ou altas doses de melfalana seguida de TCTH autólogo deverão receber profilaxia com aciclovir, a fim de reduzir o risco de reativação do vírus varicela zoster68,69. Quando o paciente com mieloma apresentar hipogamaglobulinemia e sofrer infecções graves ou recorrentes, pode-se considerar a reposição de imunoglobulinas. No entanto, a profilaxia de infecções não é recomendada rotineiramente12.
+
+6.2.8. Vacinação Os pacientes devem ser vacinados o mais cedo possível68. Recomenda-se que os pacientes que iniciarão o tratamento do MM devam ser vacinados, pelo menos, 14 dias antes do início do tratamento, antes da mobilização e coleta de células-tronco; quando o paciente atingir a melhor resposta à terapia; três a seis meses após a conclusão da quimioterapia ou TCTH autólogo, e; seis a 12 meses após o TCTH alogênico12,68. A vacinação entre os ciclos de quimioterapia não é recomendada, devido à provável redução da sua eficácia12. As vacinas recomendadas para pacientes com neoplasias submetidos à quimioterapia, radioterapia ou corticoterapia e pessoas que convivem com esses pacientes estão descritas no Quadro 570. Preferencialmente, o paciente com MM deverá receber vacinas inativadas, enquanto as vacinas vivas podem ser consideradas para pacientes com GMSI ou MM assintomático (latente), bem como nos demais pacientes que se encontrarem em remissão da doença, três a seis meses após o término da quimioterapia12,68. Para os pacientes submetidos ao TCTH, o esquema vacinal deverá ser planejado, de acordo com o Manual dos Centros de Referência para Imunobiológicos Especiais (CRIE)70.
+
+[QUADRO] id: quadro_5 titulo: Vacinas recomendadas para pacientes com mieloma múltiplo, cuidadores e familiares tipo: tabela_vacinacao
+
+Vacina: Bacilo de Calmette-Guérin (BCG)
+- Paciente (antes do tratamento): Não
+- Paciente (durante o tratamento): Não
+
+---
+
+Vacina: Difteria, tétano e pertussis (DTP/dT/dTpa)
+- Paciente (antes do tratamento): Sim
+- Paciente (durante o tratamento): Sim
+
+---
+
+Vacina: Poliomielite oral atenuada (VOP)
+- Paciente (antes do tratamento): Não
+- Paciente (durante o tratamento): Não
+- Convivente: Não
+
+---
+
+Vacina: Poliomielite inativada injetável (VIP)
+- Paciente (antes do tratamento): Sim
+- Paciente (durante o tratamento): Sim
+- Convivente: Sim
+
+---
+
+Vacina: Hepatite B (HB)
+- Paciente (antes do tratamento): Sim
+- Paciente (durante o tratamento): Sim
+
+---
+
+Vacina: Tríplice viral
+- Paciente (antes do tratamento): Sim
+- Paciente (durante o tratamento): Não
+- Convivente: Sim
+
+---
+
+Vacina: Varicela (VZ)
+- Paciente (antes do tratamento): Sim, se suscetível
+- Paciente (durante o tratamento): Não
+- Convivente: Sim, se suscetível
+
+---
+
+Vacina: Febre amarela (FA)
+- Paciente (antes do tratamento): Sim
+- Paciente (durante o tratamento): Não
+
+---
+
+Vacina: Influenza inativada (INF)
+- Paciente (antes do tratamento): Sim
+- Paciente (durante o tratamento): Sim
+- Convivente: Sim
+
+---
+
+Vacina: Hepatite A (HA)
+- Paciente (antes do tratamento): Sim
+- Paciente (durante o tratamento): Sim
+
+---
+
+Vacina: Meningocócica C conjugada (2 doses)
+- Paciente (antes do tratamento): Sim
+- Paciente (durante o tratamento): Sim
+
+---
+
+Vacina: HPV (3 doses)
+- Paciente (antes do tratamento): Sim (9 a 26 anos)
+- Paciente (durante o tratamento): Sim (9 a 26 anos)
+
+---
+
+Vacina: Pneumocócica
+- Esquema:
+- PCV13 (conjugada)
+- PCV23 (polissacarídica)
+- Paciente (antes do tratamento): Sim
+- Paciente (durante o tratamento): Sim
+
+---
+
+Observações:
+- Seguir, sempre que possível, o calendário do Programa Nacional de Imunizações (PNI)
+- Vacinas vivas devem ser avaliadas com cautela em pacientes imunossuprimidos
+- Conviventes devem seguir calendário vacinal padrão conforme idade
+- Vacinas contra rotavírus e tuberculose têm uso restrito nesses pacientes
+- Fonte: Adaptado de Brasil, 2019 [/QUADRO]
+
+6.3. Avaliação da resposta terapêutica A monitorização do tratamento inclui a dosagem de proteína-M, avaliação esquelética e biópsia de medula óssea para avaliação da resposta completa. Os critérios de resposta, de acordo com as diretrizes anteriores e as recomendações do IMWG12,45, estão descritos no Quadro 6.
+
+[QUADRO] id: quadro_6 titulo: Critérios de resposta ao tratamento no mieloma múltiplo tipo: classificacao_resposta
+
+Resposta: Resposta completa Critérios:
+- Imunofixação sérica e urinária negativas
+- Desaparecimento de plasmocitoma de tecidos moles
+- Até 5% de plasmócitos na medula óssea
+
+---
+
+Resposta: Resposta completa estrita Critérios:
+- Todos os critérios de resposta completa atendidos
+- Relação de cadeias leves livres kappa/lambda normal
+- Ausência de plasmócitos clonais na medula óssea por imuno-histoquímica
+
+---
+
+Resposta: Resposta parcial muito boa Critérios:
+- Componente M sérico ou urinário detectável por imunofixação, mas não por eletroforese
+- Redução ≥ 90% da proteína-M sérica
+- Proteína-M urinária < 100 mg/24h
+
+---
+
+Resposta: Resposta parcial Critérios (pelo menos um dos critérios abaixo):
+- Redução ≥ 50% da proteína-M sérica
+- Redução ≥ 90% da proteína-M urinária OU < 200 mg/24h
+- Redução ≥ 50% da diferença entre cadeias leves envolvidas e não envolvidas
+- Redução ≥ 50% dos plasmócitos na medula óssea (se basal ≥ 30%)
+- Redução ≥ 50% do tamanho de plasmocitomas de tecidos moles
+
+---
+
+Resposta: Resposta mínima Critérios:
+- Redução de 25% a 49% da proteína-M sérica
+- Redução de 50% a 89% da proteína-M urinária
+- Redução de 50% do tamanho de plasmocitoma (se presente)
+
+---
+
+Resposta: Doença progressiva Critérios (qualquer um dos critérios abaixo):
+
+A) Aumento ≥ 25% do menor valor de resposta confirmado em:
+- Proteína-M sérica (aumento absoluto ≥ 0,5 g/dL)
+- Proteína-M sérica ≥ 1 g/dL se valor basal ≥ 5 g/dL
+- Proteína-M urinária (aumento absoluto ≥ 200 mg/24h)
+- Diferença entre cadeias leves livres (aumento ≥ 10 mg/dL)
+- Plasmócitos na medula óssea (aumento ≥ 10%)
+
+B) Nova lesão ou aumento ≥ 50% em lesão existente
+
+C) Aumento ≥ 50% de plasmócitos circulantes (mínimo 200 células/µL)
+
+---
+
+Resposta: Recaída após resposta completa Critérios:
+- Reaparecimento de proteína-M sérica ou urinária
+- ≥ 5% de plasmócitos na medula óssea OU sinais clínicos de progressão:
+- Novo plasmocitoma
+- Lesão óssea lítica
+- Hipercalcemia
+
+---
+
+Resposta: Recaída clínica Critérios:
+- Novos plasmocitomas ou novas lesões ósseas
+- Aumento ≥ 50% de lesões existentes
+- Hipercalcemia ≥ 11 mg/dL
+- Redução da hemoglobina ≥ 2 g/dL (não relacionada a outras causas)
+- Aumento da creatinina ≥ 2 mg/dL atribuível ao mieloma
+- Hiperviscosidade relacionada à paraproteína
+
+---
+
+Observações:
+- A classificação deve ser confirmada em duas avaliações consecutivas
+- Avaliações de medula óssea podem não ser obrigatórias em todos os casos
+- Fonte: Kumar, 2016 [/QUADRO]
+
+## 6.4. Critérios de interrupção
+Durante a quimioterapia, a cada ciclo, o paciente deve ser avaliado com relação aos sintomas e sinais clínicos de toxicidade e deve ser submetido a exames laboratoriais, conforme protocolo de tratamento selecionado. Os critérios mínimos de monitoramento e interrupção da terapia devem seguir os protocolos institucionais estabelecidos.
+
+# 7. MONITORAMENTO
+
+## 7.1.  Avaliação da resposta terapêutica e seguimento
+O acompanhamento da resposta ao tratamento deve ser feito pela dosagem da proteína-M, com frequência mensal no primeiro ano e bimensal a partir do segundo ano. Orienta-se a realização da eletroforese de proteínas séricas e urinárias, dosagem de cadeias leves (kappa e lambda) livres, ureia, creatinina e dosagem sérica de imunoglobulinas (IgA, IgM, IgG e IgE)12,21. A avaliação da medula óssea é obrigatória apenas para identificar se houve resposta completa ao tratamento. A investigação de alterações moleculares, por meio do FISH ou citogenética convencional, bem como a RNM ou TC de corpo inteiro não são necessárias para avaliação da resposta terapêutica, podendo ser realizadas na presença de queixas clínicas12,21. Além da avaliação odontológica e clínica, contemplando fragilidade clínica, controle adequado de doenças crônicas e comorbidades, o paciente deve ter acompanhamento psicológico, familiar e social, disponibilizados no âmbito da Atenção Primária. Após o diagnóstico e durante o tratamento, o cuidado do paciente com MM na Atenção Primária deve continuar, de forma paralela, coordenada e síncrona ao acompanhamento especializado. Neste sentido, cabe aos profissionais envolvidos, em todos os níveis da atenção, salientar a importância da continuidade do acompanhamento na Atenção Primária. Além do tratamento de sintomas, doenças crônicas e comorbidades, a equipe de saúde da Atenção Primária tem papel fundamental na detecção precoce de complicações da doença e do tratamento, principalmente infecções e eventos adversos do tratamento71. A utilização do sistema de referência e contrarreferência e os contatos formais entre as equipes responsáveis pela Atenção Primária e especializada devem ser encorajados13.
+
+## 7.2. Avaliação odontológica
+A administração de bisfosfonatos ao paciente com MM pode causar eventos adversos secundários, em especial a osteonecrose da mandíbula57. Antes de iniciar a terapia com bisfosfonatos, orienta-se que os pacientes sejam encaminhados para avaliação odontológica, tanto para detecção de possível doença periodontal e infecções ativas, como para receberem orientação sobre higiene bucal. Sugere-se avaliação odontológica anual, se houver sinais e sintomas de acometimento dental e antes do início do tratamento com bisfosfonato a fim de reduzir a incidência de osteonecrose de mandíbula58,72. Como a extração dentária é um fator de risco para osteonecrose da mandíbula, não se recomenda a sua realização ou a de outros procedimentos invasivos (como implante dentário ou procedimento cirúrigco na mandíbula) durante o tratamento com bisfosfonatos. Se estes procedimentos forem necessários, recomenda-se suspender o uso de bisfosfonatos 90 dias antes da sua realização. O tratamento com bisfosfonato só deverá ser reiniciado após o procedimento dentário58,73. Se o paciente desenvolver osteonecrose da mandíbula, o uso de bisfosfonatos deve ser interrompido e, após a recuperação da osteonecrose, pode-se retornar ao uso do medicamento21.
+
+# 8. REGULAÇÃO, CONTROLE E AVALIAÇÃO PELO GESTOR
+Devem ser observados os critérios de inclusão e exclusão de pacientes destas Diretrizes, a duração e a monitorização do tratamento, bem como a verificação periódica das doses prescritas e dispensadas e a adequação de uso de medicamentos. Casos de mieloma múltiplo devem ser atendidos em hospitais habilitados em oncologia e com porte tecnológico suficiente para diagnosticar, estadiar, tratar e acompanhar os pacientes. Além da familiaridade que tais hospitais guardam com o estadiamento, tratamento e controle de eventos adversos, eles têm toda a estrutura ambulatorial, de internação, de terapia intensiva, de hemoterapia, de suporte multiprofissional e de laboratórios necessária para o adequado atendimento e obtenção dos resultados terapêuticos esperados. A regulação do acesso é um componente essencial da gestão para a organização da rede assistencial e a garantia do atendimento aos pacientes e muito facilita as ações de controle e avaliação. Entre tais ações incluem-se a manutenção atualizada do Cadastro Nacional dos Estabelecimentos de Saúde (CNES), a autorização prévia dos procedimentos, o monitoramento da produção dos procedimentos (por exemplo, frequência apresentada versus autorizada, valores apresentados versus autorizados versus ressarcidos) e a verificação dos percentuais da frequência dos procedimentos quimioterápicos em suas diferentes linhas (cuja ordem descendente – primeira maior do que segunda e segunda maior do que terceira – sinaliza a efetividade terapêutica). Ações de auditoria devem verificar in loco, por exemplo, a existência e a observância da conduta ou do protocolo adotados no hospital, a regulação do acesso assistencial, a qualidade da autorização, a conformidade da prescrição e da dispensação e administração dos medicamentos (tipos e doses), a compatibilidade do procedimento codificado com o diagnóstico e a capacidade funcional (escala de Zubrod), a compatibilidade da cobrança com os serviços executados, a abrangência e a integralidade assistenciais e o grau de satisfação dos doentes. O Ministério da Saúde e as Secretarias de Saúde não padronizam nem fornecem medicamentos antineoplásicos diretamente aos hospitais ou aos usuários do SUS. A exceção é feita ao mesilato de imatinibe para a quimioterapia do tumor do estroma gastrointestinal (GIST), da leucemia mieloide crônica e da leucemia linfoblástica aguda cromossoma Philadelphia positivo; do nilotinibe e do dasatinibe para a quimioterapia da leucemia mieloide crônica; do rituximabe para a poliquimioterapia do linfoma folifcular e do linfoma difuso de grandes células B; e dos trastuzumabe e pertuzumabe para a quimioterapia do carcinoma de mama, que são adquiridos pelo Ministério da Saúde e fornecidos aos hospitais habilitados em oncologia no SUS, por meio das secretarias estaduais de saúde. Os procedimentos quimioterápicos da Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS (“Tabela do SUS”) não fazem referência a qualquer medicamento e são aplicáveis às situações clínicas específicas para as quais as terapias antineoplásicas medicamentosas são indicadas. Ou seja, os hospitais credenciados pelo SUS e habilitados em oncologia são os responsáveis pelo fornecimento de medicamentos oncológicos que eles, livremente, padronizam, adquirem e fornecem, cabendo-lhes codificar e registrar conforme o respectivo procedimento. Assim, a partir do momento em que um hospital é habilitado para prestar assistência oncológica pelo SUS, a responsabilidade pelo fornecimento de medicamento antineoplásico é do hospital, seja ele público ou privado, com ou sem fins lucrativos. Os procedimentos diagnósticos (Grupo 02 e seus vários subgrupos – clínicos, cirúrgicos, laboratoriais e por imagem), radioterápicos e quimioterápicos (Grupo 03, Subgrupo 04), cirúrgicos (Grupo 04 e os vários subgrupos cirúrgicos por especialidades e complexidade) e de transplantes (Grupo 05 e seus seis subgrupos) da Tabela de Procedimentos, Medicamentos e Órteses, Próteses e Materiais Especiais do SUS podem ser acessados, por código ou nome do procedimento e por código da CID-10 para a respectiva neoplasia maligna, no SIGTAP − Sistema de Gerenciamento dessa Tabela (http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp), com versão mensalmente atualizada e disponibilizada. A indicação de TCTH deve observar o vigente Regulamento Técnico do Sistema Nacional de Transplantes e as idades mínima e máxima atribuídas aos respectivos procedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS, devendo todos os potenciais receptores estar inscritos no Sistema Nacional de Transplantes (SNT). Para a autorização do TCTH alogênico não aparentado de medula óssea, de sangue periférico ou de sangue de cordão umbilical, do tipo mieloablativo, todos os potenciais receptores devem estar inscritos no Registro Nacional de Receptores de Medula Óssea ou outros precursores hematopoéticos – REREME/INCA/MS, e devem ser observadas as normas técnicas e operacionais do Sistema Nacional de Transplantes. Os receptores submetidos a TCTH originários dos próprios hospitais transplantadores neles devem continuar sendo assistidos e acompanhados; e os demais receptores transplantados deverão, efetivada a alta do hospital transplantador, ser devidamente reencaminhados aos seus hospitais de origem, para a continuidade da assistência e acompanhamento. A comunicação entre os hospitais deve ser mantida de modo que o hospital solicitante conte, sempre que necessário, com a orientação do hospital transplantador e este, com as informações atualizadas sobre a evolução dos transplantados.
+
+# 9. TERMO DE ESCLARECIMENTO E RESPONSABILIDADE – TER
+É obrigatória a informação ao paciente ou ao seu responsável legal sobre os potenciais riscos, benefícios e eventos adversos relacionados ao uso quando preconizado nestas Diretrizes do medicamento talidomida, consoante normas sanitárias vigentes74.

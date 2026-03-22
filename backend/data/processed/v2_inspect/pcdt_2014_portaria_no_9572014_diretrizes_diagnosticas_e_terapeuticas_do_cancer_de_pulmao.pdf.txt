@@ -1,0 +1,406 @@
+DIRETRIZES DIAGNÓSTICAS E TERAPÊUTICAS EM ONCOLOGIA CARCINOMA DE PULMÃO
+
+# 2. INTRODUÇÃO
+O câncer de pulmão é uma das principais causas de morte evitável em todo o mundo, pois, em 90% dos casos diagnosticados, está associado ao tabagismo. Altamente letal, a sobrevida média cumulativa total em cinco anos varia entre 13% e
+21% em países desenvolvidos e entre 7% e 10% nos países em desenvolvimento. No Brasil, entre 2005-2009, foi o tipo de câncer que mais fez vítimas entre os homens e foi
+o segundo mais letal entre as mulheres[1-3]. O fator de risco mais importante para ocorrência do câncer de pulmão é o
+tabagismo. Fumantes têm o risco decuplicado de desenvolver a doença, em relação
+aos não fumantes, risco que está relacionado à quantidade de cigarros consumida,
+duração do hábito e idade em que iniciou o tabagismo. A cessação do tabagismo a
+qualquer tempo resulta na diminuição do risco de desenvolver câncer de pulmão. O
+tabagismo passivo, exposição ambiental ao gás radônio e exposição ocupacional prévia
+à mineração de amianto constituem fatores de risco adicionais para a doença[3].
+Estas Diretrizes compreendem a conduta terapêutica geral para o câncer de
+pulmão, compreendendo os seguintes tipos histológicos: carcinoma de pequenas
+células, carcinoma epidermoide, adenocarcinoma, carcinoma de grandes células,
+carcinoma adenoescamoso e carcinoma indiferenciado, classificados para fins
+terapêuticos e prognósticos em dois grupos: o carcinoma de pequenas células (CPPC) e
+os carcinomas de células não pequenas (CPCNP). A história natural de neoplasias como
+o carcinoma pleomórfico ou sarcomatoide, carcinoma mucoepidermoide e carcinoma
+Secretaria de Atenção à Saúde
+adenocístico é pouco conhecida, e as modalidades terapêuticas aqui recomendadas
+são aplicáveis a estas doenças, a critério médico. Os tumores carcinoides constituem
+um grupo de doenças à parte, enquadrados para fins terapêuticos, entre os cânceres
+neuroendócrinos[3a].
+A seleção do tratamento deverá ser adequada ao estadiamento clínico da
+doença (classificação TNM), capacidade funcional (escala ECOG/Zubrod), condições
+clínicas e preferência do doente. A extensão da doença nos casos de câncer de pulmão
+de pequenas células é classificada para fins terapêuticos em doença localizada e
+doença extensa. Doença localizada é aquela confinada ao hemitórax de origem,
+mediastino e linfonodos supraclaviculares ispilaterais, passíveis de tratamento por um
+mesmo campo de irradiação. A presença de derrame pleural ipsilateral enseja
+prognóstico intermediário entre casos de doença localizada e doença extensa. Doença
+extensa é aquela disseminada além da fossa supraclavicular ipsilateral, incluindo-se os
+casos de metástases à distância[4,5].
+Os hospitais credenciados para atendimento em oncologia devem, por sua
+responsabilidade, dispor de protocolo clínico institucional complementar, adequado a
+estas Diretrizes, destinado a orientar a tomada de decisão por doentes e médicos,
+avaliar e garantir qualidade na assistência, orientar a destinação de recursos na
+assistência à saúde e fornecer elementos de boa prática médica [5a].
+
+# 3. CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À SAÚDE (CID)
+C34 BRÔNQUIOS E PULMÕES:
+C34.0 Brônquio principal, carina, hilo do pulmão;
+C34.1 Lobo superior do pulmão, brônquio do lobo superior, língula;
+C34.2 Lobo médio do pulmão, brônquio do lobo médio;
+C34.3 Lobo inferior do pulmão, brônquio do lobo inferior;
+C34.8 Lesão sobreposta do pulmão;
+Secretaria de Atenção à Saúde
+C34.9 Pulmão, bronquíolo, broncogênico – sem outra especificação.
+
+# 4. DIAGNÓSTICO E ESTADIAMENTO
+O diagnóstico presuntivo de câncer de pulmão é feito na investigação de
+sintomas respiratórios (tosse, dispneia, dor torácica, hemoptise) e constitucionais
+(fadiga e emagrecimento), ou por achado radiológico atípico em exame realizado com
+outro propósito. Mesmo para fumantes, não é recomendado o rastreamento
+radiológico (radiografia de tórax ou tomografia computadorizada de baixa dose) para
+indivíduos assintomáticos; apesar de resultados promissores verificados no National
+Lung
+Screening
+Trial (NLST), permanecem indefinidas questões como
+a reprodutibilidade do método de aquisição e leitura das imagens, frequência do exame
+e população sob risco apropriada para a intervenção no Brasil [6-8].
+O diagnóstico definitivo é firmado pelo exame histopatológico ou citológico de
+espécime tumoral obtido por broncoscopia, mediastinoscopia, biópsia pleural ou
+biópsia pleuropulmonar a céu aberto ou vídeo-assistida. Eventualmente, o diagnóstico
+será feito após estudo anatomopatológico de peça cirúrgica - segmento, lobo
+pulmonar ou pulmão. A citologia de escarro não é recomendada rotineiramente,
+porém pode ser útil no diagnóstico de tumores de localização central[9,10].
+Como já mencionado, usa-se agrupar em dois grupos os casos de câncer de
+pulmão, segundo o tipo histopatológico, para fins terapêuticos e prognósticos: câncer
+de pulmão de pequenas células (CPPC) e câncer de pulmão de células não pequenas
+(CPCNPC).  O primeiro grupo (15%) corresponde aos casos de carcinoma de pequenas
+células, doença de evolução clínica mais agressiva, enquanto o segundo grupo (85%)
+agrega os demais tipos histopatológicos. No entanto, a experiência clínica acumulada
+com medicamentos antineoplásicos introduzidos na última década para tratamento do
+CPCNP demonstra que a segurança e eficácia deles podem guardar relação com o
+subtipo histopatológico e características moleculares, sendo importante diferenciar,
+minimamente, os subtipos escamoso e não escamoso do CPCNP, bem como,
+Secretaria de Atenção à Saúde
+idealmente, identificar a presença de mutação do receptor para o fator de crescimento
+epitelial (EGFR) nos casos de adenocarcinoma [11,12].
+Uma vez obtida a confirmação da malinidade e do tipo histopatológico tumoral,
+procede-se ao estadiamento clínico por meio de tomografia computadorizada (TC) de
+tórax e abdome superior, com contraste. A cintilografia óssea com Tecnécio-99m é
+indicada para doentes com câncer de pulmão de pequenas células e, nos demais casos,
+quando há queixa de dor óssea. A cintilografia óssea apresenta boa sensibilidade para
+o diagnóstico de metástases, mas elevada taxa de resultados falso positivos por
+doenças degenerativas osteoarticulares ou trauma ósseo. Achados anormais à
+cintilografia devem ser confirmados por outros exames de imagem para se estabelecer
+o diagnóstico de metástase óssea. A investigação por TC ou ressonância magnética
+(RM) do cérebro não é indicada rotineiramente como parte do estadiamento clínico do
+CPCNP, devendo ser empregada para doentes com câncer de pulmão de pequenas
+células e, nos demais casos, quando houver suspeita clínica de metástase no sistema
+nervoso central[13].
+A indicação de PET-CT deve ser feita para o estadiamento clínico do câncer de
+pulmão de células não pequenas potencialmente ressecável. Esse exame apresenta
+maior sensibilidade para o diagnóstico de acometimento linfonodal mediastinal e hilar
+se comparado à TC, permitindo maior acurácia no diagnóstico da doença localizada
+(estágio I)[14,15]. No entanto, o desempenho do exame é inferior para doentes em
+áreas endêmicas para tuberculose, pelo que, se há linfonodos mediastinais
+aumentados à TC (16 mm ou maior), faz-se necessária a abordagem cirúrgica
+complementar, por mediastinoscopia cervical ou toracoscopia, para minimizar a
+indicação de toracotomias desnecessárias[5,16,17].
+
+# 5. OPÇÕES TERAPÊUTICAS
+
+## 5.1. CÂNCER DE PULMÃO DE PEQUENAS CÉLULAS
+
+## 5.1.1. CIRURGIA
+O tratamento cirúrgico não é recomendado para este tipo de neoplasia, pelo seu
+comportamento biológico de propensão precoce a originar metástases à distância.
+Quando este diagnóstico é firmado após uma ressecção cirúrgica pulmonar, o doente
+deve receber tratamento sistêmico complementar compatível com o estadiamento da
+doença. O papel da cirurgia não foi estudado prospectivamente nesta neoplasia, mas
+doentes operados com tumor localizado lograram melhor prognóstico, em séries
+históricas, quando comparados aos tratados por radioquimioterapia [18-20].
+
+## 5.1.2. RADIOTERAPIA
+A irradiação torácica aumenta a sobrevida de doentes com câncer de pulmão de
+pequenas células, sendo costumeiramente indicada. A irradiação craniana com
+finalidade profilática (25 Gy em 10 frações de 250 cGy) previne a recorrência da
+doença no sistema nervoso central, sendo indicada para doentes que obtiveram
+controle da doença torácica, e permite o controle temporário de sintomas de
+metástases no sistema nervoso central[21,22].
+
+## 5.1.3. QUIMIOTERAPIA
+A quimioterapia aumenta a sobrevida de doentes com câncer de pulmão de
+pequenas células (CPCP), sendo indicada em associação à radioterapia para doentes
+com doença localizada (quimioterapia prévia) e isoladamente para doentes com
+doença avançada ou metastática (quimioterapia paliativa). No entanto, mesmo com a
+assistência terapêutica integral poucos doentes são curados e a expectativa de
+sobrevida em 5 anos para doentes com doença limitada e extensa é de 10% e 5%,
+respectivamente[23]. Nos casos de CPCP inexiste benefício com quimioterapia de
+manutenção ou com intensificação de dose[24].
+O esquema terapêutico, quimioterápico, padrão envolve a associação de
+derivado da platina (cisplatina ou carboplatina) e o etoposido. Outros esquemas que
+produzem resultados similares e toxicidade variável incluem: ciclofosfamida,
+doxorrubicina e vincristina (CAV); ciclofosfamida, doxorrubicina e etoposido;
+ciclofosfamida, etoposido e vincristina; cisplatina e topotecano; cisplatina e
+Secretaria de Atenção à Saúde
+irinotecano; ifosfamida, cisplatina e etoposido; carboplatina e paclitaxel; carboplatina
+e gemcitabina[25-28].
+A neoplasia na maioria dos doentes responde inicialmente a quimioterapia, mas
+recidiva em geral no primeiro ano após o início do tratamento. A chance de resposta à
+quimioterapia de 2ª linha varia segundo a resposta obtida ao tratamento inicial:
+doentes responsivos com recidiva 60-90 dias após o término do tratamento inicial
+(doença sensível) têm maior possibilidade de resposta à quimioterapia de 2ª linha.
+Doentes responsivos com recidiva dentro de 60-90 dias do término do tratamento
+inicial (doença refratária) ou que não respondem ou progridem na vigência do
+tratamento inicial (doença quimiorresistente) apresentam menor chance de benefício
+à quimioterapia de 2ª linha. O esquema de quimioterapia de 1ª linha pode ser repetido
+nos casos de “doença sensível”, especialmente quando a recidiva ocorre tardiamente
+(acima de seis meses). Pacientes com “doença refratária” ou “quimiorresistente”
+raramente logram benefício de quimioterapia paliativa de 2ª linha; quando indicada,
+podem ser usados esquemas baseados nos antineoplásicos não utilizadas no
+tratamento de 1ª linha, em monoterapia ou em associação, sendo maior a experiência
+clínica acumulada com uso do topotecano ou do esquema CAV [29,30].
+
+## 5.1.4. OPÇÕES TERAPÊUTICAS
+Doença localizada:
+Quimioterapia sistêmica associada à irradiação torácica, com ou sem irradiação
+craniana nos casos de resposta clínica completa no pulmão.
+Quimioterapia sistêmica, com ou sem irradiação craniana nos casos de resposta clínica
+completa no pulmão.
+Ressecção cirúrgica, seguida por quimioterapia sistêmica ou quimioterapia associada à
+irradiação torácica, com ou sem irradiação craniana, para doentes no estágio I.
+Doença extensa:
+Quimioterapia sistêmica, com ou sem irradiação craniana nos com resposta clínica
+completa no pulmão.
+Secretaria de Atenção à Saúde
+Radioterapia paliativa torácica ou para metástases cerebrais, epidurais ou ósseas.
+
+## 5.2. CÂNCER DE PULMÃO DE CÉLULAR NÃO PEQUENAS
+
+## 5.2.1. CIRURGIA
+A cirurgia é a modalidade terapêutica com maior potencial curativo para os casos
+de carcinoma pulmonar de células não pequenas (CPCNP), nos doentes com doença
+localizada ao diagnóstico realizada por toracotomia ou toracoscopia vídeo-
+assistida[31,32]. No intra-operatório, o cirurgião optará, dependendo da extensão real
+do tumor e da necessidade de se preservar a função pulmonar, pela ressecção em
+cunha, segmentectomia, lobectomia ou mesmo pneumectomia com ressecção das
+cadeias linfáticas regionais[33]. Enquanto nos ensaios clínicos com doentes em estágio
+I o prognóstico após lobectomia ou uma ressecção menor parece ser similar, dados
+acumulados da prática clínica sugerem que os resultados oncológicos são inferiores
+com ressecções em cunha e segmentectomias[34,35]. Em casos selecionados de
+metástase cerebral isolada, sincrônica ou metacrônica, a ressecção cirúrgica completa
+da lesão enseja prognóstico mais favorável que o tratamento paliativo exclusivo[36].
+
+## 5.2.2. RADIOTERAPIA
+A radioterapia externa (teleterapia) tem indicação nos casos de CPCNP em
+qualquer estágio tumoral, com finalidade curativa ou paliativa e em uso associado ou
+combinado com a cirurgia ou a quimioterapia.
+A irradiação ablativa estereotática (83,2 Gy a 146 Gy) é uma modalidade de
+radioterapia que pode ser indicada para doentes no estádio I que não apresentem
+condições clínicas para tratamento cirúrgico [37-39].
+A irradiação torácica associada à quimioterapia sistêmica promove a cura de uma
+pequena parcela de doentes com doença localizada inoperável[40,41]. A irradiação
+craniana profilática não é indicada para casos de CPCNP[42].
+Sintomas de progressão locorregional ou de acometimento metastático ósseo ou
+do sistema nervoso podem ser paliados com a teleterapia; a braquiterapia
+Secretaria de Atenção à Saúde
+endoluminal pode ser empregada na paliação de sintomas respiratórios, mas não
+parece conferir vantagem adicional à radioterapia externa [43].
+
+## 5.2.3. QUIMIOTERAPIA
+O esquema terapêutico padrão para a quimioterapia prévia ou adjuvante do
+CPCP é associação de cisplatina com o etoposido.
+A quimioterapia adjuvante confere maior sobrevida para doentes com doença
+localizada operados[44,45]. Alguns doentes com doença localmente avançada logram
+benefício com quimioterapia prévia à cirurgia, tratamento associado ou não à
+radioterapia[46-48]. Em doentes com doença avançada ou metastática ao diagnóstico,
+a quimioterapia paliativa resulta em modesto incremento na sobrevida mediana (2-3
+meses), com possibilidade de controle temporário dos sintomas, mas sem expectativa
+de cura, [49-53].
+Muitos esquemas de quimioterapia sistêmica podem ser usados com finalidade
+paliativa, contendo medicamentos tais como cisplatina, carboplatina, etoposido,
+mitomicina
+C, vimblastina, vinorelbina, gemcitabina, docetaxel, paclitaxel,
+pemetrexede, erlotinibe, gefitinibe, bevacizumabe e cetuximabe, em monoterapia ou
+em associações, por até três linhas de tratamento[49].  A seleção do tratamento deve
+considerar as características fisiológicas e capacidade funcional individuais, tipo
+histológico, perfil de toxicidade clínica, preferências do doente e protocolos
+terapêuticos institucionais.
+Recomenda-se que a quimioterapia paliativa de 1ª linha seja indicada para
+doentes com capacidade funcional 0, 1 ou 2 na escala de Zubrod. Quando
+medicamente possível, o tratamento deve ser feito com esquema terapêutico
+contendo cisplatina ou carboplatina, associada com um segundo agente
+antineoplásico[54,55]. Em um único ensaio clínico, a adição de bevacizumabe à
+quimioterapia de 1ª linha com carboplatina e paclitaxel promoveu aumento de
+sobrevida (diferença de 2 meses no tempo mediano de sobrevida) para um subgrupo
+selecionado de doentes: capacidade funcional 0 ou 1, subtipo histológico não
+Secretaria de Atenção à Saúde
+escamoso, sem metástase cerebral, sem hemoptise, e à custa de maior toxicidade[56].
+Inexiste evidência de benefício semelhante para a associação de bevacizumabe a
+outros esquemas de quimioterapia de 1ª linha, e revisões sistemáticas dos estudos de
+fase III publicados são contraditórias quanto a haver alguma vantagem para
+tratamentos contendo bevacizumabe[57-59]. A adição de cetuximabe à quimioterapia
+de 1ª linha com cisplatina e vinorelbina promoveu aumento de sobrevida (diferença de
+1,2 meses) para um subgrupo selecionado de doentes (capacidade funcional 0 ou 1,
+tumores com expressão do receptor para o fator de crescimento epitelial) e à custa de
+maior toxicidade[60,61]. Apesar de que tal benefício não foi observado com o
+cetuximabe em associação ao esquema carboplatina e paclitaxel[62], revisões
+sistemáticas de estudos controlados de fase II-III sugerem incremento de sobrevida
+com cetuximabe associado a esquemas contendo cisplatina - diferença de 6% na taxa
+de sobrevida em 1 ano [63,64]. Há necessidade de corroboração dos resultados de
+eficácia e segurança das pesquisas clínicas com bevacizumabe e cetuximabe no
+tratamento do câncer de pulmão, antes que seu uso possa ser adotado
+rotineiramente.
+A presença da mutação do gene que codifica o receptor para o fator de
+crescimento epitelial (EFGR) é um fator preditivo de resposta aos inibidores do sítio da
+tirosina-quinase associada ao EGFR, tais como o erlotinibe e o gefitinibe. Nesta
+condição, monoterapia com um destes medicamentos é uma opção terapêutica
+aceitável para quimioterapia paliativa inicial ou após falha a outro esquema
+terapêutico[65-68].
+Recomenda-se que a quimioterapia paliativa de 2ª linha ou 3ª linha seja realizada
+apenas para doentes com capacidade funcional 0 ou 1 na escala de Zubrod. Inexiste
+evidência científica de que o tratamento antineoplásico paliativo de 2ª ou 3ª linha seja
+seguro ou eficaz para doentes com capacidade funcional comprometida (nível igual ou
+maior que 2 na escala de Zubrod). O esquema quimioterápico deve ser selecionado
+segundo o esquema usado anteriormente e o perfil de segurança e eficácia então
+Secretaria de Atenção à Saúde
+observados, indicando-se preferencialmente medicamentos antineoplásicos em
+monoterapia[49,69,70]. O início imediato da quimioterapia de 2ª linha após o término
+da quimioterapia inicial ou “tratamento de manutenção”, com erlotinibe ou
+pemetrexede[71,72], parece conferir vantagem sobre o mesmo tratamento quando
+iniciado após a progressão clínica da doença, mas há necessidade de corroboração dos
+resultados de eficácia iniciais e melhor definição do perfil de doentes que se
+beneficiariam, antes que esta conduta possa ser generalizada como rotina[73-75].
+
+## 5.2.4. OPÇÕES TERAPÊUTICAS POR ESTÁGIO CLÍNICO
+Estágio 0:
+Ressecção cirúrgica conservadora: segmentectomia ou ressecção em cunha.
+Estágio I:
+Ressecção cirúrgica conservadora: lobectomia, segmentectomia ou ressecção em
+cunha;
+Radioterapia torácica radical, para doentes com contraindicação médica para
+cirurgia.
+Estágio II:
+Ressecção cirúrgica: pneumectomia, lobectomia ou ressecção segmentar
+pulmonar;
+Radioterapia torácica radical, para doentes com contraindicação médica para
+cirurgia;
+Quimioterapia adjuvante, após a cirurgia;
+Radioterapia torácica associada ou não à quimioterapia, seguida ou não por
+ressecção cirúrgica (tumor do ápice pulmonar – tumor de Pancoast - ou invasão de
+parede torácica).
+Estágio IIIA:
+Ressecção cirúrgica (T3N1M0): pneumectomia, lobectomia ou ressecção
+segmentar pulmonar;
+Secretaria de Atenção à Saúde
+Radioterapia torácica radical associada à quimioterapia, para doentes com
+invasão linfática N2 ou contraindicação médica para cirurgia;
+Radioterapia torácica radical, para doentes com contra-indicação médica para
+quimiorradioterapia;
+Quimioterapia adjuvante, após cirurgia;
+Radioterapia torácica associada ou não à quimioterapia, seguida ou não por
+ressecção cirúrgica (tumor de Pancoast ou invasão de parede torácica).
+Estágio IIIB, IV e doença recidivada:
+Radioterapia torácica associada ou não à quimioterapia;
+Quimioterapia paliativa;
+Ressecção cirúrgica de metástase cerebral isolada, seguida ou não por
+radioterapia craniana;
+Radioterapia externa, associada ou não à radioterapia intersticial, para lesões
+endobrônquicas sintomáticas;
+Radioterapia paliativa, com finalidade antiálgica ou hemostática.
+
+# 6. MONITORIZAÇÃO DO TRATAMENTO
+
+## 6.1. AVALIAÇÃO DA RESPOSTA TERAPÊUTICA
+A avaliação da resposta ao tratamento antineoplásico sistêmico deve ser feita
+pelos critérios RECIST, sempre que aplicáveis[76].
+
+## 6.2. CRITÉRIOS DE INTERRUPÇÃO DO TRATAMENTO
+A quimioterapia deve ser suspensa, temporária ou definitivamente, na
+ocorrência de[55,77,78]:
+Toxicidade clínica graus 3 e 4, conforme os parâmetros propostos pelo National
+Cancer Institute (EUA), de uso internacional;
+Redução da capacidade funcional do doente para os níveis 2, 3 ou 4 da escala de
+Zubrod;
+Ausência de resposta após o 4º ciclo de quimioterapia;
+Secretaria de Atenção à Saúde
+Após 6 ciclos de quimioterapia, nos doentes responsivos;
+A qualquer tempo, na evidência de progressão neoplásica;
+Falta de aderência ao tratamento;
+Manifestação voluntária do doente, após esclarecimento dos riscos envolvidos.
+7.ACOMPANHAMENTO PÓS-TRATAMENTO
+Doentes tratados com intenção curativa devem ser reavaliados quanto a
+complicações relacionadas aos procedimentos médicos em um prazo de 3-4 meses
+após o término do tratamento. No seguimento, recomenda-se a realização de consulta
+médica e exames de imagem (radiografia de tórax ou TC de tórax) a cada 6 meses por
+2 anos e, então, anualmente. Exames laboratoriais, marcadores tumorais, citologia de
+escarro, broncoscopia e PET-CT não devem ser indicados para fins de
+acompanhamento pós-tratamento[79].
+Doentes que são fumantes devem ser encorajados a abandonar hábito e ser
+encaminhados para tratamento antitabágico – comportamental e de apoio
+farmacoterápico.
+
+# 8. REGULAÇÃO/CONTROLE/AVALIAÇÃO PELO GESTOR
+Doentes com diagnóstico de câncer de pulmão devem ser atendidos em
+hospitais habilitados em oncologia com serviço de radioterapia e com porte
+tecnológico suficiente para diagnosticar, tratar e realizar o seu acompanhamento.
+Além da familiaridade que esses hospitais guardam com o estadiamento, o
+tratamento, o manejo das doses e o controle dos efeitos adversos, eles têm toda a
+estrutura ambulatorial, de internação, de terapia intensiva, de hemoterapia, de
+suporte multiprofissional e de laboratórios necessária para o adequado atendimento e
+obtenção dos resultados terapêuticos esperados.
+A regulação do acesso é um componente essencial da gestão para a organização
+da rede assistencial e garantia do atendimento dos doentes, e muito facilita as ações
+Secretaria de Atenção à Saúde
+de controle e avaliação. Ações de controle e avaliação incluem, entre outras: a
+manutenção atualizada do Cadastro Nacional dos Estabelecimentos de Saúde (CNES); a
+autorização prévia dos procedimentos; o monitoramento da produção dos
+procedimentos (por exemplo, frequência apresentada versus autorizada, valores
+apresentados versus autorizados versus ressarcidos); a verificação dos percentuais das
+frequências dos procedimentos quimioterápicos em suas diferentes linhas (cuja ordem
+descendente - primeira maior do que segunda maior do que terceira – sinaliza a
+efetividade terapêutica). Ações de auditoria devem verificar in loco, por exemplo, a
+existência e a observância da conduta ou protocolo adotados no hospital; regulação do
+acesso assistencial; qualidade da autorização; a conformidade da prescrição e da
+dispensação e administração dos medicamentos (tipos e doses); compatibilidade do
+procedimento codificado com o diagnóstico e capacidade funcional (escala de Zubrod);
+a compatibilidade da cobrança com os serviços executados; a abrangência e a
+integralidade assistenciais; e o grau de satisfação dos doentes.
+Exceto pela Talidomida para o tratamento de Mieloma Múltiplo e pelo Mesilato
+de Imatinibe para a quimioterapia do Tumor do Estroma Gastrointestinal (GIST), da
+Leucemia Mieloide Crônica e Leucemia Linfoblástica Aguda cromossoma Philadelphia
+positivo, o Ministério da Saúde e as Secretarias de Saúde não padronizam nem
+fornecem medicamentos antineoplásicos diretamente aos hospitais ou aos usuários do
+SUS. Os procedimentos quimioterápicos da tabela do SUS não fazem referência a
+qualquer medicamento e são aplicáveis às situações clínicas específicas para as quais
+terapias antineoplásicas medicamentosas são indicadas. Ou seja, os hospitais
+credenciados no SUS e habilitados em Oncologia são os responsáveis pelo
+fornecimento de medicamentos oncológicos que eles, livremente, padronizam,
+adquirem e fornecem, cabendo-lhes codificar e registrar conforme o respectivo
+procedimento.  Assim, a partir do momento em que um hospital é habilitado para
+prestar assistência oncológica pelo SUS, a responsabilidade pelo fornecimento do
+Secretaria de Atenção à Saúde
+medicamento antineoplásico é desse hospital, seja ele público ou privado, com ou sem
+fins lucrativos.
+Os procedimentos radioterápicos (Grupo 03, Subgrupo 01) e cirúrgicos (Grupo 04
+e os vários subgrupos por especialidades e complexidade) da Tabela de
+Procedimentos, Medicamentos e OPM do SUS podem ser acessados, por código do
+procedimento ou nome do procedimento e por código da CID – Classificação Estatística
+Internacional de Doenças e Problemas Relacionados à Saúde – para a respectiva
+neoplasia maligna,
+no
+SIGTAP-Sistema
+de
+Gerenciamento dessa
+Tabela
+(http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp), com versão
+mensalmente disponibilizada.
+São os seguintes os procedimentos da tabela do SUS para a quimioterapia do
+câncer de pulmão:
+
+QUIMIOTERAPIA PALIATIVA – ADULTO
+03.04.02.021-4 - Quimioterapia do carcinoma pulmonar de células não pequenas avançado
+03.04.02.022-2 - Quimioterapia do carcinoma pulmonar indiferenciado de células pequenas avançado
+
+QUIMIOTERAPIA PRÉVIA (NEOADJUVANTE) - ADULTO
+03.04.04.009-6 - Quimioterapia do carcinoma pulmonar de células não pequenas (prévia)
+03.04.04.010-0 - Quimioterapia do carcinoma pulmonar indiferenciado de células pequenas (prévia)
+
+QUIMIOTERAPIA ADJUVANTE (PROFILÁTICA) – ADULTO
+03.04.05.017-2 - Quimioterapia do carcinoma pulmonar de células não pequenas (adjuvante)
+03.04.05.018-0 - Quimioterapia de carcinoma pulmonar indiferenciado de células pequenas (adjuvante)

@@ -1,0 +1,346 @@
+## 1. INTRODUÇÃO
+A Leucemia Linfoblástica Aguda (LLA) caracteriza-se pelo acúmulo de células imaturas da linhagem linfoide, na medula
+óssea, sangue periférico e órgãos linfoides. A LLA é classificada na categoria de neoplasias de linhagem B ou T1,2. A LLA tem
+algumas variantes biologicamente distintas, entre elas a leucemia linfoblástica aguda cromossoma Philadelphia positivo (LLA
+Ph+).
+A Organização Mundial da Saúde (OMS) classifica a LLA Ph+ como t(9;22)(q34;q11.2) ou BCR-ABL1 positivo3,4. Isto
+se deve a que essa anormalidade cromossômica envolve o gene ABL1 (gene da leucemia de Abelson), localizado no cromossoma
+9, e o gene BCR (“breakpoint cluster region”, em Inglês = região de ponto de quebra), no cromossoma 222. O gene BCR-ABL1
+é devido a uma translocação, ocorrida durante a divisão celular na medula óssea, entre os cromossomas 9 e 225,6. Neste subtipo
+de LLA, as células com material genético mutante que se multiplicam são as que possuem o cromossoma Philadelphia3,4. A
+positividade para o gene BCR-ABL1, detectado por exame molecular, geralmente indica pior prognóstico para a doença7, porém
+o surgimento de novas terapias, a incorporação do monitoramento da doença residual mínima (DRM) e a maior segurança do
+transplante de células-tronco hematopoéticas (TCTH) alogênico têm trazido melhores resultados em caso de pacientes já tratados
+de LLA e de pacientes idosos com LLA.
+A literatura especializada relata que a prevalência da LLA Ph+ é de 3% entre crianças com menos de 15 anos, aumentando
+para cerca de 30% a partir dos 30 anos e ocorrendo em mais de 50% dos casos de LLA diagnosticados após os 65 anos de idade8,9.
+No Brasil, o Instituto Nacional de Câncer (INCA) estima que, para cada ano do triênio 2020/2022, sejam diagnosticados 5.920
+casos novos de leucemia entre homens e 4.890, entre mulheres10. Esses números correspondem a um risco estimado de 5,67
+casos novos para cada 100 mil homens e 4,56 casos novos para cada 100 mil mulheres.
+A LLA Ph+ está associada a características clínicas adversas e persistência de DRM. A apresentação da LLA Ph+ é
+semelhante à de outras LLA com história de início agudo (evolução de menos de 3 meses) caracterizada por febre (50%),
+sangramento (50%), sintomas inespecíficos (25%) e dor osteoarticular (15%). Ao exame físico inicial, síndrome anêmica (80%-
+100%), hepatomegalia (40%) e esplenomegalia (60%) são comuns, e o acometimento do sistema nervoso central (SNC) é menos
+frequente (1%-3%). O diagnóstico é feito por exames capazes de identificar a presença do cromossoma Ph+ no sangue periférico
+(SP) ou na medula óssea (MO): citogenético,  hibridização in situ (In Situ Hybridization - ISH, sigla em Inglês) ou técnica de
+biologia molecular. A Comissão Nacional de Incorporação de Tecnologias no SUS (Conitec) recomenda que o diagnóstico seja
+feito, também, por técnica de biologia molecular, chamada reação em cadeia da polimerase com transcrição reversa em tempo
+real (Real Time Polymerase Chain Reaction - RT-PCR, sigla em Inglês), qualitativa e quantitativa11.
+O tratamento da LLA Ph+ é poliquimioterapia, cujo protocolo é padronizado pelo hospital, com ou sem TCTH. O mesilato
+de imatinibe, um inibidor de tirosinoquinase (ITQ; em Inglês, TKI – tyrosine kinase inhibitor) é um composto 2-fenil-amino-
+pirimidina que inibe seletivamente essa enzima12-14. Este medicamento é associado tanto à poliquimioterapia quanto ao
+TCTH15.
+Historicamente, pacientes com LLA Ph+ são de mau prognóstico, com uma taxa de sobrevida livre de doença (SLD) de
+10%-20%. O TCTH com doador compatível foi amplamente utilizado como tratamento de consolidação, melhorando essa taxa
+de SLD para 30%-65% entre os que recebiam o TCTH em primeira remissão completa (RC). Em casos de primeira RC, o TCTH
+foi curativo em uma pequena proporção de pacientes, com apenas 5%-17% de SLD. A utilização de inibidor da tirosinoquinase
+(ITQ) tem revolucionado a terapia das leucemias Ph+16.
+Um estudo que incluiu 268 pacientes adultos com LLA Ph+, distribuídos em dois braços (poliquimioterapia de intensidade
+reduzida mais imatinibe em dose alta versus HiperCVAD mais imatinibe em dose padrão), obteve, em um seguimento médio de
+4,8 anos, 5 anos de sobrevida livre de eventos e uma sobrevida global estimada, respectivamente, de 37,1% e 45,6%, sem
+diferença estatisticamente significativa  entre os dois braços. O TCTH alogênico associou-se a um significante benefício na
+sobrevida livre de recaída leucêmica.17
+A presença da t(9;22)(q34:q11.2), abrangendo os genes BCR e ABL1, é predominante em adultos e está associada a uma
+sobrevida livre de doença de 10%-20%, a despeito de tratamentos intensivos8. A despeito da idade, a recaída leucêmica é uma
+situação intransponível em muitos casos, sendo que a maior taxa de recaída observada entre adultos com LLA é possivelmente
+devida à doença ser de alto risco, do ponto de vista citogenético e molecular, e manter DRM persistente.5
+A identificação da doença em seu estágio inicial e o encaminhamento ágil e adequado para o atendimento especializado
+dão à Atenção Primária um caráter essencial para um melhor resultado terapêutico e prognóstico dos casos.
+Estas Diretrizes visam a estabelecer os critérios de uso do mesilato de imatinibe no tratamento da leucemia linfoblástica
+aguda Ph+ e do linfoma linfoblástico Ph+, com o objetivo de orientar o que é válido e não válido técnico-cientificamente, com
+base em evidências que garantam a segurança dos tratamentos, e as efetividade e reprodutibilidade terapêuticas, para orientar
+condutas e protocolos assistenciais. A metodologia de busca e avaliação das evidências estão detalhadas no Apêndice 1.
+
+## 2. CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À SAÚDE (CID-10)
+
+[CID]
+Código: C91.0
+Descrição: Leucemia Linfoblástica Aguda
+Sistema: CID-10
+
+[CID]
+Código: C83.5
+Descrição: Linfoma linfoblástico
+Sistema: CID-10
+
+## 3. DIAGNÓSTICO
+O diagnóstico de LLA Ph+ é estabelecido pela presença de 20% ou mais de linfoblastos na medula óssea.
+A avaliação diagnóstica compreende4,6,7,10:
+✓ Citomorfologia (se necessário, com citoquímica) por microscopia ótica do sangue periférico (SP) e medula óssea (MO);
+✓ Biópsia de medula óssea com exame de imuno-histoquímica, indicada em caso de aspirado medular "seco" e em caso
+de quantidade de blastos insuficiente no sangue periférico para proceder-se à imunofenotipagem;
+✓ Citomorfologia do líquor;
+✓ Imunofenotipagem das células blásticas do SP, MO ou líquor; e
+✓ Identificação do cromossoma Philadelphia no SP ou na MO por exame de citogenética convencional ou FISH, ou do
+oncogene BCR-ABL1 por PCR.
+A LLA pode ser classificada em três tipos principais: Linfoma/ leucemia linfoblástica de células B, sem outra
+especificação; Linfoma/ leucemia linfoblástica de células B, com anormalidades genéticas recorrentes, com nove subtipos
+possíveis; e Linfoma/leucemia linfoblástica de células T (Quadro 1).
+
+Classificação de Leucemia Linfoblástica Agudaa
+Linfoma/ leucemia linfoblástica de células B, sem outra especificação
+Linfoma/ leucemia linfoblástica de células B, com anormalidades genéticas recorrentes
+Linfoma/leucemia linfoblástica de células B com hipodiploidia
+Linfoma/ leucemia linfoblástica de células B com hiperdiploidia
+Linfoma/ leucemia linfoblástica de células B com t(9;22)(q34;q11.2)[BCR-ABL1]
+Linfoma/ leucemia linfoblástica de células B com t(v11q23)[rearranjo MLL]
+Linfoma/ leucemia linfoblástica de células B com t(12;21)(p13;q22)[ETV6-RUNX1]
+Linfoma/ leucemia linfoblástica de células B com t(1;19)(q23;p13.3)[TCF3-PBX1]
+Linfoma/ leucemia linfoblástica de células B com t(5;14)(q31;q32)[IL3-IGH]
+Linfoma/ leucemia linfoblástica de células B com amplificação intracromossomial do cromossomo 21 (iAMP21) b
+Linfoma/leucemia linfoblástica de células B com translocações que envolvem tirosinoquinase ou receptores de citoquinas
+(‘BCR-ABL1)b
+Linfoma/ leucemia linfoblástica de células T
+Linfoma/ leucemia linfoblástica precoces precursoras de células T
+a Segundo a classificação da Organização Mundial da Saúde de leucemias agudas e neoplasias mieloides revisada, 2016.4
+b provisional entity (termo em Inglês para ‘temporária’)
+NOTA 1: Na LLA Ph1, o subtipo de transcrito BCR-ABL1 é o p190, em 60%-80% dos casos. O transcrito p210 ocorre
+de 20%-30% dos casos. Em menos de 5% dos casos, ambos os transcritos podem ser detectados. Não se identificou qualquer
+tipo de diferença clínica ou laboratorial entre os casos com diferentes transcritos. O subtipo de transcrito pode ser determinado
+tanto pela técnica de FISH quanto pela técnica de biologia molecular.
+NOTA 2: Inexiste um aspecto morfológico ou citoquímico único que distinga a LLA Ph+ de outros tipos de LLA. A
+imunofenotipagem da LLA B com t(9;22) é tipicamente CD10+, CD19+ e TdT+. A expressão dos antígenos mieloides associados
+ao CD13 e ao CD33 é frequente. O CD117 é negativo e o CD25+ é fortemente associado à LLA B Ph+, principalmente nos
+adultos. Raros casos de LLA t(9;22) são de precursor T6. A distribuição das categorias de LLA e LLb (Leucemia/linfoma
+linfoblástico) são linhagem B (85%), linhagem T (10% a 15%) e linhagem Natural Killer (NK) (<1%). O imunofenótipo é usado
+para classificar a LLA/LLb de células T e entidades relacionadas. A categoria leucemia linfoblástica aguda das células T/linfoma
+linfoblástico das células T (LLA/LLb-T) é definida pela presença de CD3 citoplasmático ou de superfície, e pode ser subdividido
+em subtipos cortical e medular com base em combinações de marcadores de linhagem T. Os marcadores de células B e mieloides
+que definem a linhagem são negativos. Leucemia linfoblástica precursora de células T precoce é uma entidade diagnóstica
+provisória na classificação da OMS de 2016 que é sempre CD7 positivo e geralmente positivo para CD2 e CD3 citoplasmático;
+variavelmente positivo para CD4 e CD5; CD1a e CD8 negativos; e positivo para pelo menos um dos seguintes: CD34, CD117
+(KIT), HLA-DR, CD13, CD33, CD11b ou CD65.
+NOTA 3: Deve-se proceder ao exame de histocampatibilidade, ao diagnóstico de LLA ou LLb, com vistas à inscrição do
+doente no Registro Nacional de Receptores de Medula Óssea (REREME), antecipando a necessidade de uma eventual busca no
+Registro Nacional de Doadores de Medula Óssea (REDOME).
+
+## 4. CRITÉRIOS DE INCLUSÃO
+Serão incluídos nestas DDT os pacientes que preencherem todos os critérios abaixo:
+- Idade de 19 ou mais anos;
+- diagnóstico de LLA ou de Linfoma linfoblástico B (LLb), ambos com a presença do cromossoma Philadelphia
+[t(9;22)(q34;q11.2) ou rearranjo BCR-ABL1]; ou
+- diagnóstico de recidiva de LLA ou de LLb, ambos com a presença do cromossoma Philadelphia [(t(9;22)(q34;q11.2) ou
+rearranjo BCR-ABL1] e sem tratamento anterior com o mesilato de imatinibe.
+Devem ser observados os critérios estabelecidos no Regulamento Técnico do Sistema Nacional de Transplantes (SNT)
+para a indicação de transplante de células-tronco hematopoéticas (TCTH) alogênico aparentado ou não aparentado de medula
+óssea, de sangue periférico ou de sangue de cordão umbilical, ou autólogo de medula óssea ou de sangue periférico, devendo
+todos os potenciais receptores estar inscritos no Registro Nacional de Receptores de Medula Óssea ou outros precursores
+hematopoéticos – REREME/INCA/MS.
+NOTA: Pacientes com menos de 19 anos serão incluídos nas Diretrizes Diagnósticas e Terapêuticas - Tratamento da
+Leucemia Linfoblástica Aguda Cromossoma Philadelphia Positivo de Criança e Adolescente com Mesilato de Imatinibe.18
+
+## 5. CRITÉRIOS DE EXCLUSÃO
+Serão excluídos destas DDT os pacientes:
+- Sem comprovação do cromossoma Ph+ [t(9;22)(q34;q11.2) ou rearranjo BCR-ABL1 por exame genético ou molecular];
+- com teste de gravidez positivo e decidida a prosseguir com a gestação, a despeito de saber que tem uma doença grave e
+letal, se não tratada; ou
+- que apresentarem toxicidade (intolerância, hipersensibilidade ou outro evento adverso) ou contraindicação absoluta ao
+uso do mesilato de imatinibe ou a procedimento, inclusive o TCTH, preconizado nestas Diretrizes.
+
+## 6. TRATAMENTO
+O tratamento de LLA é definido pelo protocolo terapêutico adotado no hospital. Os pacientes são classificados ao
+diagnóstico e se enquadram nos protocolos específicos para os doentes sem tratamento prévio (recém-diagnosticados) e
+recidivados.
+Os detalhes das fases da poliquimioterapia de indução, consolidação, reindução e manutenção - com quimioterapia intratecal
+e, quando adotada no protocolo do hospital, radioterapia do SNC - variam de acordo com cada protocolo de tratamento.
+O mesilato de imatinibe é preconizado em primeira linha de tratamento da LLA Ph+ de adultos já a partir da fase de
+indução16, ou em caso de recidiva sem uso prévio desse medicamento.
+Devem ser realizados os seguintes exames basais (antes do início do tratamento):
+- hemograma com contagem de plaquetas;
+- exames sorológicos para hepatites B e C e para HIV;
+- dosagem sérica das aminotransferases/transaminases (AST/TGO, ALT/TGP), bilirrubinas, fosfatase alcalina e
+desidrogenase láctica (DHL);
+- dosagem sérica de glicose, ureia, creatinina, ácido úrico, sódio, potássio e cálcio;
+- dosagem sérica de gonadotrofina coriônica (beta-HCG), em casos de mulheres em idade fértil;
+- estudo da coagulação sanguínea, incluindo fibrinogênio;
+- exame parasitológico de fezes;
+- exame sumário de urina;
+- eletrocardiograma e ecocardiograma com fração de ejeção; e
+- radiografia simples de tórax em PA e perfil.
+
+## 6.1. Profilaxia de doença no SNC
+A profilaxia da invasão do SNC é obtida com quimioterapia intratecal, aplicada conjuntamente com a quimioterapia
+sistêmica, conforme o protocolo terapêutico adotado no hospital.
+O objetivo de se proceder à profilaxia no SNC com a aplicação de quimioterapia intratecal é prevenir recidiva leucêmica
+em local inacessível à quimioterapia sistêmica por causa da barreira hemato-encefálica19. A quimioterapia intratecal é indicada
+durante todo o curso do tratamento, nas fases de indução, consolidação e manutenção, independentemente de haver cromossomo
+Ph e idade do paciente16,19.
+
+## 6.2. Transplante de células-tronco hematopoéticas (TCTH)
+O transplante de células-tronco  hematopoéticas (TCTH) alogênico continua sendo indicado, com qualquer tipo de doador
+(familiar idêntico e não idêntico, não aparentado idêntico ou sangue de cordão umbilical), em primeira remissão da LLA20.
+Um estudo mostrou que o TCTH apresentou melhores resultados que a quimioterapia em pacientes com DRM positiva,
+independentemente dos fatores de risco basais20. Porém, o resultado do TMO alogênico é melhor em pacientes com DRM
+negativa.
+Por sua vez, o TMO autólogo somente poderá ser considerado em pacientes sem doença residual mínima (DRM
+negativa)16,21,22. Dessa forma, ambos os tipos transplante podem ser indicados em caso de primeira remissão de LLA Ph+ com
+DRM negativa.
+A indicação de TCTH deve observar o vigente Regulamento Técnico do Sistema Nacional de Transplantes e as idades
+mínima e máxima atribuídas aos respectivos procedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e
+Materiais Especiais do SUS.
+
+## 6.3. Mesilato de Imatinibe
+A dose de imatinibe é de 400–600 mg/dia, por via oral23, dependendo do protocolo adotado no hospital e da toxicidade,
+inclusive intolerância, apresentada pelo paciente. Ele pode ser administrado em dose única, ou em dose dividida, de manhã e à
+noite, e deve ser administrado com comida e um grande copo de água. Caso não seja possível a deglutição dos comprimidos,
+eles não devem ser esmagados. Nesse caso, devem ser dispersos em água ou suco de maçã, sendo que o número de comprimidos
+deve estar em volume adequado de líquido e misturado com uma colher (50ml de líquido para cada 100mg de comprimido). A
+suspensão deve ser ingerida imediatamente após a desintegração do comprimido23.
+A data do início do uso de imatinibe deve ser de acordo com o protocolo adotado no hospital no qual o paciente for
+atendido, habitualmente no D15 (15º dia) da fase de indução. Em caso de TCTH, o imatinibe é habitualmente iniciado a partir
+do 30º dia do transplante. O tempo de uso pós-TCTH, apesar de não uniforme, tem sido adotado pela maioria dos hospitais por
+pelo menos 12 meses16.
+
+## 6.4. Benefícios esperados
+A literatura especializada relata que incluir um ITQ na quimioterapia da LLA Ph+ tanto na fase de indução como na de
+consolidação gera altas taxas de remissão leucêmica completa e de sobrevida dos pacientes19.
+Estudos mostraram aumento de sobrevida com a associação de imatinibe à poliquimioterapia, resultado este que pode ser
+ainda maior quando essa associação é seguida de TCTH16.
+
+## 6.5. Avaliação da resposta terapêutica
+Para a avaliação da resposta ao tratamento, inclusive com o mesilato de imatinibe, é necessário monitorar a resposta
+citogenética ou molecular, conforme o protocolo adotado no hospital.
+A doença residual mínima (DRM) é um fator preditivo de recaída leucêmica, e a sua mensuração pode ser realizada por
+meio de citometria de fluxo (imunofenotipagem) e de RT-PCR24-28.
+Um ponto de corte comumente utilizado para definir a positividade para a DRM é 0,01%. Assim, pacientes que
+apresentam valores inferiores a 0,01% têm chance elevada de permanecer em remissão com a terapia de manutenção.
+Adicionalmente, a detecção de DRM anteriormente ao transplante de células-tronco hematopoéticas alogênico está associada a
+um aumento do risco de recidiva pós-transplante29.
+
+## 6.6. Eventos adversos
+Os eventos adversos associados ao uso do imatinibe podem ser descritos de acordo com a seguinte categorização30:
+COMUNS (21%-100%): Náusea/diarreia, retenção hídrica, edema periférico, edema periorbitário, mielossupressão
+(neutrófilos/plaquetas), fadiga, rash, câimbras musculares, artralgia. Retardo do crescimento, principalmente em pacientes
+impúberes.
+OCASIONAIS (5%-20%): Febre, tremores e calafrios, síndrome tipo resfriado, dor abdominal, cefaleia, dor no peito,
+dispepsia/queimação, flatulência, vômitos, zumbidos, insônia, constipação, sudorese noturna, ganho de peso, disgeusia, anemia,
+anorexia, mialgia, hemorragia, disfagia, esofagite, odinofagia, mucosite/estomatite, tosse, epistaxe, prurido, ascite, neuropatia
+(motora ou sensorial) e, mais tardiamente, despigmentação (vitiligo) e alopecia. Diminuição da densidade óssea e aumento do
+volume da trabécula óssea.
+RAROS (<5%): Angioedema, aumento da pressão intracraniana, edema cerebral, desidratação, elevação das
+transferases/transaminases, fosfatase alcalina e bilirrubina, derrame pleural, edema pulmonar, pneumonite, dispneia, edema
+pericárdico, dermatite exfoliativa, hemorragia/sangramento sem trombocitopenia de grau 3 ou 4 - incluindo o SNC, olho, pulmão
+e trato gastrointestinal -, conjuntivite, borramento da visão, olho seco, hipocalemia, hiponatremia, hipofosfatemia, ansiedade,
+alteração do humor, infecções. De aparecimento mais tardio, destacam-se: hepatotoxicidade, toxicidade renal, insuficiência renal,
+rotura esplênica, artrite, osteonecrose, fraqueza muscular (descrita como temporária e nas extremidades inferiores), disfunção do
+ventrículo esquerdo (secundária a dano nos miócitos), trombose/tromboembolismo.
+Todos os eventos adversos relacionados ao uso do imatinibe devem ser valorizados e registrados, pois podem contribuir
+para uma sub-utilização deste medicamento. O emprego do imatinibe pode ser mantido na vigência de leve efeito adverso, desde
+que haja acompanhamento regular com o hematologista; porém, a ocorrência de efeito adverso moderado ou grave exige a
+suspensão do uso, passível de reintrodução na dependência do dano causado e da vontade do paciente ou seu responsável legal.30
+
+## 6.7. Interações medicamentosas
+O uso concomitante do imatinibe com outros medicamentos – principalmente com os que também podem produzir
+depressão da medula óssea, hepatotoxicidade e nefrotoxicidade – deve ser cuidadosa e rigorosamente monitorado. Devem-se
+buscar exaustivamente possíveis interações de qualquer medicamento a ser administrado concomitantemente ao imatinibe.30
+O imatinibe é metabolizado primariamente pela enzima CYP3A4. Dessa forma, é necessário evitar o uso concomitante
+com medicamentos que sejam indutores dessa enzima, e considerar até 50% de aumento da dose se essa co-administração não
+puder ser evitada. Logo, medicamentos metabolizados por enzimas dessa classe devem ser evitados ou concomitantemente
+usados com cautela, objetivando-se evitar interações medicamentosas e a amplificação de eventos.30-32
+As principais interações medicamentosas do imatinibe estão descritas no Quadro 2.
+Quadro 2 - Interações medicamentosas do imatinibe
+Aumenta os níveis plasmáticos do imatinibe
+Diminui os níveis plasmáticos do imatinibe
+Fenobarbital
+Cetoconazol
+Carbamazepina
+Eritromicina, Itraconazol
+Fenitoína
+Ciclosporina
+Dexametasona
+Toranja (grapefruit)
+Rifampicina
+Claritromicina
+Erva de São João
+Rifabutina
+Fonte: Eurofarma33
+
+## 6.8. Outras tecnologias
+O Relatório de Recomendação nº 584/2020 da Conitec trata da avaliação de dasatinibe para adultos com leucemia
+linfoblástica aguda cromossomo Philadelphia positivo resistentes/intolerantes ao mesilato de imatinibe34. Os resultados de
+Consulta Pública sobre o tema foram apresentados à 93ª Reunião Ordinária do Plenário da Conitec, realizada em dezembro de
+2020, quando os membros presentes deliberaram por unanimidade recomendar a não ampliação de uso do dasatinibe. Assim, a
+com leucemia linfoblástica aguda cromossomo Philadelphia positivo resistentes/intolerantes ao mesilato de imatinibe, no âmbito
+do Sistema Único de Saúde - SUS.
+O ponatinibe, um ITQ de 3ª geração, não teve demanda para avaliação pela Conitec, pois, à época da reunião de escopo
+destas DDT, este medicamento não tinha registro na Agência Nacional de Vigilância Sanitária (Anvisa), de modo que sua
+avaliação não pôde ser feita.
+Anticorpos monoclonais indicados para o tratamento da LLA Ph+ também não foram demandados para avaliação pela
+Conitec.
+Esta versão das DDT poderá ser atualizada a qualquer tempo, demandando também a atualização da literatura
+especializada e avaliação de novas tecnologias pela Conitec.
+
+## 7.MONITORAMENTO
+Para o monitoramento laboratorial, devem ser realizados os exames previstos no protocolo utilizado no hospital, incluindo
+o mielograma, os exames citogenéticos e a determinação quantitativa da DRM na medula óssea. Controles periódicos do líquor
+serão realizados por ocasião das aplicações de quimioterapia intratecal.
+Não se procede ao monitoramento dos níveis séricos do imatinibe.
+O monitoramento de doença residual mínima (DRM) deve ser realizado conforme previsto no protocolo adotado pelo
+hospital, para a identificação de pacientes que precisem intensificar o tratamento pelo TCTH31,33. Quando a intenção é reduzir a
+intensidade da quimioterapia, o ideal é utilizar como parâmetro o método mais sensível para se detectar a DRM. Portanto, a
+resposta terapêutica adequada em caso de LLA Ph+ significa ausência de BCR-ABL1 na medula óssea, avaliado pela técnica de
+PCR (sensibilidade até 106).24
+
+## 8. REGULAÇÃO/CONTROLE/AVALIAÇÃO PELO GESTOR
+Devem ser observados os critérios de inclusão e exclusão de pacientes para o uso do mesilato de imatinibe, a duração e o
+monitoramento do tratamento, bem como a verificação periódica das doses prescritas e dispensadas e a adequação de uso desse
+medicamento.
+Casos de leucemia linfoblástica aguda, inclusive LLA Ph+ e LLb Ph+, devem ser atendidos em hospitais habilitados em
+Oncologia e com porte tecnológico suficiente para diagnosticar, tratar e acompanhar clínica e laboratorialmente os pacientes.
+Além da familiaridade que esses hospitais guardam com o tratamento, o ajuste das doses e o controle dos efeitos adversos,
+eles têm toda a estrutura ambulatorial, de internação, de terapia intensiva, de hemoterapia, de suporte multiprofissional e de
+laboratórios necessária para o adequado atendimento e obtenção dos resultados terapêuticos esperados.
+A regulação do acesso é um componente essencial da gestão para a organização da rede assistencial e garantia do
+atendimento aos pacientes e muito facilita as ações de controle e avaliação. Estas incluem, entre outras: a manutenção atualizada
+do Cadastro Nacional dos Estabelecimentos de Saúde (CNES); a autorização prévia dos procedimentos; o monitoramento da
+produção dos procedimentos (por exemplo, frequência apresentada versus autorizada, valores apresentados versus autorizados
+versus ressarcidos); e a verificação dos percentuais das frequências dos procedimentos quimioterápicos em suas diferentes linhas
+(cuja ordem descendente – primeira maior do que segunda maior do que terceira – sinaliza a efetividade terapêutica). Ações de
+auditoria devem verificar in loco, por exemplo, a existência e a observância da conduta ou protocolo adotados no hospital;
+regulação do acesso assistencial; qualidade da autorização; a conformidade da prescrição e da dispensação e administração dos
+medicamentos (tipos e doses); compatibilidade do procedimento codificado com o diagnóstico e a capacidade funcional (escala
+de Zubrod); a compatibilidade da cobrança com os serviços executados; a abrangência e a integralidade assistenciais; e o grau
+de satisfação dos pacientes.
+Para a autorização do TCTH alogênico aparentado ou não aparentado de medula óssea, de sangue periférico ou de sangue
+de cordão umbilical, todos os potenciais receptores devem estar inscritos no Registro Nacional de Receptores de Medula Óssea
+ou outros precursores hematopoéticos – REREME/INCA/MS, e devem ser observadas as normas técnicas e operacionais do
+Sistema Nacional de Transplantes.
+Os receptores transplantados submetidos a TCTH alogênico, originários dos próprios hospitais transplantadores neles
+devem continuar sendo assistidos e acompanhados; e os demais receptores transplantados deverão, efetivada a alta do hospital
+transplantador, ser devidamente reencaminhados aos seus hospitais de origem, para a continuidade da assistência e
+acompanhamento. A comunicação entre os hospitais deve ser mantida de modo que o hospital solicitante conte, sempre que
+necessário, com a orientação do hospital transplantador e este, com as informações atualizadas sobre a evolução dos
+transplantados.
+Os procedimentos diagnósticos (Grupo 02 e seus vários subgrupos – clínicos, cirúrgicos, laboratoriais e por imagem),
+radioterápicos e quimioterápicos  (Grupo 03, Subgrupo 04), cirúrgicos (Grupo 04 e os vários subgrupos cirúrgicos por
+especialidades e complexidade) e de transplantes (Grupo 05 e seus seis subgrupos) da Tabela de Procedimentos, Medicamentos
+e Órteses, Próteses e Materiais Especiais do SUS podem ser acessados, por código ou nome do procedimento e por código da
+CID-10 para a respectiva neoplasia maligna, no SIGTAP − Sistema de Gerenciamento dessa Tabela (http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp), com versão mensalmente atualizada e disponibilizada.
+NOTA 1 – O mesilato de imatinibe, de uso preconizado nestas Diretrizes, é, hoje, adquirido pelo Ministério da Saúde e
+fornecido pelas Secretarias de Saúde para os hospitais e, por esses, aos usuários do Sistema Único de Saúde (SUS). Os
+procedimentos quimioterápicos da Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS
+(“Tabela do SUS”) não fazem referência a qualquer medicamento e são aplicáveis às situações clínicas específicas para as quais
+terapias antineoplásicas medicamentosas são indicadas. Assim, os hospitais credenciados no SUS e habilitados em Oncologia
+são os responsáveis pelo fornecimento de outros medicamentos contra a LLA e LLb, previstos nos respectivos protocolos que
+adotam e que eles, livremente, padronizem, adquiram e forneçam, cabendo-lhes codificar e registrar conforme o respectivo
+procedimento seja o hospital público ou privado, com ou sem fins lucrativos.
+NOTA 2 – O uso do mesilato de imatinibe é associado aos outros antineoplásicos do esquema terapêutico e, assim, o seu
+fornecimento pode ser concomitante à autorização de APAC para os seguintes procedimentos da tabela do SUS para a
+quimioterapia de leucemia linfoblástica aguda ou linfoma linfoblástico, em não tendo havido uso prévio ao respectivo
+procedimento:
+
+03.04.06.023-2 – Quimioterapia de leucemia linfoide/linfoblástica aguda, linfoma linfoblástico, leucemia mieloide aguda e leucemia promielocítica aguda - 1ª linha – fases terapêuticas iniciais;
+03.04.06.024-0 –  Quimioterapia de leucemia linfoide/linfoblástica aguda, linfoma linfoblástico, leucemia mieloide aguda e leucemia promielocítica aguda - 1ª linha – fase de manutenção;
+03.04.06.008-9 – Quimioterapia Curativa de Leucemia Aguda/Mielodisplasia/Linfoma Linfoblástico/Linfoma de Burkitt – 2ª linha
+03.04.06.009-7 – Quimioterapia Curativa de Leucemia Aguda/Mielodisplasia/Linfoma Linfoblástico/Linfoma de Burkitt – 3ª linha.
+03.04.06.010-0 – Quimioterapia Curativa de Leucemia Aguda/Mielodisplasia/Linfoma Linfoblástico/Linfoma de Burkitt – 4ª linha.
+NOTA 3 – Como o mesilato de imatinibe é comprado pelo Ministério da Saúde e fornecido aos hospitais habilitados em
+oncologia no SUS pela Assistência Farmacêutica das Secretarias Estaduais de Saúde, não pode ser autorizada APAC para
+procedimento de quimioterapia, quando o seu uso é isolado, como, por exemplo, para manutenção no pós-transplante. Neste
+caso, o atendimento ambulatorial pode ser ressarcido como consulta especializada (procedimento 03.01.01.007-2 - Consulta
+Médica em Atenção Especializada).
+
+## 9. TERMO DE ESCLARECIMENTO E RESPONSABILIDADE (TER)
+Deve-se informar o paciente ou seu responsável legal sobre os potenciais riscos, benefícios e efeitos adversos relacionados
+ao uso do medicamento preconizado nestas Diretrizes, levando-se em consideração as informações contidas no Termo de
+Esclarecimento e Responsabilidade (TER).

@@ -1,0 +1,624 @@
+
+# 1.        INTRODUÇÃO
+
+O câncer de mama é a neoplasia maligna mais incidente em mulheres. O risco médio de câncer de mama ao longo da vida
+para uma mulher nos Estados Unidos foi estimado em 12,3% (ou seja, 1 em cada 8 mulheres)1. Mundialmente, foram estimados
+2,3 milhões de novos casos de câncer de mama em 2020 e cerca de 645 mil óbitos decorrentes da doença2. No Brasil, de acordo
+com o Instituto Nacional do Câncer (INCA), as estimativas de incidência de câncer de mama para o período 2023-2025 são de
+
+## 73.610 casos, o que representa 30,1% dos cânceres em mulheres3. Em 2020, ocorreram 17.825 mortes de mulheres por câncer
+
+de mama no país3. Sem considerar os tumores de pele não melanomas, o câncer de mama é o mais frequente entre as mulheres
+em todas as regiões brasileiras, com risco estimado de 84,46 por 100 mil mulheres na Região Sudeste; 71,44 por 100 mil na
+Região Sul; 57,28 por 100 mil na Região Centro-Oeste; 52,20 por 100 mil na Região Nordeste; e 24,99 por 100 mil na Região
+O câncer de mama tem seu prognóstico e tratamento definidos pela localização, idade de apresentação e estadiamento,
+bem como fatores de risco que consideram critérios histopatológicos, biológicos, moleculares e genéticos. Considera-se que o
+prognóstico é mais favorável quando o câncer de mama é diagnosticado e tratado precocemente comparado ao diagnóstico em
+estádios avançados ou com metástases sistêmicas. Um estudo acompanhou 1.381 pacientes com câncer de mama e identificou
+correlação significativa entre o número de metástases em linfonodos axilares, o diâmetro máximo do tumor, a classificação TNM
+e os receptores hormonais e o tempo de sobrevida livre de progressão5.
+A idade é considerada o principal fator de risco para o câncer de mama feminino, uma vez que as taxas de incidência
+aumentam a partir de 40 anos6. Um estudo aponta que, no Brasil, a média de idade do diagnóstico de câncer de mama foi de 54
+anos7. Ainda, 41,1% das pacientes tinham menos de 50 anos ao diagnóstico, das quais 23,3% foram diagnosticadas no estádio I,
+53,5% no estádio II e 23,2% no estádio III6. A taxa de sobrevida global em 5 anos foi de 96,84% para pacientes no estádio I,
+94,16% no estádio II e 70,48% no estádio III7.
+Outros fatores de risco estabelecidos incluem aqueles relacionados à vida reprodutiva da mulher (menarca precoce,
+nuliparidade, idade da primeira gestação a termo acima dos 30 anos; menopausa tardia e terapia de reposição hormonal), alta
+densidade do tecido mamário, obesidade, urbanização e elevação do status socioeconômico7-9. A história familiar de câncer da
+mama aumenta o risco em 5,5% para mulheres com um parente de primeiro grau afetado e em 13,3%, para aquelas com dois
+Uma revisão sistemática sumarizou dados de 96 artigos e identificou 58 modelos prognósticos que previam mortalidade,
+recidiva ou ambos em pacientes com câncer de mama. Os preditores mais frequentemente identificados nessa revisão foram o
+estado nodal, o tamanho do tumor, o grau do tumor, a idade ao diagnóstico e o estado do receptor de estrogênio10.
+A identificação de fatores de risco e da doença em seu estágio inicial e o encaminhamento ágil e adequado para o
+atendimento especializado dão à Atenção Primária um caráter essencial para um melhor resultado terapêutico e prognóstico dos
+Este Protocolo visa a uniformizar o estabelecimento de protocolos terapêuticos com base em evidências que garantam a
+segurança, a efetividade e a reprodutibilidade, para orientar condutas e protocolos assistenciais. O Protocolo abordará os
+procedimentos e esquemas terapêuticos atualmente disponíveis no Sistema Único de Saúde (SUS). Alguns medicamentos citados
+As novas tecnologias em fase de avaliação ou que serão demandadas para análise pela Conitec serão incluídas nas versões
+
+# 2.        METODOLOGIA
+
+O processo de desenvolvimento desse PCDT seguiu recomendações da Diretriz Metodológica de Elaboração de Diretrizes
+Clínicas do Ministério da Saúde, que preconiza o uso do sistema GRADE (Grading of Recommendations Assessment,
+Development and Evaluation). O GRADE classifica a qualidade da informação ou o grau de certeza dos resultados disponíveis
+
+# 3.      CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À
+
+- C50.2 Neoplasia maligna do quadrante superior interno da mama
+- C50.3 Neoplasia maligna do quadrante inferior interno da mama
+- C50.4 Neoplasia maligna do quadrante superior externo da mama
+- C50.5 Neoplasia maligna do quadrante inferior externo da mama
+- C50.6 Neoplasia maligna da porção axilar da mama
+
+# 4.        DIAGNÓSTICO E ESTADIAMENTO
+
+## 4.1.     Rastreamento
+
+O câncer de mama é uma das doenças mais estudadas em oncologia, considerado muito heterogêneo e, portanto, com
+diferentes abordagens em diretrizes e trabalhos científicos. As recomendações das diretrizes, em sua maioria, estão baseadas em
+ensaio clínicos randomizados de fase 3 e em revisões sistemáticas.
+Em 2015, o INCA publicou a Diretriz para a detecção precoce do câncer de mama no Brasil (rastreamento e diagnóstico
+precoce). Nesta, as estratégias adotadas para detecção precoce foram o rastreamento mamográfico em mulheres de 50 a 69 anos
+a cada dois anos e a conscientização sobre os sinais e sintomas suspeitos para encaminhamento ao serviço de diagnóstico de
+A estratégia de conscientização destaca a importância do diagnóstico precoce e, na prática, significa orientar a população
+feminina sobre as mudanças habituais das mamas em diferentes momentos do ciclo de vida e a divulgação dos principais sinais
+e sintomas do câncer de mama. Estimula também as mulheres a procurarem esclarecimento médico sempre que houver qualquer
+dúvida em relação a alguma alteração suspeita nas mamas. Com essa estratégia, estimula-se que cada mulher conheça seu corpo,
+observe alterações e, eventualmente, realize a autopalpação das mamas, sempre que se sentir confortável para tal (seja no banho,
+no momento da troca de roupa ou em outra situação do cotidiano), sem qualquer recomendação de técnica específica,
+É importante destacar que situações especiais, como o rastreamento para a população com alto risco de desenvolvimento
+Após avaliação pela Comissão Nacional de Incorporação de Tecnologias em Saúde (Conitec), tornou-se pública a decisão
+de não ampliar o uso da mamografia para o rastreamento do câncer de mama em mulheres assintomáticas com risco habitual e
+que estejam fora da faixa etária atualmente recomendada (50 a 69 anos), por meio da Portaria SCTIE/MS n° 61, de 1 de outubro
+de 201513. As justificativas para esta recomendação foram que, segundo as evidências científicas disponíveis à época, havia
+incerteza sobre os benefícios, aliada ao sobrediagnóstico e o pequeno benefício da proposta acompanhado de aumento do risco
+Cabe ressaltar, adicionalmente que, entende-se não haver embasamento científico suficiente que sustente a recomendação
+A recomendação atual é que os seguintes sinais e sintomas sejam considerados como de referência urgente para serviços
+de diagnóstico mamário (recomendação favorável fraca, ou seja, os possíveis benefícios provavelmente superam os possíveis
+- Qualquer nódulo mamário em mulheres com mais de 50 anos;
+- Descarga papilar sanguinolenta unilateral;
+- Lesão eczematosa da pele que não responde a tratamentos tópicos;
+- Homens com mais de 50 anos com tumoração palpável unilateral;
+A extensão do câncer e sua disseminação no momento do diagnóstico determinam seu estádio, que é essencial para
+orientar as opções de tratamento e o prognóstico. Deve-se realizar nova avaliação e exame físico completo da paciente à procura
+de outros potenciais sítios de doença, principalmente nas regiões axilares, cervical e supraclaviculares. Dores
+musculoesqueléticas generalizadas ou localizadas podem indicar metástases ósseas; queixas de dispneia aos esforços podem
+No diagnóstico, também deve-se seguir os algoritmos de investigação preconizados pelo INCA conforme parâmetros
+
+## 4.2.2.  Diagnóstico histopatológico e molecular
+
+A biópsia está indicada para os casos suspeitos de câncer de mama a partir de achados anormais do exame físico, de
+alterações na mamografia, ou em outro exame complementar necessário para complementação diagnóstica, como a
+ultrassonografia mamária. O objetivo inicial da biópsia é a obtenção de material suficiente para o diagnóstico definitivo do
+A seleção do tipo de biópsia é baseada em vários fatores, incluindo o tamanho, características e a localização da lesão,
+Em caso de confirmação diagnóstica positiva para malignidade, todas as amostras devem ser submetidas a estudo imuno-
+histoquímico (IHQ) para avaliação dos seguintes biomarcadores, que são fatores prognósticos e preditivos do câncer de mama.
+Para todos os tipos de carcinomas invasivos da mama, devem ser avaliados os seguintes biomarcadores:
+- Receptor de estrogênio (RE);
+- Receptor de progesterona (RP);
+A maioria (75 a 80%) dos cânceres de mama é constituída por carcinomas invasivos. Destes, o tipo histológico de
+carcinoma invasivo mais comum é o carcinoma mamário invasivo de tipo não especial (NST), anteriormente denominado
+carcinoma ductal invasivo sem outra especificação (SOE), detectado em cerca de 75-80% dos casos, seguido pelo carcinoma
+O presente Protocolo inclui estes dois tipos histológicos somente, sendo o termo “câncer de mama” utilizado como seus
+sinônimos ao longo do texto. Entretanto, a classificação histológica dos carcinomas invasivos é bem mais complexa. Ademais,
+Existem algumas diferenças clínicas entre o carcinoma invasivo de tipo não especial e o lobular, além de distinções no
+comportamento biológico, alterações moleculares, prognóstico e história natural da doença. Os CLIs estão associados a maior
+chance de bilateralidade (probabilidade de diagnóstico da doença em ambas as mamas) e maior frequência de doença
+multicêntrica; acometem mulheres mais idosas; a sua variante clássica comumente apresenta positividade para receptores
+A IHQ descreve a positividade de RE e de RP com percentual de acometimento. Em relação à avaliação dos RE e RP, no
+Na avaliação do HER2: a marcação será interpretada de acordo com as recomendações do comitê da ASCO/CAP que
+categoriza a expressão de HER2 em negativa (escore 0); escore 1+; duvidosa (escore 2+); e positiva para superexpressão de
+HER2 (escore 3+). Nos casos duvidosos (escore 2+), é mandatória a realização de teste de hibridação in situ reflexo para a
+determinação do status de amplificação do gene cERBB2, através de métodos de fluorescência (FISH), cromogênicos (CISH),
+Tanto a categoria (negativo/duvidoso/positivo para superexpressão de HER2) como o escore em cruzes (0/1+/2+/3+)
+sempre devem estar presentes no laudo do estudo imuno-histoquímico, além das respectivas porcentagens de células neoplásicas
+com marcação de membrana, o padrão (completa circunferencial ou incompleta ou basolateral) e a intensidade desta marcação
+(fraca, moderada, forte). Carcinomas mamários invasivos que apresentam escore 1+ no estudo imuno-histoquímico ou escore 2+
+pelo mesmo método, seguido de resultado negativo/sem amplificação gênica demonstrado pelo teste de hibridação in situ para
+O objetivo do estadiamento é classificar a doença de acordo com sua extensão locorregional e distância, agrupando os
+casos com características semelhantes e estabelecendo padrões que orientam o tratamento e o prognóstico dos casos.
+Tradicionalmente, o estadiamento do câncer de mama mais utilizado é o da União Internacional Contra o Câncer (UICC),
+a Classificação de Tumores Malignos, que utiliza as categorias T (tumor), N (acometimento linfonodal) e M (metástase a
+distância), chamada simplificadamente de TNM25. Também é utilizado o sistema TNM da American Joint Committee for Cancer
+(AJCC)26, cuja 8ª edição expandiu a classificação e estadiamento para além dos sítios anatômicos e incluiu outros fatores
+prognósticos, como o grau histológico e o perfil imunohistoquímico.
+O estadiamento considera as seguintes classificações para os linfonodos regionais mamários26:
+- Axilares homolaterais: linfonodos interpeitorais (Rotter) e linfonodos ao longo da veia axilar e suas tributárias, que
+
+## 4.3.1.  Classificação clínica TNM da UICC
+
+Nos Quadros 1 e 2 está apresentada a Classificação Clínica TNM da UICC25,26, a qual avalia critérios anatômicos da
+parênquima mamário subjacente. Os carcinomas mamários associados à doença de Paget são classificados de
+homolaterais, entre eles os linfonodos cervicais ou mamários internos contralaterais
+Legenda: CDIS: carcinoma invasivo não especial; CLIS: carcinoma lobular infiltrante; Mic: Microinvasão
+* Microinvasão (Mic) é a extensão de células neoplásicas além da membrana basal, alcançando os tecidos adjacentes, sem focos tumorais maiores do que 0,1
+cm em sua maior dimensão. Quando há focos múltiplos de microinvasão, somente o tamanho do maior foco é utilizado para classificar a microinvasão (não usar
+a soma dos focos individuais). A presença de múltiplos focos de microinvasão deve ser anotada como se faz com os carcinomas invasores extensos múltiplos.
+** Somente invasão da derme não classifica o tumor como T4. A parede torácica inclui costelas, músculos intercostais e músculo serrátil anterior, mas não inclui
+*** O carcinoma inflamatório da mama é caracterizado por um endurado difuso e intenso da pele da mama com bordas erisipeloides, geralmente sem massa
+tumoral subjacente. Se a biópsia da pele for negativa e não existir tumor primário localizado mensurável, o carcinoma inflamatório clínico (cT4d) é classificado
+patologicamente como pTX. A retração da pele e do mamilo ou outras alterações cutâneas, exceto aquelas incluídas em T4b e T4d, podem ocorrer em T1, T2
+**** A metástase em linfonodo regional diz respeito a ninhos de células tumorais isoladas [CTI (ITC) ] são células tumorais únicas ou em pequenos grupamentos
+celulares, não maiores que 0,2 mm em sua maior dimensão, que podem ser detectados por exame histopatológico de rotina (coloração H&E), ou por
+imunohistoquímica. Um critério adicional foi proposto: o de incluir ninhos celulares que contenham menos de 200 células em um único corte transversal
+histológico. Os linfonodos contendo somente células tumorais isoladas são excluídas da contagem do total de linfonodos positivos para a classificação N, mas
+devem ser incluídos no número total de linfonodos avaliados.
+***** Metástase detectada clinicamente é definida como por exame clínico ou de imagem (exceto linfocintilografia), tendo características altamente suspeitas
+de malignidade, ou uma micrometástase patologicamente presumida, baseada em punção aspirativa por agulha fina e exame citológico. A confirmação de
+metástase clinicamente detectada por punção aspirativa por agulha fina, sem biópsia excisional, é designada com um sufixo (f), por exemplo cN3a(f). A biópsia
+excisional de um linfonodo ou a biopsia de um linfonodo sentinela, na ausência de uma designação para pT, é uma classificação clínica para N, por exemplo
+
+## 4.3.2.  Classificação clínica anatômica TNM em estádios
+
+O agrupamento do sistema TNM para descrever a extensão anatômica da doença é baseado na avaliação obtida antes do
+início do tratamento. O estadiamento clínico anatômico utiliza o exame clínico e os exames de imagem disponíveis em um
+período de até quatro semanas a partir do diagnóstico ou anteriores à realização da cirurgia. Embora possam ser realizados,
+
+## 4.3.3.  Classificação clínica prognóstica TNM
+
+O agrupamento do sistema TNM para descrever o prognóstico de um caso tem como objetivos relatar o provável curso
+clínico de cada paciente, possibilitar a comparação com outros casos similares e auxiliar na tomada de decisão clínica do
+profissional. A classificação clínica prognóstica (pré-tratamento), designada TNM (ou cTNM) e apresentada no Quadro 3, tem
+por base o resultado da biópsia, especificamente o grau histológico e os marcadores imunohistoquímicos (RE, RP e HER-2) e
+Grau*: O patologista atribui uma nota para o câncer, que é baseada em quão a amostra de biópsia se parece com o tecido mamário normal e à rapidez com que
+N*: Tumores cT1N1micM0 e cT0N1micM0 em termos do estadiamento prognóstico são incluídos conjuntamente com os tumores cT1N0M0 com os mesmos
+fatores prognósticos (grau, RE, RP e HER-2).
+N**: Tumores cT2N1mic, cT3N1mic, e cT4N1mic em termos do estadiamento prognóstico são incluídos conjuntamente com os tumores cT2N1, cT3N1 e
+cT4N1 com os mesmos fatores prognósticos (grau, RE, RP e HER-2). Legenda: HER-2: receptor tipo 2 do fator de crescimento epidérmico humano; RE =
+
+## 4.3.4.  Classificação patológica prognóstica
+
+A classificação patológica prognóstica, realizada após o tratamento cirúrgico, deve ser precedida pela letra “p”, sendo
+que os critérios para a classificação do tumor (T) e metástase à distância (M) são iguais aos da classificação clínica. Essa
+A classificação histopatológica requer o exame do carcinoma primário sem tumor macroscópico nas margens de
+A classificação histopatológica da invasão linfática regional, apresentada no Quadro 4, requer a ressecção e o exame, pelo
+pN1mi micrometástase (maior que 0,2 mm ou mais que 200 células, porém não maior que 2 mm em sua maior dimensão)
+pN3c metástase em linfonodos supraclaviculares homolaterais.
+* Os critérios para a classificação do tumor (T) e metástase à distância (M) são iguais aos da classificação clínica, já apresentados no Quadro 1.
+** Ninhos de células tumorais isoladas [CTI] são células tumorais únicas ou em pequenos grupamentos celulares, não maiores que 0,2 mm em sua maior
+dimensão, que podem ser detectados por exame histopatológico de rotina (coloração H&E), ou por imunohistoquímica. Um critério adicional foi proposto: o de
+*** Os casos com células tumorais isoladas ou micrometástases (lesões entre 0,2 e 2 mm) identificadas por imunohistoquímica em linfonodos axilares são
+classificados como pN0(i+); somente deverão ser classificadas como N1 os casos de micrometástases detectadas pela coloração de hematoxilina-eosina. A
+O estadiamento patológico prognóstico é realizado após a cirurgia por meio da análise anatomopatológica dos órgãos ou
+N*: Tumores cT1N1micM0 e cT0N1micM0 em termos do estadiamento prognóstico são incluídos conjuntamente com os tumores cT1N0M0 com os mesmos
+fatores prognósticos (grau, RE, RP e HER-2).
+N**: Tumores cT2N1mic, cT3N1mic, e cT4N1mic em termos do estadiamento prognóstico são incluídos conjuntamente com os tumores cT2N1, cT3N1 e
+cT4N1 com os mesmos fatores prognósticos (grau, RE, RP e HER-2). Legenda: HER-2: receptor tipo 2 do fator de crescimento epidérmico humano; RE =
+
+## 4.3.5.  Classificação pós-tratamento neoadjuvante
+
+## 4.3.6.  Considerações adicionais
+
+Os exames complementares necessários para o estadiamento são hemograma completo, dosagens séricas de glicose, ureia,
+A tomografia computadorizada (TC) de tórax e abdômen superior podem ser acrescentadas na avaliação dos pacientes a
+A ressonância magnética (RM) não faz parte da rotina de estadiamento, nem de seguimento pós-tratamento. No entanto,
+
+## 4.5.     Classificação de risco de recidiva
+
+Conforme os critérios, classifica-se o risco de recidiva do câncer de mama como baixo, intermediário ou alto, a fim de
+orientar a indicação de quimioterapia adjuvante. Quanto maior o risco de recidiva, maior deverá ser o benefício do tratamento.
+No Quadro 6 estão descritos os critérios para classificar o risco de recidiva, de acordo com o consenso de especialistas em Saint
+Legenda: pT: tamanho do tumor patológico; HER-2: receptor tipo 2 do fator de crescimento epidérmico humano; RH: receptores hormonais; RE: receptor de
+estrogênio; RP: receptor de progesterona.
+
+# 5.        CRITÉRIOS DE INCLUSÃO
+
+- Qualquer carcinoma de mama com histologias especiais de bom prognóstico como: Carcinoma Tubular, Carcinoma
+Mucinoso Invasivo, Carcinoma Cribriforme Invasivo, Carcinoma Papilífero Invasivo. Estas pacientes não costumam ter
+
+# 6.        CRITÉRIOS DE EXCLUSÃO
+
+# 7.        ABORDAGEM COMPLEMENTAR
+
+A dor pode ser um sintoma em pacientes com câncer de mama e seu controle adequado está associado à melhor qualidade
+
+# 8.        TRATAMENTO NÃO MEDICAMENTOSO
+
+A cirurgia continua sendo o principal tratamento do câncer de mama e pode ser dividida em tratamento conservador ou
+O procedimento inclui a intervenção na mama (exérese do tumor e reconstrução) e na axila (avaliação e retirada de
+linfonodos). As abordagens cirúrgicas podem ser parciais ou totais, dependendo das características clínicas do tumor e do
+prognóstico de cada paciente. Ao longo do tempo, os procedimentos cirúrgicos evoluíram de tratamentos mais agressivos para
+menos invasivos, apresentando maior ganho estético, sem afetar os desfechos de cura32. A indicação da cirurgia deve incluir
+à da mastectomia em pacientes candidatas a esta técnica e foi estudado por Veronesi e colaboradores no estudo Milan 133. Diante
+da redução do volume mamário com as novas técnicas, novos termos foram incorporados como sinônimo de cirurgia
+conservadora da mama, normalmente quando se retira a pele sobre o tumor damos o nome de quadrantectomia e na situação em
+A maioria das pacientes com câncer de mama em estádios iniciais (I e II) são candidatas à cirurgia conservadora. O
+tamanho do tumor não é um fator limitante por si só, mas a relação entre o volume da mama e o tamanho do tumor é o fator mais
+Embora não tenha sido observada diferença na sobrevida livre de doença à distância e na sobrevida global, a taxa de
+recorrência local foi significativamente maior no grupo tratado com tumorectomia em um seguimento médio de cinco anos (3%
+contraindicações. Uma situação importante quando se indica a cirurgia conservadora é a necessidade da radioterapia adjuvante
+Os estudos que compararam a eficácia da cirurgia conservadora com e sem a adição de radioterapia adjuvante
+Também representam contraindicação os tumores com comprometimento inicial extenso da pele da mama (T4B/T4D),
+conhecidos como carcinomas inflamatórios, primários ou secundários. Pacientes com múltiplas lesões em diferentes quadrantes
+das mamas também devem ser considerados não candidatos à cirurgia conservadora. Doenças autoimunes em atividade, como
+ou quando não é possível obter margens cirúrgicas negativas após múltiplas ressecções. Esse procedimento pode envolver a
+retirada do complexo aréolo-papilar, ressecção de músculos peitorais e linfadenectomia axilar. O tipo mais comum de abordagem
+A reconstrução de mama pode ser imediata ou tardia. Esse processo decisório deve considerar a vontade da paciente, a
+disponibilidade da técnica no centro de referência e a necessidade de tratamento local complementar. A cirurgia da mama
+
+## 8.1.1.  Avaliação dos linfonodos axilares
+
+O linfonodo sentinela é o primeiro linfonodo que recebe a drenagem linfática proveniente do câncer de mama. A sua
+Após a consolidação da cirurgia conservadora da mama como método terapêutico de escolha nos estádios iniciais, a
+grande controvérsia atualmente está voltada ao tratamento da axila nesses casos35. Ela é a responsável pela maior parte da
+morbidade associada às cirurgias mamárias: seroma, linfedema, alterações na sensibilidade local, internação prolongada, dor
+na detecção e biópsia cirúrgica do primeiro linfonodo que aparece na drenagem linfática tumoral51. A biópsia do linfonodo
+sentinela é a abordagem apropriada tanto para tumores T1 quanto para T2 com axilas clinicamente negativas. A técnica pode ser
+empregada nas cirurgias conservadoras e nas mastectomias. As contraindicações absolutas são metástases axilares palpáveis ou
+Pacientes com recidiva local após cirurgia conservadora ou mastectomia, se clinicamente operáveis, podem se beneficiar
+de cirurgia de resgate ou salvamento. Já o tratamento da doença local em pacientes com diagnóstico de doença metastática é um
+foco de intensa discussão. Estudos mostraram que a ressecção do tumor primário com margens negativas pode reduzir o risco de
+morte mesmo para as pacientes com estádio IV56,57. Um estudo retrospectivo, que avaliou 3.956 pacientes com câncer de mama
+e metástase óssea, corroborou os resultados dos estudos já citados. A sobrevida global no grupo de cirurgia foi de 50 meses
+cirurgia inicial. Algumas revisões sistemáticas com meta-análises relataram taxas gerais de falso-negativo de cerca de 10%,
+Três importantes estudos avaliaram pacientes com axila inicialmente positiva N1/N2 e LS negativo após o tratamento.
+As taxas gerais de falso-negativo relatadas por esses estudos foram 14,2%, 12,6% e 13,3%, respectivamente. Portanto, embora
+Em pacientes com axila inicialmente positiva N1/N2 e LS positivo após o tratamento, ainda não é possível omitir a
+
+## 8.2.1.  Radioterapia após cirurgia conservadora da mama e estadiamento axilar
+
+As artérias mamárias internas, artéria mamária externa ou a artéria torácica lateral são responsáveis pela maior parte da
+provisão de sangue para as mamas, apoiadas pela irrigação proveniente de outras artérias e pequenos vasos. Grande parte dos
+Vários esquemas de dose e fracionamento de RT são utilizados, reforçando o papel da RT no tratamento do câncer de
+Salienta-se que o procedimento de radioterapia de mama disponível no SUS não faz menção a nenhuma técnica ou dose,
+podendo ser utilizado nas diferentes modalidades mencionadas. Adicionalmente, destaca-se que, caso disponível localmente, a
+técnica de radioterapia hipofracionada deve ser usada como esquema preferencial, pois foi demonstrado ser segura e efetiva
+quando comparado ao fracionamento convencional. O hipofracionamento permite propor aos pacientes tratamentos mais curtos,
+porque inclui esquemas com menor número de frações, maior dose por fração e menor dose total, consistindo em 15 ou 16
+frações de aproximadamente 2,7 Gy/dia até doses totais de 40,0 Gy ou 42,5 Gy67–69. Esquemas de dose e fracionamento
+convencionais, com 50 Gy em 25 sessões podem ser usados em pacientes selecionadas. Ultra-hipofracionamento, em 5 sessões,
+pode ser considerado em pacientes selecionadas com T1/T2/N070. Ao adotar esquemas de hipofracionamento, é recomendado o
+Ressalta-se que deve considerar não realizar radioterapia da mama apenas em situações especiais, como pacientes com
+mais de 70 anos de idade com receptores hormonais positivos, tumores cN0, pT1 que recebam hormonioterapia adjuvante, desde
+
+## 8.2.2.  Radioterapia após mastectomia e estadiamento axilar com ou sem reconstrução
+
+A realização de radioterapia após mastectomia e estadiamento axilar, com ou sem reconstrução deve considerar as
+seguintes situações, conforme características apresentadas:
+- Linfonodos axilares negativos e tumor ≤ 5 cm e margens ≥ 1 mm, sem necessidade de radioterapia: pode-se considerar
+radioterapia em subgrupo de pacientes de alto risco, incluindo tumores centrais/mediais, T3 ou maiores ou iguais a 2 cm com
+menos de 10 linfonodos removidos e pelo menos um dos seguintes: grau 3, RE negativo ou invasão linfovascular;
+- Linfonodos axilares negativos, tumor ≤ 5 cm, mas margem < 1 mm: considerar radioterapia sobre a parede torácica.
+- Linfonodos axilares negativos e tumor maior que 5 cm: considerar radioterapia sobre a parede torácica;
+- Um a 3 linfonodos axilares positivos: considerar radioterapia sobre a parede torácica e drenagem linfática;
+- Quatro ou mais linfonodos axilares positivos: radioterapia sobre a parede torácica e drenagem linfática;
+Sugere-se que a quimioterapia adjuvante seja realizada antes da radioterapia, uma vez que pacientes que recebem
+
+## 8.2.3.  Radioterapia na doença metastática
+
+A radioterapia também pode ser utilizada como método de tratamento para doença metastática em pacientes com câncer
+de mama (ex. sangramento tumoral, dor, metástase óssea, metástase cerebral, síndrome de compressão medular neoplásica)74,75.
+No subgrupo de pacientes classificadas como oligometastáticas (número limitado de metástases), a radioterapia poderá ser
+
+# 9.        TRATAMENTO MEDICAMENTOSO
+
+Os tratamentos preconizados neste Protocolo são baseados na literatura científica atual, levando em conta as tecnologias
+com indicação relacionada ao câncer de mama aprovadas pela Agência Nacional de Vigilância Sanitária (Anvisa) e
+recomendadados pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec) –  com a exceção
+Este PCDT abordará os esquemas terapêuticos atualmente disponíveis no Sistema Único de Saúde (SUS). Alguns
+medicamentos citados no texto não possuem recomendação favorável de incorporação e, portanto, não estão disponíveis como
+alternativas terapêuticas no SUS. Os esquemas terapêuticos já incorporados ao SUS estão destacados nos quadros de acordo com
+
+## 9.1.     Quimioterapia
+
+A quimioterapia é um dos recursos disponíveis na terapêutica do câncer de mama. Ela consiste na aplicação de fármacos
+antineoplásicos que podem ser administrados por diversas vias (venosa, oral, subcutânea), de forma isolada ou combinada, com
+os objetivos de impedir ou reduzir o risco da disseminação de células tumorais, reduzir o tamanho o tumor ou impedir seu
+Esta terapia não é isenta de efeitos colaterais, devendo estes serem conhecidos pelos médicos prescritores, que deverão
+
+## 9.2.     Hormonioterapia
+
+A hormonioterapia, também chamada de tratamento hormonal ou terapia endócrina, é um recurso importante quando o
+tumor expressar positividade na imunohistoquímica, para os receptores hormonais: RE e RP.
+As formas mais comuns de ação consistem no bloqueio da ligação dos hormônios aos receptores, nas células tumorais ou
+à diminuição da produção destes, pelo organismo. Devem ser considerados fatores, como status menopausal e contraindicações
+previstas em bula, para a melhor escolha, dentre os esquemas possíveis76.
+O estado menopausal é um importante critério para definição da hormonioterapia, sendo a menopausa comumente
+definida como interrupção permanente da menstruação. Contudo, durante o tratamento do câncer de mama, pode haver uma
+diminuição profunda e permanente na síntese de estrogênio ovariano, a qual pode ser confundida com menopausa. Assim, para
+determinar se a paciente está em menopausa, deve-se considerar qualquer um dos critérios definidos pelo National
+- Ooforectomia bilateral prévia ou ablação OU;
+- Idade maior ou igual a 60 anos OU;
+- Idade menor que 60 anos e amenorreia durante 12 ou mais meses na ausência de quimioterapia, tamoxifeno ou supressão
+ovariana e hormônio folículo estimulante (FSH) e estradiol na pós-menopausa OU;
+Em mulheres pré-menopausa, pode-se optar pela ablação ovariana concomitante à hormonioterapia. Esta ablação pode
+A resistência endócrina pode ser primária, quando há recorrência do tumor nos dois primeiros anos de tratamento
+adjuvante ou progressão de doença durante os seis primeiros meses de hormonioterapia de primeira linha no câncer de mama
+metastático; ou secundária, quando ocorre após os dois primeiros anos de hormonioterapia adjuvante e durante ou no primeiro
+
+## 9.3.     Critérios para optar pela neoadjuvância
+
+Para pacientes com doença inicialmente inoperável por cirurgia conservadora, o uso de quimioterapia neoadjuvante é
+preconizado com o objetivo de converter o quadro para tumor operável. Nestes casos, a quimioterapia neoadjuvante é capaz de
+Sobre a quimioterapia neoadjuvante, esta é uma opção conforme a possibilidade de operar o tumor. Deve ser realizada
+Se tumor operável, a cirurgia conservadora deve ser a primeira opção de tratamento em tumores operáveis menores que
+2 cm, especialmente se RH+. Contudo, a quimioterapia neoadjuvante pode ser discutida nos seguintes casos:
+ Pacientes com tumores T1c HER-2, RH-, mulheres jovens;
+ Tumor primário grande em relação ao tamanho da mama em paciente que deseja conservação da mama;
+ Quando é necessário tempo para decidir sobre a cirurgia;
+menopausadas com tumores RH positivos sem condição clínica ou com contraindicações para realização de quimioterapia e
+cujos tumores apresentam alta expressão de receptores hormonais e baixo índice proliferativo80,81. Em regra, também deverá ser
+O tratamento sistêmico adjuvante é responsável por grande parte da redução da mortalidade por câncer de mama de quase
+Aspectos específicos relacionados à decisão ou não pela realização da adjuvância, bem como o esquema mais adequado
+A hormonioterapia associada à radioterapia pode ser indicada para pacientes com tumores de baixo risco de recidiva que
+expressem receptores hormonais, de acordo com o estado menopausal84. Além da radioterapia e hormonioterapia, a quimioterapia
+A hormonioterapia adjuvante é uma opção para pacientes com Receptor Hormonal (RH) positivo, independente da
+A decisão terapêutica para o tratamento do câncer de mama deve ser baseada em informações integradas pelo oncologista,
+como idade das pacientes, tamanho do tumor primário, presença e quantidade de linfonodos patológicos, expressão de receptores
+hormonais e HER-2 e índice proliferativo. Estas informações são potenciais fatores prognósticos de recidiva ou mortalidade que,
+além de direcionar o tratamento, podem ser avaliadas com ou sem o auxílio de calculadoras de risco. Preconiza-se o uso de
+calculadoras de risco extensamente validadas, como a ferramenta PREDICT, especialmente na impossibilidade de realizar perfis
+- Tamanho do tumor primário;
+Tumores localmente avançados são os que apresentam fixação à parede torácica, envolvimento cutâneo, linfonodos
+fusionados e/ou envolvimento de fossa supraclavicular episilateral. O tratamento sistêmico das pacientes com tumores iniciais
+
+## 9.5.1.  Câncer de mama RH positivo/HER-2 negativo
+
+AC-T (doxorrubicina + ciclofosfamida) com ou sem fatores estimuladores de colônias de macrófagos/granulócitos -G-CSF-
+FAC (ciclofosfamida + doxorrubicina +5-fluorouracil)a,b
+FEC (ciclofosfamida + epirrubicina + 5-fluorouracil) a,b
+Legenda: Os esquemas estão descritos no Apêndice 2.
+a Há evidências de que não apresentam benefício adicional na adjuvância.
+c Utilizado em casos de linfonodos negativos ou com contraindicação à antraciclina.
+Uma revisão sistemática concluiu que 6 ciclos de ciclofosfamida associada a metotrexato e 5-fluorouracil (CMF) é
+equivalente a 4 ciclos de doxorrubicina associada à ciclofosfamida (AC). Ambos os esquemas reduziram 20% a 25% da
+Outra revisão sistemática, que utilizou dados individuais de pacientes, concluiu que aumentar a dose-densidade da
+quimioterapia adjuvante comparado ao esquema padrão e reduzir o intervalo de tempo entre os ciclos de tratamento; ou
+administrar medicamentos individuais em sequência, em vez de administrar os mesmos medicamentos simultaneamente reduz
+moderadamente o risco de recidiva e morte por câncer de mama em 10 anos, sem aumentar a mortalidade por outras causas91.
+Sendo assim, esquemas de quimioterapia além de 4 ciclos de AC, como por exemplo, ciclofosfamida associada à doxorrubicina
+A associação de taxano de forma sequencial à antraciclina mais ciclofosfamida se mostrou mais eficaz quando comparado
+com o esquema ACx04, sem aumentar o risco de mortalidade por leucemia ou insuficiência cardíaca, como os esquemas que
+avaliaram doses maiores de antraciclinas. Diferentes esquemas terapêuticos com taxanos foram avaliados, tendo se mostrado
+A hormonioterapia adjuvante deve ser indicada para pacientes RE+, independente da expressão de HER-2 ou RP,
+considerando o estado menopausal. A escolha do esquema também deve considerar as possíveis comorbidades associadas e o
+perfil de tolerância da paciente. Ressalta-se que é necessário finalizar o curso de da quimioterapia adjuvante antes de iniciar a
+Em mulheres que estejam na pré-menopausa no início da quimioterapia adjuvante, a amenorreia não é um indicador
+confiável do estado menopausal, pois a função ovariana pode ainda estar intacta ou ser retomada apesar da
+O tratamento recomendado para pacientes na perimenopausa, geralmente, é extrapolado de estudos em mulheres em pré
+ou pós-menopausa. Uma coorte envolvendo 2.295 mulheres, com idade entre 45 e 50 anos e diagnóstico de câncer de mama
+RE+, avaliou pacientes que receberam quimioterapia adjuvante seguida de tratamento endócrino. O tratamento endócrino
+consistiu em tamoxifeno, inibidor de aromatase (IA) ou a associação dos dois medicamentos, sendo que a maioria das pacientes
+alternou entre as modalidades de tratamento endócrino. Os resultados foram sumarizados de acordo com o tempo do tratamento
+endócrino. No final do acompanhamento de cinco anos, as mulheres que receberam um IA por tempo inferior a 25% da duração
+A recomendação de IA na perimenopausa precisa ser cautelosa, pois essas mulheres podem estar com amenorreia induzida
+por quimioterapia. Tanto nos casos de ausência de reserva ovariana quanto de amenorreia induzida por quimioterapia, a
+menstruação cessará e os níveis de gonadotrofina (hormônio folículo-estimulante, hormônio luteinizante e estradiol) estarão na
+faixa pós-menopausa. A preocupação é que nos meses a anos após a quimioterapia, a função ovariana possa se recuperar em
+Em pacientes pré-menopáusicas, a supressão da função ovariana concomitante ao uso de tamoxifeno ou IA está associada
+a um ganho de sobrevida livre de doença. Porém, é necessário avaliar o risco e benefício dessa associação, uma vez que os
+Caso a paciente entre na menopausa (confirmada por níveis hormonais) durante o tratamento com tamoxifeno, por 2 a 3
+anos, este pode ser substituído por IA por mais 2 a 3 anos (até completar 5 anos). No entanto, pacientes sem estado pós-
+ao ciclo menstrual, ou subclínica, com a variação do FSH e do estradiol, apresentando níveis hormonais incompatíveis com a
+pós-menopausa. Mesmo que não haja manifestação clínica, a variação bioquímica de reativação ovariana está associada a piores
+Tamoxifeno 20 mg/dia por 5 anos + Tamoxifeno 20 mg/dia por 2 a 3 anos
+Tamoxifeno 20 mg/dia por 5 anos + Tamoxifeno 20 mg/dia por 5 anos
+Tamoxifeno 20 mg/dia por 5 anos + IA por 2 a 3 anos, caso paciente entre na menopausa
+Supressão ovariana em combinação a tamoxifeno 20 mg/dia ou IA por 2 anosa
+Nota: a O uso de inibidores de aromatase combinada à supressão ovariana está indicado apenas para pacientes com até 45 anos e com uso prévio de quimioterapia.
+tamoxifeno por um IA após dois a três anos de tratamento e seu uso até completar cinco anos, conhecida como switch, demonstrou
+reduzir o risco de recidiva e de morte em cinco anos comparado ao uso de tamoxifeno continuamente por cinco anos100,101. Apesar
+O câncer de mama está associado a frequentes recidivas após o período de cinco anos e o benefício da extensão da terapia
+hormonal parece estar associado ao risco de recidiva102,103. Pacientes com linfonodos positivos apresentam benefício maior em
+Até o momento, o uso de terapia estendida demonstrou ganho de sobrevida global após cinco anos de uso de tamoxifeno,
+mas não após cinco anos de uso de IA102. Especialmente após o uso de IA, o tamanho do benefício do tratamento após 7 a 8 anos
+Em candidatas à extensão da adjuvância hormonal que utilizaram tamoxifeno por cinco anos, tanto a continuação de
+tamoxifeno (por mais cinco anos) quanto a troca por um IA (também por mais 5 anos) são opções terapêuticas razoáveis com
+Para candidatas à extensão da adjuvância hormonal que utilizaram IA durante cinco anos, alguns estudos sugerem que
+haja benefício de sobrevida livre de doença, mas não benefício de sobrevida global, com o uso de tratamento estendido105,108,109.
+Consistentemente, a extensão do tratamento por cinco anos adicionais também está associada a eventos adversos importantes,
+especialmente ósseos117. O uso de IA por dois anos adicionais demonstrou uma sobrevida livre de doença similar, mas com
+
+## 9.5.2.  Câncer de mama HER-2 positivo
+
+O oncogene HER-2 é responsável pela codificação de uma glicoproteína transmembrana com atividade de tirosinoquinase
+intracelular. Essa codificação é fundamental para a ativação de vias de sinalização associadas à proliferação e diferenciação
+celular111,112. Cerca de 20% das pacientes com câncer de mama invasivo apresentam superexpressão ou amplificação do HER-2.
+A quimioterapia neoadjuvante é preferida em relação à adjuvante para pacientes que expressam o receptor HER-2 e, ao
+ser associada ao trastuzumabe, mostra ainda mais ganhos de sobrevida livre de eventos e de sobrevida global117. Em uma análise
+Para pacientes com tumor HER-2 positivo inoperável, é recomendada a neoadjuvância com quimioterapia associada à
+trastuzumabe, seguida de cirurgia com ou sem radioterapia e trastuzumabe a cada três semanas até completar um ano. Para estas
+A combinação de quimioterapia citotóxica com trastuzumabe após uso de antracíclicos também é eficaz e segura em
+pacientes com tumores maiores ou iguais a 2 cm ou carcinoma inflamatório e que tenham a superexpressão de HER-2
+confirmada121. Considera-se aceitável a adaptação de esquemas de quimioterapia para este subgrupo de pacientes para evitar
+TCH (docetaxel + carboplatina +trastuzumabe)
+Nota 1: Os esquemas estão descritos no Apêndice 2.
+Nota 2: Ainda que possa existir benefício do uso de pertuzumabe no contexto adjuvante ou neoadjuvante para pacientes com lesão primária ≥ 2 cm ou linfonodo
+positivo, informa-se que este ainda não está incorporado ao SUS, devendo passar pelos ritos de incorporação legalmente vigentes. Assim, os esquemas TCHP
+Os esquemas de quimioterapia tradicionalmente utilizados para o tratamento adjuvante associado ao trastuzumabe estão
+centrados no uso de antraciclina seguida de taxanos (AC-TH). Os principais resultados com a associação de trastuzumabe à
+quimioterapia baseada em antraciclina demonstram ganhos de sobrevida livre de doença e sobrevida global114. Outro tratamento
+também eficaz é a associação de trastuzumabe com docetaxel e carboplatina por 6 ciclos, sem a necessidade de uso de
+antraciclinas (TCH). Ambos os esquemas apresentados (AC-TH e TCH) são eficazes para sobrevida livre de progressão e
+sobrevida global, após 10 anos de seguimento, mas o esquema AC-TH apresenta maior toxicidade para estas pacientes118.
+Pacientes com câncer de mama localizado HER-2 positivo devem realizar cirurgia conservadora seguida de adjuvância com
+paclitaxel semanal, durante 12 semanas, e trastuzumabe, a cada três semanas, durante um ano. Esse tratamento é preconizado
+Em pacientes que não apresentam resposta patológica completa, o uso de trastuzumabe-entansina (T-DM1) demonstrou
+melhor sobrevida livre de doença invasiva e menor risco de recidiva à distância123. Na 110ª reunião da Conitec, o Plenário
+recomendou a incorporação do trastuzumabe entansina para tratamento do câncer de mama HER-2 positivo em pacientes em
+estádio III com doença residual póstratamento neoadjuvante124. A paciente não pode apresentar doença cardíaca sintomática,
+sendo necessário que a fração de ejeção cardíaca demonstrada no mês anterior ao início da quimioterapia com o medicamento
+Decisões de tratamento em pacientes idosas devem ser tomadas baseadas em funcionalidade e não apenas em idade
+cronológica, uma vez que os riscos nessa população diluem os benefícios de sobrevida global73. No caso de pacientes obesas,
+Outra situação a ser considerada em câncer de mama é seu desenvolvimento durante a gestação. O tratamento deve ser
+realizado aos moldes do preconizado para pacientes não gestantes, mas necessita algumas modificações para proteção do feto.
+A quimioterapia não deve ser realizada no primeiro trimestre devido ao maior risco de anomalias congênitas e
+cromossômicas, natimortalidade e de malformação fetal. Quando há indicação de quimioterapia, sua dose deve seguir a superfície
+corporal ao longo do tratamento e sua realização deve ocorrer nos segundo e terceiro trimestres. Os esquemas quimioterápicos
+O uso de trastuzumabe durante a gravidez é contraindicado, pois a exposição ao medicamento pode provocar
+Como regra geral, mulheres que estiverem recebendo hormonioterapia ou quimioterapia, com ou sem trastuzumabe,
+
+## 9.5.3.  Câncer de mama triplo negativo
+
+sensibilidade tumoral ao tratamento quimioterápico. A resposta patológica completa é um importante marcador de bom
+prognóstico em pacientes cujos tumores são triplo-negativos. Portanto, quando há indicação de tratamento sistêmico, sugere-se
+Os esquemas quimioterápicos podem ser baseados em antraciclinas, como AC-T, considerando que o benefício do uso de
+antraciclinas é proporcional ao risco de recidiva e à agressividade do câncer de mama triplo-negativo132. Outra alternativa é o
+esquema AC a cada 21 dias (por quatro ciclos), seguido de paclitaxel semanal por 12 semanas ou docetaxel a cada 21 dias (por
+quatro ciclos), realizando cirurgia com ou sem radioterapia na sequência. A utilização de esquema AC dose densa a cada 14 dias,
+Durante a neoadjuvância, o uso de carboplatina associada ao taxano demonstrou aumento da taxa de resposta, mas ainda
+há incertezas sobre o benefício desta intervenção em sobrevida livre de doença e sobrevida global133,134. A carboplatina pode ser
+Embora haja evidências sobre potencial benefício do pembrolizumabe sobre o aumento da resposta patológica nesta
+Pacientes cN1 ou cN2, que converteram para ycN0 após quimioterapia neoadjuvante, devem ser submetidas à BLS140,141.
+Na presença de linfonodos positivos (ypN1sn), a linfadenectomia axilar radical (mínimos níveis I e II) está indicada. Porém, há
+Em pacientes com axila cN1, resposta clínica completa e evidência patológica de doença, o esvaziamento axilar ainda é
+o tratamento padrão. Apesar disso, a irradiação axilar é uma alternativa, considerando os riscos de uma nova abordagem cirúrgica.
+Pacientes com tumores iniciais maiores que 1 cm ou axila positiva que foram operadas inicialmente devem utilizar
+A presença de neoplasia residual na peça cirúrgica, após a neoadjuvância, é um marcador desfavorável para o risco de
+
+## 9.6.     Doença metastática – Estádio IV
+
+O câncer de mama metastático é definido como a presença de doença que acomete outros sítios além da mama, da parede
+
+## 9.6.1. Critérios que apoiam a escolha e da terapia sistêmica
+
+A escolha do tratamento para pacientes com câncer de mama metastático depende de diversos fatores, como143:
+- Resposta às terapias anteriores;
+- Tempo desde a última exposição à quimioterapia ou hormonioterapia;
+
+## 9.6.2.  Quimioterapia e hormonioterapia
+
+Os objetivos do tratamento sistêmico são aumentar a sobrevida, aliviar sintomas e melhorar ou manter a qualidade de
+vida. No caso de pacientes com recidiva tumoral metastática, a realização de nova biópsia é aconselhada tanto para confirmação
+diagnóstica, quanto para nova avaliação de receptores hormonais e HER-2. No momento do diagnóstico, as pacientes com câncer
+de mama recorrente ou estádio IV são inicialmente estratificadas de acordo com a presença de metástases ósseas. Esses dois
+subconjuntos de pacientes (aqueles com e sem metástases ósseas) são, então, estratificados, principalmente pelo perfil RH do
+
+## 9.6.3.  Câncer de mama avançado RH positivo
+
+A hormonioterapia combinada com inibidores de quinase dependentes de ciclina 4 e 6 (iCDK4/6), abemaciclibe,
+ribociclibe e palbociclibe145, é o tratamento de escolha inicial em pacientes com câncer de mama RH-positivo avançado e HER-
+2 negativo, por ser eficaz e melhor tolerado em comparação com quimioterapia. Estes podem ser usados isoladamente, ou em
+Pacientes com receptor hormonal positivo com crise visceral ou resistência à terapia hormonal devem ser tratadas com
+quimioterápicos para rápida resposta, conforme quimioterapia preconizada às pacientes com câncer de mama avançado triplo
+negativo (Quadro 17). Importante ressaltar que crise visceral é definida como uma disfunção orgânica severa na qual a paciente
+apresenta sinais e sintomas de disfunção de órgãos e alterações em exames que indicam rápida progressão da doença com risco
+de morte e urgente necessidade de resposta clinica18,19,27. Diferentemente, existem situações de acometimento visceral que não
+palbociclibe, ribociclibe e abemaciclibe. Porém, uma revisão sistemática com meta-análise em rede mostrou que não há
+terapêutica151. A combinação de fulvestranto com os inibidores CDK4/6 ou este em monoterapia, devem ser os esquemas
+Pacientes que não tenham realizado tratamento prévio, que tenham realizado hormonioterapia prévia com tamoxifeno ou
+que tenham utilizado inibidor da aromatase a mais de 12 meses, devem iniciar o tratamento com inibidor de aromatase +
+(600 mg por 1x dia por 3 semanas e pausa de 1 semana).
+resposta objetiva quando utilizados em associação ao fulvestranto. Porém, não houve diferenças significativas entre os grupos
+Pacientes na pré-menopausa têm as mesmas indicações terapêuticas que as mulheres na pós-menopausa. Contudo, aquelas
+
+## 9.6.4.  Câncer de mama avançado HER-2 positivo
+
+A via de sinalização HER-2 é extremamente importante no processo da oncogênese tumoral, o que torna terapias
+O pertuzumabe é um anticorpo monoclonal recombinante humanizado que se liga em um domínio extracelular distinto
+do trastuzumabe e previne sua dimerização com HER-3. A adição de pertuzumabe ao esquema de primeira linha em pacientes
+com câncer de mama metastático tratados com trastuzumabe e docetaxel demonstrou grande benefício de sobrevida global sem
+São candidatas ao duplo bloqueio em 1ª linha pacientes com carcinoma de mama com superexpressão de HER-2 (em
+exame de IHQ com resultado de duas cruzes confirmado por técnica molecular ou de três cruzes), na ausência de doença cardíaca
+Cerca de 10% das pacientes do estudo CLEOPATRA foram previamente expostos ao trastuzumabe e um estudo recente
+O uso de trastuzumabe e quimioterapia sem pertuzumabe é inferior à quimioterapia associada ao duplo bloqueio da via
+Nota: Trastuzumabe também pode ser associado a cisplatina, gencitabina, vinorelbina, 5-fluorouracila, doxorrubicina, epirrubicina, ciclofosfamida e
+Caso as pacientes expressem HER-2 e sejam RH+, elas também são candidatas à hormonioterapia (neoadjuvante
+Para os casos de progressão tumoral após o uso de trastuzumabe em pacientes com doença metastática ou recidivada, o
+uso de trastuzumabe-entansina foi avaliado pela Conitec, recebendo recomendação desfavorável à sua incorporação. Assim,
+conforme Portaria SCTIE/MS nº 99/2022, o medicamento não foi incorporado ao SUS para essa indicação. Ainda, em que pese
+possa existir potencial benefício do trastuzumabe deruxtecana para tal indicação168, este ainda não incorporado ao SUS, devendo
+passar pelos ritos de incorporação legalmente vigentes. Por fim, acrescenta-se que medicamentos tais como o lapatinibe169,170
+possuem aprovação regulatória esta finalidade, porém também ainda devem ser submetidos aos ritos de incorporação legalmente
+vigentes. Portanto, o presente Protocolo não preconiza alternativas terapêuticas específicas para pacientes nestas
+condições devido à não incorporação de tecnologias que atendam às suas necessidades, mas reforça que os protocolos
+
+## 9.6.5.  Câncer de mama avançado triplo negativo e linhas subsequentes
+
+Pacientes com câncer de mama triplo-negativo não são candidatas às terapias anti-HER-2 ou hormonal, uma vez que a
+ausência destes biomarcadores prediz não resposta ao bloqueio da via HER-2 e à hormonioterapia, respectivamente. Portanto,
+Os fármacos associados à maior efetividade para essas pacientes são os antracíclicos (doxorrubicina ou epirrubicina) e
+taxanos (paclitaxel, docetaxel). Outros agentes quimioterápicos com atividade em doença metastática são: capecitabina,
+gencitabina, metotrexato, 5-fluorouracil, vinorelbina, vimblastina, mitomicina, etoposido, ciclofosfamida, cisplatina,
+carboplatina, doxorrubicina lipossomal. Destaca-se que as novas terapias de alto custo como a ixabepilona, a primulina, o
+possuem aprovação regulatória, porém ainda não foram submetidos à análise de avaliação de incorporação pela CONITEC.
+Pacientes que tenham utilizado antracíclicos e taxanos há mais de um ano podem continuar utilizando esses medicamentos,
+respeitando-se as toxicidades cumulativas e a dose cumulativa dos antracíclicos. Mesmo em pacientes que nunca realizaram
+O uso de esquemas em monoterapia sequenciais é preferencial por prover paliação sintomática similar ao uso de múltiplos
+A decisão pela manutenção de tratamento quimioterápico paliativo deve ser compartilhada com a paciente e se basear no
+benefício e na sua tolerância individual. Uma revisão sistemática mostra que o tratamento com um número de ciclos previamente
+O grau de toxicidade deve ser definido, com cada paciente, conforme sua qualidade de vida, objetivos do tratamento
+As complicações de metástases ósseas incluem dor, diminuição do status de desempenho e diminuição da qualidade de
+vida. Também envolve eventos relacionados ao esqueleto, que são definidos como a necessidade de radiação ou cirurgia óssea,
+fraturas patológicas, compressão da medula espinhal e hipercalcemia de malignidade. Para isso, pacientes com uma ou mais
+metástases ósseas devem receber o inibidor de osteólise, associado a um efetivo tratamento sistêmico e radioterapia, quando
+
+# 10.      MONITORIZAÇÃO DO TRATAMENTO
+
+## 10.1.   Avaliação da resposta terapêutica
+
+Pacientes em uso de quimioterapia ou hormonioterapia neoadjuvante devem ser monitorizadas com exame clínico.
+Pacientes em tratamento paliativo devem ser monitorizados com exames de imagem (preferencialmente TC) para
+avaliação da resposta terapêutica a cada 6 a 12 semanas de tratamento com quimioterapia ou hormonioterapia. Marcadores
+Pacientes em uso de hormonioterapia como tratamento paliativo devem receber tratamento até a progressão da doença.
+Considerando que a necessidade de ajuste de dose e os eventos adversos ocorrem mais frequentemente no início do
+tratamento com os iCDK 4/6, recomenda-se:
+- Uma avaliação da paciente a cada 2 semanas, nos primeiros dois meses;
+Os iCDK 4/6 são medicamentos orais e o paciente é acompanhado dentro do fluxo das quimioterapias, ainda que esteja
+utilizando hormonioterapia associada. O monitoramento da paciente é simples e poucos exames são requeridos, porém são
+
+## 10.2. Redução de dose dos iCDK 4/6
+
+## 10.3. Critérios de interrupção de tratamento
+
+Pacientes que apresentem qualquer tipo de toxicidade ao tratamento sistêmico graus 3 e 4, de acordo com a quinta versão
+Para pacientes em tratamento paliativo, deve-se considerar a suspensão temporária do tratamento e reinício com redução
+de dose quando a toxicidade estiver resolvida ou retornar para os graus 1 ou 2. Pacientes com toxicidade inaceitável com
+entre 1% e 4%, sendo comumente reversível se detectada precocemente e apresentar boa resposta ao tratamento clínico. Pacientes
+Em relação à infusão do trastuzumabe, recomenda-se a observação clínica por 30 minutos após a administração das três
+primeiras doses do medicamento, devido ao risco de reações adversas imediatas por hipersensibilidade. Sintomas como febre e
+calafrios podem ocorrer em 30% a 40% das pacientes após a primeira administração de trastuzumabe, sendo menos comum nas
+administrações subsequentes. Podem ocorrer ainda náusea, vômitos, astenia, dor local, cefaleia, tontura, dispneia, hipotensão e
+erupção cutânea. Recomenda-se o uso de medicamentos sintomáticos (anti-histamínicos e analgésicos) e redução da velocidade
+de infusão. Reações graves, como dispneia, hipotensão, sibilância, broncoespasmo, taquicardia e hipoxemia, não são frequentes
+Deve ser realizado ecocardiograma antes do início do tratamento com trastuzumabe e a cada três meses de tratamento.
+Nas pacientes que apresentarem insuficiência cardíaca sintomática ou fração de ejeção abaixo de 40% com o uso de
+trastuzumabe, o medicamento deverá ser permanentemente interrompido. Para as demais pacientes, as condutas a seguir devem
+Na reavaliação da fração de ejeção, caso a paciente atenda aos critérios de continuidade, o tratamento suspenso pode ser
+reiniciado. Caso o tratamento com trastuzumabe seja interrompido por seis semanas ou mais, por qualquer motivo, pode ser
+profissional de saúde, assim como não deve ser administrado como injeção intravenosa direta ou em bolus. A dose máxima
+recomendada de T-DM1 é de 3,6 mg/kg a cada 3 semanas (ciclo de 21 dias), sendo que pacientes com câncer de mama inicial
+devem receber tratamento por um total de 14 ciclos. A dose inicial deve ser administrada na forma de infusão intravenosa durante
+90 minutos, de forma que as pacientes devem ser observadas durante a infusão e por, pelo menos, 90 minutos depois da dose
+inicial para verificar o potencial aparecimento de febre, calafrios ou outras reações relacionadas à infusão. O local de infusão
+deve ser monitorado cuidadosamente para verificar possível infiltração subcutânea durante a administração do medicamento. Se
+as primeiras infusões forem bem toleradas, as doses subsequentes podem ser administradas em infusões de 30 minutos e as
+pacientes devem ser observados durante as infusões e por, pelo menos, 30 minutos depois delas. A velocidade de infusão deve
+Tem sido observado nas pacientes com câncer de mama HER-2 positivo um risco maior do que o habitual de desenvolver
+uma ou mais metástases no SNC, região santuário, não alcançada pela maioria dos medicamentos antineoplásicos usados na
+quimioterapia adjuvante. Se a paciente desenvolver metástase isolada no SNC durante a quimioterapia adjuvante com
+trastuzumabe, o tratamento precisa ser substituído por um apropriado (cirurgia ou radioterapia). Se toda a lesão metastática tiver
+sido ressecada, proporcionando a chance de remissão em longo prazo, a quimioterapia adjuvante deve ser retomada para
+
+## 10.4.   Acompanhamento pós-tratamento
+
+Pacientes que realizaram o tratamento de câncer de mama localizado devem ser acompanhadas por pelo menos cinco
+anos. O exame físico deve ser realizado a cada três a seis meses para os primeiros três anos, a cada seis a doze meses para os
+O seguimento destas pacientes deve incluir a mamografia de rastreamento, anualmente, começando um ano após a
+Não é preconizado o uso de quaisquer exames como hemograma completo, dosagens bioquímicas séricas, cintilografia
+Já pacientes em uso de IA adjuvante estão sob risco de perda de massa óssea significativa, desta forma, a avaliação do
+risco de fraturas é essencial. Além disso, a densitometria óssea deve ser solicitada para todas as pacientes que apresentam pelo
+menos um fator de risco adicional para osteoporose e a necessidade de medicamentos para a saúde óssea deve ser decidida de
+acordo com a densidade mineral óssea. A reavaliação da densidade mineral óssea deve ser realizada em um período entre um e
+
+# 11.      GESTÃO E CONTROLE
+
+Casos de câncer de mama devem ser atendidos em hospitais habilitados em Oncologia e com porte tecnológico suficiente
+para diagnosticar, estadiar, tratar e acompanhar os pacientes, femininos ou masculinos. Além da familiaridade que tais hospitais
+guardam com o estadiamento, o tratamento e controle dos eventos adversos, eles têm toda a estrutura ambulatorial, de internação,
+A regulação do acesso é um componente essencial da gestão para a organização da rede assistencial e a garantia do
+atendimento aos pacientes e muito facilita as ações de controle e avaliação. Entre tais ações incluem-se a manutenção atualizada
+do Cadastro Nacional dos Estabelecimentos de Saúde (CNES), a autorização prévia dos procedimentos, o monitoramento da
+produção dos procedimentos (por exemplo, frequência apresentada versus autorizada, valores apresentados versus autorizados
+versus ressarcidos) e a verificação dos percentuais da frequência dos procedimentos quimioterápicos em suas diferentes linhas
+(cuja ordem descendente – primeira maior do que segunda e segunda maior do que terceira – sinaliza a efetividade terapêutica).
+administração dos medicamentos (tipos e doses), a compatibilidade do procedimento codificado com o diagnóstico e a
+O Ministério da Saúde e as Secretarias de Saúde não padronizam nem fornecem medicamentos antineoplásicos
+diretamente aos hospitais ou aos usuários do SUS. As exceções atuais e futuras de compras centralizadas pelo Ministério da
+Saúde estão ou estarão definidas em atos normativos publicados pela União. Os hospitais credenciados pelo SUS e habilitados
+em Oncologia são os responsáveis pelo fornecimento de medicamentos oncológicos, cabendo-lhes codificar e registrar conforme
+o respectivo procedimento. Os procedimentos diagnósticos (Grupo 02 e seus vários subgrupos – clínicos, cirúrgicos, laboratoriais
+e por imagem), radioterápicos e quimioterápicos (Grupo 03, Subgrupo 01) e cirúrgicos (Grupo 04 e os vários subgrupos
+cirúrgicos por especialidades e complexidade) da Tabela de Procedimentos, Medicamentos e Órteses, Próteses e Materiais
+Especiais do SUS podem ser acessados, por código ou nome do procedimento e por código da CID-10 para a respectiva neoplasia
+maligna, no SIGTAP − Sistema de Gerenciamento dessa Tabela (http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp),

@@ -1,0 +1,67 @@
+question,expected_answer,generated_answer,sources
+Qual é o mecanismo fisiopatológico central da leucemia mieloide aguda e quais suas principais consequências clínicas?,"A leucemia mieloide aguda resulta de uma transformação maligna de células hematopoéticas primitivas com proliferação clonal e bloqueio da maturação celular na fase de blastos, levando à substituição da hematopoese normal e causando anemia, sangramentos, infecções e síndrome de hiperviscosidade."," Resposta objetiva:
+A leucemia mieloide aguda (LMA) é caracterizada pelo acumulo de células imaturs ou immaduras na medula óssea, principalmente as células brancas neutrófilas. [DOC_1] Essa acumulação resulta em uma redução da produção normal das células sanguíneas, incluindo eritrócitos, trombocitopenia e anemia. [DOC_2]
+
+Critérios / Condições:
+A LMA pode ser classificada de acordo com a presença ou ausência de mutações específicas no gene FLT3 (mutação interna do domínio tyrosina quinase) e/ou mutações no gene NPM1. [DOC_3]
+
+Observações relevantes:
+A LMA é uma leucemia aguda que pode causar infeções frequentes devido à redução da produção de células imunes normais, além de aumento do risco de hemorragias por causa da trombocitopenia. [DOC_4]
+
+Fontes:
+[DOC_1] American Cancer Society. (2021). Acute Myeloid Leukemia (AML) - Overview. https://www.cancer.org/content/dam/CRC/PDF/Public/8740.00.pdf
+[DOC_2] National Heart, Lung, and Blood Institute. (2019). Acute Myeloid Leukemia (AML) - Symptoms & Causes. https://www.nhlbi.nih.gov/health-topics/acute-myeloid-leukemia
+[DOC_3] National Comprehensive Cancer Network. (2021). NCCN Clinical Practice Guidelines in Oncology: Acute Myeloid Leukemia, Version 4.2021. https://www.nccn.org/professionals/physician_gls/pdf/aml.pdf
+[DOC_4] American Cancer Society. (2021). Acute Myeloid Leukemia (AML) - Diagnosis & Staging. https://www.cancer.org/content/dam/CRC/PDF/Public/8740.00.pdf",
+Quais são os principais fatores de risco associados ao câncer de cabeça e pescoço?,"Os principais fatores de risco são o tabagismo e o consumo de álcool, que apresentam efeito sinérgico, além de fatores como dieta inadequada, má saúde bucal, refluxo gastroesofágico, comportamento sexual de risco e infecção por HPV (tipos 16 e 18)."," Resposta objetiva:
+- Exposição prolongada ao sol ultravioleta (UV) é um dos principais fatores de risco para o câncer de cabeça e pescoço. [DOC_1]
+- Fumantes têm um maior risco de desenvolver câncer de cabeça e pescoço do que não-fumantes. [DOC_2]
+- Consumo excessivo de álcool também pode aumentar o risco de câncer de cabeça e pescoço. [DOC_3]
+
+Observações relevantes:
+- Outros fatores de risco podem incluir idade avançada, sexo masculino, exposição a radiação ionizante e histórico familiar de câncer. No entanto, esses fatores não foram explicitamente mencionados nos trechos fornecidos. [DOC_1, DOC_2, DOC_3]
+
+Fontes:
+- DOC_1: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4085679/
+- DOC_2: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3191208/
+- DOC_3: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4567877/",
+Qual é a alteração genética característica da leucemia mieloide crônica (LMC) e qual seu efeito biológico?,"A LMC está associada à translocação cromossômica 9;22, que forma o cromossoma Philadelphia, gerando o gene de fusão BCR-ABL1, responsável pela produção de uma tirosinoquinase com atividade aumentada que promove a proliferação celular."," Resposta objetiva:
+A leucemia mieloide crônica (LMC) apresenta uma alteração genética característica chamada translocação Philadelphia (t(9;22)(q34;q11)). [DOC_1]
+
+Efeito biológico:
+A translocação Philadelphia resulta na formação de um gene fusionado, BCR-ABL, que é responsável pela ativação constante da via JAK/STAT e do ciclo celular. Isso leva à proliferação excessiva das células mielóides e à acumulação de células imaturos na medula óssea. [DOC_1]
+
+Critérios / Condições:
+A translocação Philadelphia é encontrada em aproximadamente 95% dos casos de LMC. [DOC_2]
+
+Observações relevantes:
+A presença da translocação Philadelphia é um marcador importante para o diagnóstico e monitoramento da LMC. [DOC_1]
+
+Fontes:
+[DOC_1] National Cancer Institute. (2020). Chronic Myeloid Leukemia Treatment (PDQ®) - Health Professional Version. In: PDQ® Cancer Information Summaries. Bethesda, MD: National Cancer Institute. Available at: https://www.cancer.gov/types/leukemia/hp/chronic-myeloid-leukemia-treatment-pdq
+[DOC_2] Swerdlow SH, Campo E, Harris NL, Jaffe ES, Pui CH, Stewart AK, Thiele J, Arber DA, Dohner K, Fenaux P, Ganser A, Gökbuget N, Hallek M, Hills RK, Kantarjian HM, Marcucci G, O'Brien SG, Palladini G, Stein H, Wijermans P, Zenz T. The 2016 revision of the World Health Organization classification of myeloid neoplasms and acute leukemia: rationale and important changes. Blood. 2016;127(20):2391-2405. doi: 10.1182/blood-2016-03-685977",
+Qual é a recomendação de rastreamento mamográfico para mulheres com risco habitual segundo o PCDT?,"O rastreamento mamográfico é recomendado para mulheres de 50 a 69 anos, a cada dois anos, não sendo indicada a ampliação para mulheres fora dessa faixa etária com risco habitual."," ""A recomendação de rastreamento mamográfico para mulheres com risco habitual é realizar exame anualmente. [DOC_1]""
+
+Critérios / Condições:
+- Mulheres com risco habitual são aquelas que apresentam um histórico familiar de câncer de mama ou possuem determinados fatores de risco, como idade avançada e obesidade. [DOC_1]
+
+Observações relevantes:
+- A frequência do exame pode ser alterada em casos específicos, dependendo da avaliação individual do médico. [DOC_1]
+
+Fontes:
+- DOC_1: Ministério da Saúde (2020). Protocolo Clínico do SUS - PCDT - Câncer de Mama. Brasília, DF: Ministério da Saúde. Disponível em: <https://www.saude.gov.br/content/download/1346789/2050427/file/PCDT_Cancer_de_mama.pdf> (Acessado em 20 de abril de 2022).",
+Quais exames são recomendados para o estadiamento clínico do câncer colorretal?,"O estadiamento clínico é realizado principalmente por tomografia computadorizada de tórax, abdome e pelve, podendo ser complementado por ressonância magnética em casos específicos."," Resposta objetiva:
+- Endoscópia flexível transretal (EFR) com biopsia é um exame recomendado para o estadiamento clínico do câncer colorretal. [DOC_1]
+- Imagem por ressonância magnética (MRI) pode ser utilizada para avaliar a extensão local e a presença de metástases locais em casos avançados ou com sinais de invasão extramural. [DOC_2]
+
+Critérios / Condições:
+- A escolha do exame depende da fase clínica do câncer colorretal e dos sintomas apresentados pelo paciente. [DOC_1, DOC_3]
+
+Observações relevantes:
+- O uso de tomografia computadorizada (TC) é limitado para o estadiamento clínico do câncer colorretal devido à baixa sensibilidade e especificidade em relação a outros exames. [DOC_4]
+
+Fontes:
+- DOC_1: Guia de Práticas Clínicas - Câncer Colorretal. Ministério da Saúde (MS). Brasília, 2019. Disponível em: <https://bvsms.saude.gov.br/bvs/saudelegis/default.php?id=5634&tid=LEG>
+- DOC_2: Guia de Práticas Clínicas - Câncer Colorretal. Ministério da Saúde (MS). Brasília, 2019. Disponível em: <https://bvsms.saude.gov.br/bvs/saudelegis/default.php?id=5634&tid=LEG>
+- DOC_3: Guia de Práticas Clínicas - Câncer Colorretal. Ministério da Saúde (MS). Brasília, 2019. Disponível em: <https://bvsms.saude.gov.br/bvs/saudelegis/default.php?id=5634&tid=LEG>
+- DOC_4: Guia de Práticas Clínicas - Câncer Colorretal. Ministério da Saúde (MS). Brasília, 2019. Disponível em: <https://bvsms.saude.gov.br/bvs/saudelegis/default.php?id=5634&tid=LEG>",

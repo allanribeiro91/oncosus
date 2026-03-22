@@ -1,0 +1,1405 @@
+1.
+INTRODUÇÃO
+O Melanoma Cutâneo é uma neoplasia que se forma a partir da transformação dos melanócitos, os quais são células
+produtoras de melanina originárias embriologicamente da crista neural. Além da pele, os melanócitos também estão presentes
+nos olhos (mucosas uveal e conjuntival), ouvidos, trato gastrointestinal (esôfago superior e mucosa ano-retal), meninges e nas
+mucosas oral, nasofaríngea, anorretal e genital1,2. O melanoma cutâneo é proveniente da pele, podendo ser maligno extensivo
+superficial, nodular, lentigo maligno e lentiginoso acral.
+Cerca de dois terços desses tumores se desenvolvem na pele normal e os demais têm origem de nevos melanocíticos pré-
+existentes3.
+O Melanoma Cutâneo tem seu desenvolvimento resultante de múltiplas e progressivas alterações no DNA celular, que
+podem ser causadas por ativação de proto-oncogenes, por mutações ou deleções de genes supressores tumorais ou por alteração
+estrutural dos cromossomos4. Trata-se da forma mais agressiva e letal dos cânceres de pele5,6 e  pode ser a causa de metástases
+de tumor primário desconhecido, quando há regressão espontânea2. Na fase inicial, o tumor apresenta crescimento radial,
+principalmente intraepidérmico, seguida por uma fase de crescimento vertical (nodular), com invasão da derme e dos vasos,
+podendo evoluir para a fase de disseminação metastática7. Há discussões sobre a existência de duas vias principais da patogênese
+do melanoma cutâneo: pela exposição cumulativa ao sol no local do futuro câncer em pessoas sensíveis ao sol e pela exposição
+precoce ou intermitente ao sol e propensão do nevo, promovido por fatores genéticos6,8,9. Cerca de 30% dos melanomas cutâneos
+derivam de nevos benignos (melanocíticos), sendo que essa estimativa pode chegar a 50% em pacientes com numerosos
+nevos6,8,9.
+O Melanoma Cutâneo é o 12º tipo de câncer mais frequente no mundo, sendo sua taxa de incidência ajustada por idade
+de 3,0 por 100.000 pessoas10. Observou-se um expressivo crescimento na incidência de melanoma cutâneo nas populações de
+pele clara em todo o mundo11–13, provavelmente em função da interação de fatores ambientais, comportamentais e fenotípicos14–
+
+[SECTION]
+17. No Brasil, segundo o Instituto Nacional de Câncer (INCA) do Ministério da Saúde, foram estimados cerca de 4.200 casos
+
+entre os homens e 4.250 casos entre as mulheres para cada ano do triênio 2020-202218. Dado o crescimento expressivo da
+população e o aumento da expectativa de vida, estima-se que o número total de pacientes diagnosticados com melanoma cutâneo
+continuará a crescer nas próximas décadas6,19.
+Um dos fatores de risco para o desenvolvimento de melanoma cutâneo é a presença dos fototipos I e II de Fitzpatrick,
+ou seja, pessoas de pele clara, que se queimam facilmente ao invés de se bronzear quando expostas ao sol20,21. Entretanto, em
+contraste com o melanoma disseminado superficialmente na pele, o melanoma dos tipos nodular e mucoso parece ser
+independente da exposição a UV6. Dentre os diversos fatores de risco para o desenvolvimento de melanoma cutâneo, destacam-
+se: nevos displásicos, nevos melanocíticos congênitos, grande número de nevos comuns (mais de 50), lentigo maligno, histórico
+pessoal de melanoma ou história familiar de melanoma; exposição solar intermitente, queimaduras solares (especialmente
+durante a infância) e uso de camas de bronzeamento6,11,12,20–24. Adicionalmente, o estado imunológico do paciente pode afetar o
+desenvolvimento do melanoma cutâneo, uma vez que esta neoplasia parece ser mais comum em pacientes imunodeprimidos
+devido a história de transplante de órgão, infecção por vírus da imunodeficiência humana (HIV) ou neoplasia hematológica, ou
+que estejam em uso de medicamento imunossupressor6,25.
+A média de idade dos pacientes com melanoma cutâneo varia entre 57 a 64 anos em todo o mundo, e a localização
+anatômica da lesão neoplásica pode variar conforme a idade6,26, sendo a idade abaixo de 45 anos considerada um fator de risco
+para mulheres6,27. Há diferenças na apresentação do melanoma entre homens e mulheres. Nos homens, os melanomas cutâneos
+são mais frequentemente localizados na cabeça, pescoço e tronco, com ulceração e maior espessura do índice de Breslow, além
+de maior incidência e taxa de mortalidade duas vezes maior quando comparado com mulheres6,26,28. A menor mortalidade em
+mulheres pode ser reflexo tanto da prevenção primária (comportamento no sol, proteção UV), quanto secundária (adesão aos
+serviços de saúde)6,29. Apesar da melhor sobrevida das mulheres ser atribuída ao diagnóstico precoce (tratamento em estádio I
+e II), essa sobrevida diminui se houver metástase6,26.
+Desse modo, os esforços para reduzir a incidência de melanoma cutâneo têm focado na identificação de indivíduos de
+alto risco para desenvolver essa neoplasia e em modificações comportamentais quanto à exposição solar. Para o melanoma
+cutâneo, a prevenção constitui-se basicamente na proteção solar, evitando-se a exposição entre 10 e 16 horas, com o uso de
+barreiras físicas como chapéu, guarda-sol e camiseta, bem como a não utilização de bronzeamento artificial, já proibido no
+Brasil30–32. O INCA orienta a realização do autoexame da pele de forma periódica em busca de lesões suspeitas, uma vez que o
+diagnóstico precoce representa alta chance de cura e desempenha um importante papel no aumento da sobrevida. Portanto,
+sinais de alerta devem estimular o indivíduo a procurar orientação médica e campanhas longas de prevenção contra o melanoma
+cutâneo podem reduzir a incidência e a mortalidade pela doença6,11,16,18,33,34.
+Entre as neoplasias de pele, o melanoma apresenta o pior prognóstico. A estimativa mundial de sobrevida em cinco anos
+é de 69%, sendo de 73% nos países desenvolvidos e de 56% nos países em desenvolvimento13,18. O principal fator prognóstico
+do melanoma cutâneo é o estadiamento histopatológico, que depende da profundidade de invasão da lesão primária (espessura
+de Breslow) e da presença de ulceração35. As lesões primárias localizadas nas extremidades do corpo são associadas com um
+melhor prognóstico em comparação àquelas centrais, em áreas como cabeça, pescoço ou tronco23,36. Fatores prognósticos
+desfavoráveis são idade avançada, sexo masculino e padrão de crescimento nodular23,36–39. Em pacientes com melanoma estádio
+IV, ter desidrogenase láctica sérica (DHL, também chamada lactatodesidrogenase LDH) elevada, doença visceral (com exceção
+do pulmão), maior idade no momento do diagnóstico, acometimento de mais de um órgão e mais de uma metástase foram
+fatores prognósticos associados com menor sobrevida40. Em uma coorte que incluiu 589 pacientes com melanoma em estágio
+IV, o número de metástases foi o fator preditor de sobrevida mais relevante e a mediana de sobrevida foi de nove meses, sendo
+que a sobrevida em cinco anos foi de 9%40.
+A identificação de fatores de risco e da doença em seu estágio inicial e o encaminhamento ágil e adequado para o
+atendimento especializado dão à Atenção Primária um caráter essencial para um melhor resultado terapêutico e prognóstico dos
+casos.
+Estas Diretrizes visam a estabelecer os critérios diagnósticos e terapêuticos do melanoma cutâneo, com o objetivo de
+orientar o que é válido e não válido técnico-cientificamente, com base em evidências que garantam a segurança, a efetividade e
+a reprodutibilidade, para orientar condutas e protocolos assistenciais. A metodologia de busca e avaliação das evidências estão
+detalhadas no Apêndice 2.
+2.
+CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À
+SAÚDE (CID-10)
+[CID]
+Código: C43
+Descrição: Melanoma maligno
+Sistema: CID-10
+
+- C43.0 Melanoma maligno do lábio
+- C43.1 Melanoma maligno da pálpebra, incluindo as comissuras palpebrais
+- C43.2 Melanoma maligno da orelha e do conduto auditivo externo
+- C43.3 Melanoma maligno de outras partes e partes não especificadas da face
+- C43.4 Melanoma maligno do couro cabeludo e do pescoço
+- C43.5 Melanoma maligno do tronco
+- C43.6 Melanoma maligno do membro superior, incluindo ombro
+- C43.7 Melanoma maligno do membro inferior, incluindo quadril
+- C43.8 Melanoma maligno invasivo da pele
+- C43.9 Melanoma maligno de pele, não especificado
+D03 Melanoma in situ
+- D03.0 Melanoma in situ do lábio
+- D03.1Melanoma in situ da pálpebra, incluindo o canto
+- D03.2 Melanoma in situ da orelha e do conduto auditivo externo
+- D03.3 Melanoma in situ de outras partes e partes não especificadas da face
+- D03.4 Melanoma in situ do couro cabeludo e do pescoço
+- D03.5 Melanoma in situ do tronco
+- D03.6 Melanoma in situ dos membros superiores, incluindo ombro
+- D03.7 Melanoma in situ dos membros inferiores, incluindo quadril
+- D03.8 Melanoma in situ de outras localizações
+- D03.9 Melanoma in situ, não especificado
+3.
+DIAGNÓSTICO E ESTADIAMENTO
+
+[SUBSECTION]
+3.1.
+
+Diagnóstico clínico
+O ponto de partida do diagnóstico é uma lesão de pele suspeita. Geralmente, o paciente se queixa do surgimento de uma
+nova lesão pigmentada ou de modificações de tamanho, forma ou cor de um nevo melanocítico pré-existente. Lesões pigmentadas
+suspeitas devem ser examinadas com boa luz (com ou sem magnificação) e devem ser avaliadas segundo os critérios clínicos
+ABCDE41 (Quadro 1) ou a checklist de sete pontos42 (Quadro 2). Estes critérios indicam suspeita de melanoma cutâneo quando
+estão presentes em lesões melanocíticas e podem ser detectados nas fases iniciais de desenvolvimento do tumor22. A presença de
+qualquer característica mais relevante da checklist de sete pontos ou quaisquer das características dos critérios clínicos ABCDE
+é indicação para encaminhamento do paciente a um médico especialista, que pode ser dermatologista ou oncologista clínico ou
+cirúrgico43. Os médicos devem estar familiarizados com os sete pontos e os critérios clínicos ABCDE para avaliar lesões
+melanóticas43. A presença de características menos relevantes deve gerar suspeita43.
+Quadro 1 - Critérios clínicos ABCDE
+A
+Assimetria geométrica em dois eixos
+B
+Borda irregular
+C
+Pelo menos duas Cores diferentes na lesão
+D
+Diâmetro máximo > 6mm
+E
+Evolução/mudança no aspecto da lesão
+Adaptado das Diretrizes para tratamento de melanoma cutâneo na Escócia43
+Quadro 2 - Identificação de melanoma com sete pontos
+Características mais relevantes
+Características menos relevantes
+Mudança em tamanho de lesão
+Inflamação
+Pigmentação irregular
+Sensação alterada ou de coceira
+Borda irregular
+Lesão maior do que as outras
+Exsudação/ crostas da lesão
+Adaptado das Diretrizes para tratamento de melanoma cutâneo na Escócia43.
+Para a avaliação clínica do paciente, estudos demonstram maior especificidade da dermatoscopia em relação ao exame
+da lesão a olho nu. A dermatoscopia permite visualizar a distribuição da melanina e analisar mais detalhadamente lesões
+pigmentares, permitindo diferenciar outras doenças clinicamente confundidas com melanoma, como carcinomas basocelulares
+pigmentados e ceratoses seborreicas. Esse método é de extrema utilidade quando empregado por profissional experiente34. São
+critérios dermatoscópicos sugestivos do diagnóstico de melanoma cutâneo: pigmentação assimétrica, pseudópodes (estrias
+irregulares na periferia da lesão), véu cinza azulado (áreas de regressão tumoral) e arquitetura vascular atípica35,44 As lesões de
+pele pigmentadas que forem referidas para avaliação ou identificadas durante consulta podem ser avaliadas usando
+dermatoscópio desde que existam profissionais da saúde treinados nessa técnica e conforme disponibilidade deste equipamento43.
+
+[SUBSECTION]
+3.2.
+
+Diagnóstico histopatológico
+Em pacientes com lesões suspeitas de melanoma cutâneo deve-se realizar biópsia excisional da lesão com margens de 1
+a 2 mm de pele normal e com bainha de gordura. Devido ao tamanho ou localização da lesão, a biópsia incisional só pode ser
+realizada caso a excisional não seja viável. Então, o local da biópsia deve ser a porção mais enegrecida ou mais elevada da lesão.
+Raspagens (shavings) e curetagens são contraindicadas como métodos para biópsia porque impossibilitam a avaliação de toda a
+espessura tumoral e a realização do estadiamento por exame histopatológico22,43.
+O laudo do exame histopatológico deve conter as seguintes especificações: espessura de Breslow; presença ou ausência
+de ulceração; taxa mitótica dermal; avaliação do status da margem profunda e periférica; presença ou ausência de
+microssatelitose; existência de desmoplasia pura; e existência de invasão linfovascular ou angiolinfática45.
+Os quatro tipos mais comuns de melanoma cutâneo são:
+a. Melanoma maligno extensivo superficial: trata-se de lesão pigmentada assimétrica com pigmentação variável e
+contorno irregular. Neste tipo de melanoma, pode haver crescimento da lesão, mudança em sua sensação ou cor,
+formação de crostas, sangramento ou inflamação43.
+b. Melanoma nodular: tem apresentação mais breve e maior tendência a sangrar ou ulcerar43.
+c. Melanoma lentigo maligno: ocorre com maior frequência em pele queimada pelo sol na cabeça e no pescoço de
+pacientes mais velhos. Esse tipo de melanoma tem lesão pré-invasiva (in situ) e por longo período, chamada de lentigo
+maligno. Esta lesão pode progredir para um melanoma lentigo maligno invasivo43.
+d. Melanoma lentiginoso acral: ocorre nas palmas das mãos (palmar), solas dos pés (plantar) e debaixo das unhas (sub-
+ungueal)2,43.
+Também existem outros dois tipos de melanoma cutâneo mais raros: o melanoma desmoplástico e o melanoma
+hipermelanocítico de baixo grau43.
+Quando não diagnosticado e não tratado precocemente, o tumor pode aumentar de tamanho, em extensão e profundidade,
+com progressiva alteração da cor e formas originais. Outras características podem levar ao diagnóstico, tais como ulceração,
+sangramento ou sintomas (prurido, dor e inflamação)3,46.
+O risco de metástase pode ser previsto por meio da espessura do tumor, uma vez que quanto maior este for, maior é o
+risco para espalhamento e recorrência do melanoma cutâneo. De forma semelhante, a ulceração e alta taxa de divisão celular são
+associadas com pior prognóstico23,36. Entretanto, há sinais de atividade melanocítica para mais (aumento) ou para menos (redução
+ou mesmo sumiço da lesão melanótica).
+A profundidade da invasão neoplásica, medida da camada granulosa da pele até a base da lesão, é conhecida por índice
+ou espessura de Breslow: menor que 1 mm, de 1,1 a 2 mm, de 2,1 a 4 mm e maior que 4 mm. Já os níveis de Clark definem a
+profundidade com base na camada da pele invadida pelo melanoma: limitada à epiderme ou à junção epidermodérmica
+(melanoma in situ – nível I); invasão até a derme superficial - papilar (nível II); invasão de toda a derme profunda - papilar
+(nível III); invasão de toda a derme reticular (nível IV); e invasão do tecido subcutâneo – hipoderme (nível V)2.
+
+[SUBSECTION]
+3.3.
+
+Avaliação molecular
+O conhecimento dos fatores genéticos e moleculares relacionados ao melanoma cutâneo vem tendo papel relevante no
+seu diagnóstico, tratamento e prognóstico. A identificação de indivíduos geneticamente predispostos e dos genes envolvidos,
+bem como a intervenção em vias de sinalização específicas, isto é, agir nas vias intracelulares que possibilitam o
+desenvolvimento do tumor na doença metastática, têm possibilitado novos métodos de diagnóstico, tratamento e
+acompanhamento, impactando na terapêutica do paciente.
+Mutações nos genes CDKN2A e CDK4 foram detectadas em algumas famílias com melanoma hereditário, conferindo
+um risco aumentado para esta neoplasia35. Até o momento, a existência de uma mutação universal para todos os melanomas
+cutâneos é desconhecida. Em amostras, as mutações identificadas estavam presentes nas vias de sinalização da MAP quinase
+(proteína quinase ativada por mitógeno)6,47,48, da PI3K (fosfoinositol 3-quinase) e da Wnt6,49,50. As duas mutações mais comuns,
+nos genes BRAF e NRAS, ativam a via da MAP quinase enquanto o NF1 é um gene supressor tumoral que contribui para a
+regulação da ativação de RAS6,51. Para classificação genômica, sugerem-se quatro subgrupos: mutações em BRAF, RAS, NF1 e
+tipo selvagem triplo (quando os três tipos citados anteriormente não estão mutados)6,52.
+
+[SUBSECTION]
+3.4.
+
+Estadiamento
+A difusão do tumor na pele e tecidos adjacentes definirá o tratamento clínico e o prognóstico dos pacientes. O estadiamento
+é feito considerando aspectos clínicos e patológicos. Determina-se o estádio do melanoma cutâneo por meio da análise do tumor
+(T), do número de nodos metastáticos (N), e de metástases distantes (M)23,53.
+O estadiamento clínico inclui o estadiamento microscópico do tumor primário (espessura de Breslow) e a avaliação
+clínica, por imagem e por biópsia, se indicada, para a detecção de metástases43,45. A partir do estadiamento clínico, é possível
+definir os seguintes critérios, adotando-se as categorias e subcategorias discriminadas nos quadros 3 e 4:
+- presença ou ausência de ulceração;
+- tamanho do tumor em relação à profundidade na derme (T, definido patologicamente – pT1 a pT4);
+- acometimento linfático, que pode ser no próprio linfonodo (clinicamente detectado ao exame físico ou por imagem, ou
+pelo linfonodo sentinela) e no sistema linfático (metástases em trânsito, satélites ou microssatélites), cuja categorização varia de
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: a N3; e
+
+- metástases à distância (M0 ou M1).
+Os níveis séricos de DHL/LDH são descritos como sufixo à categoria M, isto é, normal (0) ou elevado (1)35.
+A despeito do número de lesões, metástases em trânsito, satélites e microssatélites representam um critério de
+categorização de invasão linfática (N). Metástases em trânsito são lesões macroscópicas localizadas além de 2 cm do tumor
+primário ou da drenagem linfática ou em direção a ela. Satélites são lesões macroscópicas localizadas além de 2 cm do tumor
+primário. Microssatélites são células malignas isoladas e assim consideradas independentemente da sua distância do tumor
+primário e do tamanho do agrupamento celular. São metástases linfáticas microscópicas, cuja presença indica risco aumentado
+de recorrência neoplásica48. O mais utilizado sistema de estadiamento do câncer é o da União Internacional Contra o Câncer
+(UICC), a Classificação de Tumores Malignos, que utiliza as categorias T (tumor), N (acometimento linfonodal) e M (metástase
+a distância), chamada simplificadamente de TNM. De acordo com a classificação TNM proposta pela UICC 8ª edição54., os casos
+com metástases em trânsito, satélites ou microssatélites categorizam-se como N1c, N2c ou N3c com base no número de
+linfonodos regionais acometidos por melanoma (respectivamente, nenhum, um e dois ou mais linfonodos)54.
+Em complementação, o estadiamento patológico inclui não só o estadiamento microscópico do tumor primário, como
+também dados patológicos sobre os linfonodos regionais após a biópsia do linfonodo sentinela ou o esvaziamento linfático à
+procura de acometimento de linfonodo regional43,45.
+Pacientes classificados nos estádios 0 e IA (respectivamente, Tis – melanoma in situ - e T1) sem metástases regionais ou
+distantes clinicamente detectáveis não precisam de avaliação patológica de linfonodo para completar o estadiamento patológico.
+Nesses casos, basta usar a notação cN0 para designar a categorização linfática clínica no estadiamento patológico43,45. Nos casos
+de melanoma em estádios clínicos I e II, não é necessário que o paciente realize rotineiramente exames de imagem, devendo estes
+serem solicitados conforme sua indicação clínica. Pacientes que, após biópsia, forem diagnosticados como tendo lesões com
+espessura menor que 0,8 mm tipicamente têm tumores com pouco acesso a vasos linfáticos e sanguíneos. Dessa forma, a
+probabilidade de metástases locorregionais ou distais ter ocorrido é baixa23.
+Exames séricos não são rotineiramente indicados para o estadiamento de pacientes assintomáticos. No entanto, a dosagem
+de DHL/LDH deve ser feita em pacientes com melanoma cutâneo em estádio IV, uma vez que é parte da classificação de rotina43.
+Nos estádios III e IV, deve-se considerar a realização de tomografia computadorizada (TC) de tórax, abdômen e pelve. Pacientes
+com lesões em pescoço, face ou couro cabeludo têm indicação de TC de região cervical. A realização de ressonância magnética
+(RM) de encéfalo deve ser considerada nos pacientes em estádio IIIB a IV, e para recorrência de doença metastática à distância,
+mesmo em pacientes assintomáticos45. As imagens devem ser realizadas com contraste intravenoso, a menos que contraindicado.
+Nas TC de tórax para metástases pulmonares, o contraste é desnecessário45. Atualmente, a evidência sobre o uso de tomografia
+computadorizada por emissão de pósitrons (PET-CT) no estadiamento de pacientes de risco mais alto é crescente, especialmente
+para candidatos a ressecção de metástases23. Contudo, a indicação de PET-CT em caso de melanoma não teve sua indicação
+recomendada pela Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC).
+O estádio III caracteriza que houve invasão dos linfonodos regionais, pele próxima ou vasos linfáticos. Já o estádio IV
+indica câncer metastático23, inclusive por invadir linfonodos não regionais. Os pulmões e a pleura são geralmente os primeiros
+locais com metástases viscerais do melanoma cutâneo. Outros locais onde pode haver invasão metastática são o cérebro, fígado,
+ossos, trato gastrointestinal e linfonodos não regionais23,55.
+Quadro 3 - Definições de T, N e M.
+Categorização do tumor primário
+Categoria T
+Espessura
+Status de Ulceração
+TX: Espessura do tumor primário
+Não aplicável
+Não aplicável
+não pode ser avaliada (p.ex.,
+diagnóstico em material obtido por
+curetagem).
+[TNM]
+Tipo: Tumor primário
+Código: T0:
+Descrição: Sem evidência de tumor
+
+Não aplicável
+Não aplicável
+primário (p.ex., melanoma
+primário desconhecido ou
+completamente regredido).
+Tis: melanoma in situ
+Não aplicável
+Não aplicável
+[TNM]
+Tipo: Tumor primário
+Código: T1
+Descrição: 
+
+≤1 mm
+Desconhecido ou não especificado
+[TNM]
+Tipo: Tumor primário
+Código: T1a
+Descrição: 
+
+<0,8 mm
+Sem ulceração
+[TNM]
+Tipo: Tumor primário
+Código: T1b
+Descrição: 
+
+<0,8 mm
+Com ulceração
+0,8 – 1,0 mm
+Com ou sem ulceração
+[TNM]
+Tipo: Tumor primário
+Código: T2
+Descrição: 
+
+>1,0 - 2,0 mm
+Desconhecido ou não especificado
+[TNM]
+Tipo: Tumor primário
+Código: T2a
+Descrição: 
+
+>1,0 – 2,0 mm
+Sem ulceração
+[TNM]
+Tipo: Tumor primário
+Código: T2b
+Descrição: 
+
+>1,0 – 2,0 mm
+Com ulceração
+[TNM]
+Tipo: Tumor primário
+Código: T3
+Descrição: 
+
+>2,0 - 4,0 mm
+Desconhecido ou não especificado
+[TNM]
+Tipo: Tumor primário
+Código: T3a
+Descrição: 
+
+>2,0 – 4,0 mm
+Sem ulceração
+[TNM]
+Tipo: Tumor primário
+Código: T3b
+Descrição: 
+
+>2,0 – 4,0 mm
+Com ulceração
+[TNM]
+Tipo: Tumor primário
+Código: T4
+Descrição: 
+
+>4,0 mm
+Desconhecido ou não especificado
+[TNM]
+Tipo: Tumor primário
+Código: T4a
+Descrição: 
+
+>4,0 mm
+Sem ulceração
+[TNM]
+Tipo: Tumor primário
+Código: T4b
+Descrição: 
+
+>4,0 mm
+Com ulceração
+Extensão para linfonodos regionais ou metástases linfáticas
+Categoria N
+Número de linfonodos regionais
+Presença de metástases em trânsito,
+acometidos por melanoma
+satélites ou microssatélites.
+NX
+Linfonodos regionais não podem ser
+Não
+avaliados (p. ex., biópsia de linfonodo
+sentinela não realizada ou linfonodos
+regionais previamente removidos por outra
+razão).
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+Sem metástase em linfonodos regionais.
+Não
+[TNM]
+Tipo: Linfonodos
+Código: N1
+Descrição: 
+
+Metástase em um linfonodo regional ou metástase regional intralifática em metástases
+nodais
+[TNM]
+Tipo: Linfonodos
+Código: N1a
+Descrição: 
+
+Apenas metástases microscópicas
+Não
+(clinicamente ocultas)
+[TNM]
+Tipo: Linfonodos
+Código: N1b
+Descrição: 
+
+Metástases macroscópicas (clinicamente
+Não
+aparente).
+[TNM]
+Tipo: Linfonodos
+Código: N1c
+Descrição: 
+
+Metástases satélites ou em trânisto sem
+Sim
+metástase em linfonodo regional.
+[TNM]
+Tipo: Linfonodos
+Código: N2
+Descrição: 
+
+Metástase em dois ou três linfonodos regionais ou metástase regional intralifática com
+metástases linfonodais
+[TNM]
+Tipo: Linfonodos
+Código: N2a
+Descrição: 
+
+Apenas metástases nodais microscópicas
+Não
+[TNM]
+Tipo: Linfonodos
+Código: N2b
+Descrição: 
+
+Metástase nodal macroscópica
+Não
+[TNM]
+Tipo: Linfonodos
+Código: N2c
+Descrição: 
+
+Metástases satélites ou em trânisto com
+Sim
+apenas uma metástase em linfonodo
+regional.
+[TNM]
+Tipo: Linfonodos
+Código: N3
+Descrição: 
+
+Metástase em quatro ou mais linfonodos regionais ou infiltração metastática em
+linfonodos regionais ou metástases em trânsito, satélites com metástase em dois ou
+mais linfonodos regionais
+[TNM]
+Tipo: Linfonodos
+Código: N3a
+Descrição: 
+
+Apenas metástases nodais microscópicas).
+Não
+[TNM]
+Tipo: Linfonodos
+Código: N3b
+Descrição: 
+
+Metástase nodal macroscópica
+Não
+[TNM]
+Tipo: Linfonodos
+Código: N3c
+Descrição: 
+
+Metástases satélites ou em trânisto com duas
+Sim
+ou mais metástases em linfonodo regional.
+Metástases à distância
+Categoria M
+Local Anatômico
+Nível sérico de Desidrogenase
+Láctica (DHL)
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+Sem evidência de metástase à distância.
+Não aplicável
+[TNM]
+Tipo: Metástase
+Código: M1
+Descrição: 
+
+Evidência de metástase à distância.
+Conforme a seguir
+[TNM]
+Tipo: Metástase
+Código: M1a
+Descrição: 
+
+Metástase para pele, tecido subcutâneo ou
+Não informado ou não especificado
+linfonodos além dos linfonodos regional.
+[TNM]
+Tipo: Metástase
+Código: M1a(0)
+Descrição: 
+
+Não elevado
+[TNM]
+Tipo: Metástase
+Código: M1a(1)
+Descrição: 
+
+Elevado
+[TNM]
+Tipo: Metástase
+Código: M1b
+Descrição: 
+
+Metástases em pulmão
+Não informado ou não especificado
+[TNM]
+Tipo: Metástase
+Código: M1b(0)
+Descrição: 
+
+Não elevado
+[TNM]
+Tipo: Metástase
+Código: M1b(1)
+Descrição: 
+
+Elevado
+[TNM]
+Tipo: Metástase
+Código: M1c
+Descrição: 
+
+Metástases em outros locais fora do SNC
+Não informado ou não especificado
+[TNM]
+Tipo: Metástase
+Código: M1c(0)
+Descrição: 
+
+Não elevado
+[TNM]
+Tipo: Metástase
+Código: M1c(1)
+Descrição: 
+
+Elevado
+[TNM]
+Tipo: Metástase
+Código: M1d
+Descrição: 
+
+Metástases em SNC
+Não informado ou não especificado
+[TNM]
+Tipo: Metástase
+Código: M1d(0)
+Descrição: 
+
+Não elevado
+[TNM]
+Tipo: Metástase
+Código: M1d(1)
+Descrição: 
+
+Elevado
+Adaptado de UICC54.
+Em melanoma categorizado como pT1cM0, anotar cN0 em vez de pNX, na ausência de linfonodos regionais acometidos. [p = patológico; c = clínico].
+DHL=desidrogenase láctica; M=metástase; N=nodo (linfonodo); SNC=sistema nervoso central; Sufixos para a categoria M: (0) DHL não elevada e (1) DHL
+elevada; T=tumor.
+Quadro 4 - Estadiamento clínico e patológico do melanoma cutâneo
+Estadiamento clínico
+ESTÁDIO
+T
+N
+M
+Tis
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IA
+[TNM]
+Tipo: Tumor primário
+Código: T1a
+Descrição: 
+
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IB
+[TNM]
+Tipo: Tumor primário
+Código: T1b
+Descrição: ou T2a
+
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IIA
+[TNM]
+Tipo: Tumor primário
+Código: T2b
+Descrição: ou T3a
+
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IIB
+[TNM]
+Tipo: Tumor primário
+Código: T3b
+Descrição: ou T4a
+
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IIC
+[TNM]
+Tipo: Tumor primário
+Código: T4b
+Descrição: 
+
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+III
+Qualquer T, Tis
+≥N1
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IV
+Qualquer T
+Qualquer N
+[TNM]
+Tipo: Metástase
+Código: M1
+Descrição: 
+
+Estadiamento patológico
+ESTÁDIO
+T
+N
+M
+Tis
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IA
+[TNM]
+Tipo: Tumor primário
+Código: T1a
+Descrição: ou T1b
+
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IB
+[TNM]
+Tipo: Tumor primário
+Código: T2a
+Descrição: 
+
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IIA
+[TNM]
+Tipo: Tumor primário
+Código: T2b
+Descrição: ou T3a
+
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IIB
+[TNM]
+Tipo: Tumor primário
+Código: T3b
+Descrição: ou T4a
+
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IIC
+[TNM]
+Tipo: Tumor primário
+Código: T4b
+Descrição: 
+
+[TNM]
+Tipo: Linfonodos
+Código: N0
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+III
+Qualquer T
+≥N1
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IIIA
+[TNM]
+Tipo: Tumor primário
+Código: T1a,
+Descrição: T1b ou T2a
+
+[TNM]
+Tipo: Linfonodos
+Código: N1a
+Descrição: ou N2a
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+[TNM]
+Tipo: Tumor primário
+Código: T1a,
+Descrição: T1b ou T2a
+
+[TNM]
+Tipo: Linfonodos
+Código: N1b/c
+Descrição: ou N2b
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IIIB
+[TNM]
+Tipo: Tumor primário
+Código: T2b
+Descrição: T3a
+
+[TNM]
+Tipo: Linfonodos
+Código: N1a/b/c,
+Descrição: N2a/b
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+[TNM]
+Tipo: Tumor primário
+Código: T1a/b,
+Descrição: T2a/b, T3a
+
+[TNM]
+Tipo: Linfonodos
+Código: N2c
+Descrição: ou N3a/b/c
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IIIC
+[TNM]
+Tipo: Tumor primário
+Código: T3b,
+Descrição: T4a
+
+≥ N1
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+[TNM]
+Tipo: Tumor primário
+Código: T4b
+Descrição: 
+
+[TNM]
+Tipo: Linfonodos
+Código: N1a/b/c,
+Descrição: N2a/b/c
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IIID
+[TNM]
+Tipo: Tumor primário
+Código: T4b
+Descrição: 
+
+[TNM]
+Tipo: Linfonodos
+Código: N3a/b/c
+Descrição: 
+
+[TNM]
+Tipo: Metástase
+Código: M0
+Descrição: 
+
+IV
+Qualquer T, Tis
+Qualquer N
+[TNM]
+Tipo: Metástase
+Código: M1
+Descrição: 
+
+Adaptado de UICC54.
+M=metástase; N=nodo (linfonodo); Sufixos para a categoria M: (0) DHL não elevada, (1) DHL elevada; T=tumor; Tis= melanoma in situ.
+4.
+CRITÉRIOS DE INCLUSÃO
+Incluem-se nestas DDT os pacientes que apresentarem, pelo menos, um dos critérios a seguir:
+- Lesões pigmentadas na pele ou lesões suspeitas de melanoma cutâneo56;
+- qualquer tipo de melanoma cutâneo invasivo ou variantes melanocíticas intradérmicas atípicas56.
+Adicionalmente, pacientes que necessitarem de tratamento adjuvante, terapia sistêmica, tratamento cirúrgico e
+radioterapia devem apresentar critérios de inclusão específicos, conforme a seguir:
+- Para tratamento adjuvante: pacientes com melanoma cutâneo em estádio III.
+- Para terapia sistêmica ou tratamento cirúrgico (ressecção de metástases à distância): pacientes com melanoma cutâneo
+em estádio IV limitado ou disseminado.
+- Para radioterapia: pacientes com melanoma cutâneo em estádio IV disseminado (irressecável) e pacientes sob cuidados
+paliativos.
+5.
+CRITÉRIOS DE EXCLUSÃO
+Excluem-se destas DDT os pacientes com diagnóstico de outros tipos de câncer de pele, como o carcinoma basocelular e
+carcinoma de células escamosas (epidermoide)56 ou de melanomas não cutâneos, como melanoma primário de mucosa ou
+melanoma ocular45.
+Serão excluídos pacientes que apresentarem toxicidade (intolerância, hipersensibilidade ou outro evento adverso) ou
+contraindicação absoluta ao uso do respectivo procedimento ou medicamento recomendados nestas Diretrizes.
+6.
+CASOS ESPECIAIS
+A gravidez pode vir acompanhada de uma atividade maior de melanócitos, o que pode causar mudanças na pigmentação
+da pele. A possibilidade de haver desfechos piores para caso de melanoma associado à gravidez é controversa. Em meta-análise,
+observou-se 17% de probabilidade aumentada de mortalidade nos casos de melanoma associado à gravidez, variando entre 3%
+e 33%, no desfecho de sobrevida global. Já para sobrevida livre de doença, estimou-se um aumento de 50% da probabilidade de
+recorrência da doença em casos de melanoma associado à gravidez, variando de 19% a 90%57. Por isso, mulheres que desejam
+engravidar após a excisão de melanoma em estádio I ou II devem ser aconselhadas a postergar a gravidez por dois anos após o
+procedimento cirúrgico, por causa do risco aumentado de recorrência43. É importante conscientizar os médicos da importância
+de diagnosticar o melanoma mesmo em pacientes grávidas, uma vez que um nevo modificado durante a gravidez pode ser
+confundido com um achado normal. Assim, deve-se realizar biópsia de qualquer lesão pigmentada que sofra alteração durante a
+gravidez, sendo recomendado o mesmo tratamento para mulheres grávidas e não grávidas43,58. A biópsia excisional com margens
+largas pode ser feita com segurança, sob anestesia local, em qualquer momento da gravidez. Esse procedimento permite a análise
+histopatológica, o prognóstico e é potencialmente curativo, por isso não deve ser adiado para o período pós-parto58–60.
+7.
+TRATAMENTO
+O tratamento é definido após a confirmação histopatológica e o estadiamento do caso13,33,55. As modalidades terapêuticas
+do melanoma cutâneo incluem tratamento cirúrgico (excisão com margens ampliadas, investigação de linfonodo sentinela,
+esvaziamento linfático e ressecção de metástases à distância), tratamento adjuvante, terapia sistêmica e radioterapia23.
+Sabe-se que o melanoma tem característica imunogênica e que pode haver regressão tumoral, possivelmente por resposta
+imunológica do hospedeiro61. A regressão histológica é definida como a área dentro do tumor em que as células neoplásicas
+desapareceram ou diminuíram em número na derme (e epiderme), sendo substituídas por fibrose, novos vasos e infiltrado
+inflamatório61–63. Em casos de melanoma, é possível observar regressão com frequência entre 10% e 35%61,64. Em revisão
+sistemática com meta-análise, foi encontrado que pacientes com regressão tumoral de melanoma tiveram menor probabilidade
+de terem lifonodo sentinela positivo [odds ratio (OR) de 0,56; com intervalo de confiança de 95% (IC95%) de 0,41 a 0,77] em
+comparação com pacientes sem regressão61. Em outras palavras, o risco de metástase de melanoma para o linfonodo sentinela
+foi significantemente menor em pacientes com regressão histológica em comparação com aqueles sem regressão61. Ademais,
+pacientes com regressão histológica de melanoma primário tiveram menor probabilidade de morrer [risco relativo (RR) de
+0,77; com IC95% de 0,61 a 0,97) do que aqueles sem regressão histológica65. No momento, não é possível formular
+recomendações no que se refere a esse achado.
+Também é possível que um melanoma secundário (em linfonodos ou visceral) apareça mesmo sem local primário
+evidente, o que é conhecido como melanoma de sítio primário desconhecido e suspeita-se que essa manifestação ocorra devido
+à regressão histológica66.
+
+[SUBSECTION]
+7.1.
+
+Tratamento cirúrgico
+
+[SUBSECTION]
+7.1.1. Excisão com margens ampliadas
+
+No momento do diagnóstico, a maioria dos pacientes com melanoma cutâneo apresenta-se com a neoplasia nos estádios
+iniciais IA (T1a, N0, M0) e IIA (T2a ou T3a, N0, M0), tanto no Brasil quanto em países desenvolvidos13,22,35. Nesses pacientes,
+o tratamento cirúrgico é curativo em 70% a 90% dos casos.
+Após a biópsia de excisão do melanoma, de acordo com o diagnóstico e o estadiamento, é realizada a excisão radical da
+cicatriz remanescente com ampliação de margens7,16,22. No caso de tumor metastático, são necessários exames adicionais para
+determinar a melhor conduta. A ampliação de margens é necessária, uma vez que a excisão com margens estreitas pode ser
+acompanhada de recidiva local, pela frequência de possíveis lesões satélites16,22.
+As margens clínicas recomendadas em tratamento cirúrgico para excisão com margens ampliadas de melanoma primário
+variam conforme a espessura do tumor (Quadro 5).
+Quadro 5 – Margens para excisão com margens ampliadas de melanoma cutâneo.
+Espessura do tumor
+Margens cirúrgicas recomendadas
+In situ 0,5 – 1,0 cm
+Menor ou igual a 1,0 mm 1,0 cm
+Entre 1,0 e 2,0 mm 1,0 – 2,0 cm
+Entre 2,1 e 4,0 mm 2,0 cm
+Maior que 4,0 mm 2,0 cm
+Adaptado de NCCN45.
+Uma revisão sistemática com meta-análise publicada em 2021 avaliou a excisão de melanoma cutâneo com margens
+consideradas estreitas (1 a 2 cm) e largas (3 a 5 cm) e apontou que não houve diferença estatisticamente significativa entre os
+grupos para os desfechos: recorrência loco regional (RR 1,09; IC95% 0,98 a 1,22; P=0,12), recorrência local (RR 1,20; IC95%
+0,66 a 2,21; P=0,55), metástases em trânsito (RR 1,30; IC95% 0,86 a 1,97; P=0,21), risco de desenvolver metástase linfonodal
+regional (RR 1,04; IC95% 0,91 a 1,18; P=0,56), risco de desenvolver metástase a distância (RR 0,55; IC95% 0,72 a 1,24;
+P=0,68), morte (RR 1,00; IC95% 0,93 a 1,07; P=0,97), nem morte por causa de melanoma (RR 1,11; IC95% 0,96 a 1,28;
+P=0,16). Houve diferença entre os grupos tratados com margens estreitas versus largas para o risco de precisar de enxerto de
+pele, que foi significativamente menor para o grupo que passou por excisão estreita (RR 0,30; IC95% 0,19 – 0,49; P<0,05)67.
+Esses achados estão consonantes com os descritos em diretrizes internacionais23,45,68, e recomenda-se que sejam
+utilizados os parâmetros de extensão de margens especificados no Quadro 5 para a excisão com ampliação de margens. A
+Figura 1 traz o fluxograma para tratamento de pacientes com melanoma cutâneo nos estádios 0 e IA.
+Figura 1 - Fluxograma de tratamento de pacientes com melanoma cutâneo em estádios 0 e IA. Adaptado de NCCN45
+
+[SUBSECTION]
+7.1.2. Investigação de linfonodo sentinela
+
+Os locais mais prováveis para os quais células de melanoma cutâneo podem se disseminar, sem contar a pele próxima à
+lesão primária, são os linfonodos regionais. Como os linfonodos sentinela (linfonodos de drenagem imediata) são os primeiros
+a receber a linfa drenada do local onde o melanoma cutâneo se encontra, eles apresentam o maior risco de invasão regional23,43,69.
+Portanto, a presença ou ausência dessas células no linfonodo sentinela é preditora de recorrência neoplásica e de sobrevida de
+pacientes com melanoma cutâneo23.
+A linfocintilografia pré-operatória deve ser realizada com tecnécio associado a corante azul patente e gama-probe
+intraoperatório para determinar o primeiro linfonodo de drenagem da cadeia linfonodal acometida pelo tumor. Em seguida,
+devem ser realizados a biópsia do linfonodo sentinela (determinado pela linfocintilografia) e o exame histopatológico do material
+biopsiado. Ressalta-se que o uso de amostras congeladas para biópsia pode reduzir a sensibilidade do exame, além de ser
+necessário sacrificar parte do linfonodo para obtenção de material confiável. Esses fatores prejudicam a deteccção de células de
+melanoma ou células metastáticas isoladas7,70.
+Como a biópsia do linfonodo sentinela permite a avaliação do acometimento linfático regional, caso esta não identifique
+metástase a possibilidade de não ocorrer doença metastática na respectiva cadeia linfática é superior a 95%. A retirada de amostra
+do linfonodo sentinela preserva os pacientes da morbidade associada a dissecções linfáticas extensas e desnecessárias71, sendo
+indicada para os pacientes com diagnóstico de melanoma cutâneo com espessura tumoral maior que  1,0 mm43. Para pacientes
+com a doença em estádio IB, T1b (espessura de Breslow menor que 0,8 mm, com ulceração ou de 0,8 a 1 mm com ou sem
+ulceração) ou ocasionalmente com lesão classificada como T1a em que o tumor tem espessura menor que 0,8mm, se existirem
+fatores de mau prognóstico, como invasão linfovascular e ulceração, os riscos e benefícios do procedimento devem ser discutidos
+com o paciente.
+A Figura 2 traz o fluxograma para tratamento de casos de melanoma cutâneo em estádio IB (T1b). Por sua vez, o
+fluxograma de tratamento dos pacientes em estádios IB (T2a) ou II (T2b ou mais alto) encontra-se na Figura 3.
+Figura 2 - Fluxograma de tratamento de pacientes com melanoma cutâneo em estádio IB (T1b). Adaptado de NCCN45
+Figura 3 - Fluxograma de tratamento de pacientes com melanoma cutâneo estádios IB (T2a) ou II (T2b ou mais alto). Adaptada de NCCN45.
+
+[SUBSECTION]
+7.1.3. Esvaziamento linfático e ressecção
+
+Historicamente, a presença de linfonodo sentinela positivo era considerada indicação de linfadenectomia regional.
+Contudo, dois recentes ensaios clínicos randomizados, que compararam a dissecção linfonodal completa com observação clínica
+(acompanhada de palpação e ultrassonografia do linfonodo) em caso de recorrência, não demonstraram qualquer melhora na
+sobrevida relacionada ao melanoma ou sobrevida livre de metástases. Os pacientes indicados para observação apresentaram
+menores índices de linfedema (24,1% vs 6,3%)72,73. Por outro lado, o esvaziamento linfonodal diminuiu a recorrência local e
+auxiliou na identificação dos pacientes que podem ser beneficiados pela terapia adjuvante56,74. Assim, os resultados desses
+estudos reforçam a observação e o acompanhamento com ultrassonografia da região afetada, de modo que a dissecção linfonodal
+completa seja reservada aos casos de recidiva, mediante o acompanhamento ecográfico, ou quando o exame patológico dos
+linfonodos for determinante para a decisão de realização de adjuvância55,74.
+Pacientes com recidiva em linfonodos regionais devem ser submetidos à dissecção de todos os linfonodos da respectiva
+cadeia de drenagem, embora não se tenha na literatura registro de um benefício evidente de sobrevida global. A presença de
+invasão linfática pode significar doença sistêmica e confere ao paciente um prognóstico pior, estando associada a uma sobrevida
+em torno de 40% em 5 anos22,55.
+As diretrizes terapêuticas escocesas recomendam a linfadenectomia completa em pacientes com biópsia positiva no
+linfonodo sentinela43. Tal procedimento cirúrgico envonlve a remoção completa de todos os linfonodos da cadeia de drenagem
+para análise patológica completa43. Assim, a remoção cirúrgica de toda a região ao redor do linfonodo é indicada para metástases
+de linfonodos regionais (estádio III)23. Após esse procedimento, existe o risco de linfedema, por isso, os pacientes devem ter
+acesso aos serviços de um especialista na área43.
+O tratamento de pacientes com melanoma cutâneo estádio III está esquematizado na Figura 4.
+Figura 4 - Fluxograma de tratamento de pacientes com melanoma cutâneo em estádio III. Adaptado de NCCN45.
+
+[SUBSECTION]
+7.1.4.  Ressecção de metástases à distância
+
+Se, após os exames de estadiamento, houver suspeita de doença metastática, pode ser realizada punção aspirativa com
+agulha fina guiada por exame de imagem ou biópsia aberta da área suspeita para confirmação histopatológica. Quando um
+desses exames for positivo para malignidade, deve-se considerar as opções terapêuticas a seguir, de acordo com os achados:
+- Metástase solitária ou limitada: ressecção ou terapia sistêmica, principalmente quando há progressão da metástase;
+- metástases disseminadas não acometendo o sistema nervoso central (SNC): terapia sistêmica;
+- metástases disseminadas acometendo o SNC: tratamento cirúrgico, radioterapia e, caso indicada, terapia sistêmica.
+A ressecção de metástases à distância pode ser indicada para alguns casos selecionados75. A metastasectomia pode ser
+uma opção para pacientes cujas metástases estejam em pele distante, linfonodo ou víscera (melanoma cutâneo em estádio IV)43.
+A conduta deve ser individualizada, sendo que o procedimento cirúrgico pode ter caráter paliativo (tratando sintomas e
+melhorando a qualidade de vida) ou curativo75.
+O tratamento de pacientes com melanoma cutâneo em estádio IV limitado, isto é, operável e ressecável, está resumido
+na Figura 5.
+Figura 5 - Fluxograma de tratamento de pacientes com melanoma em cutâneo estádio IV limitado (operável e ressecável). Adaptado de NCCN45.
+
+[SUBSECTION]
+7.2.
+
+Tratamento adjuvante
+Pacientes com tumores em estádio IB [T1b (menor que 0,8 mm, com ulceração); (0,8 a 1,0 mm, com ou sem ulceração)
+ou T2a (maior que 1,0 a 2,0 mm, sem ulceração)], em estádio IIC (T4b - maior que 4,0 mm, com ulceração) ou em estádio III
+(qualquer T, Tis e igual ou maior a N1, isto é, com acometimento linfático regional) têm um risco de recorrência que varia de
+30% a 80%. Estes grupos de alto risco constituem o foco principal dos estudos que avaliaram a eficácia da terapia adjuvante13,16.
+Em casos de melanoma cutâneo de alto risco (estádios IIB e IIC; espessura tumoral maior que 2,0 mm), terapias adjuvantes ainda
+não são estabelecidas como de rotina para este grupo23.
+Em 2012, a CONITEC recomendou a incorporação no SUS da alfainterferona para a quimioterapia adjuvante do
+melanoma cutâneo em estádio III76. No que tange o uso de alfainterferona na terapia adjuvante, os guidelines da NCCN comentam
+que o benefício do seu uso é pequeno, apesar de ser estatisticamente significante e que as terapias-alvo e as imunoterapias são
+mais efetivas e mais bem toleradas do que a  alfainterferona e, portanto, não recomenda mais o seu uso45. Já as diretrizes de
+tratamento escocesas recomendam que a alfainterferona apenas seja empregada em contexto de pesquisa clínica como terapia
+adjuvante de pacientes com melanoma estádio II e III43. As diretrizes da Sociedade Americana de Oncologia Clínica (ASCO)
+não recomenda o uso de ipilumimabe nem de alfainterferona em altas doses de forma rotineira77.
+Existem revisões sistemáticas e meta-análises recentes que abordam o uso da alfainterferona como tratamento adjuvante
+do melanoma cutâneo, sendo que a comparação mais comum nos estudos incluídos era da alfainterferona  versus observação
+clínica (p.ex., sem tratamento)78. Uma meta-análise apoia a eficácia da alfainterferona adjuvante para o tratamento de pessoas
+com melanoma cutâneo de alto risco (TNM estádio II-III) em termos de sobrevida livre de doença (17%; IC95% 13% a 22%) e,
+em menor grau, sobrevida global (9%; IC95% 3% a 15%)78. Observaram-se eventos adversos graus 3 e 4 em uma minoria de
+participantes. Tais eventos prejudicaram a qualidade de vida, mas desapareceram após a suspensão do tratamento78. Os pacientes
+tratados com alfainterferona tiveram melhor sobrevida ajustada à qualidade de vida em comparação com aqueles que foram
+somente observados78. Outro estudo mostrou que a alfainterferona diminui o risco de recorrência em 14% e resulta em benefício
+na medida de sobrevida global79, isto é, foi encontrada redução proporcional de 10% no risco de morte com o seu uso79. Apesar
+de clinicamente significativo, a diferença absoluta de mortalidade em 10 anos foi cerca de 3%79. Não houve evidência de relação
+dose-resposta com doses crescentes de alfainterferona nem evidência de diferença em termos da duração de tratamento79.
+Decisões de tratamento para pacientes com alto risco devem ser individualizadas, com base em uma estimativa do risco
+de recidiva de acordo com os critérios de estadiamento TNM e presença de comorbidades. Ensaios clínicos randomizados (ECR)
+que explorem outras terapias para essa população ainda são necessários, devendo o uso de alfainterferona adjuvante ser discutido
+com os pacientes no que diz respeito ao seu risco-benefício. O tratamento com alfainterferona tem impacto negativo na qualidade
+de vida dos pacientes e os seus eventos adversos limitam seu uso prolongado, principalmente quando usada em doses mais altas79.
+As recomendações da Sociedade Americana de Oncologia Clínica (ASCO) especificam alternativas de tratamento para
+pacientes com base na presença de mutação em BRAF, e sugerem que esse teste deve ser feito no momento do diagnóstico77.
+Também ressalta que somente o teste para mutação em BRAF seria necessário antes de iniciar terapia adjuvante com inibidores
+de BRAF/MEK77. E recomenda o nivolumabe ou o pembrolizumabe por 52 semanas para pacientes com doença estádios
+IIIA/B/C/D ressecável que são BRAF tipo selvagem77.
+A ASCO ressalta que não se podem fazer recomendações sobre dabrafenibe + trametinibe em pacientes com melanoma
+estádios III/IV ressecável com mutações BRAF a não ser que seja a mutação V600E/K77. Para estes, isto é, pacientes com doença
+BRAF mutante (V600E/ K*) estádios IIIA/B/C/D ressecável, recomenda o uso de: nivolumabe ou pembrolizumabe ou
+dabrafenibe + trametinibe, por 52 semanas77. Pacientes com melanoma estádio IV ressecável poderiam receber, de acordo com
+essas diretrizes americanas, nivolumabe adjuvante, pembrolizumabe ou dabrafenibe + trametinibe (se apresentarem a mutação
+em BRAF) e cita que alterações entre essas associações de inibidor de BRAF/MEK podem ser consideradas, caso os pacientes
+apresentem toxicidade77. Entretanto, no caso de falha no uso desses medicamentos, inexistem dados sobre a mudança para outra
+associação77.
+
+[SUBSECTION]
+7.3.
+
+Tratamento da doença metastática
+A ASCO orienta, para pacientes com melanoma cutâneo metastático/irressecável com BRAF tipo selvagem, as seguintes
+opções: ipilimumabe + nivolumabe, seguido de nivolumabe ou nivolumabe em monoterapia ou pembrolizumabe77. Ao passo
+que, para pacientes com melanoma cutâneo metastático/irressecável mutante em BRAF (V600), recomenda como opções:
+ipilimimabe + nivolumabe seguido de nivolumabe ou nivolumabe ou pembrolizumabe ou dabrafenibe + trametinibe ou
+encorafenibe + binimetinibe ou vemurafenibe + cobimetinibe77.
+Já as diretrizes de tratamento escocesas recomendam que o vemurafenibe e o dabrafenibe podem ser usados como
+monoterapia para pacientes com melanoma metastático ou irressecável, com mutação em BRAF (V600), como primeira linha43.
+Também recomenda trametinibe + dabrafenibe para pacientes com melanoma metastático ou irressecável, com mutação BRAF
+(V600), estádios IIIC ou IV43.
+A Conitec avaliou a evidência de eficácia e segurança do ipilimumabe no tratamento do melanoma metastático ou não
+cirúrgico. Apesar da alta eficácia do ipilimumabe em comparação com a dacarbazina, identificou-se que existiam registros
+nacionais de outras imunoterapias mais eficazes do que o ipilimumabe80. Essas razões, entre outras citadas no Relatório de
+Recomendação n° 391 de outubro de 2018, levaram a Conitec a recomendar a não incorporação do ipilimumabe para tratar
+pacientes com melanoma cutâneo metastático80.
+Posteriormente, foram avaliadas as principais evidências científicas disponíveis na literatura sobre a eficácia e segurança
+das chamadas terapias-alvo (vemurafenibe, dabrafenibe, cobimetinibe e trametinibe) e das chamadas imunoterapias
+(pembrolizumabe, nivolumabe e ipilimumabe) em comparação à quimioterapia com dacarbazina para o tratamento de primeira
+linha do melanoma avançado não cirúrgico e metastático. Conforme o Relatório de Recomendação n° 541 de julho de 2020, a
+recomendação final da Conitec foi favorável à incorporação da classe anti-PD1 (nivolumabe ou pembrolizumabe) para
+tratamento de primeira linha do melanoma avançado não cirúrgico e metastático, conforme a assistência oncológica no SUS81.
+De acordo com o referido Relatório de Recomendação n° 541, avaliaram-se as comparações possíveis entre
+vemurafenibe, dabrafenibe, cobimetinibe e trametinibe, e entre pembrolizumabe, nivolumabe e ipilimimabe, em monoterapia e
+em terapia combinada, comparativamente com a dacarbazina, nos desfechos de eficácia e segurança para tratamento de primeira
+linha de melanoma avançado não cirúrgico (irressecável) e metastático81. Foram incluídas três revisões sistemáticas com meta-
+análise em rede e os resultados mostraram que todas as terapias foram superiores à dacarbazina nos desfechos de sobrevida livre
+de progressão e de sobrevida global, exceto o dabrafenibe, e que o uso combinado apresentou melhor efeito terapêutico do que
+isolado81–84. No que se refere à sobrevida livre de progressão, não houve diferença entre diferentes medicamentos da mesma
+classe nem entre as ditas terapias-alvo e imunoterapia combinadas dentro da mesma classe81. Quanto à sobrevida global, a
+redução do risco de morte para as imunoterapias isoladas anti-PD-1 foi de 54%, segundo melhor resultado após a combinação
+de nivolumabe com ipilimumabe81. A taxa de sobrevida global em cinco anos para imunoterapia isolada (nivolumabe ou
+pembrolizumabe) foi de 70%, em contraste com cerca de 40% daqueles tratados com dacarbazina81. A sobrevida mediana de
+pacientes em uso de imunoterapia isolada (nivolumabe ou pembrolizumabe) foi de 36 meses em comparação ao uso de
+dacarbazina, que era de 11 meses81. Quanto aos desfechos de segurança, observou-se menor risco de eventos adversos de graus
+3 e 4 com imunoterapia isolada (nivolumabe ou pembrolizumabe), porém sem significância estatítica81,82.
+O tratamento de pacientes com melanoma cutâneo estádio IV irressecável ou disseminado, isto é, com metástases à
+distância, está esquematizado na Figura 6.
+Figura 6 - Fluxograma de tratamento de pacientes com melanoma cutâneo em estádio IV disseminado (irressecável).
+Adaptado de NCCN45.
+
+[SUBSECTION]
+7.4.
+
+Radioterapia
+O melanoma é considerado um tumor resistente à radioterapia quando comparado a outros tipos de câncer85–87. Embora
+o tratamento curativo seja o cirúrgico, com a ressecção completa da lesão primária, com ou sem o esvaziamento linfático
+regional, a radioterapia mantém-se útil para casos selecionados de tumores irressecáveis, quando o resultado estético do
+tratamento cirúrgico for desfavorável, principalmente na região da face, da cabeça e do pescoço85–87. Ademais, a radioterapia
+também pode ser usada em pacientes com metástases no cérebro; em caso de tumores muito extensos, previamente à intervenção
+cirúrgica; para alívio de sintomas; em caso de linfonodomegalias maciças (maior que 3 cm), com quatro ou mais linfonodos
+acometidos; ou extensão extra-nodal23.
+A radioterapia definitiva pode ser uma opção terapêutica de pacientes com melanoma in situ, com melanoma do tipo
+lentigo maligno inoperável ou com alto risco cirúrgico da ressecção completa45.
+O uso de radioterapia adjuvante após ressecção linfática diminui a recidiva local do melanoma, mas não aumenta a
+sobrevida global dos pacientes23,45,85–87. Ademais, a radioterapia adjuvante pode ser indicada em casos de melanoma
+desmoplástico, a depender de fatores de risco para recorrência local45; de doença em linfonodo regional ressecada de alto risco45;
+e para melanoma cutâneo em estádios IIIB ou IIIC, considerando-se o potencial de recorrência local e benefícios e riscos,
+inclusive os eventos adversos da radioterapia43.
+A radioterapia também permanece como uma modalidade de tratamento paliativo, principalmente no sistema nervoso
+central (SNC), na coluna vertebral e nos ossos85–87. A radioterapia paliativa pode ser empregada em casos de metástases
+regionais, no que se refere à doença linfonodal irressecável e metástases satélites ou em trânsito; e à doença residual local,
+satélite ou em trânsito após tratamento prévio45.
+Embora a radioterapia possa ser considerada em casos com alto risco de recidiva local após a linfadenectomia radical,
+ela não está isenta de toxicidade adicional e o seu risco-benefício deve ser amplamente discutido com os pacientes antes de sua
+utilização, e novas modalidades terapêuticas e técnicas de radioterapia ainda estão sendo consolidadas para avaliação da melhor
+eficácia terapêutica85–87.
+8.
+MONITORAMENTO
+Pacientes sob tratamento devem ser monitorizados para avaliar a resposta terapêutica nos locais de doença prévia, com
+exames de imagem (TC, preferencialmente) regularmente. Em caso da chamada imunoterapia, deve-se atentar para os efeitos
+adversos específicos e os respectivos critérios de acompanhamento laboratorial e por imagem, assim como os parâmetros de
+avaliação da resposta tumoral.
+Pacientes que apresentaram qualquer tipo de evento adverso, inclusive intolerância grave, de graus 3 e 4 aos
+medicamentos, de acordo com a Common Terminology Criteria for Adverse Events (CTCAE) versão 588 (Quadro 6), devem
+ter a dose do respectivo medicamento reduzida após avaliação médica. Nesses casos, o paciente deve retornar ao tratamento
+apenas quando a toxicidade estiver nos graus 1 ou 2. Pacientes que também não tolerarem doses reduzidas devem ter o seu
+tratamento suspenso. Essa conduta deve considerar o medicamento utilizado, o evento adverso em questão e o benefício
+atingido. A classificação da gravidade dos eventos adversos está no Apêndice 1.
+Quadro 6 - Eventos adversos e interações dos tratamentos medicamentosos recomendados nestas Diretrizes.
+Alfainterferona
+Eventos adversos
+Alopecia, prurido, pele seca, rash cutâneo, hipersudorese;
+mais comuns
+anorexia;
+depressão, insônia, ansiedade, instabilidade emocional, agitação,
+nervosismo;
+diminuição do peso corporal;
+dispneia, tosse;
+faringite, infecção viral;
+febre, fadiga, cefaleia e mialgia;
+inflamação ou reação no local de injeção, fadiga, arrepios, febre, sintomas
+semelhantes à gripe, astenia, irritabilidade, dor torácica, mal-estar;
+leucopenia;
+mialgia, artralgia, dor músculo-esquelética;
+náusea, vômitos, dor abdominal, diarreia, estomatite, dispepsia;
+tonturas, cefaléias, diminuição da capacidade de concentração, xerostomia;
+visão turva89.
+Interações
+Medicamentos narcóticos, hipnóticos ou sedativos; agentes potencialmente
+medicamentosas
+mielossupressores; teofilina ou aminofilina; aldesleucina; agentes
+quimioterápicos como citarabina, ciclofosfamida, doxorubicina e
+teniposídeo89.
+Nivolumabe
+Eventos adversos
+Diarreia, náusea;
+mais comuns diminuição do apetite (anorexia);
+dor músculo-esquelética, artralgia;
+erupção cutânea, prurido;
+hipertensão arterial;
+hipotireoidismo, hipertireoidismo;
+infecção no trato respiratório superior;
+neuropatia periférica, dor de cabeça, tontura;
+neutropenia;
+pneumonite, dispneia, tosse;
+reação infusional, hipersensibilidade90.
+Uso anterior de corticosteroide sistêmico e outros imunossupressores90.
+Interações
+medicamentosas
+Pembrolizumabe
+Eventos adversos
+Anemia;
+mais comuns
+arritmia cardíaca (incluindo fibrilação atrial);
+cefaleia;
+diarreia, dor abdominal, náusea, vômitos, constipação intestinal;
+dispneia, tosse;
+dor músculo-esquelética, artralgia;
+erupção cutânea, prurido;
+fadiga, astenia, edema, pirexia;
+hipotereoidismo;
+pneumonia;
+reação relacionada infusional;
+redução do apetite91.
+Uso anterior de corticosteroides sistêmicos e outros imunossupressores91
+Interações
+medicamentosas
+Adaptado de bulas dos medicamentos registrados na ANVISA89–91.
+O acompanhamento dos pacientes é feito de acordo com o seu estadiamento clínico, conforme o Quadro 7. De maneira
+geral, após cinco anos, todos os pacientes devem ser seguidos anualmente − a menos que tenham também nevos displásicos,
+casos em que se recomendam consultas a cada seis meses. O risco de um segundo tumor primário aumenta significativamente
+nos pacientes com esses nevos e história familiar de melanoma. O exame anual deve continuar por, pelo menos, dez anos, e
+preferencialmente por toda a vida, porque as recidivas tardias surgem em aproximadamente 3% dos pacientes. O seguimento
+contínuo é recomendado também para pacientes com nevos displásicos35.
+Quadro 7 - Periodicidade de acompanhamento de pacientes com melanoma cutâneo conforme o estádio
+Estádio
+Acompanhamento
+Não necessita seguimento após tratamento inicial, avaliação dos resultados e orientações43.
+IA-IIA
+Exame físico a cada 6 a 12 meses nos primeiros 5 anos; após, anualmente.
+Exames de imagem não são recomendados como rotina, devendo ser realizados apenas caso o paciente
+apresente sintoma sugestivo de possível metástase.
+IIB-IIC
+Exame físico a cada 3 a 6 meses por 2 anos após o diagnóstico. Em seguida, a cada 6 a 12 meses por 3 anos.
+Após estes períodos, o exame físico deve ser realizado anualmente.
+Exames de imagem podem ser solicitados a cada 3 a 12 meses conforme a condição clínica do paciente nos
+primeiros 3 anos. Após este período, devem ser solicitados conforme indicação médica.
+III e além
+Acompanhamento a cada 3 meses por 5 anos43.
+9.
+REGULAÇÃO, CONTROLE E AVALIAÇÃO PELO GESTOR
+Devem ser observados os critérios de inclusão e exclusão de pacientes nestas Diretrizes, a duração e a monitorização do
+tratamento, bem como para a verificação periódica das doses de medicamento(s) prescritas e dispensadas e da adequação de uso
+e do acompanhamento pós-tratamento.
+Doentes de melanoma cutâneo devem ser atendidos em serviços especializados em oncologia, para seu adequado
+diagnóstico, inclusão no protocolo de tratamento e acompanhamento. Além da familiaridade que esses hospitais guardam com
+o estadiamento, tratamento e controle dos efeitos adversos, eles têm toda a estrutura ambulatorial, de internação, de terapia
+intensiva, de hemoterapia, de suporte multiprofissional e de laboratórios necessária para o adequado atendimento e obtenção
+dos resultados terapêuticos esperados.
+A regulação do acesso é um componente essencial da gestão para a organização da rede assistencial e garantia do
+atendimento dos pacientes, facilitando ações de controle e avaliação. Incluem-se, entre essas ações, a manutenção atualizada do
+Cadastro Nacional dos Estabelecimentos de Saúde (CNES); a autorização prévia dos procedimentos; o monitoramento da
+produção dos procedimentos (por exemplo, frequência apresentada versus autorizada, valores apresentados versus autorizados
+versus ressarcidos); e a verificação dos percentuais das frequências dos procedimentos quimioterápicos em suas diferentes linhas
+(cuja ordem descendente − primeira maior do que segunda maior do que terceira − sinaliza a efetividade terapêutica). Ações de
+auditoria devem verificar in loco, por exemplo, a existência e observância da conduta ou do protocolo adotado no hospital; a
+regulação do acesso assistencial; a qualidade da autorização; a conformidade da prescrição e da dispensação e administração
+dos medicamentos (tipos e doses); a compatibilidade do procedimento codificado com o diagnóstico e a capacidade funcional
+do paciente (escala de Zubrod); a compatibilidade da cobrança com os serviços executados; a abrangência e integralidade
+assistenciais; e o grau de satisfação dos pacientes.
+Do Quadro 8 constam alguns dos profissionais que podem ser acionados para avaliação e acompanhamento de pacientes
+com melanoma, a depender da disponibilidade local na atenção especializada à saúde (níveis secundário e terciário do SUS).
+Quadro 8 - Divisão de atribuições entre especialistas conforme a disponibilidade de profissionais
+Especialistas
+Atribuições
+Dermatologista
+• Para vigilância de indivíduos com maior risco de melanoma com base no fenótipo do nevo,
+histórico familiar, sensibilidade ao sol e outros fatores.
+• Para detecção precoce de lesões pigmentadas suspeitas, particularmente em indivíduos
+com risco aumentado de ter melanoma.
+• Para a vigilância da pele e o monitoramento de longo prazo de pacientes com melanoma
+cutâneo, para detectar possíveis novos melanomas primários.
+• Para a avaliação clínica e biópsia de lesões de pele suspeitas de melanoma.
+• Para discutir a conduta terapêutica em equipe de especialistas.
+• Para o tratamento cirúrgico de melanoma cutâneo inicial.
+• Para detecção precoce de lesões pigmentadas suspeitas, particularmente em indivíduos
+Cirurgião Oncológico
+com risco aumentado de ter melanoma.
+e outros Cirurgiões
+• Para a avaliação clínica e biópsia de lesões de pele suspeitas de melanoma.
+Especialistas
+• Para discutir a conduta terapêutica em equipe de especialistas.
+• Para o tratamento cirúrgico de melanoma cutâneo em qualquer estágio tumoral ou
+recidivado, inclusive biópsia de linfonodo sentinela, com ou sem linfadenectomia.
+• Para tratamento cirúrgico paliativo de metástases viscerais e no SNC.
+• Para acompanhar os pacientes tratados cirurgicamente.
+• Para a avaliação clínica e encaminhamento de casos de lesões de pele suspeitas de
+Oncologista
+Clínico
+melanoma.
+• Para discutir a conduta terapêutica em equipe de especialistas.
+e
+Oncologista Pediátrico
+• Para avaliar, indicar e encaminhar casos para radioterapia.
+• Para avaliar, indicar, prescrever e monitorar tratamento sistêmico adjuvante.
+• Para avaliar indicar, prescrever e monitorar tratamento sistêmico paliativo.
+• Para acompanhar os pacientes tratados.
+Médico Nuclear
+• Para linfocintilografia pré-operatória se for realizado biópsia de linfonodo sentinela.
+• Para interpretação dos respectivos exames cintilográficos.
+Médico Patologista
+• Para diagnosticar e estabelecer o estadiamento patológico (a partir de material de biópsia,
+biópsia de congelação e peça cirúrgica, do tumor primário e de locais de metástases
+regionais e à distância).
+• Para discutir a conduta terapêutica em equipe de especialistas.
+Radioterapeuta
+• Para avaliar, indicar, prescrever e monitorar a radioterapia.
+(Radioncologista)
+• Para acompanhar os pacientes tratados.
+Adaptado de Swetter et al1.
+O Ministério da Saúde e as Secretarias de Saúde não padronizam nem fornecem medicamentos antineoplásicos
+diretamente aos hospitais ou aos usuários do SUS. A exceção é feita ao mesilato de imatinibe para a quimioterapia do tumor do
+estroma gastrointestinal (GIST), da leucemia mieloide crônica e da leucemia linfoblástica aguda cromossoma Philadelphia
+positivo; do nilotinibe e do dasatinibe para a quimioterapia da leucemia mieloide crônica; do rituximabe para a poliquimioterapia
+do linfoma folicular e do linfoma difuso de grandes células B; e dos trastuzumabe e pertuzumabe para a quimioterapia do
+carcinoma de mama, que são adquiridos pelo Ministério da Saúde e fornecidos aos hospitais habilitados em oncologia no SUS,
+por meio das secretarias estaduais de saúde. Os procedimentos quimioterápicos da Tabela de Procedimentos, Medicamentos,
+Órteses, Próteses e Materiais Especiais do SUS (“Tabela do SUS”) não fazem referência a qualquer medicamento e são
+aplicáveis às situações clínicas específicas para as quais as terapias antineoplásicas medicamentosas são indicadas. Ou seja, os
+hospitais credenciados pelo SUS e habilitados em Oncologia são os responsáveis pelo fornecimento de medicamentos
+oncológicos que eles, livremente, padronizam, adquirem e fornecem, cabendo-lhes codificar e registrar conforme o respectivo
+procedimento. Assim, a partir do momento em que um hospital é habilitado para prestar assistência oncológica pelo SUS, a
+responsabilidade pelo fornecimento de medicamento antineoplásico é do hospital, seja ele público ou privado, com ou sem fins
+lucrativos.
+Os procedimentos diagnósticos (Grupo 02 e seus vários subgrupos – clínicos, cirúrgicos, laboratoriais e por imagem),
+radioterápicos e quimioterápicos (Grupo 03, Subgrupo 01) e cirúrgicos (Grupo 04 e os vários subgrupos cirúrgicos por
+especialidades e complexidade) da Tabela de Procedimentos, Medicamentos e Órteses, Próteses e Materiais Especiais do SUS
+podem ser acessados, por código ou nome do procedimento e por código da CID-10 para a respectiva neoplasia maligna, no
+SIGTAP − Sistema de Gerenciamento dessa Tabela (http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp), com
+versão mensalmente atualizada e disponibilizada.
+Relativamente ao sítio primário ou secundário, os procedimentos cirúrgicos da tabela do SUS aplicáveis a pacientes
+com diagnóstico melanoma cutâneo encontram-se no Grupo 04 e podem ser acessados por código ou nome do procedimento
+e por código da CID-10.
+Os procedimentos radioterápicos da tabela do SUS aplicáveis a pacientes com diagnóstico de melanoma cutâneo são
+os seguintes:
+
+[SUBSECTION]
+03.04.01.011-1 - Internação p/ radioterapia externa (cobaltoterapia/acelerador linear)
+
+
+[SUBSECTION]
+03.04.01.040-5 - Radioterapia de pele
+
+
+[SUBSECTION]
+03.04.01.052-9 - Radioterapia de metástase em sistema nervoso central
+
+
+[SUBSECTION]
+03.04.01.053-7 - Radioterapia de plasmocitoma / mieloma / metástases em outras localizações
+
+Os procedimentos da Tabela do SUS para a quimioterapia de melanoma cutâneo são os seguintes:
+Quimioterapia paliativa – adulto
+
+[SUBSECTION]
+03.04.02.023-0 - Quimioterapia do melanoma maligno avançado
+
+Quimioterapia adjuvante (profilática) – adulto
+
+[SUBSECTION]
+03.04.05.032-6 - Quimioterapia de melanoma maligno
+
+10.

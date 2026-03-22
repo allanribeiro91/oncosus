@@ -1,0 +1,1579 @@
+# 1. INTRODUÇÃO
+O adenocarcinoma de cólon e reto, também conhecido como câncer de cólon e reto, abrange os tumores malignos do intestino grosso. Homens e mulheres são igualmente afetados pela doença, que é tratável e frequentemente curável quando diagnosticada precocemente, isto é, com localização limitada ao intestino, sem extensão para outros órgãos e sítios. Embora a recorrência após o tratamento cirúrgico seja um evento clínico relevante, sendo a causa primária de morte pela doença, a instituição precoce de tratamento eficaz pode resultar na cura1. No câncer de cólon e reto, o tipo histológico mais comum é o adenocarcinoma, correspondendo a cerca de 95% dos casos. Ainda, a caracterização molecular e análises transcriptômicas permitem a classificação em quatro subtipos moleculares, entre eles, carcinoma mucinoso e adenoescamoso2. Cerca de 75% dos casos de câncer de cólon e reto origina-se a partir de pólipos adenomatosos, pela "via adenoma-carcinoma”, com tempo de evolução que pode levar mais de 20 anos. Aproximadamente 15% dos casos são oriundos de pólipos serrilhados, pela chamada “via serrilhada”. Embora a maioria dos pólipos adenomatosos ou serrilhados não evolua para câncer, ambos estão associados a um risco aumentado de câncer de cólon ou reto, principalmente os pólipos avançados, ou seja, com 10 ou mais milímetros de diâmetro, com componente viloso ou displasia de alto grau3. O número estimado de casos novos de câncer de cólon e reto para o Brasil, para cada ano do triênio de 2023 a 2025, é de
+45.630 casos, correspondendo a um risco estimado de 21,10 casos por 100 mil habitantes, sendo 21.970 casos entre os homens e 23.660 casos entre as mulheres. Esses valores correspondem a um risco estimado de 20,78 casos novos a cada 100 mil homens e de 21,41 a cada 100 mil mulheres4,5, sendo que o sexo masculino apresenta taxas médias de sobrevida mais baixas do que o sexo feminino2. O câncer de cólon e reto é o segundo mais incidente entre os homens (28,62 casos por 100 mil) no Brasil. Na Região Sudeste é o segundo câncer mais incidente entre os homens (28,62 casos por 100 mil), assim como no Centro-oeste (17,25 por 100 mil). Na Região Sul (26,89 por 100 mil), é o terceiro tumor mais frequente, ocupando a quarta posição nas Regiões Nordeste (10,99 por 100 mil) e Norte (7,05 por 100 mil). Entre as mulheres, é o segundo mais frequente nas Regiões Sudeste (28,88 por 100 mil), Sul (26,04 por 100 mil) e Centro-oeste (16,92 por 100 mil)4,5. Cabe ressaltar que todas essas análises de incidência estão desconsiderando os cânceres de pele não melanoma. O Brasil demonstra crescimento tanto de incidência quanto de mortalidade do câncer de cólon e reto nos últimos 10 anos6. A maioria dos casos de câncer de cólon e reto é esporádica, ou seja, ocorre em pessoas que não apresentam história familiar e que pode não ter relação com fatores de risco. Contudo, alguns grupos possuem maior risco de desenvolvimento desta neoplasia: indivíduos com predisposição hereditária para câncer de cólon e reto, incluindo síndromes de câncer familial, como polipose adenomatosa familiar e síndrome de Lynch; portadores de doenças inflamatórias do intestino (doença de Crohn ou retocolite ulcerativa) e indivíduos com pólipos intestinais adenomatosos ou serrilhados avançados 3,7. Outros fatores de risco importantes para o desenvolvimento do adenocarcinoma de colón e reto na população são: obesidade, sobrepeso e sedentarismo; consumo de bebidas alcoólicas com mais de 30 gramas de etanol ingeridos por dia; tabagismo; dieta com o consumo excessivo de carnes vermelhas e carnes processadas, além de baixa ingestão de frutas, legumes e verduras 3,7. A cada porção de 50 gramas de carne processada consumida diariamente, o risco de câncer de cólon e reto aumenta em 18%1. A recomendação para a prevenção do câncer de cólon e reto é evitar totalmente o consumo de carnes processadas e limitar o consumo de carne vermelha a até 500 gramas de carne cozida por semana 8. Para reduzir a incidência do adenocarcinoma de cólon e reto é fundamental promover a conscientização da população sobre a importância da adoção de hábitos saudáveis, por meio de ações de saúde e políticas intersetoriais. Essas medidas visam não apenas promover a saúde, mas também reduzir a exposição aos fatores de risco modificáveis associados a essa doença. Outra importante estratégia de controle do adenocarcinoma de cólon e reto é o diagnóstico precoce por meio dos sinais e sintomas suspeitos, uma vez que o encaminhamento ágil e adequado para o atendimento especializado a partir da Atenção Primária, é estratégico para um melhor resultado terapêutico e prognóstico dos casos. Este PCDT visa a estabelecer os critérios diagnósticos e terapêuticos do adenocarcinoma de cólon e reto, com o objetivo de orientar, com base em evidências científicas de segurança, efetividade e reprodutibilidade, as condutas e os protocolos assistenciais mais adequados.
+
+# 2. CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À SAÚDE (CD-10)
+C18 Neoplasia maligna do cólon C18.0 Neoplasia maligna do ceco - válvula ileocecal C18.1 Neoplasia maligna do apêndice (vermiforme) C18.2 Neoplasia maligna do cólon ascendente C18.3 Neoplasia maligna da flexura (ângulo) hepática(o) C18.4 Neoplasia maligna do cólon transverso C18.5 Neoplasia maligna da flexura (ângulo) esplênica(o) C18.6 Neoplasia maligna do cólon descendente C18.7 Neoplasia maligna do cólon sigmoide – exclui junção retossigmoide C18.8 Neoplasia maligna do cólon com lesão invasiva C18.9 Neoplasia maligna do cólon, não especificado C19 Neoplasia maligna da junção retossigmoide C20 Neoplasia maligna do reto
+
+# 3. DIAGNÓSTICO E ESTADIAMENTO
+
+## 3.1. DIAGNÓSTICO E ESTADIAMENTO
+Detecção precoce, rastreamento e prevenção secundária A detecção precoce é dividida em duas grandes estratégias: o diagnóstico precoce e o rastreamento. Diagnóstico precoce refere-se às estratégias para facilitar a investigação diagnóstica e posterior tratamento dos casos confirmados para os indivíduos com sinais e sintomas suspeitos 9. Os sinais e sintomas suspeitos de adenocarcinoma de cólon e reto são relativamente inespecíficos e incluem: mudanças de hábito intestinal, perda inexplicável de peso, anemia por deficiência de ferro, fezes escuras ou com sangue visível, massa abdominal e dor abdominal persistente 3. O rastreamento para o câncer de cólon e reto refere-se à realização de exames de rotina em indivíduos clinicamente assintomáticos. A estratégia mais utilizada para rastreamento é a detecção de sangue oculto nas fezes, que pode ser o sinal indicativo da presença de um pólipo, permitindo a sua remoção antes da sua transformação ou ainda, representar a detecção de um tumor maligno em uma fase muito inicial. O rastreamento de base populacional se refere a programas organizados de rastreamento, nos quais a população-alvo é convidada para realização de exames de rastreamento na periodicidade e faixa etária indicadas, além de agregar diversos outros aspectos como, por exemplo, controle de qualidade dos exames. A Organização Mundial de Saúde recomenda que países que não possuem infraestrutura e recursos humanos suficientes para viabilizar o rastreamento populacional devem priorizar o uso desses recursos para facilitar a investigação diagnóstica de casos sintomáticos suspeitos 3. A avaliação da incorporação de um programa de rastreamento de câncer deve incluir avaliação rigorosa das evidências de efetividade, do balanço entre de riscos e benefícios, eficiência, impacto orçamentário e de diversos aspectos programáticos. A avaliação da incorporação de um programa de rastreamento do câncer colorretal está fora do escopo do presente PCDT e será tratada em documentos técnicos específicos 3.
+
+## 3.2. Diagnóstico
+O diagnóstico do adenocarcinoma de cólon e reto é confirmado por meio do estudo anatomopatológico de amostra do tumor primário ou de lesão de metástase relacionada. Essas amostras podem ser obtidas através de biópsias pela via endoscópica (colonoscopia/retossigmoidoscopia) ou por agulha guiada por método de imagem, ou, ainda, análise direta do tumor após ressecção cirúrgica, nos casos sem diagnóstico prévio, submetidos a cirurgia em caráter de urgência. Uma vez confirmado o diagnóstico, o próximo passo é o estadiamento clínico, que tem como objetivo mapear a extensão da doença local (na topografia do tumor primário) e à distância (presença de metástase). O estadiamento clínico do câncer colorretal é realizado através de tomografia computadorizada de tórax, abdome e pelve. Estes exames devem ser feitos, sempre que possível, antes da realização de intervenções terapêuticas, seja cirurgia, quimioterapia e/ou radioterapia, pois podem alterar a conduta de tratamento. Em pacientes que não podem realizar infusão de contraste iodado ou cuja tomografia com contraste de abdome apresente achados duvidosos quanto a presenças de lesões metastáticas, recomenda-se a realização complementar de ressonância magnética de abdome superior 10,11. No adenocarcinoma de reto, a ressonância magnética de pelve permite avaliação detalhada quanto ao risco de invasão e comprometimento de fáscia mesorretal, bem como de vasos de diferentes calibres e linfonodos mesorretais, informações que impactam na definição da estratégia terapêutica subsequente. A realização de Tomografia por Emissão de Pósitrons associada à Tomografia Computadorizada (PET-TC) para estadiamento ou para seguimento não é recomendada de rotina, visto que não apresenta superioridade em relação aos demais métodos quanto a desfechos que podem proporcionar mudanças de conduta clínica 12–14. Porém, o PET-TC pode ser empregado em casos selecionados quando há metástase exclusivamente hepática e potencialmente ressecável de câncer colorretal 15. Pacientes com diagnóstico confirmado de adenocarcinoma de cólon e reto devem realizar exames laboratoriais: hemograma completo, função bioquímica, função renal, enzimas hepáticas e canaliculares, bilirrubinas totais e frações e antígeno carcinoembrionário (CEA). O CEA com valor aumentado (maior que 5 mcg/L) no pré-operatório denota pacientes que tem pior prognóstico, exceto os que, após a cirurgia, tem normalização dos seus valores. O CEA também pode ser utilizado como monitorização de eficácia de quimioterapia nos casos com doença metastática 16,17. Os demais exames têm a função de avaliar o status de saúde e funções orgânicas gerais do paciente. Recomenda-se a realização de teste imunohistoquímico da amostra de tecido tumoral para avaliação da proficiência de enzimas de reparo em todos os pacientes com diagnóstico de adenocarcinoma de cólon e reto 18. Caso o perfil do tumor seja instável, recomenda-se avaliação quanto a presença da síndrome de Lynch.
+
+## 3.3. Estadiamento
+Compreender o estadiamento patológico juntamente aos valores prognósticos é essencial para a tomada de decisão terapêutica. O estadiamento mais utilizado é o da União Internacional Contra o Câncer (UICC), a Classificação de Tumores Malignos, que utiliza as categorias T (tamanho e extensão do tumor primário) (Quadro 1), N (acometimento linfonodal) (Quadro 2) e M (metástase a distância) (Quadro 3), chamada simplificadamente de classificação TNM (Quadro 4) 19. Também é utilizado o sistema TNM da American Joint Committee for Cancer (AJCC) 20, cuja 8ª edição expandiu a classificação e estadiamento para além dos sítios anatômicos e incluiu outros fatores prognósticos, como o grau histológico e o perfil imunohistoquímico.
+
+[QUADRO] id: quadro_1 titulo: Profundidade de invasão – Tumor primário T tipo: classificacao_tumor_primario_t
+
+Classificação T (Tumor Primário):
+
+---
+
+Categoria: TX Definição:
+- Não é possível avaliar o tumor primário
+
+---
+
+Categoria: T0 Definição:
+- Sem evidência de tumor primário
+
+---
+
+Categoria: Tis Definição:
+- Carcinoma in situ
+- Carcinoma intramucoso
+
+---
+
+Categoria: T1 Definição:
+- Tumor invade a submucosa
+
+---
+
+Categoria: T2 Definição:
+- Tumor invade a muscular própria
+
+---
+
+Categoria: T3 Definição:
+- Tumor invade através da muscular própria os tecidos pericólicos
+
+---
+
+Categoria: T4 Definição:
+- Tumor invade e/ou perfura o peritônio visceral
+- Ou invade órgãos/estruturas vizinhas
+
+Subcategoria: T4a Definição:
+- Tumor perfura o peritônio visceral
+
+Subcategoria: T4b Definição:
+- Tumor invade diretamente órgãos/estruturas vizinhas
+
+---
+
+Observações:
+
+- Sistema de classificação:
+- TNM (Tumor, Node, Metastasis)
+
+- Aplicação:
+- Avaliação da profundidade de invasão do tumor primário
+
+- Estrutura hierárquica:
+- TX → desconhecido
+- T0 → ausência de tumor
+- Tis → estágio inicial (in situ)
+- T1–T4 → progressão crescente de invasão
+
+- Fonte:
+- Adaptado da União Internacional Contra o Câncer (UICC), 8ª edição [/QUADRO]
+
+[QUADRO] id: quadro_2 titulo: Linfonodos regionais – N tipo: classificacao_linfonodos_regionais_n
+
+Classificação N (Linfonodos Regionais):
+
+---
+
+Categoria: NX Definição:
+- Não é possível avaliar os linfonodos regionais
+
+---
+
+Categoria: N0 Definição:
+- Não há metástases linfonodais
+
+---
+
+Categoria: N1 Definição:
+- 1 a 3 linfonodos acometidos
+- Considera:
+- Tumor em linfonodo > 0,2 mm
+- Ou depósito tumoral descontínuo com linfonodos negativos
+
+Subcategoria: N1a Definição:
+- 1 linfonodo acometido
+
+Subcategoria: N1b Definição:
+- 2 ou 3 linfonodos acometidos
+
+Subcategoria: N1c Definição:
+- Linfonodos negativos
+- Presença de depósitos tumorais em:
+- Subserosa
+- Mesentério
+- Tecido pericólico
+- Tecido perirretal
+- Tecido mesorretal não peritonealizado
+
+---
+
+Categoria: N2 Definição:
+- 4 ou mais linfonodos acometidos
+
+Subcategoria: N2a Definição:
+- 4 a 6 linfonodos acometidos
+
+Subcategoria: N2b Definição:
+- 7 ou mais linfonodos acometidos
+
+---
+
+Observações:
+
+- Sistema de classificação:
+- TNM (Tumor, Node, Metastasis)
+
+- Aplicação:
+- Avaliação do comprometimento linfonodal regional
+
+- Estrutura hierárquica:
+- NX → não avaliável
+- N0 → ausência de metástase linfonodal
+- N1–N2 → progressão crescente do número de linfonodos acometidos
+
+- Fonte:
+- Adaptado da União Internacional Contra o Câncer (UICC), 8ª edição [/QUADRO]
+
+[QUADRO] id: quadro_3 titulo: Presença de metástases – M tipo: classificacao_metastases_m
+
+Classificação M (Metástases à Distância):
+
+---
+
+Categoria: M0 Definição:
+- Sem metástases à distância
+
+---
+
+Categoria: M1 Definição:
+- Metástases em órgãos distantes
+- Ou metástases no peritônio
+
+Subcategoria: M1a Definição:
+- Metástases em 1 órgão
+- Sem metástases peritoneais
+
+Subcategoria: M1b Definição:
+- Metástases em 2 ou mais órgãos
+- Sem metástases peritoneais
+
+Subcategoria: M1c Definição:
+- Metástases no peritônio
+- Com ou sem acometimento de outros órgãos
+
+---
+
+Observações:
+
+- Sistema de classificação:
+- TNM (Tumor, Node, Metastasis)
+
+- Aplicação:
+- Avaliação da presença e extensão de metástases à distância
+
+- Estrutura hierárquica:
+- M0 → ausência de metástase
+- M1 → presença de metástase
+- M1a → 1 órgão
+- M1b → múltiplos órgãos
+- M1c → peritônio
+
+- Fonte:
+- Adaptado da União Internacional Contra o Câncer (UICC), 8ª edição [/QUADRO]
+
+[QUADRO] id: quadro_4 titulo: Estadiamento com base no sistema TNM tipo: estadiamento_tnm
+
+Sistema de Estadiamento TNM:
+
+---
+
+Estádio: 0 Critérios:
+- T: Tis
+- N: N0
+- M: M0
+
+---
+
+Estádio: I Critérios:
+- T: T1, T2
+- N: N0
+- M: M0
+
+---
+
+Estádio: II Critérios:
+- T: T3, T4
+- N: N0
+- M: M0
+
+Subestádio: IIA Critérios:
+- T: T3
+- N: N0
+- M: M0
+
+Subestádio: IIB Critérios:
+- T: T4a
+- N: N0
+- M: M0
+
+Subestádio: IIC Critérios:
+- T: T4b
+- N: N0
+- M: M0
+
+---
+
+Estádio: III Critérios:
+- T: Qualquer T
+- N: N1, N2
+- M: M0
+
+Subestádio: IIIA Critérios:
+- T: T1–T2
+- N: N1 ou N1c
+- M: M0
+
+Subestádio: IIIA Critérios:
+- T: T1
+- N: N2a
+- M: M0
+
+Subestádio: IIIB Critérios:
+- T: T3–T4a
+- N: N1 ou N1c
+- M: M0
+
+Subestádio: IIIB Critérios:
+- T: T2–T3
+- N: N2a
+- M: M0
+
+Subestádio: IIIB Critérios:
+- T: T1–T2
+- N: N2b
+- M: M0
+
+Subestádio: IIIC Critérios:
+- T: T4a
+- N: N2a
+- M: M0
+
+Subestádio: IIIC Critérios:
+- T: T3–T4a
+- N: N2b
+- M: M0
+
+Subestádio: IIIC Critérios:
+- T: T4b
+- N: N1–N2
+- M: M0
+
+---
+
+Estádio: IV Critérios:
+- T: Qualquer T
+- N: Qualquer N
+- M: M1
+
+Subestádio: IVA Critérios:
+- T: Qualquer T
+- N: Qualquer N
+- M: M1a
+
+Subestádio: IVB Critérios:
+- T: Qualquer T
+- N: Qualquer N
+- M: M1b
+
+Subestádio: IVC Critérios:
+- T: Qualquer T
+- N: Qualquer N
+- M: M1c
+
+---
+
+Observações:
+
+- Sistema:
+- TNM (Tumor, Node, Metastasis)
+
+- Lógica:
+- Estadiamento combina:
+- Profundidade do tumor (T)
+- Comprometimento linfonodal (N)
+- Metástases à distância (M)
+
+- Progressão:
+- Estádio 0 → doença in situ
+- Estádios I–III → doença localizada/locorregional
+- Estádio IV → doença metastática
+
+- Fonte:
+- Adaptado da União Internacional Contra o Câncer (UICC), 8ª edição [/QUADRO]
+
+# 4. CRITÉRIOS DE INCLUSÃO
+Serão incluídos pacientes com qualquer idade e suspeita ou diagnóstico de adenocarcinoma de cólon e reto, que compreende neoplasia maligna do cólon ascendente, descendente, transverso e sigmoide, além de neoplasia maligna do ceco, do apêndice, das flexuras hepática e esplênica, da junção retossigmoide e do reto. Nota: Não serão incluídos pacientes com carcinoma epidermoide do reto, GIST, tumor neuroendócrino, linfomas, sarcomas e outras histologias raras e o carcinoma de canal anal.
+
+# 5. CRITÉRIO DE EXCLUSÃO
+Pacientes que apresentem intolerância, hipersensibilidade ou contraindicação a medicamento ou procedimento preconizado neste Protocolo deverão ser excluídos do uso do respectivo medicamento ou procedimento preconizado.
+
+# 6. TRATAMENTO
+
+## 6.1. Tratamento não medicamentoso
+O tratamento não medicamentoso do câncer de colón e reto inclui as seguintes abordagens: tratamento cirúrgico, radioterapia e métodos ablativos térmicos.
+
+### 6.1.1. Tratamento cirúrgico
+A cirurgia persiste ocupando o pilar central do tratamento curativo do adenocarcinoma de cólon e reto. Em associação à quimioterapia e radioterapia para o tratamento curativo do adenocarcinoma de câncer de cólon e reto, as vias de acesso minimamente invasivas têm sido associadas à menor morbidade, internação mais curta e menor taxa de conversão para a cirurgia convencional e aberta.
+
+#### 6.1.1.1. Adenocarcinoma de cólon
+Na cirurgia do adenocarcinoma de cólon é fundamental garantir margens satisfatórias (aproximadamente 5 cm) na ressecção colônica, juntamente com uma linfadenectomia adequada. Esta última envolve a ligadura dos vasos nutridores em suas origens do segmento colônico correspondente, sendo essencial uma amostragem linfonodal mínima de 12 linfonodos. Técnicas minimamente invasivas podem ser empregadas sempre que possível, visto que demonstram possibilitar menor tempo de internação, requerem menos uso de analgésicos e menor perda sanguínea quando realizada por via laparoscópica, oferecendo resultados de sobrevida global e sobrevida livre de doença semelhantes ao da cirurgia convencional 21–23. Pacientes com adenocarcinoma de cólon estádios 0 ou I ressecados pela via endoscópica, cujo anatomopatológico após a ressecção apresente todos os critérios favoráveis, tais como: invasão de até 1.000 micra da submucosa; ausência de invasão angiolinfática; histologia bem diferenciada; ausência de tumor budding; margens livres, são considerados curados. Tumores com invasão de órgãos adjacentes (T4b) requerem ressecção em bloco da estrutura acometida por contiguidade a fim de garantir margens livres de ressecção 24. A presença de doença metastática não é uma contraindicação para realização de cirurgia radical com intenção curativa. A indicação de cirurgia nesse cenário dependerá da extensão e do sítio da metástase, além da ressecabilidade da doença metastática 25. Na presença de doença metastática irressecável, a ressecção do tumor primário de forma paliativa pode ser indicada para controle de sintomas (sangramento, obstrução ou perfuração). Paciente com doença peritoneal pode se beneficiar com a citorredução cirúrgica em casos com índice de carcinomatose baixo (ICP <10) ou possibilidade de ressecções R0. O objetivo da citorredução é remover o máximo possível de lesões tumorais, visto que quanto menor o volume tumoral residual após a cirurgia, melhores são os resultados. Para acessar a distribuição da doença na superfície peritoneal, a cavidade abdominal é dividida em 13 regiões, onde cada região recebe uma pontuação de 0-3 (índice de tamanho tumoral), a depender do volume de implantes tumorais encontrados em cada uma delas e, ao final, obtêm-se o Índice de Câncer Peritoneal (ICP). As regiões no abdome são divididas em: central, hipocôndrio direito, epigástrio, hipocôndrio esquerdo, flanco esquerdo, fossa ilíaca esquerda, pelve, fossa ilíaca direita, flanco direito, jejuno proximal, jejuno distal, íleo proximal, íleo distal. O índice de tamanho tumoral é classificado como LS (do inglês lesion size score) 0, quando não há lesão, LS 1, quando existe nódulos até 0,5 cm, LS 2 quando existe nódulos entre 0,5 e 5,0 cm e LS 3 na presença de nódulos maiores que 5,0 cm ou confluentes. Desta forma o índice de carcinomatose pode variar de 0-39 e é utilizado, principalmente, para quantificar o volume de doença peritoneal e estimar a possibilidade de citorredução nos pacientes com neoplasias disseminadas no peritônio 26. Após a análise dos resultados do estudo PRODIGE 7 27, que avaliou o benefício da HIPEC (Hipertermia Intraperitoneal Pós-Citorredutora) associada à citorredução cirúrgica no câncer colorretal com metástases peritoneais, sem evidência de benefícios em termos de sobrevida global, recomenda-se que a cirurgia citorredutora isolada seja considerada a principal estratégia terapêutica para metástases peritoneais. Dessa forma, a HIPEC não é preconizada por este Protocolo, devido às evidências disponíveis e não avaliação pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde para essa indicação específica.
+
+#### 6.1.1.2. Adenocarcinoma de reto
+De forma simplificada, o reto é a parte final do intestino grosso localizada acima da linha pectínea e se estende por aproximadamente 15 cm até o ponto onde termina a tênia, integrando a musculatura longitudinal dessa região. Na prática clínica, o reto é frequentemente dividido em três segmentos para facilitar a análise: o segmento inferior ou distal (até 5 cm da margem anal), o segmento médio (de 5 a 10 cm da margem anal) e o segmento superior ou proximal (de 10 a 15 cm da margem anal). Os tumores retais também são classificados com base em sua localização em relação à dobra peritoneal, podendo ser intraperitoneais, se localizados no reto alto, ou extraperitoneais, se encontrados no reto médio e baixo. A mensuração exata da distância entre a extremidade inferior do tumor e a margem anal é crucial, especialmente em tumores do reto inferior, pois impacta diretamente na decisão de realizar a amputação retal e a colostomia definitiva 28. A técnica cirúrgica preconizada no adenocarcinoma de reto é a excisão total do mesorreto (TME), que tem como fundamento a dissecção fina seguindo o plano embriológico avascular entre a fáscia mesorretal e a fáscia endopélvica, ressecando todo o estojo mesorretal de forma íntegra e sem violação do compartimento mesorretal. A TME se constitui como base fundamental do tratamento cirúrgico do câncer de reto extraperitoneal (localizado abaixo da reflexão peritoneal) 29. Para os tumores do reto intraperitoneal, recomenda-se que a excisão mesorretal seja parcial, ou seja, uma ressecção do mesorreto englobando 5 cm distais ao tumor, pois não há necessidade de ressecção de todo estojo mesorretal até o nível do diafragma pélvico, como é feito na TME. A disseminação da TME como técnica padrão-ouro no tratamento de câncer de reto extraperitoneal confirmou a importância da ressecção adequada do estojo mesorretal sem violação da fáscia mesorretal. A qualidade da TME produzida pelo cirurgião e o comprometimento da margem radial são fatores prognósticos decisivos relacionados à recidiva local. A violação do estojo mesorretal durante a cirurgia propicia chance significativamente maior de recidiva local 30. A avaliação da qualidade da ressecção do espécime cirúrgico (protocolo de Quirke 31) pelo patologista serve como auditoria da qualidade da técnica cirúrgica empregada e que tem correlação direta com recidiva local 32. Em relação à linfadenectomia a ser empregada, a TME realizada de forma adequada engloba todos os linfonodos mesorretais sob risco de metástase, sendo uma base fundamental do tratamento cirúrgico. A linfadenectomia da artéria mesentérica inferior e suas ramificações (artérias retais) é parte importante da técnica cirúrgica no câncer de reto pois engloba os linfonodos craniais que seguem os vasos retais e artéria mesentérica inferior, devendo ser realizada de forma rotineira. Quanto à linfadenectomia lateral, não há um consenso na literatura sobre utilizá-la ou não como parte da rotina cirúrgica 25. A preservação nervosa representa um passo fundamental no tratamento cirúrgico de câncer de reto, pois as sequelas produzidas pela lesão do plexo autonômico pélvico são responsáveis por sequelas na esfera urinária e sexual. Desta forma, o esforço em preservar a anatomia nervosa pélvica durante a cirurgia do reto é fundamental para reduzir sequelas relacionadas ao procedimento 25. A excisão local é indicada como tratamento de câncer de reto apenas em situações em que o paciente não tenha condição clínica para ser submetido ao tratamento radical (TME), pois foram observadas taxa de recidiva em torno de 18% e 37% para tumores T1 e T2 tratados com excisão local isoladamente 25. A cirurgia minimamente invasiva no câncer de reto permite uma recuperação pós-operatória mais rápida (menor tempo de internação, retorno mais precoce à dieta, menor uso de analgésicos e menos complicações relacionadas à parede abdominal), além de resultados oncológicos semelhantes quando comparada à cirurgia convencional 33,34. Pacientes com câncer de reto inferior, que demonstraram resposta completa ao tratamento neoadjuvante, podem ser selecionados para não realização da cirurgia, com o objetivo de preservação de órgãos e redução de complicações. Este procedimento só poderá ser adotado em casos em que o paciente tem garantia de acesso a protocolos de controle rígidos, com a realização de exames de acompanhamento frequentes.
+
+#### 6.1.1.3. Cuidados nutricionais perioperatórios
+A avaliação nutricional adequada é fundamental no tratamento cirúrgico do adenocarcinoma de cólon e reto, visto que uma parcela significativa dos pacientes possui risco nutricional. O íleo metabólico pós-operatório ocorre em cerca de 30% dos pacientes, postergando o início da dieta e aumentando a estadia hospitalar e os custos. Para minimizar a sua ocorrência, é importante reduzir o volume de hidratação venosa ofertado aos pacientes no intra e pós-operatório. Esta redução de fluidos também está associada à diminuição do uso de analgésicos opioides, os quais também potencializam o íleo metabólico e são fatores de risco para imunodeficiência. Ainda como parte destes cuidados, a abreviação de jejum pré e pós-operatório é um procedimento seguro, que modula a resposta inflamatória por diminuir a resistência insulínica, é mais confortável para o paciente e possui poucas contraindicações.
+
+### 6.1.2.  Radioterapia
+Para pacientes com adenocarcinoma de cólon, a radioterapia não é recomendada rotineiramente no tratamento adjuvante. Evidências limitadas sugerem que pacientes selecionados poderiam ser beneficiados pela irradiação do leito tumoral em situações clínicas específicas (lesão T4, presença de perfuração ou obstrução intestinal e doença residual pós-operatória) 35. Para pacientes com adenocarcinoma de reto em estágio inicial (T1-T2, N0, M0), a radioterapia neoadjuvante não é recomendada, bem como, para tumores de reto alto. Para câncer de reto T3-T4 e/ou N1-3 localmente avançado, localizado no reto baixo ou médio, independentemente do local e do estágio, o tratamento curativo consiste em radioterapia neoadjuvante, seguida de cirurgia. A radioterapia ou quimiorradioterapia neoadjuvante do câncer de reto é preferível à radioterapia adjuvante devido à melhor adesão, menor toxicidade e maior eficácia em termos de controle local 36,37. Quanto à indicação da radioterapia adjuvante para pacientes com adenocarcinoma de reto no estádio I (pT1, pT2, pN0, pM0), esta deve considerar a extensão da neoplasia e o grau de diferenciação histológica do tumor: - Tumor com margem comprometida 38; - Invasão linfovascular; - Grau III; - Invasão da submucosa até a o 1/3 inferior. Além disso, a radioterapia adjuvante deve ser considerada em casos com alto risco de recorrência local, estádio patológico II e III, se a radioterapia pré-operatória não tiver sido administrada, também para tumores com margem circunferencial inferior a 1 mm e nos casos onde a avaliação linfonodal foi inadequada ou não realizada (pNx). O mais comumente utilizado para a terapia neoadjuvante é a quimiorradioterapia de “curso longo” usando doses convencionais de 1,8 a 2 Gy por fração durante 5 a 6 semanas para uma dose total de 45 a 50,4 Gy concomitante ao uso de 5 fluoruracila (5FU) em infusão contínua ou capecitabina oral 36,39–41. Em pacientes idosos ou que não toleram a cirurgia, pode se usar a radioterapia definitiva, com doses maiores, como 54 Gy. O curso longo deve ser preferencial quando os tumores forem de reto baixo e há a intenção de redução tumoral para evitar colostomia definitiva. Para pacientes com câncer de reto recebendo radioterapia neoadjuvante de curta duração, recomenda-se a aplicação de 25 Gy em 5 frações de 5 Gy ao longo de uma semana com ou sem quimioterapia concomitante 36,40. A data da radioterapia e a de reavaliação cirúrgica devem estar sempre alinhadas para a melhor resposta ao tratamento. A adição de quimioterapia concomitante à radiação fornece radiossensibilização, aumenta a taxa de reposta patológica completa (RPc), mas também pode aumentar a toxicidade, a depender do esquema quimioterápico utilizado 39.
+
+### 6.1.3.  Métodos ablativos térmicos
+Os métodos ablativos térmicos utilizam calor ou frio para destruir as células cancerígenas provenientes de metástases de câncer de cólon e reto no fígado. A ablação por radiofrequência e por micro-ondas envolve a colocação de um ou mais eletrodos no tumor 42 usando orientação de imagem, como ultrassonografia (com ou sem contraste) ou tomografia computadorizada (com ou sem contraste). Uma corrente alternada de alta frequência é aplicada, causando a necrose de coagulação e, consequentemente, a destruição do tecido ao redor dos eletrodos. A seleção do paciente que realizará o procedimento deve ser realizada por uma equipe multidisciplinar, sendo utilizada uma abordagem percutânea ou intraoperatória, com o paciente sob sedação venosa e anestesia geral 43. Para metástases hepáticas colorretais ressecáveis, a ablação por radiofrequência pode ser utilizada conjuntamente à ressecção cirúrgica, sendo aplicada em lesões de difícil ressecção ou que comprometeriam a remoção de uma grande área de parênquima hepático. A ablação por micro-ondas é um método ablativo que utiliza ondas eletromagnéticas que criam altas temperaturas para destruir rapidamente os tumores de até 3 cm de diâmetro. A ablação por micro-ondas é uma tecnologia mais recente que a radiofrequência no tratamento de tumores hepáticos. Ela tem a vantagem de causar ablações maiores, mais homogêneas, mais esféricas e mais previsíveis que a radiofrequência. Além disso, é uma tecnologia mais rápida e menos susceptível à perda de eficácia quando aplicada perto de grandes vasos sanguíneos. Para pacientes com metástases irressecáveis, a evidência sugerindo eficácia e segurança de ablação por micro-ondas permanece escassa 45, no entanto, esta modalidade de ablação tem se mostrado uma opção para uso conjunto à ressecção hepática 46,47. A evidência mostra que a eficácia dos métodos ablativos para o tratamento de tumores hepáticos aumentou de forma expressiva. A sobrevida livre de progressão local melhorou significativamente, passando de 38%, em 2013, para 69% em 2017 e, em 2021, chegando a 86%. O aumento desta eficácia tem sido atribuído à seleção adequada dos pacientes, controle adequado da área de ablação, além da incorporação de novas tecnologias, com substituição progressiva da radiofrequência pelas micro ondas. Após avaliação pela Conitec, a ablação térmica para o tratamento de metástase hepática irressecável ou ressecável com alto risco cirúrgico do câncer de cólon e reto foi incorporada ao SUS, conforme Portaria SECTICS/MS nº 06/2024. Ressalta-se que, conforme as evidências clínicas atualmente disponíveis para a ablação por radiofrequência, são elegíveis a realizar o procedimento de ablação térmica os pacientes entre 18 e 80 anos com câncer de cólon ou reto, status de desempenho da Organização Mundial da Saúde menor ou igual a 1 e medula óssea, função hepática e renal adequadas e:
+- metástase hepática não ressecáveis (nenhuma possibilidade de ressecção completa de todas as lesões tumorais) sem doença extra-hepática detectável, conforme avaliação em tomografia computadorizada abdomino-pélvica ou ressonância magnética e tomografia computadorizada de tórax, com até 10 metástases hepáticas, com diâmetro máximo de 4 cm e em que o envolvimento metastático do fígado era de até 50% e o tratamento completo de todas as lesões hepáticas era considerado possível; ou
+- metástase hepática ressecável, mas com alto risco cirúrgico, ou seja, que não podem realizar a ressecção cirúrgica. Destaca-se que não são elegíveis à realização do procedimento de ablação térmica pacientes com tumor primário, qualquer outra doença maligna nos últimos 10 anos (exceto carcinoma do colo do útero in situ ou câncer de pele não melanoma), neuropatia sensorial superior a grau 1, doença cardiovascular clinicamente significativa, hipertensão não controlada, distúrbios hemorrágicos ou coagulopatia e infecção ativa. Ressalta-se que, devido à ausência de evidências clínicas acerca da ablação térmica por microondas, serão considerados os mesmos critérios de elegibilidade da ablação por radiofrequência.
+
+## 6.2. Tratamento medicamentoso
+Os tratamentos preconizados neste Protocolo são baseados na literatura científica atual que demonstra impacto na história natural da doença, nas tecnologias com indicação relacionada ao adenocarcinoma de cólon e reto aprovadas pela Agência Nacional de Vigilância Sanitária (Anvisa) com o objetivo principal de reduzir a mortalidade da doença e nas recomendações da Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec). Este PCDT abordará os esquemas terapêuticos atualmente disponíveis no Sistema Único de Saúde (SUS). Alguns medicamentos citados no texto não possuem recomendação favorável de incorporação e, portanto, não estão indicados como alternativas terapêuticas no SUS. Os esquemas terapêuticos já incorporados ao SUS estão destacados nos quadros de acordo com as linhas de tratamento. As novas tecnologias em fase de avaliação ou que serão demandadas para análise pela Conitec serão incluídas nas versões subsequentes para garantir a sua atualização constante. O uso da terapia antineoplásica deverá fazer parte de um plano terapêutico global para pacientes clinicamente aptos ao tratamento, segundo suas finalidades. A quimioterapia infusional ambulatorial para o tratamento de adenocarcinoma de cólon e reto, utilizando uma bomba elastomérica, oferece benefícios significativos aos pacientes. Este método permite uma administração contínua e controlada do medicamento, mantendo níveis terapêuticos adequados por um período prolongado. Além disso, a utilização da bomba elastomérica reduz a necessidade de múltiplas visitas hospitalares para infusões, proporcionando maior comodidade e qualidade de vida aos pacientes. Essa abordagem deve ser instituída sempre que possível, deve ser personalizada e pode contribuir para uma melhor resposta ao tratamento e potencialmente melhorar os resultados a longo prazo no combate ao câncer colorretal. No adenocarcinoma de cólon e reto, a quimioterapia pode ser considerada nos seguintes pacientes:
+- Quimioterapia prévia (neoadjuvante) – realizada antes do procedimento cirúrgico em pacientes com adenocarcinoma de reto no estádio II ou III, associada ou não à radioterapia; não é preconizada para pacientes com adenocarcinoma de cólon.
+- Quimioterapia adjuvante: realizada após procedimento cirúrgico em pacientes com adenocarcinoma de cólon ou reto (com adenocarcinoma no estádio III e, excepcionalmente, no estádio II);
+- Quimioterapia paliativa – realizada em pacientes com câncer cólon ou reto recidivado inoperável ou com doença no io IV ao diagnóstico, desde que apresente capacidade funcional ECOG 0, 1 ou 2 e expectativa de vida maior que seis meses. Também contempla a quimioterapia de conversão, nos casos de metástases hepáticas potencialmente ressecável.
+
+### 6.2.1.  Quimioterapia prévia
+
+#### 6.2.1.1. Cólon
+O papel da terapia neoadjuvante no adenocarcinoma de cólon não é bem estabelecido, ao contrário do que ocorre no adenocarcinoma retal. No entanto, há um crescente interesse em seus potenciais benefícios, especialmente para casos de alto risco.
+
+#### 6.2.1.2. Reto
+A terapia neoadjuvante clássica consiste em radioterapia ou quimiorradioterapia seguida de cirurgia, com quimioterapia sistêmica pós-operatória (adjuvante). A duração do tratamento em geral é de três a seis meses, determinada pelo plano terapêutico, toxicidade e resposta objetiva à quimioterapia, podendo ser empregado concomitante ou não à radioterapia 51,52,53. Já a terapia neoadjuvante total (TNT) é uma abordagem em que os pacientes concluem toda a radioterapia e quimioterapia pretendidas antes de serem submetidos à cirurgia com intenção curativa, e pode ser classificada como de indução (quimioterapia sistêmica seguida de quimiorradioterapia) ou de consolidação (quimiorradioterapia inicial seguida de quimioterapia). A radioterapia em contexto de TNT pode ser de intervalo curto (hipofracionada) ou de intervalo longo (fracionamento convencional). Esses esquemas de radioterapia podem ser associados tanto à TNT de indução ou consolidação. A TNT pode ser considerada no tratamento inicial do adenocarcinoma retal médio ou baixo em estád io II ou III. No cenário de resposta clínica completa, a preservação do reto é viável, oncologicamente segura e associada à menor morbidade comparada aos tratamentos convencionais. Não há aumento na toxicidade grau 3 relacionada ao tratamento do adenocarcinoma do reto com TNT em comparação à quimioterapia e radioterapia convencionais. Os esquemas de quimioterapia neoadjuvante estão descritos no Quadro 5. [QUADRO] id: quadro_5 titulo: Esquemas terapêuticos para quimioterapia neoadjuvante em pacientes com adenocarcinoma de reto tipo: esquemas_neoadjuvantes_reto
+
+Contexto:
+- Doença: Adenocarcinoma de reto
+- Estratégia: Quimioterapia neoadjuvante
+- Objetivo: Redução tumoral antes de tratamento definitivo
+
+---
+
+Esquema: Capecitabina Composição:
+- Capecitabina
+
+---
+
+Esquema: Fluorouracil Composição:
+- Fluorouracil
+
+---
+
+Esquema: Fluorouracil + ácido folínico Composição:
+- Fluorouracil
+- Ácido folínico
+
+---
+
+Esquema: Fluorouracil + ácido folínico + oxaliplatina + irinotecano Composição:
+- Fluorouracil
+- Ácido folínico
+- Oxaliplatina
+- Irinotecano
+
+---
+
+Esquema: Oxaliplatina + ácido folínico + fluorouracil Composição:
+- Oxaliplatina
+- Ácido folínico
+- Fluorouracil
+
+---
+
+Esquema: Capecitabina + oxaliplatina Composição:
+- Capecitabina
+- Oxaliplatina
+
+---
+
+Observações:
+
+- Administração:
+- Os medicamentos podem ser administrados por:
+- Infusão prolongada
+- Infusão curta
+- Depende de:
+- Disponibilidade
+- Organização do serviço
+
+- Fonte:
+- Elaboração própria [/QUADRO]
+
+O estudo PRODIGE-23, que propõe o uso de seis ciclos do regime FOLFIRINOX seguido de quimioradioterapia de longa duração, cirurgia e seis ciclos adicionais do regime FOLFOX adjuvante, em pacientes com câncer de reto localmente avançado, demonstrou aumento das taxas de resposta patológica completa, da sobrevida livre de recidiva e da sobrevida global quando comparado ao regime neoadjuvante clássico composto por quimioradioterapia, cirurgia e quimioterapia adjuvante. O regime FOLFIRINOX no estudo PRODIGE-23 apresentou neutropenia grave em 45%, diarreia em 12%, neuropatia sensitiva em 9%, fatiga severa em 24%, náuseas e vômitos em 15%, e estomatite em 6% dos pacientes. Essas toxicidades limitantes requerem monitoramento e suporte rigorosos 57. O estudo OPRA oferece a oportunidade de iniciar o tratamento neoadjuvante total com quimioradioterapia de longa duração seguido de quimioterapia de consolidação com quatro meses de um regime baseado em oxaliplatina (capecitabina + oxaliplatina, ou 5-fluorouracil, ácido folínico, e oxaliplatina) e cirurgia. Este regime se associou a uma elevada taxa de preservação de órgão, com 54% dos pacientes livres da excisão total do mesorreto em um período de seguimento de três anos 58,59. O estudo PROSPECT propôs o uso de quimioterapia isolada com seis ciclos do regime FOLFOX seguido de cirurgia e opcionais seis ciclos de quimioterapia comparado ao regime clássico de quimioradioterapia, cirurgia e quimioterapia adjuvante. Os pacientes do braço quimioterapia isolada que apresentassem redução tumoral menor que 20% eram encaminhados para quimioradioterapia. Pacientes com tumores T4, 4 ou mais linfonodos pélvicos ou com distância menor que 3 mm da fáscia mesoretal não eram candidatos a este estudo. Os resultados demonstraram uma equivalência na sobrevida livre de recidiva entre os grupos, tornando a omissão da radioterapia uma possibilidade terapêutica em um subgrupo de pacientes com câncer de reto localmente avançado 60. O estudo RAPIDO, que propunha um regime de curta duração de radioterapia (5 frações de 5Gy) seguido de quimioterapia baseada em oxaliplatina e cirurgia, demonstrou viabilidade da técnica TNT com menor toxicidade aguda, porém com taxas muito elevadas de recorrência local em um seguimento clínico acima de cinco anos, em pacientes com câncer retal localmente avançado de alto risco 61. Como não está definida a melhor sequência de tratamento neoadjuvante, para otimizar o acesso e utilização da radioterapia, deve-se considerar o uso do protocolo RAPIDO: cinco frações de radioterapia (5 Gy) em até oito dias, seguido por seis ciclos de quimioterapia 61. Pacientes que alcancem resposta clínica completa após tratamento neoadjuvante, confirmada por avaliação clínica, radiológica e histológica, podem ser elegíveis para vigilância clínica ativa e resgate cirúrgico em caso de recidiva local da doença. No entanto, essa modalidade requer critérios de triagem rigorosos e acompanhamento padronizado.
+
+
+### 6.2.2.  Quimioterapia adjuvante
+A decisão de iniciar a quimioterapia adjuvante depende da avaliação do risco de recidiva do paciente após a ressecção do tumor. Esse risco é estimado por características clínico-patológicas do tumor e a presença ou não de instabilidade microssatélite. Os microssatélites são sequências de 1 a 6 bases do DNA repetidas, próximas ou não às regiões codificantes. A instabilidade de microssatélites é a presença de qualquer alteração no tamanho dessa sequência de DNA, causada por inserções ou deleções, e indica que a função de reparo do DNA não ocorre normalmente. O diagnóstico de instabilidade microssatélite é realizado pela comparação das características dos microssatélites do tecido tumoral e de um tecido normal do indivíduo e, na maioria dos casos, pode ser realizado por técnica de imuno-histoquímica. No adenocarcinoma de cólon e reto, estudos apontam que a presença de deficiência das enzimas de reparo/instabilidade microssatélite confere melhor prognóstico ao paciente, não sendo necessária a realização de quimioterapia adjuvante no estádio II de risco habitual, quando presente. Em pacientes com adenocarcinoma de cólon e reto, considera-se que a doença possui alto-risco de recidiva (fatores de mau prognóstico) nos seguintes pacientes 64: - Estád io clínico III; ou - Estád io clínico II, se caracterizada pelo menos uma das seguintes condições:Tumor T4; - Obstrução intestinal e/ou perfuração intestinal ao diagnóstico; - Margem cirúrgica inadequada ou indeterminada; - Peça cirúrgica com menos de 12 linfonodos ressecados; - Histologia pouco diferenciada; - Invasão de vasos sanguíneos ou linfáticos; - Invasão perineural. A quimioterapia adjuvante melhora a sobrevida livre de doença para o câncer do reto localmente avançado, mesmo no contexto de resposta patológica completa. No entanto, muitos pacientes não recebem terapia adjuvante devido a complicações pós-operatórias. A ressecção cirúrgica inicial seguida de quimioterapia adjuvante para os estádio câncer de cólon é o padrão de cuidado II de alto risco e estádio III do atual. Desta forma, considera-se que tumores de cólon e reto com estád io clínico I não necessitam de tratamento adjuvante. Além disso, apenas os pacientes de alto risco e estáveis com estadiamento II têm indicação para tratamento com quimioterapia. Caso contrário, pacientes em estádio II também não necessitam realizar o tratamento quimioterápico adjuvante, podendo realizar apenas de acompanhamento vigilante. Ainda, são elegíveis para tratamento adjuvante os pacientes com tumores de cólon e reto com boa capacidade funcional (ECOG 0 ou 1), expectativa de vida maior que 24 meses e, idealmente, para início até 12 semanas após a realização do procedimento cirúrgico. A duração do tratamento pode variar de três a seis meses, segundo plano terapêutico inicial e tolerância clínica observada. Os esquemas de quimioterapia adjuvante estão descritos no Quadro 6.
+
+[QUADRO] id: quadro_6 titulo: Esquemas terapêuticos para quimioterapia adjuvante em pacientes com adenocarcinoma de cólon tipo: esquemas_adjuvantes_colon
+
+Contexto:
+- Doença: Adenocarcinoma de cólon
+- Estratégia: Quimioterapia adjuvante
+- Objetivo: Reduzir risco de recidiva após tratamento cirúrgico
+
+---
+
+Esquema: Oxaliplatina + ácido folínico + fluorouracil Composição:
+- Oxaliplatina
+- Ácido folínico
+- Fluorouracil
+
+---
+
+Esquema: Capecitabina + oxaliplatina Composição:
+- Capecitabina
+- Oxaliplatina
+
+---
+
+Esquema: Capecitabina Composição:
+- Capecitabina
+
+---
+
+Esquema: Fluorouracil + ácido folínico Composição:
+- Fluorouracil
+- Ácido folínico
+
+---
+
+Observações:
+
+- Administração:
+- Os medicamentos podem ser administrados por:
+- Infusão prolongada
+- Infusão curta
+- Depende de:
+- Disponibilidade
+- Organização do serviço
+
+- Fonte:
+- Elaboração própria [/QUADRO]
+
+A escolha do melhor esquema para pacientes com tumores de cólon e reto deve levar em conta o estádio, devendo preferencialmente, contemplar adição de oxaliplatina para o estádio III e estádio II com múltiplos fatores de risco. Em geral, há preferência por capecitabina e oxaliplatina como tratamento de pacientes em estádio III de baixo risco. Este esquema de tratamento deve ser administrado por, no máximo, 3 meses. Em pacientes idosos (acima de 70 anos) com tumores de cólon e reto com baixa capacidade funcional (ECOG maior que 2), preconiza-se prefer encialmente o uso de capecitabina por seis meses. Fluorouracil por seis meses pode ser indicado, no entanto, devido a necessidade do uso de bomba elastomérica, não é considerado o tratamento preferencial.
+
+#### 6.2.2.1. Quimioterapia no adenocarcinoma de cólon e reto avançado
+A quimioterapia paliativa pode significativamente prolongar a sobrevida global de pacientes com adenocarcinoma de cólon e reto em estágio avançado ou recidivado inoperável. Sua recomendação deve ser cuidadosamente avaliada no plano de tratamento, priorizando pacientes com capacidade funcional 0, 1 ou 2 e aptos para terapia, enquanto aqueles com capacidade funcional 3 ou 4 devem, preferencialmente, terem o suporte clínico especializado priorizado. A seleção do tratamento deve considerar as características fisiológicas e a capacidade funcional individuais, perfil de toxicidade, preferências do paciente e protocolos terapêuticos institucionais. No tratamento de primeira linha para pacientes com boa capacidade funcional (ECOG 0 ou 1), recomenda-se a terapia combinada de fluoropirimidinas em associação com oxaliplatina e/ou irinotecano: 5-fluorouracil, ácido folínico e oxaliplatina; 5-fluorouracil, ácido folínico e irinotecano, 5-fluorouracil, ácido folínico, oxaliplatina e irinotecano; capecitabina e oxaliplatina. Já os pacientes com capacidade funcional comprometida (ECOG 2) preferencialmente devem ser tratados com capecitabina ou 5-fluoruracil e ácido folínico no tratamento de primeira linha 78. Os esquemas de quimioterapia para pacientes com adenocarcinoma de cólon e reto avançado estão descritos no Quadro 7.
+
+[QUADRO] id: quadro_7 titulo: Esquemas terapêuticos para quimioterapia em pacientes com adenocarcinoma de cólon e reto avançado tipo: esquemas_quimioterapia_avancado_colon_reto
+
+Contexto:
+- Doença: Adenocarcinoma de cólon e reto avançado
+- Estratégia: Quimioterapia sistêmica
+- Objetivo: Controle da doença e aumento de sobrevida
+
+---
+
+Esquema: Fluorouracil + ácido folínico + oxaliplatina Composição:
+- Fluorouracil
+- Ácido folínico
+- Oxaliplatina
+
+---
+
+Esquema: Fluorouracil + ácido folínico + irinotecano Composição:
+- Fluorouracil
+- Ácido folínico
+- Irinotecano
+
+---
+
+Esquema: Fluorouracil + ácido folínico Composição:
+- Fluorouracil
+- Ácido folínico
+
+---
+
+Esquema: Irinotecano + oxaliplatina Composição:
+- Irinotecano
+- Oxaliplatina
+
+---
+
+Esquema: Fluorouracil + ácido folínico + oxaliplatina + irinotecano Composição:
+- Fluorouracil
+- Ácido folínico
+- Oxaliplatina
+- Irinotecano
+
+---
+
+Esquema: Capecitabina + oxaliplatina Composição:
+- Capecitabina
+- Oxaliplatina
+
+---
+
+Esquema: Capecitabina Composição:
+- Capecitabina
+
+---
+
+Esquema: Irinotecano Composição:
+- Irinotecano
+
+---
+
+Observações:
+
+- Uso clínico:
+- Seleção do esquema depende de:
+- Condição clínica do paciente
+- Perfil de toxicidade
+- Disponibilidade terapêutica
+
+- Consideração específica:
+- Preferencialmente utilizado em pacientes com suspeita de deficiência de diidropirimidina desidrogenase (DPD):
+- Ajuste ou escolha de esquemas sem fluoropirimidinas pode ser necessário
+
+- Administração:
+- Pode ocorrer por:
+- Infusão prolongada
+- Infusão curta
+- Depende de:
+- Organização do serviço
+- Disponibilidade local
+
+- Fonte:
+- Elaboração própria [/QUADRO]
+
+Não são preconizados neste Protocolo os medicamentos cetuximabe, bevacizumabe e panitumumabe porque tiveram recomendação e decisão não favorável à incorporação no SUS para o tratamento do câncer colorretal metastático, conforme Portarias SCTIE/MS nº 56/2013, SCTIE /MS nº 64/2015, SCTIE/MS nº 04/2018 e SCTIE/MS nº 68/2022 79–83. Também não é preconizado o medicamento pembrolizumabe, uma vez que não foi incorporado para o tratamento de pacientes com câncer de cólon e reto metastático com instabilidade microssatélite alta (MSI-H) ou deficiência de enzimas de reparo (dMMR), conforme Portaria SECTICS/MS nº 74/2023 84. Não são preconizados neste Protocolo trifluridina/tipiracil, ramucirumabe, aflibercepte e regorafenibe por não terem sido avaliados pela Conitec para tratamento de adenocarcinoma de cólon e reto. A quimioterapia intra-arterial hepática pode ser empregada no tratamento de metástases hepáticas irressecáveis com finalidade de conversão para cirurgia radical. O tratamento tem a vantagem de aumentar a exposição intra-hepática ao antineoplásico com toxicidade sistêmica reduzida, mas seu papel exato é controverso pela ausência de benefícios consistentes nas taxas de sobrevida. Esta modalidade terapêutica só deve ser oferecida em um programa multidisciplinar com participação de especialistas em cirurgia hepatobiliar, oncologia clínica e radiologia intervencionista 85. O regime quimioterápico no tratamento de 2ª linha ou 3ª linha deve ser selecionado segundo a capacidade funcional, comorbidade, esquema usado anteriormente e o perfil de segurança e eficácia então observados. Diretrizes internacionais recomendam que para pacientes tratados com terapia de primeira linha à base de oxaliplatina, o tratamento de segunda linha com irinotecano ou monoterapia é a opção. De forma inversa, os pacientes tratados com irinotecano em primeira linha poderiam receber um tratamento à base de oxaliplatina (FOLFOX ou CAPOX) em segunda linha se não houvesse contraindicações. A reintrodução da terapia de indução inicial pode ser considerada após a terapia de segunda linha, desde que o paciente não tenha progredido durante o curso de indução da quimioterapia de primeira linha 64. Recomenda-se o envolvimento precoce de especialista em cuidados paliativos no cuidado de pacientes considerados para terapia antineoplásica, particularmente no tratamento paliativo. A integração precoce dos cuidados paliativos está associada à diminuição do tempo de hospitalização, utilização racional de recursos médicos e diminuição dos custos diretos para o sistema de saúde 86–88 As Figuras 1 a 8 descrevem o algoritmo de tratamento para pacientes com adenocarcinoma de cólon e reto, nos diferentes estádios.
+
+## 6.3. Fluxos de tratame
+
+### 6.3.1. Adenocarcinoma de cólon
+
+[FIGURA] id: figura_1 titulo: Algoritmo de tratamento de adenocarcinoma de cólon, estádios 0 e I tipo: algoritmo_tratamento_colon_estadio_0_1
+
+Contexto:
+- Doença: Adenocarcinoma de cólon
+- Estadiamento: Estádios 0 e I
+- Objetivo: Definir abordagem terapêutica inicial
+
+---
+
+Ponto de partida:
+- Pacientes com adenocarcinoma de cólon em estádio 0 ou I
+
+---
+
+Decisão clínica: Pergunta:
+- Paciente elegível para ressecção endoscópica?
+
+---
+
+Se SIM: Conduta:
+- Realizar ressecção endoscópica
+
+Pós-tratamento:
+- Controle
+
+---
+
+Se NÃO:
+
+→ Avaliar estadiamento:
+
+---
+
+Caso: Estádio 0 Conduta:
+- Colectomia
+
+Pós-tratamento:
+- Controle
+
+---
+
+Caso: Estádio I Conduta:
+- Ressecção colônica segmentar
+- Associada à linfadenectomia
+
+Pós-tratamento:
+- Controle
+
+---
+
+Critérios favoráveis para ressecção endoscópica:
+
+- Invasão até 1.000 micras da submucosa
+- Ausência de invasão angiolinfática
+- Histologia bem diferenciada
+- Ausência de tumor budding
+- Margens livres
+
+---
+
+Observações:
+
+- Estratégia geral:
+- Priorizar abordagem menos invasiva quando critérios são favoráveis
+
+- Cirurgia:
+- Indicada quando não elegível para abordagem endoscópica
+
+- Controle:
+- Fundamental após qualquer abordagem terapêutica
+
+[/FIGURA]
+
+[FIGURA] id: figura_2 titulo: Algoritmo de tratamento de adenocarcinoma de cólon, estádio II tipo: algoritmo_tratamento_colon_estadio_2
+
+Contexto:
+- Doença: Adenocarcinoma de cólon
+- Estadiamento: Estádio II
+- Objetivo: Definir necessidade de tratamento adjuvante após cirurgia
+
+---
+
+Ponto de partida:
+- Pacientes com adenocarcinoma de cólon, estádio II
+
+Conduta inicial:
+- Ressecção colônica segmentar
+- Associada à linfadenectomia
+
+---
+
+Decisão 1: Pergunta:
+- Presença de fatores de mau prognóstico na peça cirúrgica?
+
+Se NÃO:
+- Conduta:
+- Controle
+
+Se SIM:
+
+---
+
+Decisão 2: Pergunta:
+- Paciente apresenta instabilidade microssatélite?
+
+Se NÃO:
+- Conduta:
+- Preferencialmente:
+- Capecitabina
+- Duração: 8 ciclos
+
+Se SIM:
+
+---
+
+Decisão 3: Pergunta:
+- Paciente apresenta múltiplos fatores de risco?
+
+Se NÃO:
+- Conduta:
+- Controle
+
+Se SIM:
+- Conduta:
+- Preferencialmente:
+- Esquemas com oxaliplatina
+
+---
+
+Observações:
+
+- Fatores de risco (exemplos clínicos usuais):
+- Devem ser avaliados na peça cirúrgica
+
+- Estratégia:
+- Escalonamento terapêutico baseado em risco
+
+- Instabilidade microssatélite:
+- Influencia decisão de quimioterapia adjuvante
+
+- Controle:
+- Indicado em pacientes de menor risco
+
+[/FIGURA]
+
+[FIGURA] id: figura_3 titulo: Algoritmo de tratamento de adenocarcinoma de cólon, estádio III tipo: algoritmo_tratamento_colon_estadio_3
+
+Contexto:
+- Doença: Adenocarcinoma de cólon
+- Estadiamento: Estádio III
+- Objetivo: Definir abordagem cirúrgica e tratamento adjuvante
+
+---
+
+Ponto de partida:
+- Pacientes com adenocarcinoma de cólon em estádio III
+
+---
+
+Decisão clínica: Pergunta:
+- Paciente apresenta lesões T4b e/ou N2?
+
+---
+
+Se SIM: Conduta cirúrgica:
+- Ressecção multiorgânica
+
+Pós-tratamento:
+- Quimioterapia adjuvante
+
+---
+
+Se NÃO: Conduta cirúrgica:
+- Ressecção colônica segmentar
+- Associada à linfadenectomia
+
+Pós-tratamento:
+- Quimioterapia adjuvante
+
+---
+
+Observações:
+
+- Estratégia:
+- Todos os pacientes em estádio III recebem quimioterapia adjuvante
+
+- Critério de maior gravidade:
+- Presença de:
+- T4b (invasão de estruturas adjacentes)
+- N2 (maior carga linfonodal)
+
+- Abordagem cirúrgica:
+- Mais agressiva nos casos de maior extensão tumoral
+
+[/FIGURA]
+
+### 6.3.2 Adenocarcinoma de reto
+
+[FIGURA] id: figura_4 titulo: Fluxo de tratamento de adenocarcinoma de cólon, estádio IV tipo: algoritmo_tratamento_colon_estadio_4
+
+Contexto:
+- Doença: Adenocarcinoma de cólon
+- Estadiamento: Estádio IV
+- Objetivo: Definir estratégia terapêutica conforme ressecabilidade e localização das metástases
+
+---
+
+Ponto de partida:
+- Pacientes com adenocarcinoma de cólon em estádio IV
+
+---
+
+Decisão 1: Pergunta:
+- Fígado é o único sítio de metástase?
+
+---
+
+Se SIM:
+
+→ Decisão 2: Pergunta:
+- Paciente apresenta metástase hepática ressecável?
+
+Se SIM: Conduta:
+- Colectomia + metastasectomia
+- OU quimioterapia citorredutora seguida de:
+- Colectomia + metastasectomia
+
+Se NÃO: Conduta:
+- Quimioterapia de conversão
+- Associada ou não à ablação térmica
+
+→ Etapa seguinte:
+- Reestadiamento clínico
+
+→ Decisão 3: Pergunta:
+- Paciente apresenta metástase hepática ressecável?
+
+Se SIM:
+- Seguir para abordagem cirúrgica:
+- Colectomia + metastasectomia
+
+Se NÃO:
+- Quimioterapia paliativa
+
+---
+
+Se NÃO (fígado não é o único sítio):
+
+Conduta:
+- Quimioterapia paliativa
+
+---
+
+Etapa adicional:
+- Avaliar necessidade de:
+- Cirurgia paliativa
+- Radioterapia paliativa
+
+---
+
+Observações:
+
+- Estratégia geral:
+- Diferenciar doença potencialmente ressecável de doença não ressecável
+
+- Conversão terapêutica:
+- Objetivo:
+- Tornar metástases ressecáveis
+
+- Ablação térmica:
+- Indicada apenas para metástases hepáticas
+- Conforme critérios de elegibilidade do protocolo
+
+- Abordagem paliativa:
+- Indicada quando não há possibilidade de ressecção curativa
+
+[/FIGURA]
+
+[FIGURA] id: figura_5 titulo: Fluxo de tratamento de adenocarcinoma de reto, estádio 0 e I tipo: algoritmo_tratamento_reto_estadio_0_1
+
+Contexto:
+- Doença: Adenocarcinoma de reto
+- Estadiamento: Estádios 0 e I
+- Objetivo: Definir abordagem terapêutica conforme elegibilidade e localização do tumor
+
+---
+
+Ponto de partida:
+- Pacientes com adenocarcinoma de reto, estádios 0 ou I
+
+---
+
+Decisão 1: Pergunta:
+- Paciente elegível para ressecção endoscópica?
+
+Se SIM: Conduta:
+- Ressecção endoscópica
+
+Pós-tratamento:
+- Controle
+
+---
+
+Se NÃO:
+
+→ Avaliar estadiamento
+
+---
+
+Caso: Estádio 0 Conduta:
+- Excisão local transanal
+- OU retossigmoidectomia
+
+Pós-tratamento:
+- Controle
+
+---
+
+Caso: Estádio I
+
+→ Decisão 2: Pergunta:
+- Paciente apresenta lesões T1 de alto risco ou T2?
+
+Se NÃO:
+- (Implícito: manejo individualizado conforme protocolo)
+
+Se SIM:
+
+---
+
+Etapa:
+- Avaliar localização do tumor
+
+---
+
+Localização: Reto superior Conduta:
+- Ressecção anterior do reto
+- Com excisão mesorretal parcial
+
+Pós-tratamento:
+- Controle
+
+---
+
+Localização: Reto médio Conduta:
+- Ressecção anterior do reto
+- Com excisão mesorretal total
+
+Pós-tratamento:
+- Controle
+
+---
+
+Localização: Reto inferior
+
+→ Decisão 3: Pergunta:
+- Paciente apresenta comprometimento do esfíncter externo ou do plano interesfincteriano?
+
+Se NÃO: Conduta:
+- Ressecção interesfincteriana
+
+Pós-tratamento:
+- Controle
+
+Se SIM: Conduta:
+- Quimiorradioterapia neoadjuvante
+
+→ Decisão 4: Pergunta:
+- Resposta clínica completa?
+
+Se SIM:
+- Controle
+
+Se NÃO:
+- Excisão total do mesorreto
+
+---
+
+Critérios favoráveis para ressecção endoscópica:
+
+- Invasão até 1.000 micras da submucosa
+- Ausência de invasão angiolinfática
+- Histologia bem diferenciada
+- Ausência de tumor budding
+- Margens livres
+
+---
+
+Observações:
+
+- Estratégia:
+- Tratamento guiado por:
+- Estadiamento
+- Localização tumoral
+- Fatores de risco
+
+- Reto inferior:
+- Maior complexidade devido à preservação esfincteriana
+
+- Neoadjuvância:
+- Indicada em casos com maior risco local
+
+[/FIGURA]
+
+
+[FIGURA] id: figura_6 titulo: Fluxo de tratamento de adenocarcinoma de reto, estádios II e III, com lesões T4b tipo: algoritmo_tratamento_reto_estadio_2_3_t4b
+
+Contexto:
+- Doença: Adenocarcinoma de reto
+- Estadiamento: Estádios II e III
+- Condição: Lesões T4b
+- Objetivo: Definir estratégia terapêutica conforme localização tumoral e risco
+
+---
+
+Ponto de partida:
+- Pacientes com adenocarcinoma de reto, estádios II e III, com lesões T4b
+
+---
+
+Etapa inicial:
+- Avaliar localização do tumor
+
+---
+
+Localização: Reto superior
+
+Conduta:
+- Ressecção multiorgânica
+
+→ Avaliar estadiamento:
+
+Caso: Estádio II
+
+→ Decisão: Pergunta:
+- Paciente apresenta fatores de mau prognóstico?
+
+Se SIM:
+- Quimioterapia adjuvante
+
+Se NÃO:
+- Controle
+
+---
+
+Caso: Estádio III Conduta:
+- Quimioterapia adjuvante
+
+---
+
+Localização: Reto médio
+
+Conduta:
+- Quimiorradioterapia
+- Associada à quimioterapia neoadjuvante
+
+Etapa seguinte:
+- Exenteração pélvica
+
+---
+
+Localização: Reto inferior
+
+→ Decisão: Pergunta:
+- Doença localmente avançada de alto risco?
+
+Se SIM: Conduta:
+- Neoadjuvância total
+
+Etapa seguinte:
+- Exenteração pélvica
+
+Se NÃO: Conduta:
+- Neoadjuvância clássica
+
+Etapa seguinte:
+- Exenteração pélvica
+
+---
+
+Observações:
+
+- Doença localmente avançada de alto risco:
+- Exemplos:
+- Tumores T4
+- Linfonodos suspeitos
+- Invasão venosa extramural
+- Margem radial comprometida
+
+- Estratégia:
+- Tratamento orientado por:
+- Localização tumoral
+- Estadiamento
+- Fatores prognósticos
+
+- Exenteração pélvica:
+- Indicada em casos avançados com invasão de estruturas adjacentes
+
+[/FIGURA]
+
+[FIGURA] id: figura_7 titulo: Fluxo de tratamento de adenocarcinoma de reto, estádios II e III, sem lesões T4b tipo: algoritmo_tratamento_reto_estadio_2_3_sem_t4b
+
+Contexto:
+- Doença: Adenocarcinoma de reto
+- Estadiamento: Estádios II e III
+- Condição: Sem lesões T4b
+- Objetivo: Definir estratégia terapêutica conforme localização tumoral e risco
+
+---
+
+Ponto de partida:
+- Pacientes com adenocarcinoma de reto, estádios II e III, sem lesões T4b
+
+---
+
+Etapa inicial:
+- Avaliar localização do tumor
+
+---
+
+Localização: Reto superior
+
+Conduta:
+- Ressecção anterior do reto
+- Com excisão mesorretal parcial
+
+→ Avaliar estadiamento:
+
+Caso: Estádio II
+
+→ Decisão: Pergunta:
+- Paciente apresenta fatores de mau prognóstico?
+
+Se SIM:
+- Quimioterapia adjuvante
+
+Se NÃO:
+- Controle
+
+---
+
+Caso: Estádio III Conduta:
+- Quimioterapia adjuvante
+
+---
+
+Localização: Reto médio
+
+→ Decisão: Pergunta:
+- Doença localmente avançada de alto risco?
+
+Se SIM: Conduta:
+- Neoadjuvância total
+
+Etapa seguinte:
+- Ressecção anterior do reto
+- Com excisão total do mesorreto
+
+---
+
+Se NÃO:
+
+→ Avaliar estadiamento:
+
+Caso: Estádio II Conduta:
+- Avaliar possibilidade de:
+- Ressecção anterior do reto
+- Com excisão total do mesorreto
+
+---
+
+Caso: Estádio III Conduta:
+- Quimiorradioterapia neoadjuvante
+
+Etapa seguinte:
+- Cirurgia
+
+---
+
+Localização: Reto inferior
+
+→ Decisão: Pergunta:
+- Doença localmente avançada de alto risco?
+
+Se SIM: Conduta:
+- Neoadjuvância total
+
+→ Decisão: Pergunta:
+- Paciente atingiu resposta clínica completa?
+
+Se SIM:
+- Observação clínica
+
+Se NÃO:
+
+→ Decisão: Pergunta:
+- Paciente apresenta comprometimento do esfíncter externo ou do plano interesfincteriano?
+
+Se SIM:
+- Amputação abdominoperineal
+
+Se NÃO:
+- Ressecção interesfincteriana
+
+---
+
+Se NÃO (sem alto risco):
+
+→ Avaliar estadiamento:
+
+Caso: Estádio II Conduta:
+- Ressecção interesfincteriana
+
+---
+
+Caso: Estádio III Conduta:
+- Quimiorradioterapia neoadjuvante
+
+---
+
+Observações:
+
+- Estratégia:
+- Baseada em:
+- Localização tumoral
+- Estadiamento
+- Fatores de risco
+
+- Neoadjuvância total:
+- Indicada em doença localmente avançada de alto risco
+
+- Preservação esfincteriana:
+- Considerada sempre que possível no reto inferior
+
+- Observação clínica:
+- Possível em casos de resposta completa após neoadjuvância
+
+[/FIGURA]
+
+[FIGURA] id: figura_8 titulo: Fluxo de tratamento de adenocarcinoma de reto, estádio IV tipo: algoritmo_tratamento_reto_estadio_4
+
+Contexto:
+- Doença: Adenocarcinoma de reto
+- Estadiamento: Estádio IV
+- Objetivo: Definir estratégia terapêutica conforme ressecabilidade e sintomas
+
+---
+
+Ponto de partida:
+- Pacientes com adenocarcinoma de reto em estádio IV
+
+---
+
+Decisão 1: Pergunta:
+- Paciente apresenta metástase ressecável?
+
+---
+
+Se SIM: Conduta:
+- Quimioterapia sistêmica
+- Cirurgia
+- Radioterapia do tumor primário
+
+---
+
+Se NÃO:
+
+→ Decisão 2: Pergunta:
+- Paciente apresenta lesões obstrutivas?
+
+---
+
+Se SIM: Conduta:
+- Colostomia
+- Associada à quimioterapia sistêmica
+
+---
+
+Se NÃO: Conduta:
+- Quimioterapia sistêmica
+- Associada ou não à ablação térmica
+
+Etapa seguinte:
+- Avaliar necessidade de:
+- Radioterapia do tumor primário
+- Conforme resposta ao tratamento
+
+→ Etapa seguinte:
+- Reestadiamento clínico
+
+---
+
+Decisão 3: Pergunta:
+- Paciente apresenta metástase ressecável?
+
+Se SIM: Conduta:
+- Ressecção do tumor primário
+- Associada à metastasectomia
+
+Se NÃO:
+- Quimioterapia paliativa
+
+---
+
+Observações:
+
+- Estratégia:
+- Tratamento deve ser individualizado
+
+- Sequência terapêutica:
+- Ordem e número de abordagens podem variar conforme critérios clínicos
+
+- Abordagem paliativa:
+- Indicada quando não há possibilidade de ressecção
+
+[/FIGURA]
+
+# 7. MONITORAMENTO
+Pacientes em tratamento antineoplásico devem ser monitorados para possíveis toxicidades em cada ciclo, assim como para funções renal e hepática. A conduta a ser tomada de acordo com a toxicidade observada é apresentada no Quadro 8.
+
+[QUADRO] id: quadro_8 titulo: Avaliação da toxicidade conforme terapia utilizada tipo: manejo_toxicidade_quimioterapia
+
+Contexto:
+- Objetivo: Ajuste de dose e conduta frente à toxicidade dos quimioterápicos
+
+---
+
+Tratamento: Oxaliplatina
+
+Conduta:
+- Se houver alterações no exame neurológico:
+- Reduzir a dose em 15 a 20%
+
+- Se houver persistência dos sintomas no ciclo seguinte:
+- Interromper o tratamento
+
+---
+
+Tratamento: Irinotecano
+
+Conduta:
+
+RAM grau 1:
+- Manter a dose utilizada
+
+RAM grau 2:
+- Reduzir a dose em 25 mg/m²
+- Retomar dose inicial após recuperação adequada
+
+RAM grau 3:
+- Omitir a dose até atingir grau 2 ou menor
+- Após recuperação:
+- Reduzir em:
+- 25 mg/m² (ciclo semanal)
+- 50 mg/m² (ciclo de 2 ou 3 semanas)
+
+RAM grau 4:
+- Omitir a dose até atingir grau 2 ou menor
+- Após recuperação:
+- Reduzir a dose em 50 mg/m²
+
+Critérios para novo ciclo:
+- Não iniciar novo ciclo até:
+- Granulócitos ≥ 1.500 células/mm³
+- Plaquetas ≥ 100.000/mm³
+- Diarreia resolvida completamente
+
+Atraso de ciclo:
+- Adiar por 1 a 2 semanas para recuperação
+
+Interrupção:
+- Considerar interrupção se não houver recuperação após 2 semanas
+
+---
+
+Tratamento: Capecitabina
+
+Conduta:
+
+RAM grau 1:
+- Não alterar dose
+
+RAM grau 2 ou 3:
+- Interromper tratamento
+
+Reintrodução após melhora:
+- Se RAM reduzir para grau 1:
+- Retomar com dose total
+
+Recorrência de RAM:
+- 2ª ocorrência:
+- Reduzir dose em 25%
+- 3ª ocorrência:
+- Reduzir dose em 50%
+- 4ª ocorrência:
+- Interromper definitivamente
+
+RAM grau 3:
+- 1ª ocorrência:
+- Retomar com 75% da dose
+- 2ª ocorrência:
+- Reduzir para 50%
+- 3ª ocorrência:
+- Interromper definitivamente
+
+RAM grau 4:
+- Interromper até resolução ou redução para grau 1
+- Retomar com 50% da dose original
+
+Recorrência de RAM grau 4:
+- 2ª ocorrência:
+- Interromper definitivamente
+
+---
+
+Tratamento: Fluorouracila
+
+Conduta:
+- Em caso de toxicidade após terapia inicial:
+- Dose de manutenção:
+- 10 a 15 mg/kg/semana
+- Limite máximo:
+- 1 g/semana
+
+---
+
+Observações:
+
+- RAM:
+- Reação adversa ao medicamento
+
+- Estratégia:
+- Ajuste progressivo de dose conforme gravidade
+
+- Segurança:
+- Monitoramento clínico e laboratorial é essencial
+
+- Fonte:
+- Bula dos medicamentos (referências 89–92) [/QUADRO]
+
+Além disso, pacientes que fazem uso de oxaliplatina devem ser questionados ativamente sobre grau e persistência de neuropatia e submetidos a um exame neurológico sucinto, avaliando sensibilidade e propriocepção de mãos e pés, além de motricidade motora fina (abotoar camisa, amarrar cadarços, por exemplo) 93. Pacientes em uso de irinotecano devem ser questionados quanto à ocorrência de diarreia, principalmente após 1 semana da infusão. Recomenda-se uso de loperamida (4 a 24 mg/dia) caso a diarreia ocorra e, caso ela persista apesar do uso adequado do medicamento sintomático, deve-se reduzir a dose de irinotecano 94. Ainda, pacientes em uso da capecitabina podem apresentar síndrome mão pé e, nesse caso, deve-se interromper temporariamente o tratamento, além do uso de corticosteroides tópicos e emolientes até melhora. Após a melhora, deve-se reintroduzir o medicamento antineoplásico com redução de dose. Os pacientes em uso de tratamento adjuvante devem realizar exames de reestadiamento e monitorização tumoral, como CEA, a cada 3 meses, exceto em casos em que haja suspeita clínica para progressão de doença. Os pacientes em vigência de quimioterapia para doença metastática devem ser monitorados quanto à resposta e à eficácia da terapia antineoplásica a cada dois a três meses, com exames de imagem. Amostra de sangue para dosagem de CEA pode ser coletada mensalmente para monitorização em pacientes que apresentam este marcador elevado antes do início do tratamento. Quando os níveis de CEA permanecem elevados, há correlação com a progressão de doença, o que deve ser confirmado por exames de imagem. Para avaliação de resposta ao tratamento, utiliza-se o critério RECIST 1.1 95 (Quadro 9), comparando com os exames de imagem anteriores.
+
+[QUADRO] id: quadro_9 titulo: Critério RECIST 1.1 para avaliação de resposta tipo: avaliacao_resposta_recist
+
+Contexto:
+- Sistema: RECIST 1.1 (Response Evaluation Criteria in Solid Tumors)
+- Objetivo: Avaliar resposta tumoral ao tratamento com base em medidas de lesões
+
+---
+
+Critério: Resposta total Interpretação:
+- Desaparecimento de todas as lesões
+
+---
+
+Critério: Resposta parcial Interpretação:
+- Redução de mais de 30% da soma dos diâmetros das lesões mensuráveis
+- Em relação ao menor diâmetro registrado nesta linha de tratamento
+
+---
+
+Critério: Doença estável Interpretação:
+- Redução menor que 30%
+- Ou aumento menor que 20%
+- Da soma dos diâmetros das lesões mensuráveis
+- Em relação ao menor diâmetro registrado nesta linha de tratamento
+
+---
+
+Critério: Progressão da doença Interpretação:
+- Aumento de mais de 30%
+- Ou aparecimento de novas lesões
+- Em relação ao menor diâmetro registrado nesta linha de tratamento
+
+---
+
+Observações:
+
+- Aplicação:
+- Monitoramento de resposta terapêutica em oncologia
+
+- Base de comparação:
+- Menor soma dos diâmetros previamente registrada (nadir)
+
+- Importância:
+- Padroniza avaliação de resposta em estudos clínicos e prática clínica
+
+- Fonte:
+- Adaptado de Eisenhauer et al., 2009 [/QUADRO]
+
+ACOMPANHAMENTO PÓS-CIRÚRGICO Os pacientes que receberam tratamento cirúrgico curativo, seguido ou não de quimioterapia adjuvante, devem fazer o acompanhamento pós-cirúrgico com exames clínicos, dosagem de CEA e exames de imagem (tomografias de abdome superior e tórax e colonoscopia) periodicamente, conforme o estádio da sua doença, como apresentado no Quadro 9 e detalhadamente nos subtítulos a seguir.
+
+[QUADRO] id: quadro_10 titulo: Acompanhamento pós-cirúrgico tipo: acompanhamento_pos_cirurgico_colon_reto
+
+Contexto:
+- Doença: Adenocarcinoma de cólon e reto
+- Fase: Pós-tratamento cirúrgico
+- Objetivo: Monitorar recidiva e evolução clínica
+
+---
+
+Acompanhamento: Colonoscopia
+
+Elegibilidade:
+- Todos os pacientes com diagnóstico de adenocarcinoma de cólon e reto
+
+Tempo:
+- Realizar:
+- 1 ano após o tratamento cirúrgico
+- Repetir exame:
+- Conforme achados da colonoscopia
+- Observação:
+- Substitui o item 10.1
+
+---
+
+Acompanhamento: Retossigmoidoscopia
+
+Elegibilidade:
+- Pacientes com adenocarcinoma retal
+- Submetidos à ressecção:
+- Endoscópica
+- Ou transanal
+- Que não tenham realizado radioterapia
+
+Tempo:
+- A cada 3 a 6 meses:
+- Associada à ressonância magnética de reto
+- Durante 2 anos após excisão
+- Após esse período:
+- A cada 6 meses até o 5º ano
+
+---
+
+Acompanhamento: Anamnese e exame clínico
+
+Elegibilidade:
+- Todos os pacientes com adenocarcinoma de cólon e reto
+- Exceto:
+- Adenocarcinoma de cólon estádio I
+
+Tempo:
+- A cada 3 meses:
+- Durante os primeiros 2 anos
+- Entre o 3º e o 5º ano:
+- Acompanhamento semestral
+
+---
+
+Acompanhamento: Antígeno carcinoembrionário (CEA)
+
+Elegibilidade:
+- Pacientes com adenocarcinoma de cólon e reto
+- Estádios II e III
+
+Tempo:
+- Avaliar em cada visita clínica:
+- Durante 5 anos
+- Se CEA elevado:
+- Repetir coleta em 1 mês
+
+---
+
+Acompanhamento: Exames de imagem (tomografia de tórax, abdome e pelve)
+
+Elegibilidade 1:
+- Pacientes com CEA elevado
+
+Conduta:
+- Realizar exame:
+- Após persistência de CEA elevado
+- Para confirmar recidiva
+
+---
+
+Elegibilidade 2:
+- Pacientes com adenocarcinoma de cólon e reto
+- Estádios II e III
+
+Tempo:
+- A cada 6 a 12 meses:
+- Durante 3 anos
+- Após esse período:
+- Anualmente até completar 5 anos da cirurgia
+
+---
+
+Observações:
+
+- Estratégia:
+- Seguimento estruturado para detecção precoce de recidiva
+
+- Marcadores:
+- CEA é um dos principais indicadores de recorrência
+
+- Imagem:
+- Utilizada para confirmação diagnóstica e estadiamento de recidiva
+
+- Fonte:
+- Elaboração própria [/QUADRO]
+
+O seguimento intensivo tem possível benefício frente ao não intensivo 96, possivelmente devido à maior detecção de doença ressecável. Colonoscopia / Retossigmoidoscopia Pacientes com antecedente de adenocarcinoma de cólon e reto apresentam um risco para doença metacrônica ou recidiva local quando submetidos à ressecção endoscópica 96. Portanto, todos os pacientes com diagnóstico de adenocarcinoma de cólon e reto devem fazer a colonoscopia em um ano após o tratamento cirúrgico e repetir o exame, conforme os achados da colonoscopia. Caso a colonoscopia indicar a presença de pólipos adenomatosos de alto grau, deve-se repeti-la em um ano. Caso o resultado da colonoscopia indique a ausência de pólipos ou pólipos de baixo grau, deve-se repeti-la em três a cinco anos. Ainda, pacientes com adenocarcinoma retal submetidos à ressecção endoscópica ou transanal e que não tenham realizado radioterapia devem fazer retossigmoidoscopia a cada três a seis meses, associada à ressonância nuclear magnética de reto, por dois anos após excisão e, após este período, a cada seis meses até o quinto ano 97. Anamnese e Exame clínico Pacientes com adenocarcinoma de colón estádio I devem seguir as recomendações de realização de colonoscopia descritas no item Colonoscopia / Retossigmoidoscopia. Todos os demais pacientes devem ser acompanhados periodicamente com exames clínicos a cada três meses durante dois anos e, entre o terceiro e quinto ano, acompanhamento semestral. As consultas de acompanhamento devem abordar possíveis sinais e sintomas relacionados à recidiva da doença, verificar exames relacionados, além de reforçar as orientações de hábito de vida saudável e monitorar possíveis eventos adversos persistentes pós-tratamento, como neuropatia pós-oxaliplatina ou alterações de evacuação secundárias à cirurgia/radioterapia. Antígeno carcinoembrionário (CEA) Pacientes com tumores estádio II e III devem realizar dosagem sérica do CEA a cada visita clínica durante cinco anos. Se o nível de CEA estiver elevado, devido à sua baixa especificidade, recomenda-se a coleta de nova amostra em um mês. Caso a elevação persista, deve-se realizar exames de imagem (tomografia de tórax, abdome e pelve, caso ainda não tenha sido realizado) para avaliação de possível recidiva. Exames de imagem Pacientes com adenocarcinoma de cólon e reto estádios II e III devem realizar exames de imagem (tomografia de tórax, abdome e pelve) a cada 6 a 12 meses por três anos e, após esse período, anualmente até completar cinco anos da cirurgia.
+
+# 8. REGULAÇÃO, CONTROLE E AVALIAÇÃO PELO GESTOR
+Devem ser observados os critérios de inclusão e exclusão de pacientes deste PCDT, a duração e a monitorização do tratamento, bem como a verificação periódica das doses prescritas e dispensadas e a adequação de uso de medicamentos. Casos de adenocarcinoma de cólon e reto devem ser atendidos em hospitais habilitados em oncologia e com porte tecnológico suficiente para diagnosticar, tratar e realizar o seu acompanhamento. Além da familiaridade que esses hospitais guardam com o estadiamento, o tratamento e o controle dos eventos adversos, eles têm toda a estrutura ambulatorial, de internação, de terapia intensiva, de hemoterapia, de suporte multiprofissional e de laboratórios, necessária para o adequado atendimento e obtenção dos resultados terapêuticos esperados. Pacientes com diagnóstico de adenocarcinoma de cólon ou de junção retossigmoide podem ser atendidos em hospitais habilitados em oncologia com ou sem serviço de radioterapia, enquanto pacientes com adenocarcinoma de reto devem ser tratados, preferencialmente, em hospitais habilitados em oncologia com serviço de radioterapia. Ainda, no caso de pacientes idosos, a equipe multiprofissional deve contar com geriatra, a fim de possibilitar um planejamento terapêutico adequado para suas necessidades. A regulação do acesso é um componente essencial da gestão para a organização da rede assistencial e garantia do atendimento dos pacientes, além de facilitar as ações de controle e avaliação. Estas incluem, entre outras: a manutenção atualizada do Cadastro Nacional dos Estabelecimentos de Saúde (CNES); a autorização prévia dos procedimentos; o monitoramento da produção dos procedimentos (por exemplo, frequência apresentada versus autorizada, valores apresentados versus autorizados versus ressarcidos); a verificação dos percentuais das frequências dos procedimentos quimioterápicos em suas diferentes linhas (cuja ordem descendente - primeira maior do que segunda maior do que terceira – sinaliza a efetividade terapêutica), entre outras. Ações de auditoria devem verificar in loco, por exemplo, a existência e a observância da conduta ou protocolo adotados no hospital; regulação do acesso assistencial; qualidade da autorização; a conformidade da prescrição e da dispensação e administração dos medicamentos (tipos e doses); compatibilidade do procedimento codificado com o diagnóstico e capacidade funcional (escala ECOG); a compatibilidade da cobrança com os serviços executados; a abrangência e a integralidade assistenciais; e o grau de satisfação dos pacientes. O Ministério da Saúde não padroniza nem fornece medicamentos antineoplásicos diretamente aos hospitais ou aos usuários do SUS. A exceção é feita ao mesilato de imatinibe para a quimioterapia do tumor do estroma gastrointestinal (GIST), da leucemia mieloide crônica e da leucemia linfoblástica aguda cromossoma Philadelphia positivo; do nilotinibe e do dasatinibe para a quimioterapia da leucemia mieloide crônica; do rituximabe para a poliquimioterapia do linfoma folicular e do linfoma difuso de grandes células B; e dos trastuzumabe e pertuzumabe para a quimioterapia do carcinoma de mama, que são adquiridos pelo Ministério da Saúde e fornecidos aos hospitais habilitados em oncologia no SUS, por meio das secretarias estaduais de saúde. Os hospitais credenciados pelo SUS e habilitados em Oncologia são os responsáveis pelo fornecimento de medicamentos oncológicos, cabendo-lhes codificar e registrar conforme o respectivo procedimento. Os procedimentos diagnósticos (Grupo 02 e seus vários subgrupos – clínicos, cirúrgicos, laboratoriais e por imagem), radioterápicos e quimioterápicos (Grupo 03, Subgrupo 01) e cirúrgicos (Grupo 04 e os vários subgrupos cirúrgicos por especialidades e complexidade) da Tabela de Procedimentos, Medicamentos e Órteses, Próteses e Materiais Especiais do SUS podem ser acessados, por código ou nome do procedimento e por código da CID-10 para a respectiva neoplasia maligna, no SIGTAP − Sistema de Gerenciamento dessa Tabela (http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp), com versão mensalmente atualizada. Para fins de avaliação e controle, deve ser considerada quimioterapia de 2ª linha todo tratamento antineoplásico paliativo (adenocarcinoma avançado) realizado após uma quimioterapia paliativa inicial (1ª linha), não importando em que estabelecimento ou sistema de saúde tenha sido realizada.

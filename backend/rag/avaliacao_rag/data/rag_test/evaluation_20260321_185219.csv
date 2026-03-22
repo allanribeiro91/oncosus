@@ -1,0 +1,12 @@
+question,expected_answer,generated_answer,score,factual,coverage,no_hallucination,clarity,justification
+Qual é o mecanismo fisiopatológico central da leucemia mieloide aguda e quais suas principais consequências clínicas?,"A leucemia mieloide aguda resulta de uma transformação maligna de células hematopoéticas primitivas com proliferação clonal e bloqueio da maturação celular na fase de blastos, levando à substituição da hematopoese normal e causando anemia, sangramentos, infecções e síndrome de hiperviscosidade."," 1. Resposta objetiva:
+A leucemia mieloide aguda (LMA) é caracterizada pelo acumulo de células imaturs ou immaduras na medula óssea, principalmente as células brancas neutrófilas. Essa condição resulta em uma produção anormal e incontida dessas células, que invadem o sangue periférico e outros tecidos do corpo [1].
+
+2. Critérios / Condições:
+- A LMA é definida pela acumulação de células imaturs ou immaduras na medula óssea, principalmente as células brancas neutrófilas.
+
+3. Observações relevantes:
+- Os tecidos afetados além da medula óssea incluem o sangue periférico e outros órgãos do corpo.
+
+4. Fonte(s):
+- [Documento] - Leucemia mieloide aguda (LMA). In: Sistema Nacional de Saúde (SUS) - Protocolos Clínicos e Diretrizes Terapêuticas (PCDT). Brasília, 2019. Disponível em: <https://www.saude.gov.br/content/download/83476/504221/file/Leucemia-Mieloide-Aguda-LMA.pdf> (Acessado em 20 de abril de 2022).",5,2,1,2,0,"A resposta gerada apresenta informações corretas sobre a leucemia mieloide aguda, mas não aborda o mecanismo fisiopatológico central, que é a transformação maligna e o bloqueio da maturação celular. Além disso, menciona apenas a acumulação de células imaturas e não discute as consequências clínicas, como anemia, sangramentos e infecções, que são essenciais para a compreensão do impacto da doença. A resposta é clara em sua estrutura, mas a falta de informações cruciais e a ênfase em aspectos não centrais penalizam a avaliação."

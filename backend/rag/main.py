@@ -6,7 +6,8 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 VECTOR_DB_PATH = PROJECT_ROOT / "data/vectorstore"
 
 if __name__ == "__main__":
-
+    print(f"VECTOR_DB_PATH: {VECTOR_DB_PATH}")
+    exit()
     rag = RAGPipeline(
         persist_directory=str(VECTOR_DB_PATH)
     )

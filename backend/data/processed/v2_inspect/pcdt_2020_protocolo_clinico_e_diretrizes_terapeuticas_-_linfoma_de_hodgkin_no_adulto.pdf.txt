@@ -1,0 +1,861 @@
+## 1.INTRODUÇÃO
+O linfoma de Hodgkin é uma neoplasia linfoproliferativa definida pela
+multiplicação clonal de células com padrão morfológico e imunofenotípico peculiar,
+conhecidas como células de Reed-Sternberg, derivadas da transformação maligna de
+linfócitos B do centro germinativo. Habitualmente, as células de Reed-Sternberg
+representam apenas 1%-2% da massa tumoral do tecido afetado e encontram-se rodeadas
+por uma população heterogênea de células reacionais não neoplásicas constituída
+principalmente por linfócitos T e B maduros, granulócitos, histiócitos e fibroblastos1.
+O linfoma de Hodgkin corresponde a aproximadamente 10% de todos os linfomas
+e a cerca de 0,6% de todos os cânceres2. De acordo com os dados do Instituto Nacional
+de Câncer (INCA), para cada ano do biênio 2018/2019 estimou-se que fossem
+diagnosticados 2.530 novos casos de linfoma de Hodgkin (1.480 em homens e 1.050 em
+mulheres) no Brasil3.
+A incidência do linfoma de Hodgkin apresenta distribuição etária bimodal, com o
+primeiro pico no final da adolescência e início da idade adulta jovem e o segundo pico
+em idosos. No entanto, a distribuição das idades dos pacientes varia de acordo com o
+subtipo histopatológico2,4. As incidência e distribuição dos subtipos de linfoma de
+Hodgkin também sofrem a influência de fatores geográficos, socioeconômicos e de
+exposição a infecção pelo vírus HIV. Embora o vírus Epstein-Barr (EBV) tenha sido
+associado à patogênese da doença, a detecção do genoma viral só é demonstrada em um
+subconjunto dos casos, sendo considerado muito pequeno o risco absoluto de desenvolver
+linfoma de Hodgkin após infecção por EBV 5.
+Com a evolução do conhecimento sobre a doença e o desenvolvimento de novas
+modalidades de tratamento, desde o último século, o linfoma de Hodgkin deixou de ser
+uma enfermidade uniformemente fatal para se transformar em uma doença curável em
+aproximadamente 75% dos pacientes, em todo o mundo. O tratamento do linfoma de
+Hodgkin evoluiu de tal forma que pacientes com doença em estágio inicial podem ser
+curados ou alcançar remissão de longo prazo com terapia menos intensiva, reservando-se
+as formas mais intensas de terapia para aqueles pacientes com doença em estágio
+avançado6.
+Nos dias atuais, a terapêutica do linfoma de Hodgkin consiste de quimioterapia,
+anticorpos monoclonais, radioterapia e o transplante de células-tronco hematopoéticas.
+Essas modalidades terapêuticas podem ser utilizadas de maneira isolada ou combinada, e
+a escolha do melhor tratamento deve levar em conta o tipo histopatológico (clássico ou
+predomínio linfocítico nodular), o estadiamento clínico, os fatores prognósticos (fatores
+de risco) e a fase da doença (inicial ou recidivada)6. Contudo, tendo em vista que a maioria
+dos pacientes passou a ser curada, os efeitos tóxicos relacionados ao tratamento tornaram-
+se uma causa preocupante de morbimortalidade tardia. Como tal, a seleção da terapia deve
+equilibrar o desejo de manter uma alta taxa de cura e a necessidade de minimizar as
+complicações a longo prazo7.
+A identificação de fatores de risco e da doença em seu estágio inicial e o
+encaminhamento ágil e adequado para o atendimento especializado dão à Atenção
+Primária um caráter essencial para um melhor resultado terapêutico e prognóstico dos
+casos.
+Este Protocolo visa a estabelecer os critérios diagnósticos e terapêuticos do linfoma
+de Hodgkin. A metodologia de busca e avaliação das evidências estão detalhadas no
+Apêndice 1.
+
+## 2. CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À SAÚDE (CID-10)
+Segundo a Organização Mundial da Saúde (OMS), o linfoma de Hodgkin é
+classificado em dois grupos: “linfoma de Hodgkin clássico” (que corresponde a
+aproximadamente 90% dos casos) e “linfoma de Hodgkin de predomínio linfocitário
+nodular”. O linfoma de Hodgkin clássico ainda pode ser subdividido em quatro subtipos:
+o “esclerose nodular” é o mais comum, representando de 70% a 80% dos 10% dos casos;
+o “celularidade mista” é o segundo subtipo mais comum (15% dos casos); e os subtipos
+ricos em linfócitos e esgotados de linfócitos são menos comuns8.
+Dado que a CID-11 entrará em vigor a partir de janeiro de 2022, até dezembro de 2021
+a codificação do linfoma de Hodgkin continuará a ser feita com os códigos da categoria
+
+[CID]
+Código: C81
+Descrição: da CID-10– Doença de Hodgkin (Quadro 1).
+Sistema: CID-10
+
+[CID]
+Código: C81.0
+Descrição: Doença de Hodgkin, predominância linfocítica (predominância linfocítica-histocítica)
+Sistema: CID-10
+
+[CID]
+Código: C81.1
+Descrição: Doença de Hodgkin, esclerose nodular
+Sistema: CID-10
+
+[CID]
+Código: C81.2
+Descrição: Doença de Hodgkin, celularidade mista
+Sistema: CID-10
+
+
+[CID]
+Código: C81.3
+Descrição: Doença de Hodgkin, depleção linfocítica
+Sistema: CID-10
+
+
+[CID]
+Código: C81.7
+Descrição: Outra forma da doença de Hodgkin
+Sistema: CID-10
+
+
+[CID]
+Código: C81.9
+Descrição: Doença de Hodgkin, não especificada
+Sistema: CID-10
+
+## 3. DIAGNÓSTICO E ESTADIAMENTO
+
+## 3.1. Diagnóstico clínico
+A maioria dos pacientes se apresenta com doença nodal, ou seja, exclusiva ou
+predominantemente acometendo linfonodos. Na expressiva maioria dos casos, o linfoma
+de Hodgkin se inicia com linfonodomegalia progressiva na região supradiafragmática,
+particularmente nas regiões laterais do pescoço. É incomum que o linfoma se apresente
+isoladamente na região infradiafragmática, tanto intra-abdominal, quanto inguinal. A
+apresentação infradiafragmática exclusiva, por razões ainda desconhecidas, implica em
+pior prognóstico. Por isso, a cuidadosa palpação de todas as regiões linfonodais
+periféricas é muito relevante para o prognóstico dos casos9.
+Na maioria das vezes, pode-se palpar linfonodos na região cervical, mas, também
+dependendo da extensão da doença, linfonodos supra- e infraclaviculares, axilares e
+inguinais podem mostrar-se aumentados. As características palpatórias geralmente
+diferem das doenças inflamatórias ou infecciosas (amolecidos e dolorosos) e de
+metástases de tumores sólidos (muito endurecidos). No linfoma de Hodgkin, os
+linfonodos costumam ser indolores e de consistência fibroelástica (consistência de
+borracha) e não fistulam, como pode ocorrer em algumas infecções, como a tuberculose.
+Embora seja mais comum o acometimento de linfonodos regionais, o linfoma de
+Hodgkin também pode acometer locais extranodais, por invasão direta ou hematogênica,
+como o baço, fígado, pulmões e medula óssea. Há também os linfonodos internos, que
+muitas vezes, são identificados mais tardiamente, por não poderem ser detectados ao
+exame físico. Quando ocorre um crescimento insidioso destes linfonodos, ou seja, quando
+são assintomáticos per se, mesmo que volumosos, pode ocorrer compressão de estruturas
+adjacentes como as vias aéreas e a veia cava superior, ocasionando tosse, dispneia ou
+manifestações da síndrome de compressão da veia cava superior10.
+
+
+## 3.2. Sinais e sintomas
+Diversos sinais e sintomas podem ser observados em cerca de 40% dos casos de
+linfoma de Hodgkin, particularmente nos estágios avançados. Os sinais mais
+significativos são: febre acima de 38ºC, perda de peso nos últimos seis meses maior que
+10% do peso habitual e sudorese profusa à noite. Estes três, chamados de sintomas
+constitucionais, são os mais frequentes e têm relevância, pois, quando presentes, têm
+impacto prognóstico negativo. Em um país de clima tropical, como o Brasil, é importante
+analisar adequadamente a sudorese noturna. Em caso de linfoma de Hodgkin, trata-se de
+sudorese intensa, que frequentemente molha a roupa, diferente das que o paciente possa
+ter experimentado anteriormente durante a sua vida9.
+Tosse e dispneia podem estar presentes, particularmente quando há acometimento
+de linfonodos mediastinais. Fadiga e prurido são outros dois sintomas que podem ser
+observados. O prurido é uma manifestação que deve ser considerado no diagnóstico
+diferencial e, quando persistente, aumenta a dificuldade de tratamento com componente
+imunoalérgico9, 10.
+
+## 3.3. Diagnóstico histopatológico
+O diagnóstico histopatológico deve ser expresso de acordo com a classificação da
+Organização Mundial da Saúde (OMS), a partir de uma biópsia excisional (retirada
+completa) de linfonodo suspeito ou de biópsia incisional, devendo o material obtido ser
+congelado e fixado em formalina. A biópsia excisional de um linfonodo para exame
+histopatológico com imuno-histoquímica é o procedimento padrão para o diagnóstico11.
+Ressalta-se que este procedimento deve ser realizado por cirurgião treinado e
+ciente da importância da obtenção de material representativo e adequado. Sempre que
+possível, é conveniente haver contato prévio do médico assistente com o cirurgião, para
+reforço destas recomendações e para a escolha, em comum acordo, do linfonodo a ser
+biopsiado. Por ser uma região mais sujeita a infecções locais, a biópsia de linfonodo
+inguinal deve ser evitada12.
+As amostras obtidas por aspiração por agulha fina ou por biópsia com agulha
+grossa (core biopsy) são geralmente inadequadas porque muitas vezes não removem o
+material suficiente para um diagnóstico definitivo e, portanto, impedem um diagnóstico
+preciso. A biópsia com agulha grossa dirigida por exame de imagem, apesar de menos
+frequentemente, pode ser usada nos casos de linfonodos internos e de difícil acesso13, 14.
+
+## 3.4. Avaliação laboratorial após diagnóstico histopatológico
+Com base nos achados histopatológicos e imuno-histoquímicos, no linfoma de
+Hodgkin clássico (LHc) a presença de células de Hodgkin e Reed-Sternberg (HRS) é
+definidora de doença, enquanto a detecção de células predominantes de linfócitos (PL) é
+necessária para o diagnóstico de linfoma de Hodgkin de predomínio linfocítico nodular
+(LHPLN).
+Tipicamente, as células de Reed-Sternberg possuem pelo menos dois nucléolos
+em lobos nucleares separados e o imunofenótipo se caracteriza pela expressão de CD30
+(100% dos casos) e CD15 (75%-85% dos casos), sendo negativo para CD45. O
+imunofenótipo das células malignas no LHc e LHPLN difere significativamente. Ao
+contrário das células HRS que apresentam manchas consistentemente positivas para
+CD30 e CD15, ocasionalmente positivas para CD20 e negativas para CD45, as células
+PL são caracterizadas pela expressão de CD20 e CD45, mas carecem de CD15 e CD3011.
+
+## 3.5.Exames de imagem
+A Tomografia Computadorizada por Emissão de Pósitrons (do inglês, Positron
+Emission Tomography – Computed Tomography - PET-CT) de corpo inteiro é o exame
+considerado padrão ouro para a avaliação inicial de pacientes com linfoma de Hodgkin.
+A PET-CT deve ser realizada de acordo com critérios para estadiamento e avaliação da
+resposta terapêutica em caso de linfoma15.
+Se a PET-CT não estiver disponível para o exame de diagnóstico, uma radiografia
+simples de tórax e uma tomografia computadorizada (TC) com contraste do pescoço,
+tórax e abdômen, assim como uma biópsia da medula óssea podem ser solicitados9, 16.
+Dada a alta sensibilidade da PET-CT para o acometimento da medula óssea, uma biópsia
+da medula óssea não é indicada em pacientes submetidos à avaliação por PET-CT9, 16, 17.
+
+## 3.6. Outros exames
+Os seguintes exames complementares são considerados essenciais na avaliação
+inicial do paciente com linfoma de Hodgkin6:
+
+Hemograma completo e contagem de plaquetas;
+
+determinação da velocidade de hemossedimentação (VHS);
+
+avaliação metabólica, incluindo a dosagem de proteína C reativa (PCR), fosfatase alcalina (FA), lactato desidrogenase (LDH), enzimas hepáticas e albumina;
+
+exame sorológico para hepatites B e C, HIV e sífilis;
+
+rastreamento da hepatite B (HBV) e de infecção latente por tuberculose (ILTB)18;
+
+teste para gravidez – dosagem de gonadotrofina coriônica βHCG (em mulheres em idade fértil);
+
+outros exames, como provas de função pulmonar e ecocardiograma, devem ser considerados na dependência do perfil patológico e de risco do paciente e do tratamento proposto, antes de este ser iniciado.
+Como a quimioterapia e a radioterapia abdominal podem causar infertilidade
+permanente, deve ser oferecido a pacientes em idade reprodutiva o planejamento
+reprodutivo6.
+
+## 3.7. Estadiamento
+O estadiamento do linfoma de Hodgkin pode ser realizado de acordo com a
+classificação de Ann Arbor, que classifica os pacientes em quatro estágios, conforme
+representado no Quadro 219. Os estádios de um a três indicam o grau de acometimento
+linfonodal, enquanto o estádio quatro é indicativo de acometimento disseminado de
+órgãos, que pode ser encontrado em 20% dos casos. Esta classificação também subdivide
+os pacientes de acordo com a presença de sintomas sistêmicos, como A ou B,
+respectivamente de acordo com a ausência ou presença de febre, sudorese noturna ou
+emagrecimento (perda de > 10% do peso corporal em 6 meses)19.
+Quadro 2 - Classificação de Ann Arbor/Costwolds modificado
+Classificação de Ann Arbor/Cotswolds modificado19
+ Estádio I: acometimento de uma cadeia linfonodal ou estrutura linfoide (baço,
+timo, anel de Waldeyer) ou sítio extra linfático (IE);
+ Estádio II: acometimento de duas ou mais cadeias linfonodais localizadas no
+mesmo lado do diafragma, que pode ter contiguidade com um local extra
+linfático (IIE);
+ Estádio III: acometimento de cadeias linfonodais em ambos os lados do
+diafragma, que pode estar associado a um local extra linfático (IIIE) ou
+acometimento do baço (IIIS), ou ambos (IIIES);
+ Estádio IV: acometimento disseminado de um ou mais órgãos extra linfáticos,
+ou ainda acometimento de um local extra linfático com acometimento linfonodal
+à distância.
+A: Ausência de sintomas sistêmicos.
+B: Presença de sintomas sistêmicos (febre, sudorese noturna ou perda de peso).
+X: Quando a massa linfonodal é ≥ 10 cm ou ocupa um diâmetro superior a 1/3 da caixa
+torácica.
+Outra opção para proceder ao estadiamento é utilizar a classificação de Lugano,
+que incorpora o exame de tomografia computadorizada por emissão de pósitrons (PET-
+CT) no estadiamento inicial e na avaliação da resposta terapêutica. Este exame é a melhor
+técnica de imagem para confirmar o acometimento esplênico em pacientes com linfoma
+de Hodgkin. Os achados positivos na PET-CT incluem captação difusa, massa solitária,
+lesões miliares ou nódulos, e, na tomografia computadorizada, aumento maior do que 13
+cm na medida craniocaudal da lesão ou presença de massa ou nódulos que não são císticos
+nem vasculares. Semelhante à avaliação para confirmação do acometimento esplênico, a
+PET-CT é indicada para a avaliação do acometimento hepático, e a captação difusa ou
+aumentada ou focal, com ou sem nódulos focais ou disseminados, confirma esse
+acometimento9.
+Com a incorporação deste exame no sistema de classificação, há simplificação da
+avaliação de acometimento linfonodal, e de órgãos, incluindo fígado ou baço, além de
+não ser necessária realização de biópsia de medula para o estadiamento (Quadro 3).
+Quadro 3 - Classificação de Lugano.
+Classificação de Lugano9
+Doença Localizada
+ Estádio I: acometimento de um sítio linfonodal.
+ Estádio IE: acometimento de um sítio extra nodal na ausência de acometimento
+nodal.
+ Estádio II: acometimento de duas ou mais regiões linfonodais localizadas no
+mesmo lado do diafragma.
+ Estádio IIE: acometimento de um sítio extra nodal por contiguidade com ou
+sem acometimento de outras regiões linfonodais no mesmo lado do diafragma.
+ Estádio II bulkya: estádio II com a presença de grande massa.
+Doença Avançada
+ Estádio III: acometimento de regiões linfonodais em ambos os lados do
+diafragma; linfonodos acima do diafragma com acometimento esplênico
+ Estádio IVb: acometimento difuso ou disseminado de um ou mais órgãos extra
+nodais, com ou sem acometimento de linfonodo associado; ou acometimento de
+órgão extra nodal não contíguo em conjunto com doença nodal estádio II ou
+qualquer acometimento de órgão extra nodal na doença nodal estádio III.
+a Estádio II bulky - pode ser considerado doença localizada ou avançada, com base na histologia do linfoma e em fatores prognósticos.
+b Estádio IV inclui qualquer acometimento do líquido cefalorraquidiano, medula óssea,
+fígado ou múltiplas lesões pulmonares.
+De acordo com a classificação de Lugano, a doença volumosa em caso de linfoma
+de Hodgkin ocorre quando há uma única massa nodal de 10 centímetros ou maior do que
+um terço do diâmetro transtorácico, em qualquer nível das vértebras torácicas,
+determinado por uma tomografia computadorizada. O termo “X” não é mais utilizado
+nesta classificação. Os pacientes continuam a receber as designações A ou B na
+classificação de Lugano, pois determinar a ausência ou presença de sintomas
+constitucionais é importante para definir o tratamento, principalmente naqueles pacientes
+com doença localizada9.
+
+## 3.8. Definição de grupo de risco
+Nos últimos anos, vários grupos de especialistas desenvolveram índices ou
+escores prognósticos, na tentativa de identificar grupos de riscos que permitissem
+condutas terapêuticas adaptadas ao risco. A Organização Europeia para a Pesquisa e o
+Tratamento do Câncer (European Organization for Research and Treatment of Cancer -
+EORTC), o Grupo de Estudo Alemão do Linfoma de Hodgkin (German Hodgkin’s
+Lymphoma Study Group - GHSG), assim como a Rede Nacional Abrangente de Câncer
+(National Comprehensive Cancer Network – NCCN) classificam os pacientes com
+linfoma de Hodgkin em três grupos de risco20-22:
+ Doença localizada sem fatores de riscos ou favorável;
+ Doença localizada com fatores de riscos ou desfavorável; e
+ Doença avançada.
+Os grupos são definidos de acordo com o estádio da doença e outros fatores
+prognósticos, como, por exemplo, o número de áreas linfonodais, a velocidade de
+hemossedimentação (VHS), o acometimento extranodal e a presença de massa
+mediastinal (quadros 4 e 5).
+
+## 4. CRITÉRIOS DE INCLUSÃO
+Serão incluídos neste Protocolo pacientes adultos (19 ou mais anos) com
+diagnóstico de linfoma de Hodgkin.
+
+## 5. CRITÉRIOS DE EXCLUSÃO
+Serão excluídos aqueles pacientes que apresentarem toxicidade (intolerância,
+hipersensibilidade ou outro evento adverso) ou contraindicação absoluta ao uso do
+respectivo medicamento ou procedimento preconizado neste Protocolo.
+
+## 6. TRATAMENTO
+O tratamento do linfoma de Hodgkin tem sido modificado com o objetivo de se
+reduzir os efeitos tóxicos a ele relacionados e adaptando ao risco de cada paciente,
+principalmente com mudanças na radioterapia, com o uso de antineoplásicos com um
+melhor perfil de toxicidade e a busca de terapias alvo (anticorpos monoclonais e os
+inibidores checkpoint). Questões terapêuticas relacionadas ao melhor esquema
+terapêutico, ao número ideal de ciclos de quimioterapia e à dose ideal de radioterapia
+devem ser definidas pela equipe médica dos hospitais habilitados em oncologia, que
+possuem autonomia na escolha da melhor opção para cada situação clínica, com base nas
+melhores evidências científicas disponíveis.
+
+## 6.1. Principais esquemas de tratamento da forma clássica do Linfoma de Hodgkin
+A quimioterapia e a radioterapia são os principais tratamentos dos pacientes com
+linfoma de Hodgkin clássico. Dependendo da fase da doença (inicial, intermediária ou
+avançada) e dos fatores prognósticos associados, há variações quanto a dose, o número
+de ciclos de quimioterapia e a combinação de medicamentos antineoplásicos prescritos.
+O esquema terapêutico mais comum para tratar o linfoma de Hodgkin é uma
+combinação de quatro medicamentos denominado pela sigla ABVD (Doxorrubicina +
+Bleomicina + Vimblastina + Dacarbazina)24.
+Para os pacientes com doença localizada desfavorável ou com doença avançada,
+uma outra combinação de medicamentos antineoplásicos é mais indicada: o BEACOPP.
+Este esquema é mais intenso e apresenta maior toxicidade aguda, só devendo ser utilizado
+por profissionais com experiência, em locais com cuidados de suporte apropriados e para
+pacientes bem selecionados (IPS ≥ 3 e idade < 60 anos) 25.
+No BEACOPP, há uma variante que é formada pelos mesmos medicamentos,
+porém com doses intensificadas e denominada BEACOPP escalonado (Figura 1), com
+base na hipótese de que a resistência tumoral pode ser evitada pela administração de doses
+altas de quimioterápicos em rápida sucessão25.
+Figura 1 - Principais esquemas de tratamento do linfoma de Hodgkin26-28
+
+## 6.2.Tratamento de doença recaída ou refratária
+Apesar de uma alta probabilidade de sucesso com o tratamento de primeira linha,
+cerca de 10% dos pacientes com linfoma de Hodgkin desenvolvem doença recaída ou
+refratária. Doença refratária é definida como não resposta ou progressão durante o a
+quimioterapia ou dentro de 90 dias após o término do tratamento, enquanto a doença
+recorrente ou recidivada é definida como o seu reaparecimento no local anterior da doença
+ou em novos locais após resposta completa ao tratamento inicial 24.
+As opções de tratamento com maior taxa de sobrevida para estes pacientes é a
+prescrição de altas as doses de quimioterapia, utilizando esquemas de poliquimioterapia
+à base de platina, como ICE (Ifosfamida, Carboplatina e Etoposídeo) ou DHAP
+(Dexametasona, Citarabina e Cisplatina)29,30, seguidos por um transplante de células-
+tronco hematopoéticas (TCTH), caso o paciente apresentar condições de a ele se
+submeter31. Pacientes com recidivas após o TCTH devem ser tratados com brentuximabe
+vedotina (BV), anticorpo monoclonal direcionado a CD30 ligado à monometilauristatina
+E, um agente antitubulina (Figura 2)32.
+A dose recomendada de BV é 1,8 mg/kg, administrada como uma infusão
+intravenosa durante 30 minutos a cada três semanas. Os pacientes que apresentem
+melhora ou uma doença estável, devem receber um mínimo de oito doses e até um
+máximo de 16 ciclos (aproximadamente um ano). A dose inicial recomendada em
+pacientes com insuficiência renal grave é 1,2 mg/kg, e os mesmos devem ser monitorados
+de perto quanto à ocorrência de eventos adversos. A dose inicial recomendada em
+pacientes com insuficiência hepática é 1,2 mg/kg, e os mesmos devem ser monitorados
+de perto quanto à ocorrência de eventos adversos33.
+Preconiza-se também a obtenção de PET-CT para avaliar o perfil de risco do
+doente e a resposta ao tratamento34, 35. Pacientes de alto risco (por exemplo, com recidiva
+precoce ou recidiva extranodal) devem ser considerados para receber brentuximabe
+vedotina pós-transplante e radioterapia de consolidação32, 36, 37 (Figura 2). Para os
+pacientes com linfoma de Hodgkin com risco aumentado de recidiva ou de progressão
+após TCTH, o tratamento com BV deve começar após a recuperação do transplante, com
+base na avaliação médica. Estes pacientes devem receber até 16 ciclos, devendo ser
+interrompido após este limite. O brentuximabe vedotina não deve ser administrado em
+bolus intravenoso33, 38.
+Figura 2 - Fluxograma de tratamento de pacientes com doença recaída ou refratária
+
+## 6.3.Tratamento do Linfoma de Hodgkin com predomínio linfocitário nodular
+As células do linfoma de Hodgkin predominante em linfócitos nodulares (Nodular
+Lymphocyte-Predominant Hodgkin Lymphoma - NLPHL) são caracterizadas pela
+expressão obrigatória de CD20 juntamente com negatividade para CD3039. Por ser uma
+doença rara, não há ensaios clínicos randomizados de NLPHL para a comparação entre
+diferentes condutas terapêuticas.
+Com base na evidência disponível, para o tratamento de pacientes com NLPHL
+em estágio IA, ou seja, de acometimento de um único local linfático ou acometimento
+localizado de um único órgão ou local extralinfático e sem associação com febre, sudorese
+noturna e perda de peso abrupta, preconiza-se radioterapia em campo envolvido na dose
+total de 30 Gy, com que foram alcançadas taxas de sobrevida livre de progressão em
+91,9% dos casos e 99% de sobrevida global em oito anos40.
+Já a partir de um consenso de especialistas, recomenda-se que os pacientes com
+NLPHL em estágio IA sem fatores de risco sejam tratados com radioterapia em campo
+envolvido na dose total de 30 Gy. Por outro lado, todos os pacientes com NLPHL com
+fatores de risco ou em que o NLPHL não esteja em estágio IA devem ser tratados da
+mesma maneira que os pacientes com linfoma de Hodgkin clássico24.
+Quanto aos casos de transformação histológica de NLPHL em linfoma difuso de
+células B grandes (Diffuse Large B-Cell Lymphoma - DLBCL), que ocorre em
+aproximadamente 3%-5% dos casos e pode ser concomitante ou consequente ao
+desenvolvimento de NLPHL, deve-se seguir o tratamento preconizado no Protocolo
+Clínico e Diretrizes Terapêuticas do Linfoma difuso de Grandes Células B no Adulto41.
+
+## 6.4. Conduta terapêutica não adaptada à PET-CT
+
+## 6.4.1. Linfoma de Hodgkin clássico: Doença localizada
+Os pacientes com doença localizada devem ser tratados de acordo com as suas
+características prognósticas ao diagnóstico. A modalidade combinada, que consiste em
+quimioterapia seguida de radioterapia em campo envolvido, é a melhor opção42-44.
+O tratamento da doença localizada sem fatores de risco é de dois ciclos de ABVD
+seguidos de radioterapia em campo envolvido ou nodal. Para pacientes com doença
+localizada desfavorável, a terapia se baseia em quatro ciclos de ABVD seguidos de
+radioterapia (Figura 3)44.
+Pacientes com doença localizada tratados apenas com quimioterapia ainda
+apresentam um bom prognóstico global, podendo esta modalidade terapêutica deve ser
+oferecida àqueles que apresentam alguma contraindicação à radioterapia45.
+Figura 3 - Fluxograma de tratamento de pacientes com doença localizada
+
+## 6.4.2. Linfoma de Hodgkin clássico: Doença avançada
+Atualmente, o tratamento da doença avançada é com quimioterapia. A radioterapia
+é restrita aos pacientes com doença residual ou grandes massas. Entretanto, o papel da
+radioterapia no tratamento do linfoma de Hodgkin avançado ainda é controverso e pode
+aumentar a probabilidade de eventos adversos.
+Os dois principais esquemas terapêuticos da doença avançada e da doença
+localizada com fatores de risco ou desfavorável são o ABVD e o BEACOPP escalonado.
+Pacientes entre 16 e 60 anos de idade com doença avançada se beneficiam em termos de
+sobrevida global e sobrevida livre de progressão tumoral, a partir da quimioterapia de
+primeira linha, incluindo BEACOPP escalonado46. No entanto, este tratamento pode ser
+mais tóxico do que o ABVD, sendo os dados de eventos adversos relevantes a longo prazo
+ainda que incipientes.
+Preconiza-se o tratamento com 6 ciclos de ABVD e, caso haja doença residual
+superior a 2,5 cm, o paciente deve ser submetido à radioterapia com campo envolvido ou
+nodal (Figura 4)6.
+Figura 4 - Fluxograma de tratamento para pacientes com doença avançada
+
+## 6.5. Tratamento adaptado à PET-CT
+O desafio do tratamento do linfoma de Hodgkin é o de maximizar a eficácia e
+minimizar os efeitos tóxicos precoces e tardias. Para minimizar a toxicidade do tratamento
+sem reduzir a sua eficácia, este deve ser ajustado ao risco de cada paciente. Uma das
+formas é avaliar a resposta ao tratamento por meio da PET-CT, segundo os Critérios de
+Deauville (DV) (Quadro 6). Trata-se de uma escala de 5 pontos em que se pontua a
+captação de maior intensidade no sítio inicial da doença, caso esteja presente47:
+
+## 6.5.1. Tratamento adaptado à PET-CT: Doença localizada
+No caso de doença localizada sem fatores de risco ou favorável, o tratamento
+adaptado à PET-CT, após os 2 ciclos iniciais de ABVD, em caso de PET-CT negativa,
+pode-se proceder a mais um ciclo de AVBD ou radioterapia (Figura 5). A escolha
+dependerá do critério de estratificação utilizado. Se o critério utilizado foi o do GHSG e
+PET-CT negativa com critérios de Deauville com valores de 1-3 pontos (DV:1-3), pode-
+se indicar direto a radioterapia. No caso da utilização de outros critérios de estratificação
+do grupo de risco, por exemplo do EORTC e PET-CT negativa com critérios de Deauville
+com valores de 1-2 pontos (DV:1-2), há indicação de mais um ciclo de quimioterapia47.
+Em contrapartida, se a PET-CT for positiva, pode-se proceder à quimioterapia
+com 2 ciclos de ABVD ou 2 ciclos de BEACOPP escalonado (Figura 5). A escolha entre
+um ou outro dependerá do hospital onde o paciente está sendo tratado, já que o BEACOPP
+é mais intensivo e resulta em maior toxicidade, só devendo ser realizado por profissionais
+com experiência, em locais com cuidados de suporte apropriados, e em pacientes bem
+selecionados (< 60 anos).
+Deve-se proceder a uma nova biópsia nos pacientes que apresentarem, de acordo
+com os critérios de Deauville, um valor de 5 pontos (DV:5). Os pacientes com resultado
+positivo ao exame histopatológico do material de biopsia devem ser tratados como para
+doença refratária ou recaída tumoral.
+No caso de doença localizada com fatores de risco ou desfavorável, a escolha por
+ABVD e BEACOPP escalonado dependerá do hospital onde o paciente está sendo
+tratado, já que o BEACOPP é mais intensivo e resulta em maior toxicidade, só devendo
+ser realizado por profissionais com experiência, em locais com cuidados de suporte
+apropriados, e em pacientes com menos de 60 anos. Se a PET-CT for positiva com critério
+de Deauville com valor de 3 pontos (DV:3), indica-se o ABVD; se a PET-CT for positiva
+com critério de Deauville com valor de 4 pontos (DV:4), indica-se o BEACOPP
+escalonado.
+Deve-se proceder a uma nova biópsia nos pacientes que apresentarem, de acordo
+com os critérios de Deauville, um valor de 5 pontos (DV:5). Os pacientes com resultado
+positivo ao exame histopatológico do material de biopsia devem ser tratados como para
+doença refratária ou recaída tumoral.
+
+## 6.5.2. Tratamento adaptado à PET-CT: Doença avançada
+Até o momento, não há ensaios clínicos randomizados que tenham avaliado a
+intensificação do tratamento de pacientes com PET-CT interina positiva para doença
+avançada; portanto, o efeito preciso da intensificação do tratamento permanece incerto,
+apesar dos controles históricos.
+A Figura 7 sintetiza o tratamento adaptado à PET-CT em caso de pacientes com
+doença avançada tratados inicialmente com ABVD. Observe-se que, no caso de PET-CT
+negativa, os quatro ciclos complementares ao dois ciclos iniciais de ABVD serão sem a
+bleomicina (AVD).
+Já a Figura 8 resume o tratamento adaptado à PET-CT em caso de pacientes com
+doença avançada tratados inicialmente com BEACOPP escalonado (somente pacientes
+selecionados: IPS ≥ 4 e < 60 anos).
+Deve-se proceder a uma nova biópsia nos pacientes que apresentarem, de acordo
+com os critérios de Deauville, um valor de 5 pontos (DV:5). Os pacientes com resultado
+positivo ao exame histopatológico do material de biopsia devem ser tratados como para
+doença refratária ou recaída tumoral.
+
+## 6.6. Eventos Adversos
+O tratamento do linfoma de Hodgkin engloba diferentes doses de quimioterapia e
+de radioterapia, que podem ser procedidas separadamente ou em conjunto, dependendo
+das características de cada paciente. Mesmo em baixas doses ou de forma isolada, esses
+tratamentos apresentam riscos de eventos adversos, como, por exemplo, aumento do risco
+de desenvolver uma neoplasia maligna secundária48.
+A maioria dos eventos adversos relatados são semelhantes, tanto para
+quimioterapia quanto para radioterapia e envolvem efeitos tóxicos hematológicos e
+pulmonares48. Quanto à quimioterapia, o BEACOPP escalado causa um maior risco de
+eventos adversos, como anemia, neutropenia, trombocitopenia e infecções, quando
+comparado ao ABVD46. Até o momento não há dados de estudos relacionados à
+infertilidade 46. Em relação à mortalidade, há estudos que relataram risco de morte por
+infecção, mortalidade por câncer ou doenças cardíacas, neste último caso devido à
+exposição à radiação, embora esses riscos de mortalidade não sejam altos45, 48-51.
+Disfunções da tireoide afetam aproximadamente 50% dos pacientes que recebem
+radioterapia no pescoço ou nas áreas do mediastino superior22, 52. A síndrome da fadiga
+crônica também não deve ser ignorada, o que afeta o bem-estar físico e mental dos
+pacientes, além de ser um fator na avaliação da sua qualidade de vida e no retorno ao
+funcionamento social, familiar e profissional 53. O risco de câncer de mama secundário à
+radioterapia é particularmente alto em mulheres que receberam radiação com menos de
+30 anos de idade e permanece aumentado por décadas após o término da radioterapia54.
+Pacientes que necessitam de TCTH, bem como radioterapia, têm um risco
+aumentado de infecção devido à imunossupressão. Por outro lado, a neuropatia é o
+principal efeito tóxico não hematológico do tratamento com brentuximabe vedotina.
+Apesar disso, a maioria dos pacientes que tiveram neuropatia pós-linfoma de Hodgkin
+apresentaram melhora dos sintomas ao longo de um ano55.
+
+## 6.6 Casos Especiais
+
+## 6.6.1. Gestantes
+O linfoma de Hodgkin tem um pico de incidência que coincide com os anos
+reprodutivos (final da adolescência e início da idade adulta), e o estado gravídico
+concomitante pode estar presente em até 3% de todos os pacientes diagnosticados com
+essa doença. Com uma relação de incidência estimada entre 1:1.000 e 1:3.000 partos, o
+linfoma de Hodgkin é a neoplasia hematológica mais comum da gravidez56.
+O maior desafio médico da concomitância de linfoma de Hodgkin e gravidez é
+controlar a evolução de uma neoplasia maligna potencialmente fatal e ao mesmo tempo
+cuidar para que o feto tenha um desenvolvimento normal. Desse modo, o tratamento de
+uma paciente gestante com linfoma de Hodgkin requer um atendimento multidisciplinar,
+combinando conhecimentos em oncologia médica, obstetrícia de alto risco e
+neonatologia, além de comunicação eficaz com a paciente e sua família. A biologia, o
+curso clínico e o prognóstico da doença são semelhantes aos observados em mulheres não
+grávidas56, 57.
+
+## 6.6.1.1. Estadiamento
+O objetivo do estadiamento é fornecer ao médico assistente e à paciente as
+informações suficientes para orientar o tratamento, limitando os riscos ao feto. O uso de
+tomografia computadorizada e PET-CT está contraindicado por expor o feto a radiação
+potencialmente prejudicial58. Por outro lado, a radiografia simples de tórax (com a devida
+proteção abdominal), a ultrassonografia e a ressonância magnética (sem uso de gadolínio)
+são métodos seguros de exames de imagem durante a gravidez58-60.
+Deste modo, a avaliação para o estadiamento inicial da paciente gestante com
+diagnóstico de linfoma de Hodgkin deve incluir56, 61, 62:
+
+Estudos laboratoriais, incluindo hemograma completo, determinação de velocidade
+de hemossedimentação (VHS), dosagem sérica de ureia, creatinina, enzimas hepáticas e
+teste sorológico para HIV. Vale lembrar que o VHS se encontra frequentemente elevado
+durante a gravidez normal.
+
+Radiografia simples de tórax, preferencialmente apenas com projeção posterior-
+anterior e obrigatoriamente com blindagem abdominal adequada.
+
+Avaliação do abdome com ressonância magnética ou ultrassonografia.
+
+## 6.6.1.2. Tratamento
+A escolha do tratamento do linfoma de Hodgkin durante a gravidez depende da
+fase (trimestre) da gestação, bem como da localização e estágio clínico da doença. De
+modo geral, sempre que possível, a terapia deve ser adiada até pelo menos o início do
+segundo trimestre, uma vez que os riscos de comprometimento do feto são maiores
+durante os primeiros três meses do seu desenvolvimento.
+Pacientes que apresentam doença supradiafragmática assintomática, estável e não
+volumosa são candidatas a que a terapia seja adiada para além do primeiro trimestre de
+gestação. No entanto, em pacientes com doença sintomática, de acometimento
+subdiafragmático ou que apresentem tumores volumosos ou em progressão, o tratamento
+apropriado não deve ser postergado.
+Além disso, as situações em que o bem-estar imediato da mãe está comprometido
+(por exemplo, obstrução aguda das vias aéreas, compressão da medula espinhal ou de
+veia cava superior) requerem intervenção terapêutica emergente a qualquer momento56,
+61, 62.
+
+## 6.6.1.3.
+Condutas baseadas na fase (trimestre) da gestação:
+A interrupção da gravidez raramente é indicada para pacientes com linfoma de
+Hodgkin recém-diagnosticado, dado que o tratamento quimioterápico (ABVD ou
+vimblastina em monoterapia) pode ser empregado com segurança até mesmo no primeiro
+trimestre de gestação. Da mesma forma, uma doença recidivada após radioterapia isolada
+pode ser tratada satisfatoriamente com quimioterapia, sem necessidade precípua de
+interrupção da gravidez. Por outro lado, a interrupção da gestação é mais frequentemente
+indicada em pacientes gestantes acometidas de linfoma de Hodgkin recidivada após uma
+linha completa de quimioterapia, uma vez que a quimioterapia de altas doses com suporte
+de células-tronco hematopoiéticas (transplante de medula óssea) deve ser a conduta
+terapêutica de preferência)
+Primeiro Trimestre
+Para a maioria das mulheres com linfoma de Hodgkin diagnosticado durante o
+primeiro trimestre de gestação, a recomendação é adiar o tratamento até o segundo ou
+terceiro trimestre, sempre que possível. Para pacientes com doença em progressão que
+necessitem de uma resposta terapêutica rápida, preconiza-se o uso de quimioterapia com
+ABVD.
+Pacientes com doença sintomática, mas que não necessitam de uma rápida resposta
+terapêutica podem, alternativamente ao ABVD, ser tratadas com vimblastina como agente
+único (na dose de 0,1mg/Kg/semana), mantendo o planejamento de se administrar
+esquemas de quimioterapia combinada após o parto. Nos casos em que a quimioterapia
+está indicada logo no início do primeiro trimestre, a possibilidade de interrupção da
+gravidez deve ser discutida com a paciente e familiares, tanto quanto as opções e possíveis
+consequências do tratamento.
+Segundo Trimestre
+Para a maioria das mulheres com diagnóstico de linfoma de Hodgkin durante o
+segundo trimestre de gravidez, o tratamento consiste da quimioterapia com ABVD.
+Ocasionalmente, diante de um cenário singular de doença supradiafragmática,
+assintomática, estável e não volumosa, pode-se também optar pelo monitoramento clínico
+rigoroso e planejar a administração da quimioterapia para após o parto.
+Excepcionalmente, nas situações de maior gravidade (como obstrução aguda das vias
+aéreas e compressão da veia cava superior), a radioterapia pode ser usada para controle
+local da doença supradiafragmática sintomática.
+Terceiro Trimestre
+Para pacientes diagnosticadas com linfoma de Hodgkin que já se encontrem no
+terceiro trimestre de gravidez, recomenda-se o adiamento do tratamento até o parto
+sempre que possível. Esta conduta permite que a paciente seja submetida à avaliação
+completa para o estadiamento clínico (com tomografia computadorizada ou PET-CT),
+bem como a seleção da terapia apropriada após o parto. Contudo, para os casos de doença
+sintomática ou progressiva, especialmente com sinais de risco iminente para a mãe, que
+necessitem de tratamento imediato, mais uma vez o tratamento é a quimioterapia com
+ABVD. O BEACOPP durante a gravidez não é recomendado por conter agentes
+alquilantes em sua composição.
+A radioterapia pode oferecer controle local da doença, mas está associada à
+teratogênese fetal e a risco aumentado de neoplasia maligna infantil. Alguns princípios
+devem ser seguidos quando da escolha desta modalidade de tratamento:
+
+A radioterapia deve ser postergada até o segundo ou terceiro trimestre, sempre que
+possível;
+
+a dose corporal total de irradiação para o feto deve ser limitada a 0,10 Gy ou menos;
+e
+
+o objetivo deve ser limitado ao controle de doença localizada (campo restrito) até o
+momento do parto.
+A Figura 9 resume o tratamento de pacientes gestantes com linfoma de Hodgkin.
+Figura 9 - Fluxograma de tratamento de pacientes gestantes com linfoma de Hodgkin
+
+## 6.6.2. Idosos
+A sobrevida de pacientes com linfoma de Hodgkin melhorou sobremaneira nas
+últimas décadas e continua a melhorar com o desenvolvimento de novas tecnologias, tais
+como os anticorpos monoclonais. Além disso, com a adoção de condutas terapêuticas
+adaptadas à resposta (avaliada por PET-CT interina), a intensidade geral do tratamento
+para a maioria dos pacientes pode ser reduzida, minimizando a toxicidade aguda e tardia.
+Em pacientes idosos, a tolerância à quimioterapia curativa geralmente é muito reduzida,
+resultando em toxicidade excessiva e tratamento insuficiente devido a atrasos e reduções
+de dose no tratamento programado65.
+Ademais, pacientes idosos com linfoma de Hodgkin sofrem de uma doença
+biologicamente mais agressiva e menos responsiva ao tratamento, caracterizada pela
+prevalência de fatores de pior prognóstico: estágio clínico mais avançado (Ann Arbor III
+e IV), VHS frequentemente mais elevado, maior associação com o vírus de Epstein-Barr
+e maior prevalência de sintomas constitucionais e do subtipo celularidade mista. Em
+comparação com a população mais jovem, pacientes idosos enfrentam maiores taxas de
+recidiva de doença e de mortalidade relacionada ao tratamento, além de maior risco de
+exacerbação de comorbidades pré-existentes, tais como insuficiência cardíaca e doenças
+pulmonares crônicas 65.
+Na prática assistencial, a proporção de idosos entre os pacientes com linfoma de
+Hodgkin pode ser estimada entre 20% e 31% de todos os casos. Estes dados estão de
+acordo com a distribuição etária bimodal do linfoma de Hodgkin, com um pico de
+incidência na idade adulta jovem (por volta de 30 anos) e outro pico em idosos (com 70
+ou mais anos).
+
+## 6.6.2.1. Estadiamento
+Assim como em pacientes mais jovens, a escolha da modalidade e intensidade do
+tratamento de pacientes idosos deve ser baseada na classificação de risco e no
+estadiamento clínico inicial do linfoma, geralmente definido por meio de estudos com
+tomografia computadorizada ou PET-CT. No entanto, a presença de comorbidades e de
+disfunções orgânicas pré-existentes podem limitar o uso ou a intensidade da
+quimioterapia com potencial curativo.
+Por conseguinte, além da história clínica detalhada, do exame físico completo, dos
+exames laboratoriais e dos procedimentos de estadiamento regulamentares, parte da
+avaliação inicial dos pacientes idosos deve incluir a avaliação formal de comorbidades,
+triagem de fragilidade e avaliação de atividades da vida diária. A maioria dos estudos
+com foco em pacientes idosos com linfoma de Hodgkin implementa uma avaliação
+geriátrica abrangente, com o objetivo de orientar as decisões terapêuticas e identificar
+pacientes que provavelmente não se beneficiarão da quimioterapia.
+
+## 6.6.2.2.Tratamento
+O tratamento ideal de idosos com linfoma de Hodgkin ainda não foi
+completamente estabelecido, uma vez que estes pacientes representam apenas uma
+minoria daqueles incluídos em ensaios clínicos randomizados. Apesar disso, sempre que
+possível, os pacientes idosos devem receber terapia com intenção curativa, como aquela
+empregada para adultos mais jovens65. No entanto, a possibilidade de cura da doença em
+idosos geralmente deve ser alcançada com a terapia de primeira linha, dado que as opções
+padrão de tratamento de segunda linha, como quimioterapia de altas doses seguida de
+TCTH, não são aplicáveis para a grande maioria dos pacientes idosos com linfoma de
+Hodgkin.
+De modo geral, o emprego de esquemas mais intensos de quimioterapia (além do
+ABVD) não é viável para a maioria dos pacientes idosos com linfoma de Hodgkin devido,
+principalmente, à toxicidade excessiva48,67. Para pacientes idosos sem comorbidades
+significativas, o tratamento de modalidade combinada é uma opção viável e com potencial
+curativo. Do mesmo modo que a população mais jovem, pacientes idosos com doença em
+estágio inicial favorável (sem fatores de risco) devem receber tratamento com dois ciclos
+de ABVD, seguidos de radioterapia localizada na dose de 20 Gy.
+Por outro lado, para os pacientes idosos com doença em estágio inicial
+desfavorável (com fatores de risco), a conduta consiste em aplicar dois ciclos de ABVD,
+seguidos de dois ciclos de AVD (omitindo-se a bleomicina), seguidos por radioterapia
+localizada com 30 Gy. No caso dos pacientes idosos com linfoma de Hodgkin em estágio
+avançado, preconiza-se quimioterapia com dois ciclos de ABVD, seguidos por quatro
+ciclos de AVD (omitindo-se a bleomicina), seguidos por radioterapia localizada nos sítios
+de doença residual (≥ 2,5 cm à tomografia ou PET-CT positiva), sempre que possível. 
+A bleomicina deve ser usada com muito cuidado em pacientes idosos. No caso de
+função pulmonar reduzida pré-existente ao tratamento, o uso de bleomicina está associado
+a um potencial de toxicidade grave e, portanto, deve ser evitado48. Exemplos de pacientes
+para os quais a bleomicina provavelmente deve ser omitida:
+ Idade > 80 anos, muito frágil ou de cura improvável;
+ depuração da creatinina ≤ 5 ml/minuto; e
+ fumantes ativos ou com doença pulmonar subjacente significativa.
+Os fluxogramas de tratamento do linfoma de Hodgkin de pacientes idosos com
+doença localizada (Figura 10) e avançada (Figura 11) encontram-se a seguir.
+
+## 6.6.3. Infecção pelo Vírus HIV
+A infecção pelo vírus da imunodeficiência humana (HIV) compromete a
+imunidade celular e predispõe o desenvolvimento de cânceres. De acordo com os dados
+dos registros norte-americanos, o linfoma de Hodgkin é o quinto câncer mais comum
+entre as pessoas infectadas pelo HIV, vindo logo atrás dos linfomas não Hodgkin, do
+sarcoma de Kaposi e dos carcinomas de pulmão e da região anal. Diferentemente destas
+últimas neoplasias, o linfoma de Hodgkin não é considerado uma doença maligna
+definidora da síndrome da imunodeficiência adquirida (AIDS)68. A incidência de linfoma
+de Hodgkin em indivíduos infectados pelo vírus HIV é de 5 a 20 vezes maior do que na
+população geral, a idade média ao diagnóstico é de 40 a 44 anos e o subtipo
+histopatológico mais prevalente é o celularidade mista69.
+À medida que a expectativa de vida dos portadores de HIV aumenta, as doenças
+malignas contribuem cada vez mais para a morbimortalidade nessa população. Desde a
+implementação rotineira da terapia antirretroviral (TARV), o câncer é diagnosticado em
+cerca de 40% das pessoas com HIV, sendo responsável por até 28% das mortes
+relacionadas ao vírus 48. Diferentemente do observado em relação aos linfomas não
+Hodgkin, a implementação da TARV não reduziu a incidência de linfoma de Hodgkin
+entre os portadores de HIV. Ainda assim, provavelmente devido à melhora da resposta
+imune, desde a implementação da TARV, o subtipo esclerose nodular tem aparecido com
+maior frequência e já representa quase 50% dos casos 69.
+A redução da carga viral e a melhora da função imunológica promovidas pela
+TARV reduziram sobremaneira a ocorrência de infecções oportunistas, ampliaram
+significativamente a tolerância dos pacientes à quimioterapia e, consequentemente,
+melhoraram os resultados do tratamento do linfoma de Hodgkin em portadores do HIV.
+Atualmente, a sobrevida global nos pacientes infectados pelo HIV e com linfoma de
+Hodgkin assemelha-se à dos não infectados70. Deste modo, a TARV é um componente
+essencial para o tratamento de pacientes com linfoma relacionado ao HIV e deve ser
+continuada durante o período da quimioterapia, tendo por objetivo reduzir a carga viral
+do HIV a níveis indetectáveis71.
+Cabe ressaltar que os esquemas de TARV com inibidores de protease (CYP3A),
+a exemplo do ritonavir, podem potencializar a mielotoxicidade da quimioterapia. Neste
+cenário, os inibidores da integrase (raltegravir, dolutegravir) representam uma boa
+alternativa, já que esses agentes têm menor potencial para interações medicamentosas69.
+Para mais informações sobre a TARV consultar o Protocolo Clínico e Diretrizes
+Terapêuticas para Manejo da Infecção pelo HIV em Adultos72, 77.
+
+## 6.6.3.1.Estadiamento
+Do mesmo modo que para os pacientes não infectados, a escolha da modalidade e
+intensidade do tratamento em portadores do HIV deve ser baseada na classificação de
+risco e no estadiamento clínico inicial, geralmente definido por meio de estudos com
+tomografia computadorizada ou PET-CT. Contudo, as comorbidades relacionadas ao
+HIV têm um amplo espectro de gravidade e merecem especial atenção durante o
+planejamento da quimioterapia69.
+Deve-se incluir na avaliação inicial e no seguimento a aferição da carga viral HIV
+e a contagem de CD4. Além de servir de parâmetro de eficácia da TARV, a mensuração
+dos níveis de CD4 também pode orientar o uso e a escolha da profilaxia antibiótica
+durante o período de quimioterapia69.
+
+## 6.6.3.2.Tratamento
+Pacientes infectados pelo HIV devem receber o mesmo tratamento planejado para
+os não infectados, acrescido da TARV. Deste modo, preconiza-se69, 73, 74:
+
+Pacientes com linfoma de Hodgkin relacionado ao HIV devem receber o mesmo
+tratamento planejado para os não infectados, de acordo com avaliação da presença ou
+ausência de fatores prognósticos e sintomas constitucionais, envolvendo os mesmos
+esquemas apresentados, acrescido da TARV.
+
+A TARV deve ser iniciada antes ou concomitantemente com a quimioterapia e deve
+ser continuada durante o período de tratamento do linfoma de Hodgkin.
+
+A carga viral do HIV e a contagem de CD4 devem ser aferidas com regularidade,
+antes e durante o período de quimioterapia.
+Deve-se atentar para o fato de que, durante o período de quimioterapia, para redução
+do risco de infecções oportunistas, há necessidade de considerar também o uso de
+antibioticoprofilaxia. Deste modo, deve-se seguir o preconizado no Protocolo Clínico e
+Diretrizes Terapêuticas para o Manejo da Infecção pelo HIV em Adultos77.
+
+## 7. MONITORAMENTO
+O monitoramento pós-tratamento do linfoma de Hodgkin é extremamente
+necessário, a fim de detectar precocemente possíveis efeitos tóxicos e até mesmo a
+recidiva tumoral. O monitoramento cuidadoso da detecção precoce da recidiva é
+particularmente importante nos primeiros 5 anos após o final do tratamento, porque 90%
+de todas as recidivas se enquadram nesse período. Os pacientes com linfoma de Hodgkin
+precisam ser acompanhados regularmente, com ênfase na história, exame físico e análise
+laboratorial: a cada 3 meses no primeiro ano após o tratamento, a cada 6 meses do segundo
+ao quarto ano e, posteriormente, anualmente24.
+Em cada atendimento de acompanhamento, é altamente recomendável perguntar
+ao paciente sobre sintomas que possam indicar sequelas tardias do tratamento. Por
+exemplo, a imagem radiológica não deve ser realizada rotineiramente em pacientes
+assintomáticos durante uma avaliação de acompanhamento após o término do tratamento.
+Porém, se houver suspeita de recidiva, indica-se confirmá-la ou descartá-la por meio de
+PET-CT, se disponível, ou então de tomografia computadorizada, seguida de biópsia75.
+Pacientes assintomáticos que receberam quimioterapia mais radioterapia
+mediastinal na dose de 20 Gy ou mais devem ser submetidos a eletrocardiografia,
+ecocardiografia e a um exame para detectar ou descartar doença cardíaca coronariana76.
+É recomendado que o nível sérico do hormônio estimulador da tireoide (TSH) seja
+medido uma vez por ano em pacientes submetidos a radioterapia nas proximidades da
+região da tireoide, para descartar disfunções dessa glândula52.
+Pacientes submetidos à radioterapia pulmonar ou mediastinal devem ser
+submetidos a testes de função pulmonar, incluindo a medição da capacidade de difusão,
+12 meses após o final do tratamento.
+Se houver suspeita de dano gonadal, este deve ser investigado em consulta,
+preferencialmente, com um especialista em saúde reprodutiva.
+Os pacientes com queixa de fadiga crônica devem ser encaminhados a um médico
+ou psicólogo com experiência no tratamento dessa condição24.
+
+## 8. REGULAÇÃO/CONTROLE/AVALIAÇÃO PELO GESTOR
+Devem ser observados os critérios de inclusão e exclusão de pacientes deste
+PCDT, a duração e a monitorização do tratamento, bem como a verificação periódica das
+doses prescritas e dispensadas e a adequação de uso de medicamentos.
+A indicação de TCTH deve observar o vigente Regulamento Técnico do Sistema
+Nacional de Transplantes e as idades mínima e máxima atribuídas aos respectivos
+procedimentos na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais
+Especiais do SUS.
+Pacientes com diagnóstico de linfoma de Hodgkin devem ser atendidos em
+hospitais habilitados em Oncologia e com porte tecnológico suficiente para diagnosticar,
+tratar e acompanhar os pacientes.
+Além da familiaridade que tais hospitais guardam com o estadiamento, tratamento
+e controle de eventos adversos, eles têm toda a estrutura ambulatorial, de internação, de
+terapia intensiva, de hemoterapia, de suporte multiprofissional e de laboratórios
+necessária para o adequado atendimento e obtenção dos resultados terapêuticos
+esperados.
+A regulação do acesso é um componente essencial da gestão para a organização
+da rede assistencial e a garantia do atendimento das pacientes, e muito facilita as ações
+de controle e avaliação. Entre tais ações incluem-se a manutenção atualizada do Cadastro
+Nacional dos Estabelecimentos de Saúde (CNES), a autorização prévia dos
+procedimentos, o monitoramento da produção dos procedimentos (por exemplo,
+frequência apresentada versus autorizada, valores apresentados versus autorizados versus
+ressarcidos) e a verificação dos percentuais da frequência dos procedimentos
+quimioterápicos em suas diferentes linhas (cuja ordem descendente – primeira maior do
+que segunda e segunda maior do que terceira – sinaliza a efetividade terapêutica). Ações
+de auditoria devem verificar in loco, por exemplo, a existência e a observância da conduta
+ou do protocolo adotados no hospital, a regulação do acesso assistencial, a qualidade da
+autorização, a conformidade da prescrição e da dispensação e administração dos
+medicamentos (tipos e doses), a compatibilidade do procedimento codificado com o
+diagnóstico e a capacidade funcional (escala de Zubrod), a compatibilidade da cobrança
+com os serviços executados, a abrangência e a integralidade assistenciais e o grau de
+satisfação dos doentes.
+O Ministério da Saúde e as Secretarias de Saúde não padronizam nem fornecem
+medicamentos antineoplásicos diretamente aos hospitais ou aos usuários do SUS. A
+exceção é feita ao mesilato de imatinibe para a quimioterapia do tumor do estroma
+gastrointestinal (GIST), da leucemia mieloide crônica e da leucemia linfoblástica aguda
+cromossoma Philadelphia positivo; do nilotinibe e do dasatinibe para a quimioterapia da
+leucemia mieloide crônica; do rituximabe para a quimioterapia do linfoma folifcular e do
+linfoma difuso de grandes células B; e dos trastuzumabe e pertuzumabe para a
+quimioterapia do carcinoma de mama - que são adquiridos pelo Ministério da Saúde e
+fornecido aos hospitais habilitados em oncologia no SUS, por meio das secretarias
+estaduais de saúde.
+Os procedimentos quimioterápicos da Tabela de Procedimentos, Medicamentos,
+Órteses, Próteses e Materiais Especiais do SUS (“Tabela do SUS”) não fazem referência
+a qualquer medicamento e são aplicáveis às situações clínicas específicas para as quais as
+terapias antineoplásicas medicamentosas são indicadas. Ou seja, os hospitais
+credenciados pelo SUS e habilitados em Oncologia são os responsáveis pelo
+fornecimento de medicamentos oncológicos que eles, livremente, padronizam, adquirem
+e fornecem, cabendo-lhes codificar e registrar conforme o respectivo procedimento.
+Assim, a partir do momento em que um hospital é habilitado para prestar
+assistência oncológica pelo SUS, a responsabilidade pelo fornecimento de medicamento
+antineoplásico é do hospital, seja ele público ou privado, com ou sem fins lucrativos.
+Os procedimentos de quimioterapia do linfoma de Hodgkin são os seguintes:
+
+03.04.06.001-1 Quimioterapia da doença de Hodgkin - 1ª linha
+03.04.06.003-8 Quimioterapia da doença de Hodgkin - 2ª linha
+03.04.06.004-6 Quimioterapia da doença de Hodgkin - 3ª linha
+
+O brentuximabe vedotina foi incorporado no SUS para o tratamento de pacientes
+adultos com linfoma de Hodgkin refratário ou recidivado após transplante de células-
+tronco hematopoéticas, por meio da Portaria SCTIE/MS nº 12, de 11 de março de 2019.
+O seu uso é compatível com o registro do procedimento de 3ª linha, cuja descrição
+explicita em que condições pode ser autorizado.
+Para a autorização do TCTH alogênico não aparentado, todos os potenciais
+receptores devem estar inscritos no Registro Nacional de Receptores de Medula Óssea ou
+outros precursores hematopoéticos – REREME/INCA/MS, e devem ser observadas as
+normas técnicas e operacionais do Sistema Nacional de Transplantes.
+Os receptores submetidos a TCTH originários dos próprios hospitais
+transplantadores neles devem continuar sendo assistidos e acompanhados; e os demais
+receptores transplantados deverão, efetivada a alta do hospital transplantador, ser
+devidamente reencaminhados aos seus hospitais de origem, para a continuidade da
+assistência e acompanhamento. A comunicação entre os hospitais deve ser mantida de
+modo que o hospital solicitante conte, sempre que necessário, com a orientação do
+hospital transplantador e este, com as informações atualizadas sobre a evolução dos
+transplantados.

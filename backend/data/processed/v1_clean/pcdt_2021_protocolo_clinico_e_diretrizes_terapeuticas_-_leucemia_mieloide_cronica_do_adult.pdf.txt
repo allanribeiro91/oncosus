@@ -1,0 +1,1016 @@
+1.
+INTRODUÇÃO
+A leucemia mieloide crônica (LMC) corresponde a 15% de todas as leucemias em pacientes adultos com mediana de
+idade de 67 anos. Nos Estados Unidos foram estimados 8.950 novos casos diagnosticados e cerca 1.080 mortes relacionadas à
+doença em 20171. No Brasil, o Instituto Nacional de Câncer – INCA/MS estimou, para 2020-2022, 10.810 novos casos de
+leucemias, por ano2, e, destes, a deduzir de dados históricos anuais no SUS, a LMC deve representar 10%. Em 2019, foram
+registrados 127.134 procedimentos de quimioterapia de LMC do adulto, no Sistema de Informações Ambulatoriais do SUS (SIA-
+SUS), apontando para uma prevalência de cerca de 15.892 casos desta doença no Brasil.
+A LMC é uma neoplasia mieloproliferativa caracterizada pela proliferação excessiva de granulócitos maduros e em
+amadurecimento e pela presença do cromossomo Philadelphia (Ph+), que resulta da translocação recíproca entre os braços longos
+dos cromossomos 9 e 22, t (9;22) (q34; q11.2), levando à fusão do gene BCR (breakpoint cluster region protein) com o gene
+ABL1 (Abelson murine leukemia viral oncogene homolog 1). Este gene de fusão, BCR-ABL1, resulta na expressão de uma
+proteína, que é uma tirosinoquinase, com papel central na patogênese da LMC3.
+A identificação da doença em seu estágio inicial e o encaminhamento ágil e adequado para o atendimento especializado
+dão à Atenção Primária um caráter essencial para um melhor resultado terapêutico e prognóstico dos casos.
+Este Protocolo visa a estabelecer os critérios diagnósticos e terapêuticos da leucemia mieloide crônica do adulto. A
+metodologia de busca e avaliação das evidências estão detalhadas no Apêndice 1.
+2.
+CLASSIFICAÇÃO ESTATÍSTICA INTERNACIONAL DE DOENÇAS E PROBLEMAS RELACIONADOS À
+SAÚDE (CID-10)
+
+[CID]
+Código: C92.1
+Descrição: Leucemia Mieloide Crônica
+Sistema: CID-10
+
+3.
+DIAGNÓSTICO CLÍNICO-LABORATORIAL E CLASSIFICAÇÃO DA LEUCEMIA MIELOIDE CRÔNICA
+A LMC ocorre em três fases distintas: crônica (FC), de transformação ou acelerada (FT) e blástica ou aguda (FB).
+Atualmente a classificação das neoplasias mieloides e leucemias agudas da Organização Mundial da Saúde (OMS) de 20174 é o
+sistema mais aceito para o diagnóstico e classificação da LMC.
+Caracterização da LMC em Fase Crônica (LMC-C)
+A LMC-C apresenta-se com leucocitose (12-1.000x10⁹/L, com mediana de 100x10⁹/L). Não se observa displasia
+significativa da medula óssea. Os blastos geralmente estão abaixo de 2% da leucometria global. Observa-se basofilia absoluta e
+a eosinofilia é comum. Monocitose absoluta pode estar presente, porém com os monócitos abaixo de 3%, exceto nos raros casos
+associados com BCR-ABL1 p190, em que a LMC pode ser confundida com a leucemia mielomonocítica crônica. A
+plaquetometria varia entre normal e valores acima de 1.000 x 10⁹/L. A trombocitopenia não é comum. Ao exame da medula
+óssea, a celularidade está aumentada devido ao padrão de maturação semelhante ao do sangue periférico, com os blastos,
+geralmente, abaixo de 5% das células da medula óssea; se estão em 10% ou mais é um indicativo de progressão da doença.
+Embora os megacariócitos possam estar normais ou discretamente diminuídos em número, 40%-50% dos pacientes apresentam
+moderada a intensa hiperplasia megacariocítica. A biópsia inicial da medula óssea mostra moderada a marcada fibrose
+reticulínica em aproximadamente 30% dos casos, que é correlacionada com um número aumentado de megacariócitos, aumento
+do volume do baço e um pior prognóstico.
+A fase crônica, cujo diagnóstico usualmente é realizado em pacientes não tratados, progride para uma fase mais avançada
+em 3 a 5 anos.
+Caracterização da LMC em Fase de Transformação (LMC-T)
+A LMC-T é caracterizada por:
+- Aumento persistente da leucometria (> 10 x 10⁹/L) ou de esplenomegalia não responsiva à terapia;
+- trombocitose (> 1.000 x 10⁹ /L) não responsiva à terapia;
+- trombocitopenia persistente (< 100 x 10⁹ /L) e não devida à terapia;
+- evolução citogenética clonal observada após a cariotipagem diagnóstica;
+- 20% ou mais de basófilos no sangue periférico;
+- 10%-19% de blastos no sangue periférico ou na medula óssea;
+- anormalidades cromossômicas adicionais nas células Ph+ (duplo Ph, trissomia 8, isocromossomo17q, trissomia 19),
+cariótipo complexo ou anormalidades do 3q26.2, ao diagnóstico; ou
+- qualquer anormalidade cromossômica nas células Ph+ adquirida durante a terapia.
+Os critérios de a a d estão mais associados à transição de LMC-C para LMC-T, enquanto os critérios e e f são mais
+indicativos de uma transição entre as LMC-T e a LMC-B. Embora modificações e novas sugestões desses critérios venham sendo
+sugeridos, recomenda-se que eles sejam tomados como indicativos de progressão de doença.
+A LMC-T normalmente se apresenta resistente ao tratamento medicamentoso.
+Caracterização da LMC em Fase Blástica (LMC-B)
+A LMC-B, também chamada de crise blástica, é diagnosticada quando:
+- A quantidade de blastos é igual ou maior do que 20% no sangue periférico ou, na medula óssea, se encontrar ≥ 20% de
+blastos entre as células nucleadas da medula óssea; ou
+- quando há proliferação blástica extramedular, podendo haver formação tumoral (cloroma).
+Estratificação por Risco
+O escore de Sokal, publicado em 1984, deriva de uma análise multivariada de sobrevida de 813 pacientes com LMC em
+fase crônica, avaliados entre 1962 e 1981. A maioria dos pacientes foi tratada com quimioterapia com agente único, tipicamente
+O bussulfano. O volume do baço e a porcentagem de blastos foram mais fortemente associados a menor sobrevida5.
+O escore de Hasford (ou Euro) deriva da análise multivariada da sobrevida de 981 pacientes com LMC precoce, que
+iniciaram o tratamento entre 1983 e 1994. Todos foram tratados com alfa-interferona isolada ou em combinação com outra
+terapia6.
+A análise de risco EUTOS foi avaliada em estudo europeu quanto ao tratamento e desfecho em casos de LMC. Foi
+derivada de análise multivariada de 2.060 pacientes tratados com imatinibe entre os anos de 2002 e 20067.
+As fórmulas para cálculo e a classificação de risco com base nesses critérios de estratificação encontram-se resumidas no
+Quadro1.
+Quadro 1 - Determinação do risco pelos escores de Sokal, Hasford e EUTOS5-7.
+Critério
+Fórmula de cálculo
+Definição de risco
+Baixo risco:
+<0,8
+exp [0,0116 x idade (em anos) - 43,4] + [0,0345 x tamanho do
+Sokal et al.
+Risco intermediário:
+baço (em cm) - 7,51] + [0,188 x (plaquetas (109/L)/700)² -
+19845
+0,8 - 1,2
+0,563)] + [0,0887 x blastos (em %) – 2,10)]
+Alto risco:
+> 1,2
+[0,6666 x idade (0 quando idade <50 anos; 1 caso contrário)] +
+Baixo risco:
+[0,0420 x tamanho do baço (em cm)] + [0,0584 x blastos (em
+≤ 780
+%)] + [0,0413 x eosinófilos (em %)] + [0,2039 x basófilos (0
+Hasford et al.
+Risco intermediário:
+19986
+quando basófilos <3%; 1 caso contrário)] + [1,0956 x
+781-1.480
+contagem de plaquetas (0 quando plaquetas <1.500 x 109/ L; 1
+Alto risco:
+caso contrário)] x 1.000]
+>1.480
+[7 x basófilos (em %)] + [4 x baço (em cm)]
+O escore EUTOS avalia a probabilidade de não se atingir
+remissão molecular completa aos 18 meses: exp [-2,1007 +
+Baixo risco (pontuação <87) e
+EUTOS7
+0,0700 × basófilos + 0,0402 × tamanho do baço (em cm)/[1 +
+alto risco (pontuação ≥ 87)
+exp (-2,1007 + 0,0700 + basófilos + 0,0402 × tamanho do baço
+(em cm)]
+Exp: expoente. O risco pelo Sokal pode ser calculado on-line por meio do link:
+https://www.leukemianet.org/content/leukemias/cml/euro__and_sokal_score/index_eng.html8.
+4.
+CRITÉRIOS DE INCLUSÃO
+- Serão incluídos neste Protocolo pacientes com idade ≥19 anos com diagnóstico confirmado de LMC.
+- Devem ser observados os critérios estabelecidos no Regulamento Técnico do Sistema Nacional de Transplantes (SNT)
+para a indicação de transplante de células-tronco hematopoéticas (TCTH) alogênico aparentado ou não aparentado de medula
+óssea, de sangue periférico ou de sangue de cordão umbilical, devendo todos os potenciais receptores estar inscritos no Registro
+Nacional de Receptores de Medula Óssea ou outros precursores hematopoéticos – REREME/INCA/MS.
+Nota: Doentes de LMC com menos de 19 anos de idade devem ser incluídos no protocolo específico estabelecido pelo
+Ministério da Saúde.
+5.
+CRITÉRIOS DE EXCLUSÃO
+Serão excluídos aqueles pacientes que apresentarem toxicidade (intolerância, hipersensibilidade ou outro evento
+adverso) ou contraindicação absoluta ao uso do respectivo medicamento ou a procedimento, inclusive o TCTH, preconizado
+neste Protocolo.
+6.
+TRATAMENTO
+O tratamento medicamentoso da LMC deve ser feito observando-se a fase da doença, os critérios objetivos de segurança,
+eficácia e efetividade dos medicamentos, a finalidade do tratamento e o(s) medicamento(s) previamente utilizado(s).
+A despeito da disponibilidade dos inibidores de tirosinoquinase (ITQ), medicamentos que alteraram sobremaneira a
+evolução da LMC e os resultados do seu tratamento, o TCTH alogênico continua a ser uma alternativa terapêutica dessa leucemia,
+mandatória em alguns casos. Daí, deve-se proceder à tipagem HLA dos pacientes e sua inclusão no REREME/INCA/MS, para
+uma eventual busca de seus potenciais doadores.
+A hidroxiureia deve ser utilizada somente para reduzir o número de leucócitos, enquanto os resultados dos exames que
+confirmem o diagnóstico de LMC estão sendo aguardados9.
+Confirmado o diagnóstico, o mesilato de imatinibe é primeira linha de tratamento dos casos de LMC.
+As fases crônica, de transformação e blástica da LMC podem assim se apresentar ao primeiro diagnóstico; como
+evolutivas de fase anteriormente diagnosticada e tratada (ou seja, de FC para FT, de FC para FB ou de FT para FB); ou como
+regressivas pelo efeito terapêutico (ou seja, de FB para FT, de FB para FC e de FT para FC). Assim, a sequência de medicamentos
+varia conforme esse status.
+No caso de o efeito terapêutico do ITQ ter feito regredir a fase leucêmica para uma anterior (de FB para FT ou FC; de FT
+para FC) não se modifica nem o medicamento nem a dose já em uso.
+
+[SUBSECTION]
+6.1
+
+Tratamento medicamentoso da LMC em fase crônica
+O tratamento de 1ª linha de pacientes com LMC em fase crônica é o inibidor da tirosinoquinase (ITQ) mesilato de imatinibe.
+Estudos que avaliaram outros inibidores de ITQ para a 1ª linha terapêutica (nilotinibe e dasatinibe) mostraram que eles promovem
+uma taxa maior de resposta precoce, porém sem impacto na sobrevida global dos doentes. Os estudos de seguimento de longo
+prazo, mais adequados, investigaram e comprovaram a segurança apenas para o imatinibe10,11.
+A conduta terapêutica inicial não é alterada pela classificação de risco do paciente. Essa classificação importa para
+predizer a resposta terapêutica, durante o tratamento do paciente. Dessa forma, na ocorrência de toxicidade insuperável ou de
+falha terapêutica observada no curso do tratamento, é necessário trocar o ITQ, e a escolha do próximo ITQ a ser utilizado pelo
+paciente deverá levar em consideração o perfil clínico de cada indivíduo e as contraindicação e toxicidade de cada fármaco (ver
+a Tabela 1 – Controle da toxicidade).
+A avaliação da resposta terapêutica pode seguir recomendação já estabelecida na literatura científica, como a
+disponibilizada pela Leukemianet8,10 (Quadro 2).
+Quadro 2 - Avaliação da resposta terapêutica8, 10.
+Tempo
+Resposta ótima
+Alerta
+Falha terapêutica
+Antes do
+Alto risco
+tratamento
+Principal via AAC/Ph+
+(linha de base)
+BCR-ABLIS ≤10%*
+BCR-ABLIS >10%*
+Não RHC*
+3 meses
+Ph ≤35% (RCC)
+Ph+ 36%-95%
+Ph+ >95%
+BCR-ABLIS ≤1%*
+BCR-ABLIS 1%-10%*
+BCR-ABLIS >10%*
+6 meses
+Ph +0% (RCC)
+Ph+ 1%-35% (RCP)
+Ph+ >35%
+BCR-ABLIS ≤0,1%*
+BCR-ABLIS >1%*
+BCR-ABLIS 0,1%-1%*
+12 meses
+(RMM)
+Ph+ >0%
+Perda de RHC
+Perda de RCC
+A qualquer
+RMM
+Perda de RMM
+AAC/Ph- (-7, ou 7q)
+tempo acima de
+ou resultado melhor
+(confirmar)**
+12 meses.
+Mutações
+AAC/Ph+
+Ph: cromossomo Philadelphia,
+AAC/Ph+: alterações adicionais em células com cromossomo Philadelphia positivo.
+IS: BCR-ABL na Escala Internacional. BCR: gene breakpoint cluster region protein; ABL: gene Abelson murine leukemia viral oncogene homolog.
+RCC: resposta citogenética completa.
+RHC: resposta hematológica completa.
+RCP: resposta citogenética parcial.
+RMM: resposta molecular maior.
+AAC/Ph-: alterações adicionais em células com cromossomo Philadelphia negativo.
+* Um ou os dois; ** em dois exames consecutivos, dos quais um ≥ 1%.
+
+[SUBSECTION]
+6.1.1. Falha terapêutica
+
+Caso seja detectada falha terapêutica, deve-se proceder a novos exames:
+- Mielograma: para determinar a fase da doença;
+- cariótipo: para avaliação da evolução clonal; e
+- pesquisa de mutações de ponto no gene BCR-ABL.
+
+[SUBSECTION]
+6.1.2. Esquema terapêutico
+
+O tratamento da LMC em fase crônica se faz em sequência de linhas terapêuticas, conforme a resposta obtida.
+No caso de a LMC-C ser resultante do efeito terapêutico que fez regredir a FT ou FB para a FC, não se modifica nem o
+medicamento nem a dose já em uso.
+1ª linha - Mesilato de Imatinibe
+A dose do mesilato de imatinibe preconizada é de 400mg/dia, tomada com água logo após a maior refeição do dia. Em
+caso de toxicidade, ver a Tabela 1.
+Estudos que avaliaram doses mais elevadas (600-800mg/dia) não comprovaram benefício a longo prazo. Os estudos
+TOPS11 e CML412 mostraram que os pacientes que usaram 800mg/dia tinham resposta citogenética e molecular mais precoce,
+porém com maior toxicidade e suspensão do tratamento comparativamente ao grupo que usou dose maior. Também não se
+observou benefício em termos de sobrevida global com doses mais elevadas.
+2ª linha – Dasatinibe ou Nilotinibe
+Em caso de falha terapêutica ou de toxicidade insuperável ao mesilato de imatinibe, preconiza-se o dasatinibe ou o
+nilotinibe, a depender da mutação da LMC e da segurança do medicamento especificamente para o paciente.
+A dose do dasatinibe preconizada é de 100mg/dia, uma vez ao dia, durante ou não uma refeição, pela manhã ou à noite.
+A dose do nilotinibe preconizada é de 800mg/dia (400mg duas vezes ao dia, com água), pelo menos duas horas após ter
+ingerido algum alimento, esperando pelo menos uma hora para ingerir novamente algum alimento.
+Em caso de toxicidade, ver as tabelas 2 (dasatinibe) e 3 (nilotinibe).
+O Quadro 3 exibe o perfil de sensibilidade aos ITQ para o tratamento de segunda linha da LMC na presença de mutações:
+Quadro 3 - Tratamento da LMC com inibidores de tirosinoquinase de acordo com a presença de mutações13, 14.
+Mutação
+Medicamento
+Y253H, E255K/V ou F359V/C/1
+Dasatinibe
+F317L/V/I/C, T315A ou V299L
+Nilotinibe
+Não tendo sido detectada nenhuma das mutações, pode-se optar pelo dasatinibe como o ITQ de 2ª linha, vez que o
+nilotinibe cursa com menor adesão, por ser administrado em duas tomadas e longe das refeições.
+3ª linha
+Indicada em caso de falha terapêutica ou toxicidade insuperável ao tratamento de 2ª linha.
+O tratamento de 3ª linha da LMC é de prerrogativa e responsabilidade dos hospitais habilitados no SUS como Unidade
+de Assistência de Alta Complexidade em Oncologia (UNACON) ou Centro de Assistência de Alta Complexidade em Oncologia
+(CACON).
+A 3ª linha terapêutica da LMC-C deve levar em consideração o ITQ de 2ª linha utilizado e o perfil de resistência observado
+ou considerar o transplante de células-tronco hematopoéticas (TCTH) alogênico, preferencialmente de medula óssea (TMO).
+
+[SUBSECTION]
+6.2.
+
+Tratamento da fase de transformação e da fase blástica
+As fases de transformação e blástica da LMC podem assim se apresentar ao primeiro diagnóstico (casos recém-
+diagnosticados) ou como evolutivas de fase anteriormente diagnosticada e tratada (ou seja, FC para FT, de FC para FB ou de FT
+para FB) ou como regressivas pelo efeito terapêutico (ou seja, de FB para FT).
+O uso de ITQ no tratamento da LMC em fase de transformação e em crise blástica apresenta resultados inferiores àqueles
+obtidos quando na fase crônica. Ademais, os estudos que avaliaram o uso de ITQ de segunda linha mostraram taxas de resposta
+citogenética baixas16-20.
+O tratamento da LMC em fase de transformação e blástica depende do(s) tratamento(s) prévio(s) a que o paciente se
+submeteu. Em geral, as opções são semelhantes às dos pacientes com LMC de fase crônica, mas os pacientes com LMC em fase
+de transformação e blástica são menos propensos a obter uma resposta de longo prazo a qualquer dos medicamentos21. O
+tratamento também vai depender da elegibilidade do paciente e da disponibilidade de doador para o TCTH22.
+É importante ressaltar que a fase blástica da LMC pode evoluir para leucemia mieloide aguda ou leucemia linfoblástica
+aguda. Nesta eventualidade, deve-se observar os respectivos protocolos e diretrizes estabelecidos pelo Ministério da Saúde.
+
+[SUBSECTION]
+6.2.1. Esquema terapêutico
+
+O tratamento da LMC em fases de transformação e blástica se faz em sequência de linhas terapêuticas, conforme os
+tratamentos anteriores e a resposta obtida.
+No caso de o efeito terapêutico ter feito regredir a fase leucêmica para uma anterior (de FB para FT ou FC; de FT para
+FC) não se modifica o esquema terapêutico nem a dose já em uso, ou seja, o tratamento continuará a ser, conforme o caso, o da
+fase de transformação ou da fase blástica.
+1ª linha - Meslato de Imatinibe
+Ao primeiro diagnóstico, a dose recomendada para o tratamento da LMC em fase de transformação é de 600mg/dia. Na
+crise blástica, essa dose pode ser elevada até 800 mg/dia. O medicamento deve ser tomado logo após a maior refeição do dia.
+Se o caso é de FT ou FB evolutiva de LMC já tratada, há de se verificar o(s) ITQ já utilizado(s), não podendo ser
+repetido(s), impondo-se o TCTH alogênico tão logo seja viável.
+2ª linha – Dasatinibe ou Nilotinibe
+Em caso de falha terapêutica ou toxicidade insuperável ao mesilato de imatinibe, preconiza-se o dasatinibe ou o nilotinibe,
+a depender da fase (se FT ou FB) e da mutação (ver o Quadro 3) da LMC, da segurança do medicamento especificamente para
+o paciente e do(s) ITQ já utilizado(s), não podendo ser repetido(s), impondo-se o TCTH alogênico tão logo seja viável.
+A dose recomendada do dasatinibe para o tratamento da LMC nas fases de transformação e blástica é de 140 mg/dia.  Na
+crise blástica, essa dose pode ser elevada até 180 mg/dia. O medicamento pode ser ingerido em jejum ou com alimentos, uma
+vez ao dia, logo após a maior refeição do dia.
+O nilotinibe somente é indicado para a LMC em fase de transformação (400 mg duas vezes ao dia), pois não existem
+dados quanto à sua utilização em fase blástica.
+Apesar da falta de uma definição concreta23-28, pacientes podem apresentar pior adesão ao nilotinibe, devido ao uso em
+mais de uma tomada por dia e fora do horários das refeições27, 28.
+3ª linha – Fase de transformação
+O tratamento de 3ª linha da LMC em fase de transformação é de prerrogativa e responsabilidade dos hospitais habilitados
+no SUS como Unidade de Assistência de Alta Complexidade em Oncologia (UNACON) ou Centro de Assistência de Alta
+Complexidade em Oncologia (CACON).
+Para os pacientes com LMC em fase de transformação que não se beneficiaram dos tratamentos de 1ª e 2ª linhas e que
+são candidatos ao TCTH alogênico, recomenda-se como terapia um ITQ (não utilizado na 2ª linha), seguido do TCTH alogênico,
+preferencialmente o TMO, em vez de se proceder imediatamente ao transplante.
+Para os pacientes com LMC em fase de transformação evolutiva de fase crônica ou regressiva de fase blástica que são
+candidatos ao TCTH alogênico, preferencialmente o TMO, preconiza-se como terapia um ITQ (a depender dos medicamentos
+já utilizados), seguido do TCTH alogênico, preferencialmente o TMO, em vez de se proceder imediatamente ao transplante.
+3ª linha – Fase blástica
+O tratamento de 3ª linha da LMC em fase blástica é de prerrogativa e responsabilidade dos hospitais habilitados no SUS
+como Unidade de Assistência de Alta Complexidade em Oncologia (UNACON) ou Centro de Assistência de Alta Complexidade
+em Oncologia (CACON).
+O transplante não é indicado para caso de LMC em crise blástica, a menos que ela regrida, pelo efeito de
+poliquimioterapia, a uma fase anterior (FT ou FC). Volta-se a ressaltar que a fase blástica da LMC pode evoluir para leucemia
+mieloide aguda ou leucemia linfoblástica aguda. Nesta eventualidade, deve-se observar os respectivos protocolos e diretrizes
+estabelecidos pelo Ministério da Saúde.
+Apesar dos riscos de morbidade e mortalidade a curto prazo, o TMO alogênico é potencialmente curativo em fase de
+transformação e blástica. Portanto, a conduta inicial de um paciente com LMC em fase de transformação ou blástica inclui tanto
+a pesquisa de um doador quanto o tratamento com um ITQ29, 30.
+Procede-se ao TCTH alogênico, preferencialmente o TMO, uma vez que uma resposta máxima a um tratamento prévio
+tenha sido obtida. O raciocínio para esta conduta é que o sucesso do TCTH é mais provável em pacientes com doença
+relativamente controlada.
+Porém, se o doente é elegível para o TCTH alogênico e há doador disponível, o transplante se impõe e, até à realização
+do transplante, o doente deverá ser mantido sob tratamento (ITQ ou quimioterapia).
+Nos casos inelegíveis para TCTH, os doentes devem ser tratados paliativamente, para controle de sintomas e sinais,
+inclusive das manifestações hematológicas.
+O Quadro 4 resume o tratamento da LMC, conforme anteriormente preconizado, lembrando que, no caso de o efeito
+terapêutico do ITQ ter feito regredir a fase leucêmica para uma anterior (de FB para FT ou FC; de FT para FC) não se modifica
+nem o medicamento nem a dose já em uso.
+Quadro 4 - Tratamento da Leucemia Mieloide Crônica do Adulto
+MEDICAMENT
+FASE
+LINHA
+O
+DOSE
+OBSERVAÇÃO
+Para citorredução
+Manutençã
+(controle da leucocitose ou
+Todas
+NA
+Hidroxiureia
+Inicial
+o
+trombocitose).
+Dose inicial de 3-4g/dia
+2g/dia 1-2g/dia
+se necessário, mas por curto tempo.
+Dose mínima = 300 mg/dia.
+Imatinibe 400mg/dia
+NA
+Sem benefício dose > 400 mg/dia.
+1a
+milhõesUI/m2/d
+Alternativa ao Imatinibe.
+Interferona
+ia
+NA
+Máximo de 9 milhões UI/dia.
+Alternativa ao Nilotinibe.
+Crônica
+Dasatinibe 100mg/dia
+NA
+Dose máxima de 140mg/dia. (*)
+2a
+Alternativa ao Dasatinibe.
+Nilotinibe 800mg/dia
+NA
+Dose máxima de 800mg/dia. (*)
+Conduta e fornecimento
+3a
+Padronizado
+NA
+NA
+da responsabilidade do hospital.
+pelo hospital.
+Considerar o TCTH-alogênico.
+Dose mínima de
+1a
+Imatinibe 600mg/dia
+NA
+300mg/dia e máxima de 800mg/dia. (*)
+Alternativa ao Nilotinibe.
+Dasatinibe 140mg/dia
+NA
+Dose máxima de 140mg/dia. (*)
+2a
+Transformaçã
+Alternativa ao Dasatinibe.
+o (acelerada)
+Dose mínima de 600mg/dia e máxima de
+Nilotinibe 800mg/dia
+NA
+800mg/dia. (*)
+Conduta e fornecimento
+3a
+Padronizado
+NA
+NA
+da responsabilidade do hospital.
+pelo hospital.
+Considerar o TCTH-alogênico.
+Dose diária mínima de
+1a
+Imatinibe 600mg/dia
+NA
+300mg/dia e máxima de 800mg/dia. (*)
+2a
+Dasatinibe 140mg/dia
+NA
+Dose máxima de 180mg/dia. (*)
+Blástica
+Conduta e fornecimento
+(aguda)
+Padronizado
+NA
+NA
+da responsabilidade do hospital.
+3a
+pelo hospital.
+Poliquimioterapia.
+Considerar o TCTH alogênico.
+NA = não se aplica
+TCTH = transplante de células-tronco hematopoéticas.
+(*) Dependendo da resposta terapêutica e dos eventos adversos observados, a dose poderá ser ajustada (aumento, redução ou suspensão temporária).
+Nota: No caso de o efeito terapêutico ter feito regredir a fase leucêmica para uma anterior (de blástica para de
+transformação ou crônica; de transformação para crônica) não se modifica nem o medicamento nem a dose já em uso.
+7.
+CASOS ESPECIAIS
+
+[SUBSECTION]
+7.1
+
+Gestantes
+O tratamento da LMC durante a gestação dependerá do momento do tratamento em que a paciente se encontra. Pacientes
+recém-diagnosticadas com LMC durante ou juntamente com a gestação muitas vezes poderão submeter-se, no primeiro trimestre
+da gestação, apenas a sessões de leucocitoafereses para controle da hiperleucocitose. Pacientes em uso de ITQ e que engravidam
+devem ser orientadas a interromper o uso desses medicamentos de imediato, vez que são contraindicados durante a gravidez.
+A alfa-interferona poderá ser utilizada em gestantes a partir do segundo trimestre da gestação, sempre levando em
+consideração uma análise dos riscos frente aos benefícios.
+
+[SUBSECTION]
+7.2
+
+Mutação T315i
+Em caso de LMC com mutação T315 em fase crônica e de transformação, os pacientes podem ser tratados com alfa-
+interferona até a realização do TCTH alogênico, preferencialmente o de medula óssea (TMO). Neste caso, deverá ser utilizado
+adicionalmente citarabina na dose de 10 mg/m2 de 12/12 h.
+Como já dito anteriormente, o transplante não é indicado para caso de LMC em crise blástica, a menos que ela regrida,
+pelo efeito de poliquimioterapia, a uma fase anterior (FT ou FC). Volta-se a ressaltar que a fase blástica da LMC pode evoluir
+para leucemia mieloide aguda ou leucemia linfoblástica aguda. Nesta eventualidade, deve-se observar os respectivos protocolos
+e diretrizes estabelecidos pelo Ministério da Saúde.
+
+[SUBSECTION]
+7.3
+
+Interações medicamentosas
+As principais interações medicamentosas do imatinibe estão descritas no Quadro 531.
+Quadro 5 - Interações medicamentosas do imatinibe 31
+Aumenta os níveis plasmáticos do imatinibe
+Diminui os níveis plasmáticos do imatinibe
+Fenobarbital
+Cetoconazol
+Carbamazepina
+Eritromicina, Itraconazol
+Fenitoína
+Ciclosporina
+Dexametasona
+Toranja (grapefruit)
+Rifampicina
+Claritromicina
+Erva de São João
+Rifabutina
+No Quadro 6 são apresentadas as principais interações medicamentosas do dasatinibe32.
+Quadro 6 - Interações medicamentosas do dasatinibe32
+Aumenta os níveis plasmáticos do dasatinibe
+Diminui os níveis plasmáticos do dasatinibe
+Amiodarona, atanazavir
+Cetoconazol, ciclosporina
+Cimetidina, ciprofloxacina
+Carbamazepina, dexametasona
+Claritromicina, cloranfenicol
+Erva de São João, fenobarbital
+Diltiazem, eritromicina
+Fenitoína, rifabutina
+Indinavir, isoniazida
+Rifampicina.
+Itraconazol, gestodeno
+Nelfinavir, norfloxacina
+Aumenta os níveis plasmáticos do dasatinibe
+Diminui os níveis plasmáticos do dasatinibe
+Ritonavir, saquinavir
+Toranja (grapefruit), voriconazol
+No Quadro 7 estão descritas as interações medicamentosas do nilotinibe33.
+Quadro 7 - Interações medicamentosas do nilotinibe33
+Aumenta os níveis plasmáticos do nilotinibe
+Diminui os níveis plasmáticos do nilotinibe
+Amiodarona, atanazavir
+Cetoconazol, ciclosporina
+Cimetidina, ciprofloxacina
+Claritromicina, cloranfenicol
+Carbamazepina, dexametasona
+Diltiazem, eritromicina
+Erva de São João, fenobarbital
+Gestodeno, indinavir
+Fenitoína, rifabutina
+Isoniazida, itraconazol
+Rifampicina
+Nelfinavir, norfloxacina
+Ritonavir, saquinavir
+Toranja (grapefruit), voriconazol
+Deve-se evitar o uso concomitante do nilotinibe com medicamentos com potencial de alargamento do intervalo QT no
+eletrocardiograma. Ver a lista de medicamentos com potencial de alargamento do intervalo QT disponível em
+http://www.azcert.org/medical-pros/drug-lists/drug-lists.cfm .
+As principais interações medicamentosas com hidroxiureia foram descritas no Quadro 834.
+Quadro 8 - Interações medicamentosas hidroxiureia34
+Considere trocar a terapia
+Evitar a combinação
+Monitorar a Terapia
+Fingolimode
+Anfotericina B
+BCG intravesical
+Leflunomida
+Clozapina
+Deferiprona
+Lenograstima
+Denosumabe
+Natalizumabe
+Nivolumabe
+Ocrelizumabe
+Palifermina
+Promazina
+Vacinas vivas
+Trastuzumabe
+No Quadro 9 foram apresentadas as principais interações medicamentosas da α-interferona35.
+Quadro 9 - Interações medicamentosas da alfa-interferona35
+Aumenta os níveis plasmáticos dos
+Podem aumentar toxicidade
+Pode reduzir eficácia
+medicamentos
+Metadona
+Aldesleukin: risco renal e cardíaco
+BCG intravesical
+Teofilina
+Deferiprona: mielotoxicidade
+Aumenta os níveis plasmáticos dos
+Podem aumentar toxicidade
+Pode reduzir eficácia
+medicamentos
+Zidovudina
+Tramadol: risco crises convulsivas
+8.
+MONITORAMENTO
+A monitorização laboratorial da LMC pode ser procedida conforme especificado no Quadro 10.
+O tratamento deve ser mantido enquanto não se observar falha, progressão ou toxicidade grau 3 ou 4, nas respectivas
+linhas terapêuticas. Não se indica a interrupção do tratamento fora de estudos clínicos.9
+Quadro 10 - Monitoramento laboratorial do tratamento da leucemia mieloide crônica com o imatinibe
+MONITORAMENTO
+Cariótipo (com mínimo 20 metáfases PH+) na MO ou
+Ao diagnóstico
+PCR qualitativo para definir tipo de transcrito no SP.
+PCR quantitativo a cada 3 meses até RMM, após a cada 3 a 6 meses no SP.
+Durante o tratamento
+Cariótipo aos 3, 6 e 12 meses até RCC, após a cada 12 meses na MO
+PCR quantitativo, análise de mutação e cariótipo.
+Na falha terapêutica ou
+Imunofenotipagem em caso de crise blástica no SP ou na MO.
+progressão leucêmica
+Repetir análise molecular e citogenética mais frequentemente.
+Cariótipo na MO em caso de alterações mielodisplásicas ou alterações citogenéticas
+Alerta
+adicionais em células Ph negativas.
+Adaptado de Leukemianet 201315.
+MO: medula óssea; PCR: reação em cadeia da polimerase; SP: sangue periférico; RMM: resposta molecular maior; RCC: Resposta Citogenética
+Completa.
+Na Tabela 1 estão descritas as condutas em caso de toxicidade do imatinibe.
+Tabela 1 – Controle da toxicidade do mesilato de imatinibe
+Fase
+Conduta
+Hematológica
+Fase crônica
+Suspender o medicamento até que a contagem de neutrófilos > 1.500/mm3 ou de
+plaquetas ≥ 75.000/mm3 e reintroduzir o medicamento na mesma dose. Se se
+Neutrófilos < 1.000/mm3 (no
+observar recorrência da toxicidade, suspender o medicamento até que a
+início do tratamento.  É tolerado
+contagem de neutrófilos > 1.500/mm3 ou de plaquetas ≥ 75.000/mm3 e
+até 500/mm3, caso o paciente
+reintroduzir o medicamento na dose de 300 mg/dia. Considerar posterior
+permaneça afebril) ou plaquetas
+escalonamento da dose.
+< 50.000/mm3)
+Em caso de múltiplas recorrências da toxicidade, considerar a troca para o
+dasatinibe ou o nilotinibe.
+Suporte transfusional. Ajustar a dose do medicamento somente nos casos
+Hemoglobina < 8,0 g/dl
+recorrentes de anemia sintomáticos ou com necessidade transfusional crônica
+(não ajustar na anemia aguda).
+Fase de transformação e crise blástica
+Fase
+Conduta
+Se a contagem das células sanguíneas for relacionada à doença, manter a dose do
+medicamento ou considerar o aumento da dose (máximo de 800 mg/dia).
+Se não relacionada à doença, reduzir a dose 1 nível de alteração de dose (ver
+adiante). Se a toxicidade persistir por 2 semanas, apesar da redução da dose,
+reduzir a dose do medicamento 2 níveis abaixo (ver adiante). Se persistir por
+Neutrófilos < 500/mm3 ou
+mais 4 semanas, mesmo com a nova dose, suspender o medicamento até que a
+plaquetas < 10.000/mm3 sem
+contagem de neutrófilos esteja > 1.000/mm3 ou de plaquetas > 20.000/mm3 e
+sangramento
+reintroduzir o medicamento na dose de 300 mg/dia. Considerar posterior
+escalonamento da dose.
+Em caso de múltiplas recorrências de toxicidade, considerar a troca para o
+dasatinibe ou o nilotinibe.
+Avaliar a necessidade de transfusão de plaquetas.
+Suporte transfusional. Ajustar a dose do medicamento somente nos casos de
+Hemoglobina < 8,0 g/dl
+toxicidade recorrente sintomática ou com necessidade transfusional crônica (não
+ajustar a dose do medicamento em caso de anemia aguda).
+Não hematológica (condutas gerais)
+Grau 3
+Utilizar as medidas específicas listadas abaixo. Se a toxicidade for persistente,
+tratar como grau 4.
+Grau 4
+Interromper o imatinibe até toxicidade grau 1. Reintroduzir numa dose com 1
+nível de alteração de dose (não menos que 300 mg/dia). Considerar troca pelo
+nilotinibe ou o dasatinibe.
+Não hematológica (condutas específicas)
+Sintomas específicos
+Diarreia
+Terapia de suporte.
+Edema
+Terapia de suporte e diurético.
+Considerar ecocardiograma para avaliar a função ventricular.
+Derrame pleural ou pericárdico
+Terapia de suporte; diurético; redução ou interrupção temporária ou definitiva do
+imatinibe.
+Intolerância gástrica
+Tomar o imatinibe com alimentos e água.
+Câimbras, artralgias ou mialgias.
+Tratamento sintomático; reposição de cálcio ou magnésio.
+Exantema (rash cutâneo) Graus 1
+Tratamento tópico e anti-histamínico oral.
+e 2
+Exantema (rash cutâneo) Graus 3
+e 4:
+Interromper o imatinibe e iniciar corticoterapia (prednisona 1 mg/Kg).
+Erupção macular, papular ou
+Reintroduzir o imatinibe gradualmente (100 mg/semana).
+vesicular generalizada;
+descamação cobrindo ≥ 50% da
+Fase
+Conduta
+superfície corpórea; dermatite
+bolhosa ou ulcerativa.
+Hepática
+Grau 2
+Elevação da aspartato
+aminotransferase/transaminase
+glutâmico-oxalacética [AST
+Interromper todos as outros medicamentos com potencial de hepatotoxicidade e
+(TGO)] ou da alanina
+o consumo de álcool; manter a dose do imatinibe ou reduzir a dose de acordo
+aminotransferase/ transaminase
+com a situação clínica (ver o nível 1 de alteração de dose, abaixo).
+glutâmico-pirúvica [ALT (TGP)]
+>2,5x LSN; bilirrubina total >
+1,5x LSN
+≥ Grau 3
+Interromper todos os outros medicamentos com potencial de hepatotoxicidade e
+Elevação da AST ou ALT > 5x
+o consumo de álcool; interromper o imatinibe até que a dosagem de AST ou
+LSN; bilirrubina total > 3x LSN
+ALT esteja ≤ 2,5x LSN ou de bilirrubina total esteja ≤ 1,5 x LSN. Reintroduzir o
+medicamento com redução da dose (nível 1 de alteração de dose).
+Níveis de alteração da dose do mesilato imatinibe
+Fase crônica
+Fase crônica 0
+Nível de dose do imatinibe: 400 mg/dia
+Fase crônica -1
+Nível de dose do imatinibe: 300 mg/dia
+Fase de transformação e crise blástica
+Fase de transformação/crise
+Nível de dose do imatinibe: 12/12h
+blástica 0
+Fase de transformação/crise
+Nível de dose do imatinibe: 600 mg/dia
+blástica -1
+Fase de transformação/crise
+Nível de dose do imatinibe: 400 mg/dia
+blástica -2
+Fase de transformação/crise
+Nível de dose do imatinibe: 300 mg/dia
+blástica -3
+LSN: limite superior da normalidade.
+Adaptado de National Comprehensive Cancer Network Clinical Practice Guidelines in OncologyTM - Chronic myelogenous leukemia36.
+Na Tabela 2 estão descritas as condutas em caso de toxicidade do dasatinibe
+Tabela 2 – Controle da toxicidade do dasatinibe
+Fase
+Conduta
+Hematológica
+Fase crônica
+Suspender o medicamento até que a contagem de neutrófilos esteja >
+
+[SUBSECTION]
+1.000/mm3 ou de plaquetas ≥ 50.000/mm3. Se tempo para recuperação for ≤
+
+Neutrófilos < 500/mm3 ou
+7dias, reintroduzir o medicamento na mesma dose, e se > 7 dias, reduzir a dose
+plaquetas < 50.000/mm3
+em 1 nível de alteração. Considerar posterior escalonamento da dose.
+Em caso de múltiplas recorrências de toxicidade, considerar a troca pelo
+nilotinibe.
+Suporte transfusional. Ajustar a dose do medicamento somente nos casos de
+Hemoglobina < 8,0 g/dl
+toxicidade sintomática recorrente ou com necessidade transfusional crônica
+(não ajustar a dose do medicamento em caso de anemia aguda).
+Fase de transformação e crise blástica
+Se as contagens forem relacionadas à doença, manter dose do medicamento ou
+aumentar a dose (máximo de 180 mg/dia).
+Se não relacionadas à doença, suspender o medicamento até que a contagem de
+neutrófilos esteja > 500/mm3 ou de plaquetas ≥ 20.000/mm3. Reintroduzir o
+Neutrófilos <500/mm3 ou
+medicamento com a mesma dose anterior. Se houver recorrência da toxicidade,
+plaquetas <10.000/mm3 sem
+reduzir a dose do medicamento em 1 nível de alteração de dose. Em caso de
+sangramento
+nova recorrência, suspender o medicamento e reintroduzi-lo com 2 níveis de
+alteração dose (ver abaixo). Considerar posterior escalonamento da dose.
+Em caso de múltiplas recorrências de toxicidade, considerar a troca para o
+nilotinibe.
+Avaliar a necessidade de transfusão de plaquetas.
+Suporte transfusional. Ajustar a dose do medicamento somente nos casos de
+Hemoglobina < 8,0 g/dl
+toxicidade sintomática recorrente ou com necessidade transfusional crônica
+(não ajustar a dose do medicamento em caso de anemia aguda).
+Não hematológica (condutas gerais)
+Grau 3
+Utilizar medidas específicas listadas abaixo. Se a toxicidade for persistente,
+tratar como grau 4.
+Grau 4
+Interromper o dasatinibe até toxicidade grau 1. Reintroduzi-lo com uma dose
+menor a depender da gravidade da toxicidade ou trocar para o nilotinibe.
+Não hematológica (condutas específicas)
+Sintomas específicos
+Diarreia
+Terapia de suporte.
+Edema
+Terapia de suporte, diuréticos.
+Derrame pleural ou pericárdico
+Considerar ecocardiograma para avaliar a função ventricular.
+Fase
+Conduta
+Diuréticos, toracocentese de alívio, pericardiocentese.
+Derrame pleural ou pericárdico
+Grau 2
+Suspender o dasatinibe até melhora dos sintomas e reintroduzi-lo na mesma
+Sintomas apesar do uso de
+dose. Se houver recorrência da toxicidade, suspender o dasatinibe até melhora
+diuréticos e ≤ 2 toracocenteses de
+e reintroduzir o medicamento numa dose menor.
+alívio.
+Derrame pleural ou pericárdico
+Grau 3
+Suspender o dasatinibe até melhora dos sintomas e prescrever corticoterapia de
+Necessidade de suplementação de
+curta duração (prednisona 20 mg/dia durante 3 dias). Reintroduzir o dasatibe
+oxigênio, ≥ 3 toracocenteses de
+numa dose menor. Se houver recorrência da toxicidade, reduzir novamente a
+alívio, pleurodese ou drenagem
+dose do dasatinibe após a resolução dos sintomas ou trocá-lo pelo nilotinibe.
+torácica; derrame pericárdico
+sintomático.
+Tomar o medicamento durante uma refeição e água (mínimo 300mL). Evitar o
+Intolerância gástrica
+uso de bloqueador H2 e dos bloqueadores de bomba de prótons. Se necessário,
+utilizar antiácido 2 horas antes ou 2 horas depois da tomada do dasatinibe.
+Câimbras, artralgias ou mialgias
+Tratamento sintomático; reposição de cálcio ou magnésio.
+Exantema (rash cutâneo) Grau 1 e
+Tratamento tópico e anti-histamínico oral.
+Exantema (rash cutâneo) Grau 3 e
+Erupção macular, papular ou
+Interromper o dasatinibe e iniciar corticoterapia (prednisona 1 mg/Kg).
+vesicular generalizada;
+Reintroduzir o dasatinibe gradualmente (20 mg/semana). Considerar a troca
+descamação cobrindo ≥ 50% da
+pelo nilotinibe.
+superfície corpórea; dermatite
+bolhosa ou ulcerativa.
+Níveis de dose do dasatinibe
+Fase crônica
+Fase crônica 0
+Nível de dose do dasatinibe: 100 mg/dia
+Fase crônica -1
+Nível de dose do dasatinibe: 80 mg/dia
+Fase de transformação e crise blástica
+Fase de transformação/crise
+Nível de dose do dasatinibe: 140 mg/dia
+blástica 0
+Fase de transformação/crise
+Nível de dose do dasatinibe: 100 mg/dia
+blástica -1
+Fase de transformação/crise
+Nível de dose do dasatinibe: 80 mg/dia
+blástica -2
+Em todos os casos de toxicidade grau 4 e nos casos de graus 1 e 2 que acarretam piora considerável da qualidade de vida do paciente, considerar a
+troca do dasatinibe pelo nilotinibe.
+Adaptado de National Comprehensive Cancer Network Clinical Practice Guidelines in OncologyTM - Chronic myelogenous leukemia36.
+Na Tabela 3 estão descritas as condutas em caso de toxicidade do nilotinibe.
+Tabela 3 – Controle da toxicidade do nilotinibe
+Fase
+Conduta
+Hematológica
+Fase crônica
+Suspender o medicamento até que a contagem de neutrófilos seja ≥ 1.000/mm3
+ou de plaquetas ≥ 50.000/mm3. Se tempo para recuperação for < 14 dias,
+reintroduzir o medicamento na mesma dose e se for ≥ 14 dias, reduzir a dose
+Neutrófilos < 1.000/mm3 ou
+do medicamento em 1 nível de alteração de dose. Considerar posterior
+plaquetas < 50.000/mm3
+escalonamento da dose.
+Em caso de múltiplas recorrências de toxicidade, considerar a troca pelo
+dasatinibe.
+Suporte transfusional. Ajustar a dose do medicamento somente nos casos de
+Hemoglobina < 8,0 g/dl
+toxicidade sintomática recorrente ou com necessidade transfusional crônica
+(não ajustar a dose em caso de anemia aguda).
+Fase de transformação e crise blástica
+Se a contagem for relacionada à doença, manter a dose do medicamento.
+Se não relacionada à doença, suspender até a contagem seja de neutrófilos >
+
+[SUBSECTION]
+1.000/mm3 ou de plaquetas ≥ 20.000/mm3. Se tempo para recuperação for < 14
+
+Neutrófilos < 500/mm3 ou
+dias, reintroduzir o medicamento na mesma dose e se for ≥14 dias, reduzir a
+plaquetas < 20.000/mm3 sem
+dose do medicamento em 1 nível de alteração. Considerar posterior
+sangramento
+escalonamento da dose.
+Em caso de múltiplas recorrências, considerar a troca pelo dasatinibe.
+Avaliar a necessidade de transfusão de plaquetas.
+Suporte transfusional. Ajustar a dose do medocamento somente nos casos de
+Hemoglobina < 8,0 g/dl
+toxicidade sintomática recorrente ou com necessidade transfusional crônica
+(não ajustar em caso de anemia aguda).
+Não hematológica (condutas gerais)
+Grau 3
+Utilizar medidas as específicas listadas abaixo. Se a toxicidade for persistente,
+tratar como grau 4.
+Grau 4
+Interromper o nilotinibe até a toxicidade seja classificada como grau 1.
+Reintroduzir o medicamento com redução da dose. Considerar troca pelo
+dasatinibe.
+Não hematológica (condutas específicas)
+Sintomas específicos
+Diarreia
+Terapia de suporte.
+Câimbras, artralgias ou mialgias.
+Tratamento sintomático; reposição de cálcio ou magnésio.
+Fase
+Conduta
+Exantema (rash cutâneo) Grau 1 e
+Tratamento tópico e anti-histamínico oral.
+Exantema (rash cutâneo) Grau 3 e
+Erupção macular, papular ou
+Interromper o imatinibe e iniciar corticoterapia (prednisona 1 mg/Kg).
+vesicular generalizada;
+Reintroduzir o nilotinibe gradualmente (200 mg/semana). Considerar troca
+descamação cobrindo ≥ 50% da
+pelo dasatinibe.
+superfície corpórea; dermatite
+bolhosa ou ulcerativa.
+Hepática e pancreática
+Grau 2
+Interromper todos os outros medicamentos com potencial de hepatotoxicidade
+Elevação da AST (TGO) ou
+e o consumo de álcool; manter a dose do medicamento ou reduzi-la de acordo
+ALT (TGP) >2,5x LSN; bilirrubina
+com a situação clínica.
+total > 1,5x LSN
+≥Grau 3
+Interromper todos os outros medicamentos com potencial de hepatotoxicidade
+Elevação da AST ou ALT >
+e o consumo de álcool; interromper o nilotinibe até que a dosagem de AST ou
+5x LSN; bilirrubina total > 3x
+ALT  seja ≤ 2,5x LSN, de bilirrubina total ≤ 1,5 x LSN, de amilase ≤ 1,5 x
+LSN; amilase > 2x LSN; lipase >
+LSN ou de lípase ≤ 1,5 x LSN. Reintroduzir o medicamento com redução de 1
+2x LSN
+nível  de alteração da dose.
+Cardíaca - Intervalo QT
+Suspender o nilotinibe e outros medicamentos com potencial de alargamento
+do intervalo QT. Dosar magnésio e potássio e, caso estejam abaixo do LSN,
+proceder à correção dos níveis séricos. Após 2 semanas, se o QTcF estiver <
+450 ms e até 20 ms do ECG basal, retornar com a mesma dose do
+ECG com QTcF > 480 ms
+medicamenro; mas se o QTcF estiver 450 - 480 ms ou > 20 ms do ECG basal,
+reduzir a dose do medicamento em 1 nível de alteração. Se houver recorrência
+da toxicidade, considerar a troca pelo dasatinibe ou suspender o nilotinibe por
+2 semanas e reintroduzi-lo com redução de 2 níveis de alteração.
+Níveis de dose do nilotinibe
+Nível de dose do nilotinibe: 400 mg 12/12h
+-1
+Nível de dose do nilotinibe: 400 mg/dia
+-2
+Nível de dose do nilotinibe: 200 mg/dia
+LSN: limite superior da normalidade.
+Adaptado de National Comprehensive Cancer Network Clinical Practice Guidelines in OncologyTM - Chronic myelogenous leukemia36.
+9.
+REGULAÇÃO/CONTROLE/AVALIAÇÃO PELO GESTOR
+Pacientes com diagnóstico de leucemia mieloide crônica devem ser atendidos em hospitais habilitados em Oncologia e
+com porte tecnológico suficiente para diagnosticar, tratar e acompanhar clínica e laboratorialmente os pacientes.
+Além da familiaridade que tais hospitais guardam com a avaliação diagnóstica, tratamento e controle de eventos adversos,
+eles têm toda a estrutura ambulatorial, de internação, de terapia intensiva, de hemoterapia, de suporte multiprofissional e de
+laboratórios necessária para o adequado atendimento e obtenção dos resultados terapêuticos esperados.
+A regulação do acesso é um componente essencial da gestão para a organização da rede assistencial e garantia do
+atendimento dos doentes, e muito facilita as ações de controle e avaliação. Estas incluem, entre outras: a manutenção atualizada
+do Cadastro Nacional dos Estabelecimentos de Saúde (CNES); a autorização prévia dos procedimentos; o monitoramento da
+produção dos procedimentos (por exemplo, frequência apresentada versus autorizada, valores apresentados versus autorizados
+versus ressarcidos); a verificação dos percentuais das frequências dos procedimentos quimioterápicos em suas diferentes linhas
+(cuja ordem decrescente - primeira linha maior do que segunda maior do que terceira – sinaliza a efetividade terapêutica), entre
+outras. Ações de auditoria devem verificar in loco, por exemplo, a existência e a observância da conduta ou protocolo adotados
+no hospital; regulação do acesso assistencial; qualidade da autorização; a conformidade da prescrição e da dispensação e
+administração dos medicamentos (tipos e doses); compatibilidade do procedimento codificado com o diagnóstico e capacidade
+funcional (escala de Zubrod); a compatibilidade da cobrança com os serviços executados; a abrangência e a integralidade
+assistenciais; e o grau de satisfação dos doentes.
+Para a autorização do TCTH alogênico aparentado ou não aparentado de medula óssea, de sangue periférico ou de sangue
+de cordão umbilical, todos os potenciais receptores devem estar inscritos no Registro Nacional de Receptores de Medula Óssea
+ou outros precursores hematopoéticos – REREME/INCA/MS, e devem ser observadas as normas técnicas e operacionais do
+Sistema Nacional de Transplantes.
+Os receptores transplantados originários dos próprios hospitais transplantadores neles devem continuar sendo assistidos
+e acompanhados; e os demais receptores transplantados deverão, efetivada a alta do hospital transplantador, ser devidamente
+reencaminhados aos seus hospitais de origem, para a continuidade da assistência e acompanhamento. A comunicação entre os
+hospitais deve ser mantida de modo que o hospital solicitante conte, sempre que necessário, com a orientação do hospital
+transplantador e este, com as informações atualizadas sobre a evolução dos transplantados.
+NOTA 1 - O mesilato de imatinibe (para uso em 1ª linha), além do dasatinibe e do nilotinibe (para uso em 2ª linha),
+padronizados neste PCDT, são, hoje, adquiridos pelo Ministério da Saúde e fornecidos pelas Secretarias de Saúde para os
+hospitais e, por esses, aos usuários do Sistema Único de Saúde (SUS). Os procedimentos quimioterápicos da Tabela de
+Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS (“Tabela do SUS”) não fazem referência a
+qualquer medicamento e são aplicáveis às situações clínicas específicas para as quais terapias antineoplásicas medicamentosas
+são indicadas. Assim, os hospitais credenciados no SUS e habilitados em Oncologia são os responsáveis pelo fornecimento de
+outros medicamentos contra a LMC, observando o presente PCDT, que eles, livremente, padronizem, adquiram e forneçam,
+cabendo-lhes codificar e registrar conforme o respectivo procedimento, inclusive aqueles de 1ª e de 2ª linhas terapêuticas,
+compatíveis, respectivamente, com o mesilato de imatinibe e o dasatinibe ou nilotinibe, seja o hospital público ou privado, com
+ou sem fins lucrativos.
+NOTA 2 – A aquisição pelo Ministério da Saúde e o fornecimento pelas Secretarias de Saúde não anulam a
+obrigatoriedade da solicitação, autorização e registros dos respectivos procedimentos em APAC.
+NOTA 3 – Os seguintes procedimentos se encontram no Sistema de Informações Ambulatoriais do SUS - SIA-SUS, e
+são autorizados por APAC para a quimioterapia da LMC do adulto:
+
+
+[SUBSECTION]
+03.04.03.007-4 Quimioterapia da Leucemia Mieloide Crônica - Qualquer Fase - Controle Sanguíneo
+
+
+
+[SUBSECTION]
+03.04.03.011-2 Quimioterapia da Leucemia Mieloide Crônica em Fase Crônica – 1ª linha
+
+
+
+[SUBSECTION]
+03.04.03.022-8 Quimioterapia da Leucemia Mieloide Crônica em Fase Crônica – 2ª linha
+
+
+
+[SUBSECTION]
+03.04.03.012-0 Quimioterapia da Leucemia Mieloide Crônica em Fase Crônica – 3ª linha
+
+
+
+[SUBSECTION]
+03.04.03.015-5 Quimioterapia da Leucemia Mieloide Crônica em Fase de Transformação – 1ª linha
+
+
+
+[SUBSECTION]
+03.04.03.014-7 Quimioterapia da Leucemia Mieloide Crônica em Fase de Transformação – 2ª linha
+
+
+
+[SUBSECTION]
+03.04.03.013-9 Quimioterapia da Leucemia Mieloide Crônica em Fase de Transformação – 3ª linha
+
+
+
+[SUBSECTION]
+03.04.03.009-0 Quimioterapia da Leucemia Mieloide Crônica em Fase Blástica – 1ª linha
+
+
+
+[SUBSECTION]
+03.04.03.008-2 Quimioterapia da Leucemia Mieloide Crônica em Fase Blástica – 2ª linha
+
+
+
+[SUBSECTION]
+03.04.03.010-4 Quimioterapia da Leucemia Mieloide Crônica em Fase Blástica – 3ª linha
+
+NOTA 4 – Quando o mesilato de imatinibe é associado a outros antineoplásicos do esquema terapêutico da LMC em fase
+blástica, o seu fornecimento pode ser concomitante à autorização de APAC para o respectivo procedimento de quimioterapia.
+NOTA 5 – No caso de o efeito terapêutico ter feito regredir a fase leucêmica para uma anterior (de FB para FT ou FC;
+de FT para FC) não se modifica nem o medicamento nem a dose já em uso, mantendo-se o registro do mesmo procedimento.
+10.
+TERMO DE ESCLARECIMENTO E RESPONSABILIDADE - TER
+Deve-se informar o paciente ou seu responsável legal sobre os potenciais riscos, benefícios e efeitos adversos relacionados
+ao uso dos medicamentos preconizados neste Protocolo, levando-se em consideração as informações contidas no respectivo
+Termo de Esclarecimento e Responsabilidade (TER).
+11.

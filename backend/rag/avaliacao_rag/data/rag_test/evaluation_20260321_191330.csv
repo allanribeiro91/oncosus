@@ -1,0 +1,65 @@
+question,expected_answer,generated_answer,score,factual,coverage,no_hallucination,clarity,justification
+Qual é o mecanismo fisiopatológico central da leucemia mieloide aguda e quais suas principais consequências clínicas?,"A leucemia mieloide aguda resulta de uma transformação maligna de células hematopoéticas primitivas com proliferação clonal e bloqueio da maturação celular na fase de blastos, levando à substituição da hematopoese normal e causando anemia, sangramentos, infecções e síndrome de hiperviscosidade."," 1. Resposta objetiva:
+A leucemia mieloide aguda (LMA) é caracterizada pelo acumulo de células imaturs ou immaduras na medula óssea, principalmente as células brancas neutrófilas. Essa condição resulta em uma produção anormal e incontida dessas células, que invadem o sangue periférico e outros tecidos do corpo [1].
+
+2. Critérios / Condições:
+- A LMA é definida pela acumulação de células imaturs ou immaduras na medula óssea, principalmente as células brancas neutrófilas.
+
+3. Observações relevantes:
+- Os tecidos afetados além da medula óssea incluem o sangue periférico e outros órgãos do corpo.
+
+4. Fonte(s):
+- [Documento] - Leucemia mieloide aguda (LMA). In: Sistema Nacional de Saúde (SUS) - Protocolos Clínicos e Diretrizes Terapêuticas (PCDT). Brasília, 2019. Disponível em: <https://www.saude.gov.br/content/download/83476/504221/file/Leucemia-Mieloide-Aguda-LMA.pdf> (Acessado em 20 de abril de 2022).",5,2,1,2,0,"A resposta gerada apresenta informações corretas sobre a leucemia mieloide aguda, mas não aborda o mecanismo fisiopatológico central de forma completa, focando apenas na acumulação de células imaturas e não mencionando o bloqueio da maturação celular e suas consequências clínicas, como anemia, sangramentos e infecções. A resposta é clara em sua estrutura, mas a falta de detalhes importantes e a ênfase em aspectos não centrais penalizam a avaliação."
+Quais são os principais fatores de risco associados ao câncer de cabeça e pescoço?,"Os principais fatores de risco são o tabagismo e o consumo de álcool, que apresentam efeito sinérgico, além de fatores como dieta inadequada, má saúde bucal, refluxo gastroesofágico, comportamento sexual de risco e infecção por HPV (tipos 16 e 18)."," 1. Resposta objetiva:
+Os trechos recuperados mencionam alguns dos principais fatores de risco associados ao câncer de cabeça e pescoço, que são: exposição prolongada ao sol ultravioleta (UV), tabagismo, consumo excessivo de álcool, contato com radiação ionizante, infeções crônicas causadas por vírus do papiloma humano (HPV) e idade avançada.
+
+2. Critérios / Condições:
+- Exposição prolongada ao sol ultravioleta (UV): refere-se à exposição excessiva a raios UV durante um longo período de tempo, como ocorre em pessoas que trabalham ou se divertem no exterior sem proteção adequada.
+- Tabagismo: refere-se ao uso de tabaco em qualquer forma, incluindo fumar e usar produtos de nicotina.
+- Consumo excessivo de álcool: refere-se a beber mais do que o recomendado pela Organização Mundial da Saúde (OMS), que é até duas unidades por dia para homens e uma unidade por dia para mulheres.
+- Contato com radiação ionizante: refere-se à exposição a radiação ionizante, como raios X ou radioterapia, em altas doses ou repetidas.
+- Infeções crônicas causadas por vírus do papiloma humano (HPV): refere-se a infecções crônicas pelo HPV que podem aumentar o risco de câncer de cabeça e pescoço, especialmente no colo do útero.
+- Idade avançada: refere-se à idade acima dos 65 anos, embora pessoas mais jovens também possam desenvolver câncer de cabeça e pescoço.
+
+3. Observações relevantes:
+- Os fatores de risco mencionados podem variar dependendo do tipo específico de câncer de cabeça e pescoço.
+- A exposição prolongada ao sol ultravioleta é um dos principais fatores de risco para o câncer de pele, mas também pode aumentar o risco de outros tipos de câncer de cabeça e pescoço.
+- O tabagismo e o consumo excessivo de álcool podem aumentar o risco de vários tipos de câncer, não apenas de cabeça e pescoço.
+
+4. Fonte(s):
+- [Documento] - ""Câncer de Cabeça e Pescoço: Prevenção e Controle"" - Ministério da Saúde do Brasil.",5,2,2,1,0,"A resposta gerada apresenta alguns fatores de risco corretos, como tabagismo e consumo excessivo de álcool, mas inclui outros que não estão na resposta esperada, como exposição ao sol UV e radiação ionizante, que não são considerados principais fatores de risco para câncer de cabeça e pescoço. A inclusão de 'idade avançada' também não é mencionada na resposta esperada. A resposta é clara, mas a inclusão de informações não solicitadas e a falta de foco nos fatores de risco principais penalizam a avaliação."
+Qual é a alteração genética característica da leucemia mieloide crônica (LMC) e qual seu efeito biológico?,"A LMC está associada à translocação cromossômica 9;22, que forma o cromossoma Philadelphia, gerando o gene de fusão BCR-ABL1, responsável pela produção de uma tirosinoquinase com atividade aumentada que promove a proliferação celular."," 1. Resposta objetiva:
+A leucemia mieloide crônica (LMC) é caracterizada por uma alteração genética chamada translocação Philadelphia (t(9;22)(q34;q11)). Essa translocação resulta na formação de um gene fusionado, conhecido como BCR-ABL.
+
+2. Critérios / Condições:
+Essa alteração genética é específica para a LMC e não ocorre em outras leucemias mielóides.
+
+3. Observações relevantes:
+A presença do gene BCR-ABL resulta na sobreprodução de proteínas que ativam a proliferação das células mieloide, causando a acumulação anormal dessas células no sangue e tecidos.
+
+4. Fonte:
+- [Documento] - Protocolos Clínicos e Diretrizes Terapêuticas do SUS (PCDT) - Leucemia Mieloide Crônica (LMC).",8,4,3,2,1,"A resposta gerada apresenta a translocação 9;22 e o gene BCR-ABL corretamente, além de descrever o efeito biológico relacionado à proliferação celular. A menção de que essa alteração é específica para a LMC é correta e não há alucinações. A resposta é clara e objetiva, atendendo aos critérios esperados."
+Qual é a recomendação de rastreamento mamográfico para mulheres com risco habitual segundo o PCDT?,"O rastreamento mamográfico é recomendado para mulheres de 50 a 69 anos, a cada dois anos, não sendo indicada a ampliação para mulheres fora dessa faixa etária com risco habitual."," 1. Resposta objetiva:
+A recomendação de rastreamento mamográfico para mulheres com risco habitual, segundo o PCDT, é realizado a cada dois anos a partir dos 50 anos de idade.
+
+2. Critérios / Condições:
+- Mulheres com risco habitual: aquelas que não apresentam fatores de risco elevados ou familiares para câncer de mama.
+- Idade: a partir dos 50 anos.
+
+3. Observações relevantes:
+- Os trechos não contêm informação sobre o tipo de rastreamento mamográfico recomendado (mamografia digital ou mamografia de filmes).
+- Não há orientação específica para mulheres com idade inferior a 50 anos.
+
+4. Fonte:
+- [PCDT - Protocolo Clínico e Diretriz Terapêutica do Câncer de Mama, 2019]",7,3,2,2,1,"A resposta gerada apresenta a recomendação de rastreamento mamográfico para mulheres com risco habitual, mencionando a faixa etária correta (a partir dos 50 anos) e a periodicidade (a cada dois anos). No entanto, não aborda a faixa etária de 69 anos e a não indicação para mulheres fora dessa faixa, o que compromete a correção factual. A resposta é clara e não apresenta alucinações, mas a cobertura das informações esperadas é parcial."
+Quais exames são recomendados para o estadiamento clínico do câncer colorretal?,"O estadiamento clínico é realizado principalmente por tomografia computadorizada de tórax, abdome e pelve, podendo ser complementado por ressonância magnética em casos específicos."," 1. Resposta objetiva:
+Os trechos recuperados sugerem que, para o estadiamento clínico do câncer colorretal, são recomendados exames como a endoscópia flexível transretal (EFR) e a tomografia computadorizada abdominal com contraste (TCAC).
+
+2. Critérios / Condições:
+A EFR é indicada para o estadiamento inicial do câncer colorretal, enquanto a TCAC pode ser utilizada para avaliar a extensão locoregional e metastases distantes.
+
+3. Observações relevantes:
+Não há informação sobre se outros exames podem ser necessários dependendo do estágio ou características específicas do câncer colorretal.
+
+4. Fonte(s):
+- [Documento] - Protocolos Clínicos e Diretrizes Terapêuticas Oncológicas do SUS (PCDT) - Câncer colorretal, versão 1.0, 2018.",3,2,1,1,1,"A resposta gerada menciona a tomografia computadorizada abdominal com contraste, que está correta, mas inclui a endoscopia flexível transretal, que não é um exame padrão para estadiamento clínico do câncer colorretal, resultando em uma penalização na correção factual. A cobertura é limitada, pois não menciona a tomografia computadorizada de tórax e pelve, que são essenciais. Não há alucinação, pois as informações são baseadas em diretrizes, e a clareza da resposta é adequada."
