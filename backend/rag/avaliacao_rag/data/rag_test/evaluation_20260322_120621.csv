@@ -1,0 +1,367 @@
+question,expected_answer,generated_answer,score,factual,coverage,no_hallucination,clarity,justification
+Qual é o mecanismo fisiopatológico central da leucemia mieloide aguda e quais suas principais consequências clínicas?,"A leucemia mieloide aguda resulta de uma transformação maligna de células hematopoéticas primitivas com proliferação clonal e bloqueio da maturação celular na fase de blastos, levando à substituição da hematopoese normal e causando anemia, sangramentos, infecções e síndrome de hiperviscosidade."," Resposta objetiva:
+A leucemia mieloide aguda (LMA) é caracterizada pelo acumulo de células imaturos na medula óssea, principalmente as células brancas neutrófilas. [DOC_1] Essa acumulação resulta em uma diminuição da produção normal das células sanguíneas, incluindo glóbulos vermelhos e plaquetas. [DOC_2]
+
+Critérios / Condições:
+A LMA pode ser classificada em subtipos baseados na presença ou ausência de certas características genéticas específicas nas células tumorais. [DOC_3]
+
+Observações relevantes:
+Os principais sintomas clínicos da LMA incluem febre recorrente, fadiga, inchaço dos linfonodos e aumento do número de glóbulos brancos no sangue. [DOC_4] A LMA pode levar a uma anemia, trombopenia e infecções repetidas devido à diminuição da produção normal das células sanguíneas. [DOC_5]
+
+Fontes:
+[DOC_1] American Cancer Society. (2021). Acute Myeloid Leukemia (AML) - Overview. https://www.cancer.org/content/dam/CRC/PDF/Public/8740.00.pdf
+[DOC_2] National Heart, Lung, and Blood Institute. (2019). Acute Myeloid Leukemia (AML) - Overview. https://www.nhlbi.nih.gov/health-topics/acute-myeloid-leukemia
+[DOC_3] National Cancer Institute. (2021). Acute Myeloid Leukemia Treatment (PDQ®) - Health Professional Version. https://www.cancer.gov/types/leukemia/hp/aml-treatment-pdq
+[DOC_4] American Cancer Society. (2021). Acute Myeloid Leukemia (AML) - Symptoms and Diagnosis. https://www.cancer.org/content/dam/CRC/PDF/Public/8740.00.pdf
+[DOC_5] National Heart, Lung, and Blood Institute. (2019). Acute Myeloid Leukemia (AML) - Symptoms and Diagnosis. https://www.nhlbi.nih.gov/health-topics/acute-myeloid-leukemia#symptoms_and_diagnosis",6,3,2,2,1,"A resposta gerada apresenta informações corretas sobre a leucemia mieloide aguda, como a acumulação de células imaturas e suas consequências clínicas, como anemia e infecções. No entanto, não menciona o bloqueio da maturação celular e a substituição da hematopoese normal, que são aspectos centrais do mecanismo fisiopatológico. A classificação em subtipos, embora relevante, não é parte da pergunta e pode ser considerada uma extrapolação. A resposta é clara e bem estruturada, mas a falta de alguns detalhes importantes e a inclusão de informações não solicitadas impactam a avaliação geral."
+Quais são os critérios diagnósticos fundamentais da leucemia mieloide aguda segundo as diretrizes?,"O diagnóstico baseia-se em exames como hemograma, citomorfologia, citoquímica, imunofenotipagem, citogenética e biologia molecular, sendo necessário geralmente 20% ou mais de blastos no sangue periférico ou medula óssea, ou menos que isso na presença de alterações citogenéticas específicas."," Resposta objetiva:
+- A leucemia mieloide aguda (LMA) é caracterizada por um aumento anormal de células imaturs ou imaturas de linhagem mielóide no sangue e no tecido ósseo. [DOC_1]
+- Os critérios diagnósticos fundamentais da LMA incluem:
+  - Presença de blastas em pelo menos 20% dos leucócitos no sangue periférico. [DOC_1]
+  - A presença de blastas em pelo menos 10% dos leucócitos no sangue periférico, juntamente com a presença de blastas em pelo menos 20% das células nucleadas do tecido ósseo. [DOC_1]
+- A presença de blastas em pelo menos 3 linhagens mielóides diferentes no sangue periférico ou no tecido ósseo também é considerada como critério diagnóstico. [DOC_1]
+
+Observações relevantes:
+- Os critérios devem ser confirmados por análises citaromatográficas (FCM) e/ou histologia. [DOC_1]
+
+Fontes:
+- [DOC_1] - Diretrizes Brasileiras de Tratamento da Leucemia Mieloide Aguda. Sociedade Brasileira de Hematologia, Hemoterapia e Terapia Celular. 2017.",5,2,2,1,0,"A resposta gerada apresenta informações corretas sobre a leucemia mieloide aguda, mas contém erros factuais, como a menção de 10% de blastas no sangue periférico, que não está de acordo com a resposta esperada. A cobertura dos critérios diagnósticos é boa, mas a inclusão de informações não solicitadas e a falta de clareza na estrutura da resposta prejudicam a avaliação. A resposta não apresenta alucinações, mas a confusão nos percentuais e a estrutura dificultam a compreensão."
+Qual é o papel do rituximabe no tratamento do linfoma difuso de grandes células B e quais os benefícios observados?,"O rituximabe é um anticorpo monoclonal anti-CD20 que, quando associado ao esquema CHOP (R-CHOP), aumenta as taxas de resposta completa, sobrevida livre de doença e sobrevida global, além de reduzir o risco de morte em comparação ao CHOP isolado."," Resposta:
+- O rituximab é um medicamento monoclonal de tipo anti-CD20, utilizado no tratamento do linfoma difuso de grandes células B (DLBCL). [DOC_1]
+- Os benefícios observados com o uso do rituximab incluem melhora da resposta ao tratamento, aumento da sobrevivência e redução dos sintomas. [DOC_2]
+
+Critérios/Condições:
+- O rituximab é administrado em combinação com outros medicamentos quimioterápicos. [DOC_1]
+
+Observações relevantes:
+- A eficácia do rituximab varia de acordo com o tipo de DLBCL e a resposta individual ao tratamento. [DOC_3]
+
+Fontes:
+- [DOC_1] Ministério da Saúde (BRASIL). Protocolo Clínico do SUS para Tratamento do Linfoma Difuso de Grandes Células B. Brasília, 2018. Disponível em: <https://www.saude.gov.br/content/download/734695/1002427/file/PCDT_Linfoma_Difuso_de_Grandes_Celulas_B.pdf>
+- [DOC_2] National Comprehensive Cancer Network (NCCN). NCCN Clinical Practice Guidelines in Oncology: Non-Hodgkin Lymphoma, Version 10.2021. Available at: <https://www.nccn.org/professionals/physician_gls/pdf/nhl.pdf>
+- [DOC_3] Alvarez, J., et al. Rituximab in the treatment of diffuse large B-cell lymphoma: a systematic review and meta-analysis. Annals of Oncology, 2014. Vol. 25(8), p. 1637-1644. Disponível em: <https://academic.oup.com/annonc/article/25/8/1637/290308>",7,3,2,2,1,"A resposta gerada apresenta informações corretas sobre o rituximabe como um anticorpo monoclonal anti-CD20 e menciona benefícios como melhora da resposta ao tratamento e aumento da sobrevivência. No entanto, não menciona especificamente a combinação com o esquema CHOP, que é um ponto crucial na resposta esperada. A menção à variação da eficácia de acordo com o tipo de DLBCL e a resposta individual é uma extrapolação que não estava na resposta esperada. A resposta é clara e bem estruturada."
+Quais são os principais fatores considerados no Índice Prognóstico Internacional (IPI) para linfoma difuso de grandes células B?,"Os fatores incluem idade acima de 60 anos, estágio III ou IV da doença, acometimento de mais de um sítio extranodal, performance status maior que 2 e níveis elevados de desidrogenase lática sérica."," Resposta objetiva:
+O Índice Prognóstico Internacional (IPI) para linfoma difuso de grandes células B considera principalmente cinco fatores:
+1. Grau de anemia (hemoglobina) [DOC_1]
+2. Nível de leucose (leucócitos) [DOC_1]
+3. Plateloise (platelócitos) [DOC_1]
+4. LDH (Lactato desidrogenase) [DOC_1]
+5. Estágio da doença (estágios I-IV) [DOC_2]
+
+Observações relevantes:
+O IPI é um sistema de pontuação que ajuda a prever o prognóstico geral e a determinar o tratamento adequado para pacientes com linfoma difuso de grandes células B. A pontuação total é calculada somando os valores dos cinco fatores acima, com pontos adicionais para estágios avançados da doença [DOC_2].
+
+Fontes:
+- [DOC_1] National Cancer Institute. (2021). Diffuse large B-cell lymphoma treatment (PDQ®) - Health Professional Version. In: PDQ® Adult Treatment Editorial Board. Bethesda, MD: National Cancer Institute. Available at: https://www.cancer.gov/types/lymphoma/hp/dlbcl-treatment-pdq
+- [DOC_2] Swerdlow SH, Campo E, Harris NL, Jaffe ES, Pileri SA, Stein H, Thiele J, Vardiman JW, Zinzani PL. The 2016 revision of the World Health Organization classification of lymphoid neoplasms: rationale and key changes to the previous version. Blood. 2016;127(20):3051-3098. doi: 10.1182/blood-2016-04-664228",1,1,0,0,0,"A resposta gerada apresenta informações incorretas e não corresponde aos fatores esperados do IPI, como idade, estágio da doença e performance status. Além disso, menciona fatores que não são reconhecidos no contexto do IPI, como grau de anemia e nível de leucose, o que demonstra alucinação. A clareza da resposta é comprometida pela inclusão de informações irrelevantes e pela falta de estrutura clara."
+Quais são os principais fatores de risco modificáveis associados ao câncer de esôfago?,"Os principais fatores de risco modificáveis são o tabagismo, o consumo de álcool e a obesidade, sendo que o carcinoma epidermoide está mais associado ao fumo e álcool, enquanto o adenocarcinoma relaciona-se ao refluxo gastroesofágico e obesidade."," Resposta objetiva:
+Os principais fatores de risco modificáveis associados ao câncer de esôfago incluem o uso excessivo de álcool, tabagismo, dieta pobre em frutas e vegetais, obesidade, refluxo gastroesofágico crônico (RGC) e exposição a fumaça de tabaco passiva.
+[DOC_1]
+
+Critérios / Condições:
+O risco aumenta com maior quantidade de álcool consumido, número de cigarros fumados por dia e duração do tabagismo, quantidade de alimentos pobres em frutas e vegetais consumidos, índice de massa corporal elevado e duração do RGC.
+[DOC_1]
+
+Observações relevantes:
+O risco pode ser reduzido com a abstinência de álcool, fumo e dieta saudável, tratamento adequado do RGC e manutenção de um peso saudável.
+[DOC_1]
+
+Fontes:
+- [DOC_1] Centro Brasileiro de Saude Coletiva (CBSC). Câncer de esôfago. Disponível em: <https://www.cbsc.org.br/cancer-de-esofago/>. Acesso em: 2023-04-18.",6,3,2,1,0,"A resposta gerada apresenta fatores de risco modificáveis corretos, como tabagismo, consumo de álcool e obesidade, mas inclui também 'dieta pobre em frutas e vegetais' e 'exposição a fumaça de tabaco passiva', que não estão na resposta esperada. A menção ao refluxo gastroesofágico é correta, mas não está claramente associada ao adenocarcinoma como na resposta esperada. A resposta é clara, mas a inclusão de informações adicionais que não foram solicitadas prejudica a aderência ao esperado."
+Qual é o principal sintoma inicial do câncer de esôfago e qual a conduta diagnóstica recomendada?,"O principal sintoma inicial é a disfagia progressiva, sendo recomendada a realização de endoscopia digestiva alta com biópsia para confirmação anatomopatológica do diagnóstico."," Resposta objetiva:
+O principal sintoma inicial do câncer de esôfago é dor persistente no tórax, que pode ser aguda ou crónica. [DOC_1]
+
+A conduta diagnóstica recomendada para suspeita de câncer de esôfago inclui exame endoscópico (esofagogastroduodenoscopia) e biopsia. [DOC_2]
+
+Critérios / Condições:
+A dor persistente no tórax pode ser acompanhada por dificuldade de engolir, peso perdido sem explicação aparente, regurgitação de alimentos, dor no garganta ou dor no peito. [DOC_1]
+
+Observações relevantes:
+A presença de sintomas como dor persistente no tórax, dificuldade de engolir e peso perdido pode indicar câncer de esôfago, porém outras condições podem causar esses sintomas. [DOC_1]
+
+Fontes:
+[DOC_1] - Guia Prático de Câncer do Esôfago. Associação Brasileira de Cancerologia Clínica (ABCC). Disponível em: <https://www.abcc.org.br/guia-pratico-de-cancer-do-esofago/>
+[DOC_2] - Guia Prático de Câncer do Esôfago. Associação Brasileira de Cancerologia Clínica (ABCC). Disponível em: <https://www.abcc.org.br/guia-pratico-de-cancer-do-esofago/>",4,1,2,1,0,"A resposta gerada apresenta um sintoma inicial incorreto (dor persistente no tórax) em vez de disfagia progressiva, o que compromete a correção factual. A conduta diagnóstica mencionada (endoscopia e biópsia) está correta, mas a resposta não aborda a confirmação anatomopatológica, o que afeta a cobertura. Não há alucinação, pois os sintomas mencionados são reais, mas a clareza é prejudicada pela estrutura confusa da resposta."
+Quais são os principais fatores de risco associados ao câncer de cabeça e pescoço?,"Os principais fatores de risco são o tabagismo e o consumo de álcool, que apresentam efeito sinérgico, além de fatores como dieta inadequada, má saúde bucal, refluxo gastroesofágico, comportamento sexual de risco e infecção por HPV (tipos 16 e 18)."," Resposta objetiva:
+Os principais fatores de risco associados ao câncer de cabeça e pescoço incluem exposição prolongada ao sol ultravioleta (UV), tabagismo, consumo excessivo de álcool, obesidade, idade avançada e histórico familiar de câncer [DOC_1].
+
+Critérios / Condições:
+A exposição prolongada ao sol UV é mais significativa para o desenvolvimento de cânceres cutâneos, enquanto o tabagismo e o consumo excessivo de álcool podem aumentar o risco de câncer de garganta [DOC_1].
+
+Observações relevantes:
+A exposição ao sol UV pode ser reduzida através da proteção solar adequada, como chapéus e roupas que cobrem a pele [DOC_2]. O tabagismo é um fator de risco importante para vários tipos de câncer, incluindo o de garganta [DOC_3].
+
+Fontes:
+[DOC_1] - Instituto Nacional do Câncer (INCA) - https://www.inca.gov.br/cancer-de-garganta/riscos-e-fatores-de-risco/
+[DOC_2] - Agência Brasileira de Proteção Ambiental (ABPA) - https://www.abpa.gov.br/sites/default/files/publicacoes/guia_protecao_sol_2018.pdf
+[DOC_3] - Organização Mundial da Saúde (OMS) - https://www.who.int/news-room/fact-sheets/detail/tobacco",5,2,2,1,0,"A resposta gerada apresenta alguns fatores de risco corretos, como tabagismo e consumo excessivo de álcool, mas inclui a exposição ao sol UV, que é mais relevante para cânceres cutâneos, não para câncer de cabeça e pescoço. A obesidade e idade avançada não estão na lista esperada. A resposta é parcialmente clara, mas a inclusão de informações irrelevantes prejudica a clareza geral."
+Como é realizado o diagnóstico do carcinoma epidermoide de cabeça e pescoço?,"O diagnóstico é realizado por exame clínico associado a nasoscopia e laringoscopia, com confirmação por biópsia tumoral; na ausência de tumor visível, pode-se realizar punção aspirativa por agulha fina ou biópsia de massas cervicais."," Resposta objetiva:
+O diagnóstico do carcinoma epidermoide de cabeça e pescoço é realizado por meio de biópsia excisional ou incisional, seguida de análise histopatológica. [DOC_1]
+
+Critérios / Condições:
+A biópsia pode ser realizada localmente ou através de uma cirurgia exploratória. A escolha depende do tamanho, localização e aparência do tumor. [DOC_1]
+
+Observações relevantes:
+Em alguns casos, o diagnóstico pode ser suspeitado por exame clínico ou imagens complementares (como raio-X, tomografia computadorizada ou ressonância magnética), mas a confirmação definitiva só é possível após análise histopatológica. [DOC_1]
+
+Fontes:
+[DOC_1] - Guia de Práticas Clínicas do SUS (PCDT) - Carcinoma epidermoide da pele e dos tecidos moles. Brasília, 2018. Disponível em: <https://www.saude.gov.br/content/docs/guia-de-praticas-clinicas-do-sus-pcdt-carcinoma-epidermoide-da-pele-e-dos-tecidos-moles.pdf>",5,2,2,1,0,"A resposta gerada apresenta informações corretas sobre o diagnóstico do carcinoma epidermoide, mencionando a biópsia e a análise histopatológica, mas não inclui a nasoscopia e laringoscopia, que são partes importantes do diagnóstico conforme a resposta esperada. Além disso, a menção a exames de imagem como raio-X e tomografia não é parte do diagnóstico direto, o que pode ser considerado uma extrapolação. A resposta é clara, mas a estrutura e a apresentação não são ideais."
+Quais são os principais fatores de risco para o câncer de próstata?,"Os principais fatores de risco são idade avançada, história familiar de câncer de próstata e raça negra. Outros fatores existem, mas têm menor relevância clínica."," Principais fatores de risco para o câncer de próstata:
+- Idade avançada [DOC_1]
+- Família com histórico de câncer de próstata [DOC_2]
+- Obesidade [DOC_3]
+- Dieta rica em gorduras saturadas e carne vermelha [DOC_4]
+- Baixa atividade física [DOC_5]
+- Exposição a radiação ionizante [DOC_6]
+
+Critérios / Condições:
+- A idade avançada é um fator de risco significativo para o câncer de próstata [DOC_1]
+- O histórico familiar de câncer de próstata aumenta o risco de desenvolver o câncer [DOC_2]
+- A obesidade pode aumentar o risco de câncer de próstata [DOC_3]
+- Dietas ricas em gorduras saturadas e carne vermelha podem aumentar o risco de câncer de próstata [DOC_4]
+- Baixa atividade física pode aumentar o risco de câncer de próstata [DOC_5]
+- A exposição a radiação ionizante pode aumentar o risco de câncer de próstata [DOC_6]
+
+Observações relevantes:
+- O risco de câncer de próstata também pode ser influenciado por fatores genéticos e ambientais, mas esses não são tão bem compreendidos [DOC_7]
+
+Fontes:
+- [DOC_1] Ministério da Saúde. (2020). Câncer de próstata. Disponível em: https://www.saude.gov.br/portal/content/cancer-de-pr%C3%B3stata
+- [DOC_2] American Cancer Society. (2021). What increases the chance of developing prostate cancer? Disponível em: https://www.cancer.org/cancer/prostate-cancer/causes-risks-prevention/risk-factors.html
+- [DOC_3] American Cancer Society. (2021). What increases the chance of developing prostate cancer? Disponível em: https://www.cancer.org/cancer/prostate-cancer/causes-risks-prevention/risk-factors.html
+- [DOC_4] American Cancer Society. (2021). What increases the chance of developing prostate cancer? Disponível em: https://www.cancer.org/cancer/prostate-cancer/causes-risks-prevention/risk-factors.html
+- [DOC_5] American Cancer Society. (2021). What increases the chance of developing prostate cancer? Disponível em: https://www.cancer.org/cancer/prostate-cancer/causes-risks-prevention/risk-factors.html
+- [DOC_6] American Cancer Society. (2021). What increases the chance of developing prostate cancer? Disponível em: https://www.cancer.org/cancer/prostate-cancer/causes-risks-prevention/risk-factors.html
+- [DOC_7] American Cancer Society. (2021). What increases the chance of developing prostate cancer? Disponível em: https://www.cancer.org/cancer/prostate-cancer/causes-risks-prevention/risk-factors.html",5,2,1,2,0,"A resposta gerada apresenta fatores de risco adicionais que não estão na resposta esperada, como obesidade, dieta rica em gorduras saturadas, baixa atividade física e exposição a radiação ionizante, o que resulta em uma penalização na correção factual e na aderência ao esperado. Embora a idade avançada e a história familiar estejam corretas, a inclusão de fatores menos relevantes e a falta de foco nos principais fatores de risco diminuem a qualidade da resposta. Não há alucinação, pois todos os fatores mencionados têm alguma base na literatura, mas extrapolações foram feitas. A clareza é adequada, mas a resposta é excessivamente longa e poderia ser mais direta."
+O rastreamento populacional do câncer de próstata é recomendado pelo Ministério da Saúde?,"Não. O Ministério da Saúde não recomenda o rastreamento populacional, pois não há evidências de que o tratamento de tumores em estágios iniciais reduza a mortalidade de forma consistente, além do risco de sobrediagnóstico e sobretratamento."," Resposta objetiva:
+""O rastreamento populacional do câncer de próstata não é recomendado pelo Ministério da Saúde. [DOC_1]""
+
+Fontes:
+- [DOC_1] PCDT Oncologia - Câncer de Próstata. Brasília, 2021. Disponível em: <https://www.saude.gov.br/content/download/843769/5024217/file/PCDT_Oncologia_Cancer_de_Prostata.pdf>",8,4,3,2,1,"A resposta gerada está correta em afirmar que o rastreamento populacional do câncer de próstata não é recomendado pelo Ministério da Saúde, alinhando-se com a resposta esperada. Ela também menciona a fonte, o que reforça a credibilidade da informação. No entanto, a resposta não aborda os motivos específicos, como a falta de evidências sobre a redução da mortalidade e os riscos de sobrediagnóstico e sobretratamento, o que poderia ter melhorado a cobertura. A resposta é clara e não apresenta alucinações."
+Qual é o único fator de risco ambiental bem estabelecido para tumores cerebrais?,A radiação ionizante é o único fator de risco ambiental firmemente estabelecido para tumores cerebrais.," ""O único fator de risco ambiental bem estabelecido para tumores cerebrais é a exposição crônica a radiação ionizante. [DOC_1]""
+
+""A exposição crônica a radiação ionizante pode ocorrer por diversas fontes, como raios X, raios gama e partículas alfa. [DOC_2]""
+
+Fontes:
+- [DOC_1] - Ministério da Saúde (MS). (2018). PCDT Oncologia Pediátrica. Brasília, DF: MS.
+- [DOC_2] - Agência Nacional de Vigilância Sanitária (ANVISA). (2019). Radiação Ionizante e Saúde Humana. Brasília, DF: ANVISA.",9,4,3,2,1,"A resposta gerada está correta ao afirmar que a radiação ionizante é o único fator de risco ambiental bem estabelecido para tumores cerebrais, o que corresponde exatamente à resposta esperada. A inclusão de informações adicionais sobre fontes de radiação ionizante não extrapola o que foi solicitado, mas enriquece a resposta. Não há alucinações, pois todas as informações estão fundamentadas em documentos oficiais. A clareza da resposta é alta, pois a informação é apresentada de forma direta e compreensível."
+Como é feito o diagnóstico definitivo dos gliomas?,"O diagnóstico definitivo é realizado por meio do estudo histopatológico do tumor, geralmente obtido por cirurgia ou biópsia."," Resposta:
+- O diagnóstico definitivo dos gliomas é feito por meio de uma biopsia ou excisão cirúrgica do tumor, seguida de análise histológica. [DOC_1]
+
+Critérios/Condições:
+- A biopsia pode ser realizada por meios invasivos (como a punção aspiração) ou não invasivos (como a biopsia endoscópica). [DOC_2]
+- O diagnóstico definitivo é confirmado após análise histológica, que inclui a identificação do tipo de célula tumoral e sua classificação. [DOC_1]
+
+Observações relevantes:
+- Em alguns casos, o diagnóstico pode ser suspeitado com exames não invasivos, como ressonância magnética (RM) ou tomografia computadorizada (TC), mas a biopsia é necessária para confirmação definitiva. [DOC_3]
+- A análise histológica deve ser realizada por um patologista especializado em neoplasias cerebrais. [DOC_4]
+
+Fontes:
+- [DOC_1] Brasil, Ministério da Saúde (MS). Guia Nacional de Câncer - GNC 2020. Brasília: MS; 2020. Disponível em: <https://bvsms.saude.gov.br/bvs/seja-vi/gencancro/>
+- [DOC_2] Brasil, Ministério da Saúde (MS). Protocolo Clínico do SUS - PCDT Oncologia. Brasília: MS; 2019. Disponível em: <https://bvsms.saude.gov.br/bvs/seja-vi/pcdt/>
+- [DOC_3] Brasil, Ministério da Saúde (MS). Guia de Diagnóstico e Tratamento do Câncer - GDT 2019. Brasília: MS; 2019. Disponível em: <https://bvsms.saude.gov.br/bvs/seja-vi/gdt/>
+- [DOC_4] Brasil, Ministério da Saúde (MS). Guia de Diagnóstico e Tratamento do Câncer - GDT 2019. Brasília: MS; 2019. Disponível em: <https://bvsms.saude.gov.br/bvs/seja-vi/gdt/>",9,4,3,2,1,"A resposta gerada apresenta informações corretas sobre o diagnóstico definitivo dos gliomas, mencionando a biópsia e a análise histológica, que são essenciais. A inclusão de detalhes sobre os métodos de biópsia e a necessidade de um patologista especializado enriquece a resposta, sem extrapolar ou inventar informações. A clareza da resposta é alta, tornando-a fácil de entender."
+Qual é a alteração genética característica da leucemia mieloide crônica (LMC) e qual seu efeito biológico?,"A LMC está associada à translocação cromossômica 9;22, que forma o cromossoma Philadelphia, gerando o gene de fusão BCR-ABL1, responsável pela produção de uma tirosinoquinase com atividade aumentada que promove a proliferação celular."," Resposta objetiva:
+A alteração genética característica da leucemia mieloide crônica (LMC) é a mutação do gene BCR-ABL. [DOC_1]
+
+Efeito biológico:
+A mutação BCR-ABL resulta na produção de uma proteína anormal, chamada p210 BCR-ABL, que ativa vários caminhos de sinalização celular inadequadamente. Isso leva à proliferação excessiva das células mielóides e à falha na maturação dessas células. [DOC_1]
+
+Critérios / Condições:
+A mutação BCR-ABL é encontrada em mais de 95% dos casos de LMC. [DOC_2]
+
+Observações relevantes:
+A presença da mutação BCR-ABL pode ser detectada por técnicas de detecção molecular, como PCR (reação em cadeia da polimerase). [DOC_3]
+
+Fontes:
+[DOC_1] National Cancer Institute. (2020). Chronic Myeloid Leukemia Treatment (PDQ®) - Health Professional Version. In: PDQ® Cancer Information Summaries [Internet]. Bethesda, MD: National Cancer Institute. Available at: https://www.cancer.gov/types/leukemia/hp/chronic-myeloid-treatment-pdq
+[DOC_2] Deininger MW, et al. (2013). International System for Chronic Myeloid Leukemia 2013: Standardization of molecular monitoring in chronic myeloid leukemia: a report from the International Working Group for the Standardization of Haematological Malignancy Diagnosis and Reporting. Blood, 122(24), 4875-4896.
+[DOC_3] National Cancer Institute. (2020). Chronic Myeloid Leukemia - Diagnosis and Staging. In: PDQ® Cancer Information Summaries [Internet]. Bethesda, MD: National Cancer Institute. Available at: https://www.cancer.gov/types/leukemia/hp/chronic-myeloid-treatment-pdq#section/_103",6,3,2,1,0,"A resposta gerada menciona a mutação BCR-ABL, que é uma forma correta de se referir à alteração genética, mas não menciona a translocação cromossômica 9;22 e a formação do cromossomo Philadelphia, que são aspectos importantes da resposta esperada. O efeito biológico é descrito de forma adequada, mas a falta de clareza na estrutura da resposta e a ausência de uma introdução clara prejudicam a avaliação. A resposta não apresenta alucinações, mas a falta de detalhes específicos e a forma como a informação é apresentada impactam negativamente a clareza."
+Qual é o tratamento de primeira linha para a leucemia mieloide crônica em crianças e adolescentes?,"O tratamento de primeira linha é o mesilato de imatinibe, um inibidor da tirosinoquinase BCR-ABL1, utilizado em todas as fases da doença."," ""O tratamento de primeira linha para a leucemia mieloide crônica (LMC) em crianças e adolescentes é a terapia combinada com medicamentos orais, como Hidroxicloroquina, Mercaptopurina e Tiorfalastato. [DOC_1]
+
+Para crianças menores de 2 anos, a terapia pode ser modificada devido às características específicas da fisiologia deste grupo etário. [DOC_2]""
+
+Fontes:
+- [DOC_1] Sistema Nacional de Saúde (SUS). Protocolo Clínico do SUS - Leucemia Mieloide Crônica. Disponível em: <https://www.saude.gov.br/content/download/203478/516921/file/Leucemia-Mieloide-Cr%C3%B3nica.pdf>
+- [DOC_2] Instituto Nacional do Câncer (INCA). Leucemia Mieloide Crônica em Crianças e Adolescentes. Disponível em: <https://www.inca.gov.br/leucemia-mieloide-cr%C3%B3nica-em-criancas-e-adolescentes/>",1,0,0,1,0,"A resposta gerada apresenta informações incorretas sobre o tratamento de primeira linha para a leucemia mieloide crônica, mencionando medicamentos que não são reconhecidos como tratamento padrão, como Hidroxicloroquina e Tiorfalastato. A única parte correta é a menção à modificação da terapia para crianças menores de 2 anos, mas isso não compensa a falta de precisão na resposta principal. A resposta também não é clara, pois não segue a estrutura esperada e não aborda diretamente o tratamento correto, que é o mesilato de imatinibe."
+Qual é a tríade clássica do carcinoma de células renais e qual sua frequência?,"A tríade clássica inclui dor em flanco, hematúria e massa abdominal palpável, ocorrendo em apenas cerca de 6% a 10% dos casos e geralmente associada a doença avançada."," Resposta objetiva:
+A tríade clássica do carcinoma de células renais (CCR) é composta por hematuria, colesterolúrico e imunoglobulina A elevada. [DOC_1]
+
+Frequência:
+A frequência da tríade clássica do CCR varia de acordo com a série etiológica. Em séries endêmicas, a incidência é de 2-3 casos por milhão de habitantes por ano, enquanto em séries esporádicas pode atingir até 10 casos por milhão de habitantes por ano. [DOC_2]
+
+Observações relevantes:
+A tríade clássica do CCR não é encontrada em todos os casos de CCR, especialmente em pacientes com formas agressivas ou metastáticas. [DOC_3]
+
+Fontes:
+[DOC_1] - Guia Prático de Diagnóstico e Tratamento do Carcinoma Renal de Células Clear (CCR) no Brasil. Associação Brasileira de Urologia, 2018. Disponível em: <https://www.abu.org.br/wp-content/uploads/2019/03/Guia_Pr%C3%A1tico_CCR_ABU_2018.pdf>
+[DOC_2] - Carcinoma de células clear do rins: diagnóstico e tratamento. Revista Brasileira de Urologia, v. 56, n. 4, p. 379-385, jul./ago./set. 2012. Disponível em: <https://www.scielo.br/j/rbau/a/ZWJKXVGQNHM6DJTB>
+[DOC_3] - Carcinoma de células clear do rins: diagnóstico e tratamento. Revista Brasileira de Urologia, v. 56, n. 4, p. 379-385, jul./ago./set. 2012. Disponível em: <https://www.scielo.br/j/rbau/a/ZWJKXVGQNHM6DJTB>",2,1,0,1,0,"A resposta gerada apresenta uma tríade incorreta, incluindo 'colesterolúrico' e 'imunoglobulina A elevada', que não fazem parte da tríade clássica do carcinoma de células renais. A frequência mencionada não corresponde à resposta esperada, que é de 6% a 10% dos casos. Embora a resposta não contenha alucinações, a falta de correção factual e a confusão na apresentação da informação resultam em uma avaliação baixa. A clareza também é comprometida pela estrutura da resposta."
+Qual é o principal fator prognóstico no carcinoma de células renais?,"O principal fator prognóstico é o estadiamento patológico da doença, sendo determinante para a sobrevida e evolução clínica do paciente."," Resposta objetiva:
+""O principal fator prognóstico no carcinoma de células renais é a estágio da doença [DOC_1].""
+
+Critérios / Condições:
+""A classificação TNM (tumor, linfonodos metastáticos e distância metástatica) é usada para determinar o estágio do carcinoma de células renais [DOC_1].""
+
+Observações relevantes:
+""Outros fatores prognósticos importantes incluem a histologia, grau de diferenciação e presença de necrose [DOC_2].""
+
+Fontes:
+- [DOC_1] - Guia Nacional de Câncer do SUS. Carcinoma de células renais. Brasília: Ministério da Saúde; 2019. Disponível em: <https://www.cancer.gov.br/profissionais/guia-nacional-do-cancer/publicacoes/carcinoma-renal-clear-cell>
+- [DOC_2] - Guimarães JA, et al. Prognostic factors in renal cell carcinoma: a systematic review and meta-analysis. Cancer Treatment Reviews. 2017;56:38-49.",6,3,2,2,1,"A resposta gerada menciona corretamente que o principal fator prognóstico é o estágio da doença, mas não usa a terminologia 'estadiamento patológico', que é mais precisa. A inclusão de informações sobre a classificação TNM e outros fatores prognósticos é relevante, mas não estava na resposta esperada, o que resulta em uma leve penalização na cobertura. Não há alucinações, e a resposta é clara."
+Qual é a recomendação de rastreamento mamográfico para mulheres com risco habitual segundo o PCDT?,"O rastreamento mamográfico é recomendado para mulheres de 50 a 69 anos, a cada dois anos, não sendo indicada a ampliação para mulheres fora dessa faixa etária com risco habitual."," ""A recomendação de rastreamento mamográfico para mulheres com risco habitual é realizar exame anualmente. [DOC_1]""
+
+""As condições para ser considerada mulher com risco habitual são: idade superior a 50 anos, ou entre 40 e 50 anos com pelo menos um fator de risco adicional. [DOC_2]""
+
+""Observação relevante: as mulheres com mais de um fator de risco adicional podem ter necessidade de exames mais frequentes. [DOC_3]""
+
+""Fontes:
+- [DOC_1] - PCDT Oncologia, 2021
+- [DOC_2] - PCDT Mamografia, 2020
+- [DOC_3] - PCDT Geral, 2019""",2,0,1,1,0,"A resposta gerada apresenta uma informação incorreta sobre a frequência do rastreamento mamográfico, que deve ser a cada dois anos para mulheres de 50 a 69 anos, e não anualmente. A menção a fatores de risco adicionais não é suficiente para compensar a falta de correção factual. A resposta também não é clara, pois mistura informações que não se aplicam ao grupo de risco habitual. A única parte que não apresenta alucinação é a referência a documentos, mas isso não compensa a falta de precisão na informação principal."
+Quais biomarcadores devem ser avaliados no estudo imuno-histoquímico de carcinomas invasivos da mama?,"Devem ser avaliados receptor de estrogênio (RE), receptor de progesterona (RP), receptor HER-2 e o índice de proliferação celular Ki67."," Resposta objetiva:
+Os biomarcadores que devem ser avaliados no estudo imuno-histoquímico de carcinomas invasivos da mama incluem ER (estrógeno receptor), PR (receptor progesterona) e HER2 (receptor de células de Her2/neu). [DOC_1]
+
+Critérios / Condições:
+O estudo imuno-histoquímico é realizado para avaliar a expressão destes biomarcadores nos tecidos tumorais da mama. [DOC_2]
+
+Observações relevantes:
+A expressão de ER e PR pode indicar resposta ao tratamento hormonal, enquanto a expressão de HER2 pode influenciar a escolha do tratamento. [DOC_3]
+
+Fontes:
+[DOC_1] - Guia Prático de Diagnóstico por Imuno-Histoquímica no SUS (PCDT). Brasília, 2018. Disponível em: <https://www.saude.gov.br/content/download/73469/502221/file/Guia_Pratico_IHC_SUS_2018.pdf>
+[DOC_2] - Guia de Diagnóstico do Câncer de Mama. Brasília, 2017. Disponível em: <https://www.saude.gov.br/content/download/69435/502221/file/Guia_de_Diagnostico_Cancer_Mama_2017.pdf>
+[DOC_3] - Tratamento do Câncer de Mama. Brasília, 2018. Disponível em: <https://www.saude.gov.br/content/download/73469/502221/file/Guia_Pratico_IHC_SUS_2018.pdf>",8,4,3,2,1,"A resposta gerada menciona corretamente os biomarcadores que devem ser avaliados, incluindo receptor de estrogênio (ER), receptor de progesterona (PR) e receptor HER2, mas não menciona o índice de proliferação celular Ki67, que é parte da resposta esperada. A resposta é clara e não apresenta alucinações, mas a falta do Ki67 penaliza a cobertura."
+Como é confirmado o diagnóstico de adenocarcinoma de cólon e reto segundo o PCDT?,"O diagnóstico é confirmado por estudo anatomopatológico de amostra do tumor primário ou de lesão metastática, obtida por biópsia endoscópica, punção guiada por imagem ou análise do tumor após ressecção cirúrgica."," Resposta objetiva:
+O diagnóstico de adenocarcinoma de cólon e reto é confirmado por biópsia histológica. [DOC_1]
+
+Critérios / Condições:
+A biópsia histológica deve ser realizada em amostras obtidas por colonoscopia ou colectomia. [DOC_2]
+
+Observações relevantes:
+O diagnóstico preciso requer análise de um patologista especializado em câncer do trato gastrointestinal. [DOC_3]
+
+Fontes:
+[DOC_1] Ministério da Saúde (BRASIL). (2019). Protocolo Clínico Oncológico - Câncer Colorectal. Brasília, DF: Ministério da Saúde. Disponível em: <https://bvsms.saude.gov.br/bvs/seja-visto/2019/julho/documento_34678.pdf>
+[DOC_2] Ministério da Saúde (BRASIL). (2019). Protocolo Clínico Oncológico - Câncer Colorectal. Brasília, DF: Ministério da Saúde. Disponível em: <https://bvsms.saude.gov.br/bvs/seja-visto/2019/julho/documento_34678.pdf>
+[DOC_3] Ministério da Saúde (BRASIL). (2019). Protocolo Clínico Oncológico - Câncer Colorectal. Brasília, DF: Ministério da Saúde. Disponível em: <https://bvsms.saude.gov.br/bvs/seja-visto/2019/julho/documento_34678.pdf>",6,3,2,2,1,"A resposta gerada menciona a biópsia histológica como método de confirmação do diagnóstico, o que está correto, mas não inclui a informação sobre a necessidade de amostras do tumor primário ou de lesão metastática, obtidas por biópsia endoscópica, punção guiada por imagem ou análise do tumor após ressecção cirúrgica, que é essencial para a completude da resposta. A biópsia histológica é uma parte do processo, mas a resposta não abrange todos os métodos mencionados na resposta esperada. A clareza é boa, mas a falta de detalhes reduz a pontuação na cobertura. Não há alucinação, pois todas as informações estão de acordo com os documentos citados."
+Quais exames são recomendados para o estadiamento clínico do câncer colorretal?,"O estadiamento clínico é realizado principalmente por tomografia computadorizada de tórax, abdome e pelve, podendo ser complementado por ressonância magnética em casos específicos."," Resposta objetiva:
+Os exames recomendados para o estadiamento clínico do câncer colorretal incluem a endoscópia flexível transretal (EFR) e a tomografia computadorizada abdominal com contraste (TCAC). [DOC_1]
+
+Critérios / Condições:
+A EFR é o exame de primeira escolha para o estadiamento do câncer colorretal. A TCAC pode ser utilizada para avaliar a extensão locoregional e metastases distantes. [DOC_1]
+
+Observações relevantes:
+A EFR permite a detecção de lesões precancerosas e cancerosas, bem como a biopsia da lesão suspeita. A TCAC pode ser complementada com outros exames, como a ressonância magnética (RM) ou a angiografia celíaca, caso seja necessário avaliar mais detalhadamente a extensão locoregional do câncer. [DOC_1]
+
+Fontes:
+[DOC_1] Ministério da Saúde. Protocolo Clínico do SUS para Câncer Colorretal. Brasília, 2020. Disponível em: <https://www.saude.gov.br/content/download/834769/1504227/file/PCDT_Cancer_Colorretal.pdf>",4,2,1,2,1,"A resposta gerada menciona a endoscopia flexível transretal (EFR) e a tomografia computadorizada abdominal com contraste (TCAC), mas não inclui a tomografia computadorizada de tórax, que é um exame importante para o estadiamento clínico do câncer colorretal, conforme a resposta esperada. A EFR não é o exame de primeira escolha para estadiamento, mas sim para diagnóstico e avaliação de lesões. A resposta é clara e não apresenta alucinações, mas a cobertura factual é insuficiente."
+Qual é o procedimento padrão para o diagnóstico do linfoma de Hodgkin?,"O diagnóstico padrão é realizado por biópsia excisional de linfonodo suspeito, com análise histopatológica e imuno-histoquímica."," ""O diagnóstico do linfoma de Hodgkin é realizado por meio de biópsia linfática, que pode ser feita em diferentes locais, como o colo faringeu, mediastino ou gônglia. A análise histológica dos tecidos obtidos é necessária para confirmar a presença do linfoma de Hodgkin. [DOC_1]
+
+A biópsia linfática pode ser realizada por meio de vários métodos, como aspiração fine-needle (AFN), biopsia excisional ou biopsia incisional. A escolha do método depende da localização e tamanho dos nódulos suspeitos. [DOC_2]""
+
+Observações relevantes:
+- O diagnóstico definitivo de linfoma de Hodgkin requer análise histológica por um patologista especializado em hematopatologia. [DOC_1]
+
+Fontes:
+- [DOC_1] - Guia Nacional de Diagnósticos Clínicos do SUS (GNDC) - Linfoma de Hodgkin. Disponível em: <https://www.gncdc.saude.gov.br/diagnostico/linfoma-de-hodgkin/>
+- [DOC_2] - Guia Nacional de Procedimentos Oncológicos do SUS (GNPO) - Biópsia linfática. Disponível em: <https://www.gnpo.saude.gov.br/procedimento/biospia-linfatica/>",6,3,2,2,1,"A resposta gerada apresenta informações corretas sobre o diagnóstico do linfoma de Hodgkin, mencionando a biópsia linfática e a análise histológica, que são aspectos essenciais do procedimento. No entanto, a resposta não especifica que a biópsia excisional é o procedimento padrão, o que diminui a aderência ao esperado. A inclusão de métodos alternativos de biópsia, como a aspiração fine-needle, é uma extrapolação que não está presente na resposta esperada. A resposta é clara e não apresenta alucinações, mas a falta de precisão na descrição do procedimento padrão e a inclusão de informações adicionais que não são parte do esperado resultam em uma pontuação moderada."
+Qual é o exame considerado padrão ouro para o estadiamento inicial do linfoma de Hodgkin?,O exame padrão ouro para o estadiamento inicial é a PET-CT de corpo inteiro.," Resposta objetiva:
+O exame considerado padrão ouro para o estadiamento inicial do linfoma de Hodgkin é a PET-TC (Tomografia por Emissão de Positrones combinada com Tomografia Computadorizada) [DOC_1].
+
+Fontes:
+[DOC_1] - Guia Nacional de Oncologia do Brasil. Linfoma de Hodgkin. Brasília, 2020. Disponível em: <https://www.guianacionaldeoncologia.com.br/linfoma-de-hodgkin/>. Acesso em: 15 jun. 2023.",10,4,3,2,1,"A resposta gerada está correta e fornece a informação exata sobre o exame padrão ouro, que é a PET-CT. A explicação adicional sobre o que é a PET-CT é relevante e não altera a resposta principal. A fonte citada é apropriada e não há alucinações ou informações inventadas. A clareza da resposta é alta."
+Qual é o principal fator de risco para o desenvolvimento do câncer de pulmão segundo o PCDT?,"O principal fator de risco é o tabagismo, responsável por cerca de 90% dos casos de câncer de pulmão."," ""O principal fator de risco para o desenvolvimento do câncer de pulmão, segundo o Protocolo Clínico do SUS (PCDT), é a exposição prolongada e intensa ao tabagismo. [DOC_1]""
+
+""Outros fatores de risco incluem exposição a radiação ionizante, poluentes ambientais, fumo passivo e exposição ocupacional a substâncias químicas tóxicas. No entanto, o tabagismo é o principal fator de risco identificado no PCDT. [DOC_2]""
+
+Fontes:
+- [DOC_1] - Ministério da Saúde (BRASIL). (2018). Protocolo Clínico do SUS para Câncer de Pulmão. Brasília, DF: Ministério da Saúde.
+- [DOC_2] - American Cancer Society. (2020). What causes lung cancer? https://www.cancer.org/cancer/lung-cancer/causes-risks-prevention/what-causes.html",6,4,2,1,1,"A resposta gerada está correta ao identificar o tabagismo como o principal fator de risco para o câncer de pulmão, alinhando-se com a resposta esperada. No entanto, a menção de outros fatores de risco, embora verdadeira, não é parte da resposta esperada, o que resulta em uma leve penalização na cobertura. A resposta não apresenta alucinações, mas a inclusão de informações adicionais pode ser vista como uma extrapolação. A clareza da resposta é boa."
+Como é confirmado o diagnóstico definitivo do câncer de pulmão?,"O diagnóstico definitivo é confirmado por exame histopatológico ou citológico de material tumoral obtido por procedimentos como broncoscopia, mediastinoscopia ou biópsia pleuropulmonar."," Resposta objetiva:
+""O diagnóstico definitivo do câncer de pulmão é confirmado por biopsia pulmonar, que pode ser realizada por meio de vários métodos, como broncoscopia transbronquial (BTB) ou tomocanibus [DOC_1].""
+
+Critérios / Condições:
+- A biopsia pulmonar deve ser realizada apenas quando o câncer é suspeito e não pode ser confirmado por exames não invasivos, como raios-X ou tomografia computadorizada [DOC_2].
+
+Observações relevantes:
+- A escolha do método depende da localização e extensão do tumor, além de outros fatores clínicos e radiológicos [DOC_3].
+
+Fontes:
+- [DOC_1] - Guia Prático de Diagnóstico por Imagem. 2018. Capítulo 46: Câncer de Pulmão.
+- [DOC_2] - Guia Prático de Diagnóstico por Imagem. 2018. Capítulo 39: Técnicas de Biopsia Pulmonar.
+- [DOC_3] - Guia Prático de Diagnóstico por Imagem. 2018. Capítulo 46: Câncer de Pulmão.",6,3,2,2,1,"A resposta gerada menciona a biópsia pulmonar como método de confirmação do diagnóstico, o que é correto, mas não inclui o exame histopatológico ou citológico, que é essencial para o diagnóstico definitivo. A resposta também faz referência a métodos específicos, como broncoscopia transbronquial, que é relevante, mas a menção a 'tomocanibus' parece ser um erro ou invenção, o que penaliza a correção factual. A resposta é clara e objetiva, mas a falta de cobertura completa do esperado e a alucinação penalizam a pontuação."
+Em quais pacientes é indicado o rastreamento do carcinoma hepatocelular e qual método deve ser utilizado?,"O rastreamento é indicado principalmente em pacientes com cirrose hepática, devendo ser realizado por ultrassonografia de abdome a cada 6 meses."," Resposta:
+- Em pacientes diagnosticados com carcinoma hepatocelular, o rastreamento é indicado para monitorar a progressão da doença. [DOC_1]
+- O método de rastreamento recomendado é a realização de exames de imagem periódicos, como ressonância magnética (RM) ou tomografia computadorizada (TC), para avaliar o tamanho e localização do tumor. [DOC_2]
+
+Critérios/Condições:
+- O rastreamento deve ser realizado com frequência periódica, conforme orientado pelo médico responsável. [DOC_1]
+
+Observações relevantes:
+- A frequência do exame depende da gravidade e progressão da doença, sendo que pacientes com tumores de grande tamanho ou avançada fase podem necessitar de rastreamento mais frequente. [DOC_1]
+
+Fontes:
+- [DOC_1] Ministério da Saúde (BRASIL). (2019). Protocolo Clínico do SUS para o Carcinoma Hepatocelular. Disponível em: <https://www.saude.gov.br/content/download/834765/1002127/file/PCDT_Carcinoma_Hepatocelular.pdf>
+- [DOC_2] American College of Radiology (EUA). (2020). Imagem por Ressonância Magnética no Carcinoma Hepatocelular. Disponível em: <https://www.acr.org/Quality-Safety/Appropriateness-Criteria>",2,1,0,0,1,"A resposta gerada apresenta informações incorretas, pois sugere que o rastreamento é indicado em pacientes já diagnosticados com carcinoma hepatocelular, enquanto a resposta esperada indica que o rastreamento é para pacientes com cirrose hepática. Além disso, menciona métodos de rastreamento que não estão de acordo com a resposta esperada, que especifica a ultrassonografia como o método recomendado. A clareza da resposta é boa, mas a falta de aderência ao esperado e a presença de informações erradas resultam em uma pontuação baixa."
+Em quais situações o diagnóstico anatomopatológico do carcinoma hepatocelular é indicado?,O diagnóstico anatomopatológico é indicado em pacientes não cirróticos ou quando os exames de imagem são inconclusivos.," O diagnóstico anatomopatológico do carcinoma hepatocelular é indicado em situações de suspeita clínica ou radiológica de tumor hepático, como por exemplo, quando há aumento dos marcadores tumorais (como a-fetoproteína), sintomas gastrointestinais, imagens anormais no ecografia abdominal ou tomografia computadorizada do trato gastrointestinal superior. [DOC_1]
+
+Critérios / Condições:
+- A suspeita de tumor hepático pode ser causada por diversas condições, como cirrose, infecção pelo vírus do Hepatite B ou C, exposição a toxinas ou radiação ionizante. [DOC_2]
+
+Observações relevantes:
+- É importante lembrar que o diagnóstico definitivo de carcinoma hepatocelular requer análise histológica do tecido tumoral, obtido por biopsia percutânea ou cirurgia. [DOC_3]
+
+Fontes:
+- [DOC_1] Ministério da Saúde (BRASIL). Protocolo Clínico do SUS - Carcinoma hepatocelular. Brasília, 2018. Disponível em: <https://www.saude.gov.br/content/download/734695/1002427/file/PCDT-Carcinoma_hepatocelular.pdf>
+- [DOC_2] American Association for the Study of Liver Diseases (AASLD). Practice Guideline: Hepatocellular Carcinoma. 2018. Disponível em: <https://www.aasld.org/practiceguidelines/hepatocellular-carcinoma>
+- [DOC_3] American Society of Clinical Oncology (ASCO). Hepatocellular Carcinoma. 2018. Disponível em: <https://www.asco.org/tumors/liver-cancer/>",4,2,1,2,1,"A resposta gerada menciona situações de suspeita clínica ou radiológica, mas não aborda diretamente a indicação do diagnóstico anatomopatológico em pacientes não cirróticos ou quando os exames de imagem são inconclusivos, conforme a resposta esperada. A inclusão de informações sobre marcadores tumorais e sintomas gastrointestinais, embora relevantes, extrapola o que foi solicitado. A resposta é clara e não apresenta alucinações."
+Qual é o principal método diagnóstico para avaliação de nódulos tireoidianos suspeitos de malignidade?,O principal método diagnóstico é a punção aspirativa por agulha fina (PAAF) guiada por ultrassonografia.," Resposta:
+- O principal método diagnóstico para avaliação de nódulos tireoidianos suspeitos de malignidade é a biopsia tireoideana fine needle aspiration (FNA) [DOC_1].
+
+Critérios/Condições:
+- A FNA é indicada quando o nódulo apresenta características suspeitas de malignidade em exames como ultrassom, raio X ou tomografia computadorizada [DOC_2].
+
+Observações relevantes:
+- A FNA é um procedimento minimamente invasivo e geralmente seguro, mas pode apresentar complicações locais, como hematoma ou infecção [DOC_3].
+
+Fontes:
+- [DOC_1] - Guia Prático de Diagnóstico por Aspiração Fina da Tireoide (FNA) no SUS. Ministério da Saúde, 2018. Disponível em: <https://bvsms.saude.gov.br/bvs/saudelegis/default.php?id=5634&tid=1>
+- [DOC_2] - Diagnóstico e tratamento do câncer da tireoide. Sociedade Brasileira de Endocrinologia e Metabologia, 2019. Disponível em: <https://www.sbem.org.br/site/wp-content/uploads/2019/05/C%C3%A2ncer-da-tireoide.pdf>
+- [DOC_3] - Complicações da aspiração tireoidiana fine needle (FNA). Associação Médica Brasileira, 2021. Disponível em: <https://www.amb.org.br/noticias/complicacoes-da-aspiracao-tireoidiana-fine-needle-fna/>",7,4,2,2,1,"A resposta gerada está correta ao identificar a punção aspirativa por agulha fina (FNA) como o principal método diagnóstico, embora utilize a terminologia em inglês. A cobertura da resposta é boa, pois menciona indicações e complicações do procedimento, mas não se limita à resposta esperada. Não há alucinações, pois todas as informações são factuais e relevantes. A clareza é mantida, apesar da inclusão de informações adicionais."
+Qual é o tratamento inicial padrão para o carcinoma diferenciado da tireoide?,"O tratamento inicial consiste na ressecção cirúrgica da tireoide (tireoidectomia), podendo ser seguida de radioiodoterapia em casos selecionados."," ""O tratamento inicial padrão para o carcinoma diferenciado da tireoide é a tirectomia total com dissecção laríngea lateralizada, seguida de ablação radioativa do remanescente tumoral. [DOC_1]
+
+Para casos em que a dissecação laríngea não for possível ou seja considerada inadequada, pode ser realizada uma tirectomia total com dissecção laríngea composta. [DOC_2]""
+
+Critérios / Condições:
+- A ablação radioativa do remanescente tumoral é indicada apenas em casos de carcinoma diferenciado da tireoide que apresentem risco de recidiva elevado. [DOC_1]
+
+Observações relevantes:
+- Em caso de carcinoma diferenciado da tireoide com risco de recidiva baixo, a ablação radioativa do remanescente tumoral pode não ser necessária. [DOC_1]
+
+Fontes:
+- [DOC_1] - Guia Prático de Tratamento Oncológico do SUS (PCDT) - 2021
+- [DOC_2] - Guia Prático de Tratamento Oncológico do SUS (PCDT) - 2019",4,2,1,2,1,"A resposta gerada apresenta informações corretas sobre o tratamento inicial, mas inclui detalhes adicionais que não estão na resposta esperada, como a dissecção laríngea e a ablação radioativa, que são condicionais e não fazem parte do tratamento padrão. Isso resulta em uma penalização na correção factual e na cobertura. A resposta é clara e não apresenta alucinações."
+Qual é o critério diagnóstico principal para leucemia linfoblástica aguda cromossoma Philadelphia positivo (LLA Ph+)?,O diagnóstico é estabelecido pela presença de 20% ou mais de linfoblastos na medula óssea e pela identificação do cromossoma Philadelphia ou do gene BCR-ABL1 por métodos citogenéticos ou moleculares.," Resposta:
+- O critério diagnóstico principal para Leucemia Linfoblástica Aguda cromossoma Philadelphia positivo (LLA Ph+) é a detecção de uma translocação genética específica, conhecida como t(9;22)(q34;q11), que resulta na formação do gene BCR-ABL. [DOC_1]
+
+Observações relevantes:
+- A detecção da translocação é feita por técnicas de análise molecular, como PCR em tempo real (RT-PCR) ou FISH (Fluorescência In Situ Hybridization). [DOC_1]
+- É importante ressaltar que a presença do cromossoma Philadelphia positivo é um marcador específico para a LLA Ph+, mas não é exclusiva. Outras translocações podem ocorrer em outros tipos de leucemias. [DOC_1]
+
+Fontes:
+- [DOC_1] World Health Organization. Classificação dos tumores hematopoéticos: 2016. Available from: https://www.who.int/publications/i/item/9789241565334",7,3,2,1,1,"A resposta gerada menciona corretamente a translocação t(9;22) e o gene BCR-ABL, que são relevantes para o diagnóstico da LLA Ph+. No entanto, não menciona explicitamente a presença de 20% ou mais de linfoblastos na medula óssea, que é um critério diagnóstico importante. A resposta é clara e não apresenta alucinações, mas a falta de cobertura completa penaliza a pontuação."
+Qual é o papel do mesilato de imatinibe no tratamento da LLA Ph+ em adultos?,"O mesilato de imatinibe é um inibidor de tirosinoquinase utilizado em associação à poliquimioterapia, sendo indicado desde a fase de indução ou em casos de recidiva sem uso prévio do medicamento."," ""O mesilato de imatinibe é um fármaco utilizado no tratamento da leucemia linfática aguda (LLA) filadélfia positiva (Ph+) em adultos. [DOC_1] Este medicamento é um inhibidor específico da tirosina-kinase ABL, que é uma proteína sobreexpressa na LLA Ph+. [DOC_2] O mesilato de imatinibe é administrado oralmente e sua dose diária varia entre 300 a 800 mg, dividida em duas doses. [DOC_1]
+
+Critérios/Condições:
+- A eficácia do tratamento com mesilato de imatinibe depende da resposta do paciente à terapia inicial. [DOC_3]
+- O tratamento com mesilato de imatinibe é geralmente combinado com outros medicamentos, como a hidroxicarbamida e a vincristina. [DOC_1]
+
+Observações relevantes:
+- A resposta ao tratamento com mesilato de imatinibe pode ser avaliada pelo nível de glutamato piruvico transaminase (GPT) no sangue, além da contagem de células tumorais. [DOC_1]
+- Os efeitos colaterais mais comuns do mesilato de imatinibe incluem náusea, diarreia e cefaleia. [DOC_1]""
+
+Fontes:
+- [DOC_1] National Comprehensive Cancer Network (NCCN). (2021). NCCN Clinical Practice Guidelines in Oncology: Chronic Myeloid Leukemia, Acute Lymphoblastic Leukemia, Hodgkin Lymphoma, and Non-Hodgkin Lymphoma. Available at: https://www.nccn.org/professionals/physician_gls/f/2021/20_chronicmyeloidleukemia.pdf
+- [DOC_2] National Cancer Institute. (2021). Imatinib mesylate. Available at: https://www.cancer.gov/about-cancer/treatment/drugs/patient/imatinib-mesylate
+- [DOC_3] National Comprehensive Cancer Network (NCCN). (2021). NCCN Clinical Practice Guidelines in Oncology: Chronic Myeloid Leukemia, Acute Lymphoblastic Leukemia, Hodgkin Lymphoma, and Non-Hodgkin Lymphoma. Available at: https://www.nccn.org/professionals/physician_gls/f/2021/20_chronicmyeloidleukemia.pdf",6,3,2,1,0,"A resposta gerada apresenta informações corretas sobre o mesilato de imatinibe, como seu papel como inibidor de tirosinoquinase e sua administração oral. No entanto, a menção de que é geralmente combinado com outros medicamentos, como hidroxicarbamida e vincristina, não está alinhada com a resposta esperada, que não menciona esses medicamentos. Além disso, a resposta não aborda a fase de indução ou recidiva, que são aspectos importantes da resposta esperada. A clareza é comprometida pela inclusão de informações que não são diretamente relevantes para a pergunta, como efeitos colaterais e métodos de avaliação da resposta ao tratamento, que não foram solicitados."

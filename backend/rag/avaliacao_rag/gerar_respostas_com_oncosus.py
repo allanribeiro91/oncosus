@@ -7,13 +7,14 @@ from pathlib import Path
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 
 from rag_pipeline import RAGPipeline
+from rag_pipeline_comFt import RAGPipelineComFt
 from perguntas_respostas import EVAL_DATA
 
 # ----------------------------------
 # CONFIG
 # ----------------------------------
 
-PROJECT_ROOT = Path(__file__).resolve().parent
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 VECTOR_DB_PATH = PROJECT_ROOT / "data/vectorstore"
 OUTPUT_DIR = PROJECT_ROOT / "data/rag_test"
 
@@ -29,12 +30,16 @@ def gerar_respostas_com_oncosus():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_file = OUTPUT_DIR / f"rag_{timestamp}.csv"
+    output_file = OUTPUT_DIR / f"rag_com_ft_{timestamp}.csv"
 
     rag = RAGPipeline(
         persist_directory=str(VECTOR_DB_PATH),
         llm_model="mistral"
     )
+
+    # rag = RAGPipelineComFt(
+    #     persist_directory=str(VECTOR_DB_PATH)
+    # )
 
     results = []
 
