@@ -2,7 +2,7 @@
 from pathlib import Path
 from rag_pipeline import RAGPipeline
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+PROJECT_ROOT   = Path(__file__).resolve().parent.parent.parent
 VECTOR_DB_PATH = PROJECT_ROOT / "data/vectorstore"
 
 if __name__ == "__main__":

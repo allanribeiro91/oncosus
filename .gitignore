@@ -1,1 +1,10 @@
 *.env
+*.safetensors
+*.bin
+*.pt
+data/vectorstore/
+__pycache__/
+*.pyc
+backend/data/
+data/raw_documents/
+finetuning/output/checkpoints*/
