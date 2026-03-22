@@ -1,2 +1,6 @@
-﻿FROM llama3.2:1b
+# Recrie o modelo após mudar: ollama create oncosus-llm -f Modelfile
+# (ou rode create-oncosus-ollama.ps1 na raiz deste repositório)
+FROM llama3.2:1b
 PARAMETER num_gpu 0
+# Contexto menor = menos RAM e prefill mais rápido no Windows (alinha ao .env ONCOSUS_OLLAMA_NUM_CTX=512)
+PARAMETER num_ctx 512

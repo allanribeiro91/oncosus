@@ -51,7 +51,8 @@ _DEFAULT_OLLAMA_MODEL = "llama3"
 
 
 def _ollama_client_timeout() -> float | None:
-    raw = (os.environ.get("ONCOSUS_OLLAMA_TIMEOUT_SEC") or "300").strip().lower()
+    # CPU fraca + 1ª carga do modelo no Ollama pode passar de 5 min; front deve ser > este valor.
+    raw = (os.environ.get("ONCOSUS_OLLAMA_TIMEOUT_SEC") or "660").strip().lower()
     if raw in ("", "0", "none", "inf", "false"):
         return None
     return float(raw)
@@ -228,6 +229,9 @@ class RAGPipeline:
         # num_batch menor reduz "unable to allocate CPU buffer" no Windows
         nb = os.environ.get("ONCOSUS_OLLAMA_NUM_BATCH")
         opts["num_batch"] = int(nb) if nb else 128
+        # Sem limite, geração em CPU pode passar de 10 min e estourar o timeout HTTP do front.
+        np = os.environ.get("ONCOSUS_OLLAMA_NUM_PREDICT")
+        opts["num_predict"] = int(np) if np else 512
         return opts
 
     def generate_answer(self, prompt: str):
@@ -245,13 +249,19 @@ class RAGPipeline:
         except Exception as e:
             msg = str(e).lower()
             if self._ollama_timeout_sec is not None and (
-                "timeout" in msg or "timed out" in msg or "read timeout" in msg
+                "timeout" in msg
+                or "timed out" in msg
+                or "read timeout" in msg
+                or "read timed out" in msg
+                or "connecttimeout" in msg
+                or "connect timeout" in msg
             ):
                 raise RuntimeError(
                     f"Ollama não respondeu em {self._ollama_timeout_sec:.0f}s "
-                    f"(modelo `{self.llm_model}`). CPU/RAM ocupados ou modelo grande. "
-                    "Garanta o app Ollama aberto; confira ONCOSUS_OLLAMA_MODEL ou "
-                    "aumente ONCOSUS_OLLAMA_TIMEOUT_SEC."
+                    f"(modelo `{self.llm_model}`). Em CPU a 1ª resposta pode ser longa: "
+                    f"deixe o app Ollama aberto e rode uma vez `ollama run {self.llm_model} oi` no terminal. "
+                    "Aumente ONCOSUS_OLLAMA_TIMEOUT_SEC ou reduza ONCOSUS_OLLAMA_NUM_CTX, ONCOSUS_TOP_K, "
+                    "ONCOSUS_FINAL_K; opcional ONCOSUS_OLLAMA_NUM_PREDICT menor para respostas mais curtas."
                 ) from e
             raise
 

@@ -13,6 +13,16 @@
       <p class="subtitle">Assistente clínico — protocolos e diretrizes oficiais</p>
     </header>
 
+    <div
+      *ngIf="healthMessage"
+      class="api-status"
+      [class.api-status--warn]="healthSeverity === 'warn'"
+      [class.api-status--error]="healthSeverity === 'error'"
+      role="status"
+    >
+      {{ healthMessage }}
+    </div>
+
     <div class="messages">
       <div
         *ngFor="let msg of messages; let i = index"

@@ -1,8 +1,8 @@
 /**
- * Em `npm start`, o proxy (proxy.conf.json) encaminha /api → http://127.0.0.1:8000
- * e evita CORS (mesma origem: 127.0.0.1:4200).
+ * URL direta evita falhas do proxy do `ng serve` com alguns stacks (ex.: HttpClient + fetch).
+ * CORS em app.py já permite 127.0.0.1:4200/4201 e regex de portas locais.
  */
 export const environment = {
   production: false,
-  apiUrl: '/api',
+  apiUrl: 'http://127.0.0.1:8000/api',
 };
